@@ -1,0 +1,1858 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>ONLINE WORK — AI Creative Studio</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://api.fontshare.com/v2/css?f[]=clash-display@400,500,600,700&display=swap" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet" />
+  <style>
+    *, *::before, *::after { margin:0; padding:0; box-sizing:border-box; }
+
+    :root {
+      --cyan:   #00d4ff;
+      --blue:   #0055ff;
+      --mid:    #0099ff;
+      --purple: #7b00ff;
+      --text-dim: rgba(255,255,255,0.55);
+      --glass:  rgba(255,255,255,0.04);
+      --gborder: rgba(255,255,255,0.08);
+    }
+
+    html { scroll-behavior:smooth; }
+
+    body {
+      background:#08090f;
+      color:#fff;
+      font-family:'Inter', sans-serif;
+      overflow-x:hidden;
+    }
+
+    /* ─── CURSOR GLOW ─── */
+    #cg {
+      pointer-events:none;
+      position:fixed;
+      width:500px; height:500px;
+      border-radius:50%;
+      background:radial-gradient(circle, rgba(0,160,255,0.09), transparent 70%);
+      transform:translate(-50%,-50%);
+      transition:left .1s, top .1s;
+      z-index:9999;
+      mix-blend-mode:screen;
+    }
+
+    /* ─── NAV ─── */
+    nav {
+      position:fixed;
+      top:0; left:0; right:0;
+      z-index:200;
+      display:flex;
+      align-items:center;
+      justify-content:space-between;
+      padding:16px 5%;
+      background:rgba(8,9,15,0.75);
+      backdrop-filter:blur(24px);
+      border-bottom:1px solid rgba(0,180,255,0.07);
+    }
+
+    .nav-brand { text-decoration:none; }
+
+    .nav-title {
+      font-family:'Clash Display', sans-serif;
+      font-size:17px;
+      font-weight:700;
+      letter-spacing:1px;
+      background:linear-gradient(135deg,var(--cyan),var(--blue));
+      -webkit-background-clip:text;
+      -webkit-text-fill-color:transparent;
+      background-clip:text;
+      line-height:1.2;
+    }
+
+    .nav-sub {
+      font-size:9px;
+      letter-spacing:3px;
+      text-transform:uppercase;
+      color:rgba(0,180,255,0.5);
+      display:block;
+      margin-top:2px;
+    }
+
+    .nav-links {
+      display:flex;
+      gap:30px;
+      list-style:none;
+    }
+
+    .nav-links a {
+      color:var(--text-dim);
+      text-decoration:none;
+      font-size:12px;
+      font-weight:500;
+      letter-spacing:1px;
+      text-transform:uppercase;
+      transition:color .3s;
+    }
+
+    .nav-links a:hover,
+    .nav-links a.active { color:var(--cyan); }
+
+    .nav-links a.active {
+      position:relative;
+    }
+
+    .nav-links a.active::after {
+      content:'';
+      position:absolute;
+      bottom:-4px; left:0; right:0;
+      height:2px;
+      background:var(--cyan);
+      border-radius:2px;
+      box-shadow:0 0 8px var(--cyan);
+    }
+
+    .btn-nav {
+      display:inline-flex;
+      align-items:center;
+      gap:8px;
+      padding:10px 22px;
+      border-radius:999px;
+      text-decoration:none;
+      color:#fff;
+      font-family:'Clash Display', sans-serif;
+      font-size:13px;
+      font-weight:600;
+      letter-spacing:.5px;
+      background:transparent;
+      border:1px solid rgba(0,180,255,0.4);
+      transition:all .35s;
+    }
+
+    .btn-nav:hover {
+      background:rgba(0,160,255,0.12);
+      border-color:var(--cyan);
+      box-shadow:0 0 20px rgba(0,160,255,0.2);
+    }
+
+    @media(max-width:900px) { .nav-links { display:none; } }
+
+    /* ─── HERO ─── */
+    #hero {
+      position:relative;
+      min-height:100vh;
+      display:flex;
+      align-items:center;
+      padding:0 5%;
+      overflow:hidden;
+    }
+
+    /* animated neon blobs */
+    .blob {
+      position:absolute;
+      border-radius:50%;
+      filter:blur(130px);
+      will-change:transform;
+      pointer-events:none;
+    }
+
+    .b1 {
+      width:800px; height:800px;
+      background:radial-gradient(circle, rgba(0,80,200,0.35), transparent 70%);
+      top:-200px; left:-200px;
+      animation:bf1 18s ease-in-out infinite alternate;
+    }
+
+    .b2 {
+      width:600px; height:600px;
+      background:radial-gradient(circle, rgba(0,200,255,0.2), transparent 70%);
+      bottom:-100px; right:-100px;
+      animation:bf2 22s ease-in-out infinite alternate;
+    }
+
+    .b3 {
+      width:500px; height:500px;
+      background:radial-gradient(circle, rgba(100,0,255,0.18), transparent 70%);
+      top:40%; left:40%;
+      animation:bf3 26s ease-in-out infinite alternate;
+    }
+
+    .b4 {
+      width:400px; height:400px;
+      background:radial-gradient(circle, rgba(0,180,255,0.15), transparent 70%);
+      bottom:20%; left:20%;
+      animation:bf4 20s ease-in-out infinite alternate;
+    }
+
+    @keyframes bf1 { from{transform:translate(0,0)} to{transform:translate(300px,200px)} }
+    @keyframes bf2 { from{transform:translate(0,0)} to{transform:translate(-250px,-150px)} }
+    @keyframes bf3 { from{transform:translate(0,0)} to{transform:translate(150px,-200px)} }
+    @keyframes bf4 { from{transform:translate(0,0)} to{transform:translate(-100px,150px)} }
+
+    /* neon arc overlay */
+    .arc {
+      position:absolute;
+      inset:0;
+      pointer-events:none;
+      overflow:hidden;
+    }
+
+    .arc svg {
+      position:absolute;
+      width:100%; height:100%;
+    }
+
+    .hero-content {
+      position:relative;
+      z-index:2;
+      width:55%;
+      padding-top:80px;
+    }
+
+    .hero-badge {
+      display:inline-flex;
+      align-items:center;
+      gap:8px;
+      padding:7px 16px;
+      border-radius:999px;
+      background:rgba(0,160,255,0.08);
+      border:1px solid rgba(0,180,255,0.2);
+      font-size:10px;
+      letter-spacing:3px;
+      text-transform:uppercase;
+      color:var(--cyan);
+      margin-bottom:28px;
+    }
+
+    .hero-badge::before {
+      content:'';
+      width:6px; height:6px;
+      border-radius:50%;
+      background:var(--cyan);
+      box-shadow:0 0 8px var(--cyan);
+      flex-shrink:0;
+    }
+
+    .hero-title {
+      font-family:'Clash Display', sans-serif;
+      font-size:clamp(44px,6vw,80px);
+      font-weight:800;
+      line-height:1.0;
+      letter-spacing:-2px;
+      margin-bottom:24px;
+    }
+
+    .hero-title .accent {
+      background:linear-gradient(135deg, var(--cyan) 0%, var(--blue) 100%);
+      -webkit-background-clip:text;
+      -webkit-text-fill-color:transparent;
+      background-clip:text;
+    }
+
+    .hero-desc {
+      font-size:15px;
+      color:var(--text-dim);
+      line-height:1.75;
+      max-width:440px;
+      margin-bottom:40px;
+    }
+
+    .hero-cta {
+      display:inline-flex;
+      align-items:center;
+      gap:10px;
+      padding:16px 36px;
+      border-radius:999px;
+      text-decoration:none;
+      color:#fff;
+      font-family:'Clash Display', sans-serif;
+      font-size:15px;
+      font-weight:600;
+      background:linear-gradient(135deg, rgba(0,160,255,0.5), rgba(0,60,210,0.4));
+      border:1px solid rgba(0,200,255,0.4);
+      transition:all .4s cubic-bezier(.16,1,.3,1);
+      box-shadow:0 0 30px rgba(0,160,255,0.22);
+    }
+
+    .hero-cta:hover {
+      transform:translateY(-4px);
+      box-shadow:0 0 60px rgba(0,180,255,0.45), 0 20px 40px rgba(0,0,0,0.4);
+    }
+
+    .hero-stats {
+      position:relative;
+      z-index:2;
+      margin-left:auto;
+      display:grid;
+      grid-template-columns:1fr 1fr;
+      gap:16px;
+      width:38%;
+      padding-top:80px;
+    }
+
+    .stat-card {
+      padding:28px 24px;
+      background:rgba(255,255,255,0.04);
+      border:1px solid rgba(0,180,255,0.1);
+      border-radius:20px;
+      backdrop-filter:blur(16px);
+      text-align:center;
+      transition:border-color .4s;
+    }
+
+    .stat-card:hover {
+      border-color:rgba(0,200,255,0.25);
+    }
+
+    .stat-icon {
+      font-size:22px;
+      margin-bottom:10px;
+      color:var(--cyan);
+      opacity:.8;
+    }
+
+    .stat-num {
+      font-family:'Clash Display', sans-serif;
+      font-size:30px;
+      font-weight:700;
+      background:linear-gradient(135deg, #fff, var(--cyan));
+      -webkit-background-clip:text;
+      -webkit-text-fill-color:transparent;
+      background-clip:text;
+      line-height:1;
+      margin-bottom:6px;
+    }
+
+    .stat-label {
+      font-size:12px;
+      color:var(--text-dim);
+      letter-spacing:.5px;
+    }
+
+    @media(max-width:900px) {
+      #hero { flex-direction:column; padding-top:100px; padding-bottom:60px; }
+      .hero-content { width:100%; }
+      .hero-stats { width:100%; margin-left:0; grid-template-columns:repeat(4,1fr); }
+      .stat-card { padding:20px 12px; }
+      .stat-num { font-size:22px; }
+    }
+
+    @media(max-width:600px) {
+      .hero-stats { grid-template-columns:repeat(2,1fr); }
+    }
+
+    /* ─── SECTION SHARED ─── */
+    .section { padding:100px 5%; }
+
+    .sec-label {
+      display:inline-flex;
+      align-items:center;
+      gap:8px;
+      font-size:10px;
+      letter-spacing:4px;
+      text-transform:uppercase;
+      color:var(--cyan);
+      opacity:.8;
+      margin-bottom:14px;
+    }
+
+    .sec-label::before {
+      content:'';
+      width:6px; height:6px;
+      border-radius:50%;
+      background:var(--cyan);
+      box-shadow:0 0 6px var(--cyan);
+    }
+
+    .sec-title {
+      font-family:'Clash Display', sans-serif;
+      font-size:clamp(28px,4vw,44px);
+      font-weight:800;
+      line-height:1.1;
+    }
+
+    .sec-sub {
+      font-size:14px;
+      color:var(--text-dim);
+      margin-top:8px;
+    }
+
+    .reveal {
+      opacity:0;
+      transform:translateY(24px);
+      transition:opacity .65s cubic-bezier(.16,1,.3,1), transform .65s cubic-bezier(.16,1,.3,1);
+    }
+
+    .reveal.visible { opacity:1; transform:translateY(0); }
+
+    /* ─── WORK ─── */
+    #work { background:#08090f; }
+
+    .work-head {
+      display:flex;
+      align-items:flex-end;
+      justify-content:space-between;
+      margin-bottom:40px;
+      flex-wrap:wrap;
+      gap:20px;
+    }
+
+    .btn-outline {
+      display:inline-flex;
+      align-items:center;
+      gap:8px;
+      padding:10px 22px;
+      border-radius:999px;
+      text-decoration:none;
+      color:#fff;
+      font-size:13px;
+      font-weight:600;
+      border:1px solid rgba(0,180,255,0.25);
+      transition:all .3s;
+      font-family:'Clash Display', sans-serif;
+    }
+
+    .btn-outline:hover {
+      background:rgba(0,160,255,0.08);
+      border-color:var(--cyan);
+      color:var(--cyan);
+    }
+
+    .scroll-row-wrap {
+      position:relative;
+    }
+
+    .scroll-row {
+      display:flex;
+      gap:20px;
+      overflow-x:auto;
+      scroll-snap-type:x mandatory;
+      scrollbar-width:none;
+      padding-bottom:4px;
+    }
+
+    .scroll-row::-webkit-scrollbar { display:none; }
+
+    .scroll-btn {
+      position:absolute;
+      top:50%;
+      transform:translateY(-50%);
+      z-index:10;
+      width:44px; height:44px;
+      border-radius:50%;
+      background:rgba(0,0,0,0.7);
+      border:1px solid rgba(0,180,255,0.25);
+      color:#fff;
+      font-size:18px;
+      cursor:pointer;
+      display:flex;
+      align-items:center;
+      justify-content:center;
+      transition:all .3s;
+      backdrop-filter:blur(12px);
+    }
+
+    .scroll-btn:hover {
+      background:rgba(0,160,255,0.15);
+      border-color:var(--cyan);
+    }
+
+    .scroll-btn.left { left:-22px; }
+    .scroll-btn.right { right:-22px; }
+
+    .work-card {
+      flex-shrink:0;
+      width:220px;
+      border-radius:20px;
+      background:rgba(255,255,255,0.04);
+      border:1px solid rgba(0,180,255,0.08);
+      overflow:hidden;
+      scroll-snap-align:start;
+      cursor:pointer;
+      transition:all .45s cubic-bezier(.16,1,.3,1);
+      position:relative;
+    }
+
+    .work-card:hover {
+      transform:translateY(-8px);
+      border-color:rgba(0,200,255,0.25);
+      box-shadow:0 0 40px rgba(0,160,255,0.2), 0 20px 40px rgba(0,0,0,0.4);
+    }
+
+    .work-card-img {
+      width:100%;
+      height:220px;
+      object-fit:cover;
+      display:block;
+      transition:transform .5s cubic-bezier(.16,1,.3,1);
+    }
+
+    .work-card:hover .work-card-img { transform:scale(1.06); }
+
+    .work-card-body {
+      padding:16px 18px 20px;
+    }
+
+    .work-card-tag {
+      font-size:9px;
+      letter-spacing:2px;
+      text-transform:uppercase;
+      color:var(--cyan);
+      opacity:.75;
+      margin-bottom:6px;
+    }
+
+    .work-card-title {
+      font-family:'Clash Display', sans-serif;
+      font-size:15px;
+      font-weight:600;
+      line-height:1.3;
+      margin-bottom:10px;
+    }
+
+    .work-card-count {
+      display:flex;
+      align-items:center;
+      gap:6px;
+      font-size:11px;
+      color:var(--text-dim);
+    }
+
+    .work-card-count::after {
+      content:'→';
+      color:var(--cyan);
+      opacity:.7;
+    }
+
+    /* ─── PACKAGES ─── */
+    #packages {
+      background:linear-gradient(180deg,#08090f 0%,#0a0c14 100%);
+    }
+
+    .pkg-head {
+      display:flex;
+      align-items:flex-start;
+      justify-content:space-between;
+      flex-wrap:wrap;
+      gap:20px;
+      margin-bottom:40px;
+    }
+
+    .pkg-tabs {
+      display:flex;
+      gap:8px;
+      background:rgba(255,255,255,0.04);
+      border:1px solid rgba(0,180,255,0.1);
+      border-radius:999px;
+      padding:5px;
+      flex-shrink:0;
+      align-self:center;
+    }
+
+    .pkg-tab {
+      padding:10px 22px;
+      border-radius:999px;
+      border:none;
+      background:transparent;
+      color:var(--text-dim);
+      font-family:'Clash Display', sans-serif;
+      font-size:13px;
+      font-weight:500;
+      cursor:pointer;
+      transition:all .3s;
+      white-space:nowrap;
+    }
+
+    .pkg-tab.active {
+      background:linear-gradient(135deg, rgba(0,160,255,0.5), rgba(0,60,210,0.45));
+      color:#fff;
+      box-shadow:0 0 16px rgba(0,160,255,0.25);
+    }
+
+    .pkg-grid {
+      display:grid;
+      grid-template-columns:repeat(5,1fr);
+      gap:16px;
+    }
+
+    .pkg-card {
+      padding:28px 22px;
+      background:rgba(255,255,255,0.03);
+      border:1px solid rgba(0,180,255,0.08);
+      border-radius:24px;
+      backdrop-filter:blur(12px);
+      transition:all .4s cubic-bezier(.16,1,.3,1);
+      position:relative;
+      overflow:hidden;
+    }
+
+    .pkg-card:hover {
+      transform:translateY(-8px);
+      border-color:rgba(0,200,255,0.25);
+      box-shadow:0 0 40px rgba(0,160,255,0.15), 0 20px 40px rgba(0,0,0,0.35);
+      background:rgba(0,140,255,0.05);
+    }
+
+    .pkg-icon {
+      width:44px; height:44px;
+      border-radius:12px;
+      background:linear-gradient(135deg, rgba(0,160,255,0.2), rgba(0,60,200,0.15));
+      border:1px solid rgba(0,180,255,0.2);
+      display:flex;
+      align-items:center;
+      justify-content:center;
+      font-size:20px;
+      margin-bottom:18px;
+    }
+
+    .pkg-num {
+      font-family:'Clash Display', sans-serif;
+      font-size:36px;
+      font-weight:700;
+      background:linear-gradient(135deg, #fff 0%, var(--cyan) 100%);
+      -webkit-background-clip:text;
+      -webkit-text-fill-color:transparent;
+      background-clip:text;
+      line-height:1;
+      margin-bottom:4px;
+    }
+
+    .pkg-per {
+      font-size:12px;
+      color:var(--text-dim);
+      margin-bottom:22px;
+    }
+
+    .pkg-features {
+      list-style:none;
+      display:flex;
+      flex-direction:column;
+      gap:10px;
+      margin-bottom:24px;
+    }
+
+    .pkg-features li {
+      font-size:12px;
+      color:var(--text-dim);
+      display:flex;
+      align-items:center;
+      gap:8px;
+    }
+
+    .pkg-features li::before {
+      content:'✓';
+      color:var(--cyan);
+      font-size:11px;
+      flex-shrink:0;
+    }
+
+    .pkg-btn {
+      display:flex;
+      align-items:center;
+      justify-content:space-between;
+      padding:12px 18px;
+      border-radius:12px;
+      text-decoration:none;
+      color:#fff;
+      font-family:'Clash Display', sans-serif;
+      font-size:13px;
+      font-weight:600;
+      background:rgba(0,160,255,0.08);
+      border:1px solid rgba(0,180,255,0.15);
+      transition:all .35s;
+    }
+
+    .pkg-btn:hover {
+      background:rgba(0,160,255,0.18);
+      border-color:rgba(0,200,255,0.35);
+      color:var(--cyan);
+    }
+
+    .pkg-btn span { font-size:16px; }
+
+    @media(max-width:1100px) { .pkg-grid { grid-template-columns:repeat(3,1fr); } }
+    @media(max-width:720px)  { .pkg-grid { grid-template-columns:repeat(2,1fr); } }
+    @media(max-width:480px)  { .pkg-grid { grid-template-columns:1fr; } }
+
+    /* ─── BUNDLES ─── */
+    #bundles { background:#08090f; }
+
+    .bundles-grid {
+      display:grid;
+      grid-template-columns:repeat(4,1fr);
+      gap:18px;
+      margin-top:40px;
+    }
+
+    .bundle-card {
+      padding:30px 24px;
+      background:rgba(255,255,255,0.03);
+      border:1px solid rgba(0,180,255,0.08);
+      border-radius:22px;
+      transition:all .4s cubic-bezier(.16,1,.3,1);
+      cursor:pointer;
+      display:flex;
+      flex-direction:column;
+      gap:12px;
+    }
+
+    .bundle-card:hover {
+      background:rgba(0,140,255,0.05);
+      border-color:rgba(0,200,255,0.22);
+      transform:translateY(-6px);
+      box-shadow:0 0 35px rgba(0,160,255,0.12);
+    }
+
+    .bundle-icon {
+      font-size:26px;
+    }
+
+    .bundle-name {
+      font-family:'Clash Display', sans-serif;
+      font-size:18px;
+      font-weight:700;
+    }
+
+    .bundle-sub {
+      font-size:12px;
+      color:var(--text-dim);
+      flex:1;
+    }
+
+    .bundle-arrow {
+      color:var(--cyan);
+      font-size:18px;
+      opacity:.7;
+      transition:transform .3s, opacity .3s;
+    }
+
+    .bundle-card:hover .bundle-arrow {
+      transform:translateX(4px);
+      opacity:1;
+    }
+
+    @media(max-width:900px)  { .bundles-grid { grid-template-columns:repeat(2,1fr); } }
+    @media(max-width:500px)  { .bundles-grid { grid-template-columns:1fr; } }
+
+    /* ─── SERVICES ─── */
+    #services {
+      background:linear-gradient(180deg,#08090f 0%,#0a0c14 100%);
+    }
+
+    .services-grid {
+      display:grid;
+      grid-template-columns:repeat(auto-fit, minmax(200px,1fr));
+      gap:16px;
+      margin-top:40px;
+    }
+
+    .svc-card {
+      padding:30px 24px;
+      background:rgba(255,255,255,0.03);
+      border:1px solid rgba(0,180,255,0.08);
+      border-radius:22px;
+      transition:all .4s cubic-bezier(.16,1,.3,1);
+    }
+
+    .svc-card:hover {
+      background:rgba(0,140,255,0.06);
+      border-color:rgba(0,200,255,0.22);
+      transform:translateY(-5px);
+      box-shadow:0 0 30px rgba(0,160,255,0.1);
+    }
+
+    .svc-icon { font-size:26px; margin-bottom:14px; display:block; }
+
+    .svc-name {
+      font-family:'Clash Display', sans-serif;
+      font-size:16px;
+      font-weight:600;
+      margin-bottom:8px;
+    }
+
+    .svc-desc { font-size:12px; color:var(--text-dim); line-height:1.65; }
+
+    .svc-highlight {
+      display:inline-flex;
+      align-items:center;
+      gap:10px;
+      margin-top:40px;
+      padding:14px 28px;
+      border-radius:999px;
+      background:rgba(0,160,255,0.08);
+      border:1px solid rgba(0,180,255,0.25);
+      font-family:'Clash Display', sans-serif;
+      font-size:14px;
+      font-weight:600;
+      box-shadow:0 0 24px rgba(0,160,255,0.12);
+    }
+
+    /* ─── TESTIMONIALS ─── */
+    #testimonials {
+      background:#08090f;
+      overflow:hidden;
+    }
+
+    .testi-wrap {
+      overflow:hidden;
+      position:relative;
+      margin-top:40px;
+    }
+
+    .testi-wrap::before,
+    .testi-wrap::after {
+      content:'';
+      position:absolute;
+      top:0; bottom:0;
+      width:100px;
+      z-index:2;
+      pointer-events:none;
+    }
+
+    .testi-wrap::before { left:0; background:linear-gradient(to right,#08090f,transparent); }
+    .testi-wrap::after  { right:0; background:linear-gradient(to left,#08090f,transparent); }
+
+    .testi-track {
+      display:flex;
+      gap:20px;
+      width:max-content;
+      animation:tScroll 34s linear infinite;
+    }
+
+    .testi-track:hover { animation-play-state:paused; }
+
+    @keyframes tScroll {
+      from { transform:translateX(0); }
+      to   { transform:translateX(-50%); }
+    }
+
+    .testi-card {
+      width:360px;
+      flex-shrink:0;
+      padding:32px 28px;
+      background:rgba(255,255,255,0.04);
+      border:1px solid rgba(0,180,255,0.08);
+      border-radius:22px;
+      backdrop-filter:blur(12px);
+      transition:border-color .4s;
+    }
+
+    .testi-card:hover { border-color:rgba(0,200,255,0.22); }
+
+    .testi-stars { color:var(--cyan); font-size:14px; letter-spacing:2px; margin-bottom:16px; }
+
+    .testi-text {
+      font-size:14px;
+      color:rgba(255,255,255,0.7);
+      line-height:1.75;
+      margin-bottom:22px;
+    }
+
+    .testi-author { display:flex; align-items:center; gap:12px; }
+
+    .testi-av {
+      width:40px; height:40px;
+      border-radius:50%;
+      background:linear-gradient(135deg,var(--cyan),var(--blue));
+      display:flex; align-items:center; justify-content:center;
+      font-family:'Clash Display', sans-serif;
+      font-weight:700; font-size:15px;
+      flex-shrink:0;
+    }
+
+    .testi-name { font-family:'Clash Display', sans-serif; font-size:14px; font-weight:600; margin-bottom:2px; }
+    .testi-role { font-size:11px; color:var(--text-dim); }
+
+    /* ─── CONTACT ─── */
+    #contact {
+      background:linear-gradient(180deg,#08090f 0%,#0a0c14 100%);
+      text-align:center;
+    }
+
+    .contact-inner { max-width:620px; margin:0 auto; }
+
+    .contact-sub {
+      font-size:15px;
+      color:var(--text-dim);
+      line-height:1.75;
+      margin:16px 0 50px;
+    }
+
+    .contact-cards {
+      display:flex;
+      justify-content:center;
+      gap:16px;
+      margin-bottom:48px;
+      flex-wrap:wrap;
+    }
+
+    .contact-card {
+      display:flex;
+      align-items:center;
+      gap:14px;
+      padding:18px 26px;
+      border-radius:18px;
+      text-decoration:none;
+      color:#fff;
+      background:rgba(255,255,255,0.04);
+      border:1px solid rgba(0,180,255,0.1);
+      transition:all .4s;
+    }
+
+    .contact-card:hover {
+      background:rgba(0,160,255,0.08);
+      border-color:rgba(0,200,255,0.28);
+      transform:translateY(-4px);
+      box-shadow:0 0 28px rgba(0,160,255,0.12);
+    }
+
+    .cc-icon { font-size:22px; }
+
+    .cc-label {
+      font-size:9px;
+      color:var(--text-dim);
+      letter-spacing:2px;
+      text-transform:uppercase;
+      margin-bottom:3px;
+    }
+
+    .cc-val {
+      font-family:'Clash Display', sans-serif;
+      font-weight:600;
+      font-size:14px;
+    }
+
+    .btn-start {
+      display:inline-flex;
+      align-items:center;
+      gap:10px;
+      padding:18px 48px;
+      border-radius:999px;
+      text-decoration:none;
+      color:#fff;
+      font-family:'Clash Display', sans-serif;
+      font-size:16px;
+      font-weight:700;
+      letter-spacing:.5px;
+      background:linear-gradient(135deg,rgba(0,180,255,0.5),rgba(0,60,210,0.45));
+      border:1px solid rgba(0,200,255,0.4);
+      transition:all .4s cubic-bezier(.16,1,.3,1);
+      box-shadow:0 0 40px rgba(0,160,255,0.22);
+    }
+
+    .btn-start:hover {
+      transform:translateY(-5px);
+      box-shadow:0 0 80px rgba(0,180,255,0.45), 0 25px 50px rgba(0,0,0,0.4);
+    }
+
+    /* ─── FOOTER ─── */
+    footer {
+      padding:36px 5%;
+      border-top:1px solid rgba(0,180,255,0.07);
+      display:flex;
+      justify-content:space-between;
+      align-items:center;
+      flex-wrap:wrap;
+      gap:16px;
+    }
+
+    .footer-brand { text-decoration:none; }
+
+    .footer-title {
+      font-family:'Clash Display', sans-serif;
+      font-size:15px;
+      font-weight:700;
+      letter-spacing:2px;
+      background:linear-gradient(135deg,var(--cyan),var(--blue));
+      -webkit-background-clip:text;
+      -webkit-text-fill-color:transparent;
+      background-clip:text;
+      line-height:1.2;
+    }
+
+    .footer-sub {
+      font-size:9px;
+      letter-spacing:3px;
+      text-transform:uppercase;
+      color:rgba(0,180,255,0.4);
+      display:block;
+      margin-top:2px;
+    }
+
+    .footer-copy { font-size:12px; color:rgba(255,255,255,0.22); }
+
+    /* ─── LIGHTBOX ─── */
+    .lb {
+      display:none;
+      position:fixed; inset:0;
+      z-index:1000;
+      background:rgba(0,0,0,0.93);
+      backdrop-filter:blur(20px);
+      align-items:center;
+      justify-content:center;
+    }
+
+    .lb.open { display:flex; }
+
+    .lb img {
+      max-width:90vw; max-height:85vh;
+      border-radius:18px;
+      box-shadow:0 0 60px rgba(0,160,255,0.18);
+      object-fit:contain;
+    }
+
+    .lb-close {
+      position:absolute;
+      top:22px; right:28px;
+      font-size:30px;
+      color:rgba(255,255,255,0.4);
+      cursor:pointer;
+      line-height:1;
+      transition:color .3s;
+    }
+
+    .lb-close:hover { color:var(--cyan); }
+
+    /* ─── WHATSAPP BUTTON ─── */
+    .wa-btn {
+      position: fixed;
+      bottom: 30px;
+      right: 30px;
+      z-index: 500;
+      width: 56px;
+      height: 56px;
+      border-radius: 50%;
+      background: #25D366;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      text-decoration: none;
+      box-shadow: 0 4px 20px rgba(37,211,102,0.45), 0 0 40px rgba(37,211,102,0.15);
+      transition: all 0.35s cubic-bezier(0.16,1,0.3,1);
+      animation: waPulse 2.5s ease-in-out infinite;
+    }
+
+    .wa-btn:hover {
+      transform: scale(1.12) translateY(-3px);
+      box-shadow: 0 6px 30px rgba(37,211,102,0.6), 0 0 60px rgba(37,211,102,0.2);
+    }
+
+    .wa-btn svg { width: 28px; height: 28px; fill: #fff; }
+
+    .wa-tooltip {
+      position: absolute;
+      right: 68px;
+      background: rgba(0,0,0,0.85);
+      backdrop-filter: blur(10px);
+      border: 1px solid rgba(255,255,255,0.1);
+      color: #fff;
+      font-family: 'Inter', sans-serif;
+      font-size: 13px;
+      font-weight: 500;
+      padding: 8px 14px;
+      border-radius: 10px;
+      white-space: nowrap;
+      opacity: 0;
+      pointer-events: none;
+      transition: opacity 0.3s;
+    }
+
+    .wa-btn:hover .wa-tooltip { opacity: 1; }
+
+    @keyframes waPulse {
+      0%, 100% { box-shadow: 0 4px 20px rgba(37,211,102,0.45), 0 0 0 0 rgba(37,211,102,0.3); }
+      50%       { box-shadow: 0 4px 20px rgba(37,211,102,0.45), 0 0 0 12px rgba(37,211,102,0); }
+    }
+
+    /* ─── REELS ─── */
+    #reels { background: linear-gradient(180deg, #08090f 0%, #0a0c14 100%); }
+
+    .reels-row {
+      display: flex;
+      gap: 24px;
+      overflow-x: auto;
+      scroll-snap-type: x mandatory;
+      scrollbar-width: none;
+      padding: 20px 2px 30px;
+      align-items: center;
+    }
+
+    .reels-row::-webkit-scrollbar { display: none; }
+
+    .phone {
+      flex-shrink: 0;
+      width: 200px;
+      height: 380px;
+      border-radius: 36px;
+      border: 1.5px solid rgba(0,180,255,0.15);
+      background: #000;
+      overflow: hidden;
+      position: relative;
+      scroll-snap-align: start;
+      cursor: pointer;
+      transition: all 0.5s cubic-bezier(0.16,1,0.3,1);
+      box-shadow: 0 0 30px rgba(0,0,0,0.6), inset 0 1px 0 rgba(255,255,255,0.06);
+    }
+
+    .phone::before {
+      content: '';
+      position: absolute;
+      top: 12px;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 60px;
+      height: 5px;
+      border-radius: 3px;
+      background: rgba(255,255,255,0.12);
+      z-index: 10;
+    }
+
+    .phone:hover {
+      transform: translateY(-16px) scale(1.04);
+      border-color: rgba(0,200,255,0.4);
+      box-shadow: 0 0 50px rgba(0,160,255,0.25), 0 30px 60px rgba(0,0,0,0.5);
+    }
+
+    .phone img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+      transition: transform 0.6s cubic-bezier(0.16,1,0.3,1);
+    }
+
+    .phone:hover img { transform: scale(1.06); }
+
+    .phone-label {
+      position: absolute;
+      bottom: 0; left: 0; right: 0;
+      padding: 40px 16px 18px;
+      background: linear-gradient(to top, rgba(0,0,0,0.85), transparent);
+      font-family: 'Clash Display', sans-serif;
+      font-size: 13px;
+      font-weight: 600;
+      line-height: 1.3;
+      z-index: 5;
+    }
+
+    .phone-tag {
+      font-family: 'Inter', sans-serif;
+      font-size: 9px;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      color: var(--cyan);
+      opacity: 0.8;
+      margin-bottom: 4px;
+      display: block;
+    }
+
+    /* stagger scale for cinematic row feel */
+    .phone:nth-child(even) { transform: translateY(20px); }
+    .phone:nth-child(even):hover { transform: translateY(4px) scale(1.04); }
+  </style>
+</head>
+<body>
+
+<div id="cg"></div>
+
+<!-- Lightbox -->
+<div class="lb" id="lb">
+  <span class="lb-close" id="lbClose">&times;</span>
+  <img src="" alt="" id="lbImg" />
+</div>
+
+<!-- ─── NAV ─── -->
+<nav>
+  <a href="#hero" class="nav-brand">
+    <span class="nav-title">ONLINE WORK</span>
+    <span class="nav-sub">AI Creative Studio</span>
+  </a>
+
+  <ul class="nav-links">
+    <li><a href="#hero" class="active">Home</a></li>
+    <li><a href="#work">Work</a></li>
+    <li><a href="#reels">Reels</a></li>
+    <li><a href="#packages">Packages</a></li>
+    <li><a href="#bundles">Bundles</a></li>
+    <li><a href="#testimonials">Testimonials</a></li>
+    <li><a href="#contact">Contact</a></li>
+  </ul>
+
+  <a href="mailto:workaniket07@gmail.com" class="btn-nav">
+    Start a Project
+    <svg width="14" height="14" viewBox="0 0 14 14" fill="none">
+      <path d="M2 7h10M8 3l4 4-4 4" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+    </svg>
+  </a>
+</nav>
+
+<!-- ─── HERO ─── -->
+<section id="hero">
+  <div class="blob b1"></div>
+  <div class="blob b2"></div>
+  <div class="blob b3"></div>
+  <div class="blob b4"></div>
+
+  <!-- SVG neon arcs -->
+  <div class="arc">
+    <svg viewBox="0 0 1440 800" preserveAspectRatio="xMidYMid slice" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <path d="M-100 600 Q400 100 900 400 Q1200 600 1600 200" stroke="url(#arc1)" stroke-width="1.5" opacity="0.4" filter="url(#arcBlur)"/>
+      <path d="M-200 700 Q500 200 1000 500 Q1300 650 1700 300" stroke="url(#arc2)" stroke-width="1" opacity="0.3" filter="url(#arcBlur)"/>
+      <defs>
+        <linearGradient id="arc1" x1="0" y1="0" x2="1" y2="0" gradientUnits="objectBoundingBox">
+          <stop offset="0%" stop-color="#ff00cc" stop-opacity="0.6"/>
+          <stop offset="40%" stop-color="#0099ff" stop-opacity="0.8"/>
+          <stop offset="100%" stop-color="#00d4ff" stop-opacity="0.4"/>
+        </linearGradient>
+        <linearGradient id="arc2" x1="0" y1="0" x2="1" y2="0" gradientUnits="objectBoundingBox">
+          <stop offset="0%" stop-color="#7b00ff" stop-opacity="0.5"/>
+          <stop offset="60%" stop-color="#00d4ff" stop-opacity="0.6"/>
+          <stop offset="100%" stop-color="#0055ff" stop-opacity="0.3"/>
+        </linearGradient>
+        <filter id="arcBlur" x="-20%" y="-100%" width="140%" height="300%">
+          <feGaussianBlur stdDeviation="4"/>
+        </filter>
+      </defs>
+    </svg>
+  </div>
+
+  <div class="hero-content reveal">
+    <span class="hero-badge">AI Powered Creative Studio</span>
+    <h1 class="hero-title">
+      VISUALS THAT<br>
+      SELL <span class="accent">BRANDS.</span>
+    </h1>
+    <p class="hero-desc">
+      We design cinematic AI ads, stunning posters, Instagram campaigns, motion reels and brand identities that drive real impact.
+    </p>
+    <a href="#work" class="hero-cta">
+      View Our Work
+      <svg width="16" height="16" viewBox="0 0 16 16" fill="none">
+        <path d="M3 8h10M9 4l4 4-4 4" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+      </svg>
+    </a>
+  </div>
+
+  <div class="hero-stats">
+    <div class="stat-card reveal" style="transition-delay:.1s">
+      <div class="stat-icon">☆</div>
+      <div class="stat-num">100+</div>
+      <div class="stat-label">Projects</div>
+    </div>
+    <div class="stat-card reveal" style="transition-delay:.15s">
+      <div class="stat-icon">☆</div>
+      <div class="stat-num">50+</div>
+      <div class="stat-label">Happy Clients</div>
+    </div>
+    <div class="stat-card reveal" style="transition-delay:.2s">
+      <div class="stat-icon">⚡</div>
+      <div class="stat-num">2+</div>
+      <div class="stat-label">Years Experience</div>
+    </div>
+    <div class="stat-card reveal" style="transition-delay:.25s">
+      <div class="stat-icon">🌐</div>
+      <div class="stat-num">Global</div>
+      <div class="stat-label">Work Delivered</div>
+    </div>
+  </div>
+</section>
+
+<!-- ─── WORK ─── -->
+<section id="work" class="section">
+  <div class="work-head">
+    <div class="reveal">
+      <p class="sec-label">Featured Work</p>
+      <h2 class="sec-title">Our Selected Projects</h2>
+    </div>
+    <a href="#contact" class="btn-outline reveal">View All Work →</a>
+  </div>
+
+  <div class="scroll-row-wrap reveal">
+    <button class="scroll-btn left" id="scrollLeft">‹</button>
+    <div class="scroll-row" id="workRow">
+
+      <div class="work-card" data-img="projects/cinematic-burger-advertisement/thumb.webp">
+        <img class="work-card-img" src="projects/cinematic-burger-advertisement/thumb.webp" alt="Burger Ads" loading="lazy" />
+        <div class="work-card-body">
+          <p class="work-card-tag">Food & Beverage</p>
+          <h3 class="work-card-title">Cinematic Burger Ads</h3>
+          <span class="work-card-count">5 Projects</span>
+        </div>
+      </div>
+
+      <div class="work-card" data-img="projects/cinematic-sports-shoe-advertisement-/thumb.webp">
+        <img class="work-card-img" src="projects/cinematic-sports-shoe-advertisement-/thumb.webp" alt="Sports Shoe" loading="lazy" />
+        <div class="work-card-body">
+          <p class="work-card-tag">Sportswear</p>
+          <h3 class="work-card-title">Sports Shoe Campaign</h3>
+          <span class="work-card-count">5 Projects</span>
+        </div>
+      </div>
+
+      <div class="work-card" data-img="projects/luxury-perfume-product-advertisement-design/thumb.webp">
+        <img class="work-card-img" src="projects/luxury-perfume-product-advertisement-design/thumb.webp" alt="Perfume Ads" loading="lazy" />
+        <div class="work-card-body">
+          <p class="work-card-tag">Luxury</p>
+          <h3 class="work-card-title">Luxury Perfume Ads</h3>
+          <span class="work-card-count">5 Projects</span>
+        </div>
+      </div>
+
+      <div class="work-card" data-img="projects/luxury-radiance-serum-skincare-ad/thumb.webp">
+        <img class="work-card-img" src="projects/luxury-radiance-serum-skincare-ad/thumb.webp" alt="Skincare" loading="lazy" />
+        <div class="work-card-body">
+          <p class="work-card-tag">Beauty</p>
+          <h3 class="work-card-title">Skincare Campaigns</h3>
+          <span class="work-card-count">5 Projects</span>
+        </div>
+      </div>
+
+      <div class="work-card" data-img="projects/tech-product-ads/tech-product-ads_01.webp">
+        <img class="work-card-img" src="projects/tech-product-ads/tech-product-ads_01.webp" alt="Tech Ads" loading="lazy" />
+        <div class="work-card-body">
+          <p class="work-card-tag">Technology</p>
+          <h3 class="work-card-title">Tech Product Ads</h3>
+          <span class="work-card-count">5 Projects</span>
+        </div>
+      </div>
+
+      <div class="work-card" data-img="projects/jewelry-campaign/jewelry-campaign_thumbanail.webp">
+        <img class="work-card-img" src="projects/jewelry-campaign/jewelry-campaign_thumbanail.webp" alt="Jewelry" loading="lazy" />
+        <div class="work-card-body">
+          <p class="work-card-tag">Jewelry</p>
+          <h3 class="work-card-title">Jewelry Campaign</h3>
+          <span class="work-card-count">5 Projects</span>
+        </div>
+      </div>
+
+      <div class="work-card" data-img="projects/clothing-shop-campaign/thumb.webp">
+        <img class="work-card-img" src="projects/clothing-shop-campaign/thumb.webp" alt="Clothing" loading="lazy" />
+        <div class="work-card-body">
+          <p class="work-card-tag">Fashion</p>
+          <h3 class="work-card-title">Clothing Shop Campaign</h3>
+          <span class="work-card-count">5 Projects</span>
+        </div>
+      </div>
+
+      <div class="work-card" data-img="projects/luxury-real-estate-advertisement-campaign/thumb.webp">
+        <img class="work-card-img" src="projects/luxury-real-estate-advertisement-campaign/thumb.webp" alt="Real Estate" loading="lazy" />
+        <div class="work-card-body">
+          <p class="work-card-tag">Real Estate</p>
+          <h3 class="work-card-title">Luxury Real Estate</h3>
+          <span class="work-card-count">7 Projects</span>
+        </div>
+      </div>
+
+      <div class="work-card" data-img="projects/luxury-ice-cream-and-cake-advertisement-campaign/thumb.webp">
+        <img class="work-card-img" src="projects/luxury-ice-cream-and-cake-advertisement-campaign/thumb.webp" alt="Dessert" loading="lazy" />
+        <div class="work-card-body">
+          <p class="work-card-tag">Food & Luxury</p>
+          <h3 class="work-card-title">Luxury Dessert Ad</h3>
+          <span class="work-card-count">5 Projects</span>
+        </div>
+      </div>
+
+    </div>
+    <button class="scroll-btn right" id="scrollRight">›</button>
+  </div>
+</section>
+
+<!-- ─── REELS ─── -->
+<section id="reels" class="section">
+  <div class="reveal">
+    <p class="sec-label">Motion Reels</p>
+    <h2 class="sec-title">Content That Moves.</h2>
+    <p class="sec-sub">Cinematic AI-generated visuals built for social media reels and campaigns.</p>
+  </div>
+
+  <div class="reels-row" style="margin-top:48px">
+
+    <div class="phone reveal">
+      <img src="projects/luxury-perfume-product-advertisement-design/luxury-perfume-product-advertisement-design_1.webp" alt="Perfume Reel" loading="lazy" />
+      <div class="phone-label">
+        <span class="phone-tag">Luxury</span>
+        Perfume Ad
+      </div>
+    </div>
+
+    <div class="phone reveal" style="transition-delay:.04s">
+      <img src="projects/luxury-radiance-serum-skincare-ad/luxury-radiance-serum-skincare-ad_01.webp" alt="Skincare Reel" loading="lazy" />
+      <div class="phone-label">
+        <span class="phone-tag">Beauty</span>
+        Skincare Ad
+      </div>
+    </div>
+
+    <div class="phone reveal" style="transition-delay:.08s">
+      <img src="projects/clothing-shop-campaign/clothing-shop-campaign_01.webp" alt="Fashion Reel" loading="lazy" />
+      <div class="phone-label">
+        <span class="phone-tag">Fashion</span>
+        Clothing Campaign
+      </div>
+    </div>
+
+    <div class="phone reveal" style="transition-delay:.12s">
+      <img src="projects/cinematic-sports-shoe-advertisement-/cinematic-sports-shoe-advertisement-campaign_01.webp" alt="Shoe Reel" loading="lazy" />
+      <div class="phone-label">
+        <span class="phone-tag">Sportswear</span>
+        Shoe Campaign
+      </div>
+    </div>
+
+    <div class="phone reveal" style="transition-delay:.16s">
+      <img src="projects/jewelry-campaign/jewelry-campaign_01.webp" alt="Jewelry Reel" loading="lazy" />
+      <div class="phone-label">
+        <span class="phone-tag">Jewelry</span>
+        Jewelry Campaign
+      </div>
+    </div>
+
+    <div class="phone reveal" style="transition-delay:.2s">
+      <img src="projects/cinematic-burger-advertisement/cinematic-burger-advertisement_1.webp" alt="Burger Reel" loading="lazy" />
+      <div class="phone-label">
+        <span class="phone-tag">Food</span>
+        Burger Ad
+      </div>
+    </div>
+
+    <div class="phone reveal" style="transition-delay:.24s">
+      <img src="projects/luxury-real-estate-advertisement-campaign/luxury-real-estate-advertisement-campaign_01.webp" alt="Real Estate Reel" loading="lazy" />
+      <div class="phone-label">
+        <span class="phone-tag">Real Estate</span>
+        Luxury Property
+      </div>
+    </div>
+
+    <div class="phone reveal" style="transition-delay:.28s">
+      <img src="projects/tech-product-ads/tech-product-ads_01.webp" alt="Tech Reel" loading="lazy" />
+      <div class="phone-label">
+        <span class="phone-tag">Technology</span>
+        Tech Product
+      </div>
+    </div>
+
+  </div>
+</section>
+
+<!-- ─── PACKAGES ─── -->
+<section id="packages" class="section">
+  <div class="pkg-head">
+    <div class="reveal">
+      <p class="sec-label">Social Media Packages</p>
+      <h2 class="sec-title">Monthly Social Media Packages</h2>
+      <p class="sec-sub">Single Product Focused Packages</p>
+    </div>
+    <div class="pkg-tabs reveal">
+      <button class="pkg-tab active" data-m="1">1 Month</button>
+      <button class="pkg-tab" data-m="3">3 Months</button>
+      <button class="pkg-tab" data-m="6">6 Months</button>
+      <button class="pkg-tab" data-m="12">12 Months</button>
+    </div>
+  </div>
+
+  <div class="pkg-grid reveal">
+
+    <div class="pkg-card">
+      <div class="pkg-icon">🎨</div>
+      <div class="pkg-num">15</div>
+      <div class="pkg-per">Creatives / Month</div>
+      <ul class="pkg-features">
+        <li>High Quality Designs</li>
+        <li>Custom Graphics</li>
+        <li>Fast Delivery</li>
+      </ul>
+      <a href="mailto:workaniket07@gmail.com" class="pkg-btn">
+        Start Project <span>→</span>
+      </a>
+    </div>
+
+    <div class="pkg-card">
+      <div class="pkg-icon">🖼️</div>
+      <div class="pkg-num">30</div>
+      <div class="pkg-per">Creatives / Month</div>
+      <ul class="pkg-features">
+        <li>High Quality Designs</li>
+        <li>Custom Graphics</li>
+        <li>Fast Delivery</li>
+      </ul>
+      <a href="mailto:workaniket07@gmail.com" class="pkg-btn">
+        Start Project <span>→</span>
+      </a>
+    </div>
+
+    <div class="pkg-card">
+      <div class="pkg-icon">⚡</div>
+      <div class="pkg-num">60</div>
+      <div class="pkg-per">Creatives / Month</div>
+      <ul class="pkg-features">
+        <li>High Quality Designs</li>
+        <li>Custom Graphics</li>
+        <li>Fast Delivery</li>
+      </ul>
+      <a href="mailto:workaniket07@gmail.com" class="pkg-btn">
+        Start Project <span>→</span>
+      </a>
+    </div>
+
+    <div class="pkg-card">
+      <div class="pkg-icon">💎</div>
+      <div class="pkg-num">90</div>
+      <div class="pkg-per">Creatives / Month</div>
+      <ul class="pkg-features">
+        <li>High Quality Designs</li>
+        <li>Custom Graphics</li>
+        <li>Fast Delivery</li>
+      </ul>
+      <a href="mailto:workaniket07@gmail.com" class="pkg-btn">
+        Start Project <span>→</span>
+      </a>
+    </div>
+
+    <div class="pkg-card">
+      <div class="pkg-icon">👑</div>
+      <div class="pkg-num">120</div>
+      <div class="pkg-per">Creatives / Month</div>
+      <ul class="pkg-features">
+        <li>High Quality Designs</li>
+        <li>Custom Graphics</li>
+        <li>Fast Delivery</li>
+      </ul>
+      <a href="mailto:workaniket07@gmail.com" class="pkg-btn">
+        Start Project <span>→</span>
+      </a>
+    </div>
+
+  </div>
+</section>
+
+<!-- ─── BUNDLES ─── -->
+<section id="bundles" class="section">
+  <div class="reveal">
+    <p class="sec-label">AI Image Bundles</p>
+    <h2 class="sec-title">AI Generated Image Bundles</h2>
+    <p class="sec-sub">Premium AI generated images for your brand, product and campaigns.</p>
+  </div>
+
+  <div class="bundles-grid">
+
+    <div class="bundle-card reveal">
+      <div class="bundle-icon">📦</div>
+      <div class="bundle-name">Starter Pack</div>
+      <div class="bundle-sub">Perfect for Small Brands</div>
+      <div class="bundle-arrow">→</div>
+    </div>
+
+    <div class="bundle-card reveal" style="transition-delay:.05s">
+      <div class="bundle-icon">☆</div>
+      <div class="bundle-name">Growth Pack</div>
+      <div class="bundle-sub">For Growing Businesses</div>
+      <div class="bundle-arrow">→</div>
+    </div>
+
+    <div class="bundle-card reveal" style="transition-delay:.1s">
+      <div class="bundle-icon">💎</div>
+      <div class="bundle-name">Brand Pack</div>
+      <div class="bundle-sub">For Serious Brands</div>
+      <div class="bundle-arrow">→</div>
+    </div>
+
+    <div class="bundle-card reveal" style="transition-delay:.15s">
+      <div class="bundle-icon">👑</div>
+      <div class="bundle-name">Agency Pack</div>
+      <div class="bundle-sub">For Agencies &amp; Teams</div>
+      <div class="bundle-arrow">→</div>
+    </div>
+
+  </div>
+</section>
+
+<!-- ─── SERVICES ─── -->
+<section id="services" class="section">
+  <div class="reveal">
+    <p class="sec-label">What We Do</p>
+    <h2 class="sec-title">Creative Services</h2>
+  </div>
+
+  <div class="services-grid">
+    <div class="svc-card reveal">
+      <span class="svc-icon">⚡</span>
+      <h3 class="svc-name">AI Ads</h3>
+      <p class="svc-desc">High-impact AI-generated advertising visuals that stop the scroll and drive conversions.</p>
+    </div>
+    <div class="svc-card reveal" style="transition-delay:.04s">
+      <span class="svc-icon">🎨</span>
+      <h3 class="svc-name">Poster Design</h3>
+      <p class="svc-desc">Cinematic poster compositions with luxury finishes for print and digital campaigns.</p>
+    </div>
+    <div class="svc-card reveal" style="transition-delay:.08s">
+      <span class="svc-icon">📱</span>
+      <h3 class="svc-name">Instagram Campaigns</h3>
+      <p class="svc-desc">Cohesive brand-forward content systems built for consistent Instagram engagement.</p>
+    </div>
+    <div class="svc-card reveal" style="transition-delay:.12s">
+      <span class="svc-icon">🎬</span>
+      <h3 class="svc-name">Motion Reels</h3>
+      <p class="svc-desc">Animated reels and short-form video content designed for social-first distribution.</p>
+    </div>
+    <div class="svc-card reveal" style="transition-delay:.04s">
+      <span class="svc-icon">💎</span>
+      <h3 class="svc-name">Brand Identity</h3>
+      <p class="svc-desc">Visual identity systems: logo, colour palette, typography and brand guidelines.</p>
+    </div>
+    <div class="svc-card reveal" style="transition-delay:.08s">
+      <span class="svc-icon">📊</span>
+      <h3 class="svc-name">Pitch Decks</h3>
+      <p class="svc-desc">Investor-ready pitch decks with cinematic design that makes your story land.</p>
+    </div>
+    <div class="svc-card reveal" style="transition-delay:.12s">
+      <span class="svc-icon">🛍️</span>
+      <h3 class="svc-name">Product Commercials</h3>
+      <p class="svc-desc">Studio-grade AI product commercial visuals with premium composition.</p>
+    </div>
+  </div>
+
+  <div style="text-align:center">
+    <span class="svc-highlight reveal">✦ Bulk Monthly Social Media Packages Available</span>
+  </div>
+</section>
+
+<!-- ─── TESTIMONIALS ─── -->
+<section id="testimonials" class="section">
+  <div class="reveal">
+    <p class="sec-label">Client Love</p>
+    <h2 class="sec-title">What Brands Say</h2>
+  </div>
+
+  <div class="testi-wrap">
+    <div class="testi-track">
+      <div class="testi-card">
+        <div class="testi-stars">★★★★★</div>
+        <p class="testi-text">"The visuals Aniket produced for our perfume launch were jaw-dropping. Instagram engagement tripled in the first week. Pure cinematic quality."</p>
+        <div class="testi-author">
+          <div class="testi-av">S</div>
+          <div>
+            <p class="testi-name">Sarah M.</p>
+            <p class="testi-role">Founder, Elara Beauty</p>
+          </div>
+        </div>
+      </div>
+      <div class="testi-card">
+        <div class="testi-stars">★★★★★</div>
+        <p class="testi-text">"We needed high-impact ads fast. ONLINE WORK delivered 30 cinematic product images in 3 days. Quality looks like a six-figure production budget."</p>
+        <div class="testi-author">
+          <div class="testi-av">R</div>
+          <div>
+            <p class="testi-name">Ravi K.</p>
+            <p class="testi-role">Marketing Director, NovaTech</p>
+          </div>
+        </div>
+      </div>
+      <div class="testi-card">
+        <div class="testi-stars">★★★★★</div>
+        <p class="testi-text">"Signed up for the 6-month package and it completely transformed our brand presence. Every image is campaign-ready out of the box."</p>
+        <div class="testi-author">
+          <div class="testi-av">P</div>
+          <div>
+            <p class="testi-name">Priya N.</p>
+            <p class="testi-role">CEO, Luxe Jewels</p>
+          </div>
+        </div>
+      </div>
+      <div class="testi-card">
+        <div class="testi-stars">★★★★★</div>
+        <p class="testi-text">"Our shoe campaign went viral on Instagram. Cinematic style and dark luxury aesthetic was exactly what our brand needed. 10/10."</p>
+        <div class="testi-author">
+          <div class="testi-av">A</div>
+          <div>
+            <p class="testi-name">Arjun S.</p>
+            <p class="testi-role">Brand Manager, StridePro</p>
+          </div>
+        </div>
+      </div>
+      <div class="testi-card">
+        <div class="testi-stars">★★★★★</div>
+        <p class="testi-text">"Real estate visuals looked like luxury editorial spreads. Our listings sell faster now — there's a direct correlation. Highly recommended."</p>
+        <div class="testi-author">
+          <div class="testi-av">N</div>
+          <div>
+            <p class="testi-name">Neha R.</p>
+            <p class="testi-role">Director, Prime Estates</p>
+          </div>
+        </div>
+      </div>
+      <!-- duplicate for seamless loop -->
+      <div class="testi-card">
+        <div class="testi-stars">★★★★★</div>
+        <p class="testi-text">"The visuals Aniket produced for our perfume launch were jaw-dropping. Instagram engagement tripled in the first week. Pure cinematic quality."</p>
+        <div class="testi-author">
+          <div class="testi-av">S</div>
+          <div>
+            <p class="testi-name">Sarah M.</p>
+            <p class="testi-role">Founder, Elara Beauty</p>
+          </div>
+        </div>
+      </div>
+      <div class="testi-card">
+        <div class="testi-stars">★★★★★</div>
+        <p class="testi-text">"We needed high-impact ads fast. ONLINE WORK delivered 30 cinematic product images in 3 days. Quality looks like a six-figure production budget."</p>
+        <div class="testi-author">
+          <div class="testi-av">R</div>
+          <div>
+            <p class="testi-name">Ravi K.</p>
+            <p class="testi-role">Marketing Director, NovaTech</p>
+          </div>
+        </div>
+      </div>
+      <div class="testi-card">
+        <div class="testi-stars">★★★★★</div>
+        <p class="testi-text">"Signed up for the 6-month package and it completely transformed our brand presence. Every image is campaign-ready out of the box."</p>
+        <div class="testi-author">
+          <div class="testi-av">P</div>
+          <div>
+            <p class="testi-name">Priya N.</p>
+            <p class="testi-role">CEO, Luxe Jewels</p>
+          </div>
+        </div>
+      </div>
+      <div class="testi-card">
+        <div class="testi-stars">★★★★★</div>
+        <p class="testi-text">"Our shoe campaign went viral on Instagram. Cinematic style and dark luxury aesthetic was exactly what our brand needed. 10/10."</p>
+        <div class="testi-author">
+          <div class="testi-av">A</div>
+          <div>
+            <p class="testi-name">Arjun S.</p>
+            <p class="testi-role">Brand Manager, StridePro</p>
+          </div>
+        </div>
+      </div>
+      <div class="testi-card">
+        <div class="testi-stars">★★★★★</div>
+        <p class="testi-text">"Real estate visuals looked like luxury editorial spreads. Our listings sell faster now — there's a direct correlation. Highly recommended."</p>
+        <div class="testi-author">
+          <div class="testi-av">N</div>
+          <div>
+            <p class="testi-name">Neha R.</p>
+            <p class="testi-role">Director, Prime Estates</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ─── CONTACT ─── -->
+<section id="contact" class="section">
+  <div class="contact-inner">
+    <p class="sec-label reveal" style="justify-content:center">Contact</p>
+    <h2 class="sec-title reveal" style="margin-bottom:0">Let's Build Something Extraordinary.</h2>
+    <p class="contact-sub reveal">Ready to elevate your brand with AI-powered cinematic visuals? Reach out and let's create something unforgettable.</p>
+
+    <div class="contact-cards reveal">
+      <a href="https://instagram.com/aniketg_ai" class="contact-card" target="_blank" rel="noopener">
+        <span class="cc-icon">📸</span>
+        <div>
+          <p class="cc-label">Instagram</p>
+          <p class="cc-val">@aniketg_ai</p>
+        </div>
+      </a>
+      <a href="mailto:workaniket07@gmail.com" class="contact-card">
+        <span class="cc-icon">✉️</span>
+        <div>
+          <p class="cc-label">Email</p>
+          <p class="cc-val">workaniket07@gmail.com</p>
+        </div>
+      </a>
+    </div>
+
+    <a href="mailto:workaniket07@gmail.com" class="btn-start reveal">
+      Start a Project
+      <svg width="18" height="18" viewBox="0 0 18 18" fill="none">
+        <path d="M3 9h12M11 5l4 4-4 4" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+      </svg>
+    </a>
+  </div>
+</section>
+
+<!-- ─── FOOTER ─── -->
+<footer>
+  <a href="#hero" class="footer-brand">
+    <span class="footer-title">ONLINE WORK</span>
+    <span class="footer-sub">AI Creative Studio</span>
+  </a>
+  <span class="footer-copy">© 2025 Online Work. All rights reserved.</span>
+  <span class="footer-copy">AI Powered Visuals That Sell Brands.</span>
+</footer>
+
+<script>
+  // Cursor glow
+  const cg = document.getElementById('cg');
+  document.addEventListener('mousemove', e => {
+    cg.style.left = e.clientX + 'px';
+    cg.style.top  = e.clientY + 'px';
+  });
+
+  // Scroll reveal
+  const ro = new IntersectionObserver(entries => {
+    entries.forEach(e => {
+      if (e.isIntersecting) { e.target.classList.add('visible'); ro.unobserve(e.target); }
+    });
+  }, { threshold: 0.08, rootMargin: '0px 0px -30px 0px' });
+  document.querySelectorAll('.reveal').forEach(el => ro.observe(el));
+
+  // Active nav link
+  const sections = document.querySelectorAll('section[id], #hero');
+  const navLinks = document.querySelectorAll('.nav-links a');
+  const no = new IntersectionObserver(entries => {
+    entries.forEach(e => {
+      if (e.isIntersecting) {
+        navLinks.forEach(a => a.classList.remove('active'));
+        const match = document.querySelector('.nav-links a[href="#' + e.target.id + '"]');
+        if (match) match.classList.add('active');
+      }
+    });
+  }, { threshold: 0.4 });
+  document.querySelectorAll('section[id]').forEach(s => no.observe(s));
+
+  // Horizontal scroll buttons
+  const row = document.getElementById('workRow');
+  document.getElementById('scrollLeft').addEventListener('click', () => row.scrollBy({ left: -260, behavior: 'smooth' }));
+  document.getElementById('scrollRight').addEventListener('click', () => row.scrollBy({ left: 260, behavior: 'smooth' }));
+
+  // Package tabs (visual only — same 5 cards for all durations)
+  document.querySelectorAll('.pkg-tab').forEach(tab => {
+    tab.addEventListener('click', function() {
+      document.querySelectorAll('.pkg-tab').forEach(t => t.classList.remove('active'));
+      this.classList.add('active');
+    });
+  });
+
+  // Work card lightbox
+  const lb    = document.getElementById('lb');
+  const lbImg = document.getElementById('lbImg');
+  document.querySelectorAll('.work-card').forEach(c => {
+    c.addEventListener('click', () => {
+      lbImg.src = c.dataset.img;
+      lb.classList.add('open');
+    });
+  });
+  document.getElementById('lbClose').addEventListener('click', () => lb.classList.remove('open'));
+  lb.addEventListener('click', e => { if (e.target === lb) lb.classList.remove('open'); });
+  document.addEventListener('keydown', e => { if (e.key === 'Escape') lb.classList.remove('open'); });
+
+  // Bundle cards → contact
+  document.querySelectorAll('.bundle-card').forEach(c => {
+    c.addEventListener('click', () => document.getElementById('contact').scrollIntoView({ behavior: 'smooth' }));
+  });
+</script>
+
+<!-- WhatsApp floating button -->
+<a href="https://wa.me/917796963672" class="wa-btn" target="_blank" rel="noopener" aria-label="Chat on WhatsApp">
+  <span class="wa-tooltip">Chat on WhatsApp</span>
+  <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+    <path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/>
+  </svg>
+</a>
+
+</body>
+</html>
