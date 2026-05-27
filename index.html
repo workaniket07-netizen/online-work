@@ -440,7 +440,6 @@
       display:flex;
       gap:20px;
       overflow-x:auto;
-      scroll-snap-type:x mandatory;
       scrollbar-width:none;
       padding-bottom:4px;
     }
@@ -1859,8 +1858,26 @@
 
   // Horizontal scroll buttons
   const row = document.getElementById('workRow');
-  document.getElementById('scrollLeft').addEventListener('click', () => row.scrollBy({ left: -260, behavior: 'smooth' }));
-  document.getElementById('scrollRight').addEventListener('click', () => row.scrollBy({ left: 260, behavior: 'smooth' }));
+
+  function cinScroll(el, toX, dur) {
+    const from = el.scrollLeft;
+    const diff = toX - from;
+    const start = performance.now();
+    function ease(t) { return t < 0.5 ? 4*t*t*t : 1 - Math.pow(-2*t+2,3)/2; }
+    function step(now) {
+      const p = Math.min((now - start) / dur, 1);
+      el.scrollLeft = from + diff * ease(p);
+      if (p < 1) requestAnimationFrame(step);
+    }
+    requestAnimationFrame(step);
+  }
+
+  document.getElementById('scrollLeft').addEventListener('click', () => {
+    cinScroll(row, row.scrollLeft - row.offsetWidth * 0.75, 680);
+  });
+  document.getElementById('scrollRight').addEventListener('click', () => {
+    cinScroll(row, row.scrollLeft + row.offsetWidth * 0.75, 680);
+  });
 
   // Package tabs (visual only — same 5 cards for all durations)
   document.querySelectorAll('.pkg-tab').forEach(tab => {
