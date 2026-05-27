@@ -235,11 +235,11 @@
 
     .hero-title {
       font-family:'Outfit', sans-serif;
-      font-size:clamp(44px,6vw,80px);
+      font-size:clamp(58px,9vw,120px);
       font-weight:800;
-      line-height:1.0;
-      letter-spacing:-2px;
-      margin-bottom:24px;
+      line-height:0.92;
+      letter-spacing:-1px;
+      margin-bottom:48px;
     }
 
     .hero-title .accent {
@@ -249,12 +249,39 @@
       background-clip:text;
     }
 
-    .hero-desc {
-      font-size:15px;
-      color:var(--text-dim);
-      line-height:1.75;
-      max-width:440px;
-      margin-bottom:40px;
+    .hero-desc { display:none; }
+
+    .hero-meta {
+      display:flex;
+      align-items:center;
+      gap:48px;
+      flex-wrap:wrap;
+    }
+
+    .hero-inline-stats {
+      display:flex;
+      gap:40px;
+    }
+
+    .hero-inline-stats div {
+      display:flex;
+      flex-direction:column;
+    }
+
+    .hero-inline-stats strong {
+      font-family:'Outfit', sans-serif;
+      font-size:26px;
+      font-weight:700;
+      color:#fff;
+      line-height:1;
+      margin-bottom:4px;
+    }
+
+    .hero-inline-stats span {
+      font-size:11px;
+      letter-spacing:2px;
+      text-transform:uppercase;
+      color:rgba(255,255,255,0.35);
     }
 
     .hero-cta {
@@ -279,24 +306,10 @@
       box-shadow:0 0 60px rgba(0,180,255,0.45), 0 20px 40px rgba(0,0,0,0.4);
     }
 
-    .hero-stats {
-      position:relative;
-      z-index:2;
-      margin-left:auto;
-      display:grid;
-      grid-template-columns:1fr 1fr;
-      gap:16px;
-      width:38%;
-      padding-top:80px;
-    }
+    .hero-stats { display:none; }
 
     .stat-card {
-      padding:28px 24px;
-      background:rgba(255,255,255,0.04);
-      border:1px solid rgba(0,180,255,0.1);
-      border-radius:20px;
-      backdrop-filter:blur(16px);
-      text-align:center;
+      display:none;
       transition:border-color .4s;
     }
 
@@ -330,15 +343,15 @@
     }
 
     @media(max-width:900px) {
-      #hero { flex-direction:column; padding-top:100px; padding-bottom:60px; }
+      #hero { flex-direction:column; padding-top:120px; padding-bottom:80px; }
       .hero-content { width:100%; }
-      .hero-stats { width:100%; margin-left:0; grid-template-columns:repeat(4,1fr); }
-      .stat-card { padding:20px 12px; }
-      .stat-num { font-size:22px; }
+      .hero-meta { flex-direction:column; align-items:flex-start; gap:32px; }
+      .hero-inline-stats { gap:28px; }
     }
 
     @media(max-width:600px) {
-      .hero-stats { grid-template-columns:repeat(2,1fr); }
+      .hero-inline-stats { gap:20px; }
+      .hero-inline-stats strong { font-size:20px; }
     }
 
     /* ─── SECTION SHARED ─── */
@@ -366,9 +379,10 @@
 
     .sec-title {
       font-family:'Outfit', sans-serif;
-      font-size:clamp(28px,4vw,44px);
+      font-size:clamp(34px,5vw,60px);
       font-weight:800;
-      line-height:1.1;
+      line-height:1.05;
+      letter-spacing:-0.5px;
     }
 
     .sec-sub {
@@ -462,21 +476,18 @@
 
     .work-card {
       flex-shrink:0;
-      width:220px;
-      border-radius:20px;
-      background:rgba(255,255,255,0.04);
-      border:1px solid rgba(0,180,255,0.08);
+      width:320px;
+      border-radius:16px;
       overflow:hidden;
       scroll-snap-align:start;
       cursor:pointer;
-      transition:all .45s cubic-bezier(.16,1,.3,1);
       position:relative;
+      transition:transform .45s cubic-bezier(.16,1,.3,1), box-shadow .45s;
     }
 
     .work-card:hover {
-      transform:translateY(-8px);
-      border-color:rgba(0,200,255,0.25);
-      box-shadow:0 0 40px rgba(0,160,255,0.2), 0 20px 40px rgba(0,0,0,0.4);
+      transform:translateY(-10px);
+      box-shadow:0 30px 70px rgba(0,0,0,0.55), 0 0 40px rgba(0,160,255,0.12);
     }
 
     .work-card-img {
@@ -484,30 +495,36 @@
       aspect-ratio:3/2;
       object-fit:cover;
       display:block;
-      transition:transform .5s cubic-bezier(.16,1,.3,1);
+      transition:transform .6s cubic-bezier(.16,1,.3,1);
     }
 
-    .work-card:hover .work-card-img { transform:scale(1.06); }
+    .work-card:hover .work-card-img { transform:scale(1.07); }
 
-    .work-card-body {
-      padding:16px 18px 20px;
+    .work-overlay {
+      position:absolute;
+      inset:0;
+      background:linear-gradient(to top, rgba(0,0,0,0.85) 0%, rgba(0,0,0,0.15) 55%, transparent 100%);
+      display:flex;
+      flex-direction:column;
+      justify-content:flex-end;
+      padding:20px 22px;
     }
 
     .work-card-tag {
       font-size:9px;
-      letter-spacing:2px;
+      letter-spacing:2.5px;
       text-transform:uppercase;
       color:var(--cyan);
-      opacity:.75;
       margin-bottom:6px;
     }
 
     .work-card-title {
       font-family:'Outfit', sans-serif;
-      font-size:15px;
-      font-weight:600;
-      line-height:1.3;
+      font-size:17px;
+      font-weight:700;
+      line-height:1.2;
       margin-bottom:10px;
+      color:#fff;
     }
 
     .work-card-count {
@@ -515,13 +532,13 @@
       align-items:center;
       gap:6px;
       font-size:11px;
-      color:var(--text-dim);
+      color:rgba(255,255,255,0.45);
+      letter-spacing:.5px;
     }
 
     .work-card-count::after {
       content:'→';
       color:var(--cyan);
-      opacity:.7;
     }
 
     /* ─── PACKAGES ─── */
@@ -739,52 +756,76 @@
       background:linear-gradient(180deg,#08090f 0%,#0a0c14 100%);
     }
 
-    .services-grid {
-      display:grid;
-      grid-template-columns:repeat(auto-fit, minmax(200px,1fr));
-      gap:16px;
-      margin-top:40px;
+    .svc-list {
+      list-style:none;
+      margin-top:56px;
     }
 
-    .svc-card {
-      padding:30px 24px;
-      background:rgba(255,255,255,0.03);
-      border:1px solid rgba(0,180,255,0.08);
-      border-radius:22px;
-      transition:all .4s cubic-bezier(.16,1,.3,1);
+    .svc-item {
+      display:flex;
+      align-items:center;
+      gap:28px;
+      padding:26px 0;
+      border-bottom:1px solid rgba(255,255,255,0.07);
+      cursor:default;
+      transition:padding-left .35s cubic-bezier(.16,1,.3,1);
     }
 
-    .svc-card:hover {
-      background:rgba(0,140,255,0.06);
-      border-color:rgba(0,200,255,0.22);
-      transform:translateY(-5px);
-      box-shadow:0 0 30px rgba(0,160,255,0.1);
-    }
+    .svc-item:first-child { border-top:1px solid rgba(255,255,255,0.07); }
+    .svc-item:hover { padding-left:10px; }
 
-    .svc-icon { font-size:26px; margin-bottom:14px; display:block; }
-
-    .svc-name {
+    .svc-num {
       font-family:'Outfit', sans-serif;
-      font-size:16px;
-      font-weight:600;
-      margin-bottom:8px;
+      font-size:11px;
+      letter-spacing:3px;
+      color:rgba(255,255,255,0.25);
+      width:48px;
+      flex-shrink:0;
     }
 
-    .svc-desc { font-size:12px; color:var(--text-dim); line-height:1.65; }
+    .svc-item-name {
+      font-family:'Outfit', sans-serif;
+      font-size:clamp(22px,2.8vw,36px);
+      font-weight:700;
+      flex:1;
+      color:#fff;
+      transition:color .3s;
+    }
+
+    .svc-item:hover .svc-item-name { color:var(--cyan); }
+
+    .svc-item-tag {
+      font-size:10px;
+      letter-spacing:2px;
+      text-transform:uppercase;
+      color:rgba(255,255,255,0.22);
+    }
+
+    @media(max-width:600px) { .svc-item-tag { display:none; } }
+
+    .svc-arrow {
+      color:var(--cyan);
+      font-size:22px;
+      opacity:0;
+      transform:translateX(-10px);
+      transition:opacity .3s, transform .35s cubic-bezier(.16,1,.3,1);
+    }
+
+    .svc-item:hover .svc-arrow { opacity:1; transform:translateX(0); }
 
     .svc-highlight {
       display:inline-flex;
       align-items:center;
       gap:10px;
-      margin-top:40px;
+      margin-top:48px;
       padding:14px 28px;
       border-radius:999px;
-      background:rgba(0,160,255,0.08);
-      border:1px solid rgba(0,180,255,0.25);
+      background:rgba(0,160,255,0.07);
+      border:1px solid rgba(0,180,255,0.2);
       font-family:'Outfit', sans-serif;
-      font-size:14px;
+      font-size:13px;
       font-weight:600;
-      box-shadow:0 0 24px rgba(0,160,255,0.12);
+      letter-spacing:.3px;
     }
 
     /* ─── TESTIMONIALS ─── */
@@ -1267,42 +1308,22 @@
   </div>
 
   <div class="hero-content reveal">
-    <span class="hero-badge">AI Powered Creative Studio</span>
     <h1 class="hero-title">
       VISUALS THAT<br>
       SELL <span class="accent">BRANDS.</span>
     </h1>
-    <p class="hero-desc">
-      We design cinematic AI ads, stunning posters, Instagram campaigns, motion reels and brand identities that drive real impact.
-    </p>
-    <a href="#work" class="hero-cta">
-      View Our Work
-      <svg width="16" height="16" viewBox="0 0 16 16" fill="none">
-        <path d="M3 8h10M9 4l4 4-4 4" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
-      </svg>
-    </a>
-  </div>
-
-  <div class="hero-stats">
-    <div class="stat-card reveal" style="transition-delay:.1s">
-      <div class="stat-icon">☆</div>
-      <div class="stat-num">100+</div>
-      <div class="stat-label">Projects</div>
-    </div>
-    <div class="stat-card reveal" style="transition-delay:.15s">
-      <div class="stat-icon">☆</div>
-      <div class="stat-num">50+</div>
-      <div class="stat-label">Happy Clients</div>
-    </div>
-    <div class="stat-card reveal" style="transition-delay:.2s">
-      <div class="stat-icon">⚡</div>
-      <div class="stat-num">2+</div>
-      <div class="stat-label">Years Experience</div>
-    </div>
-    <div class="stat-card reveal" style="transition-delay:.25s">
-      <div class="stat-icon">🌐</div>
-      <div class="stat-num">Global</div>
-      <div class="stat-label">Work Delivered</div>
+    <div class="hero-meta">
+      <a href="#work" class="hero-cta">
+        View Our Work
+        <svg width="16" height="16" viewBox="0 0 16 16" fill="none">
+          <path d="M3 8h10M9 4l4 4-4 4" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+      </a>
+      <div class="hero-inline-stats">
+        <div><strong>100+</strong><span>Projects</span></div>
+        <div><strong>50+</strong><span>Clients</span></div>
+        <div><strong>2+</strong><span>Years</span></div>
+      </div>
     </div>
   </div>
 </section>
@@ -1323,7 +1344,7 @@
 
       <div class="work-card" data-img="projects/cinematic-burger-advertisement/thumb.webp" data-images="projects/cinematic-burger-advertisement/cinematic-burger-advertisement_1.webp,projects/cinematic-burger-advertisement/cinematic-burger-advertisement_2.webp,projects/cinematic-burger-advertisement/cinematic-burger-advertisement_3.webp,projects/cinematic-burger-advertisement/cinematic-burger-advertisement_4.webp,projects/cinematic-burger-advertisement/cinematic-burger-advertisement_5.webp">
         <img class="work-card-img" src="projects/cinematic-burger-advertisement/thumb.webp" alt="Burger Ads" loading="lazy" />
-        <div class="work-card-body">
+        <div class="work-overlay">
           <p class="work-card-tag">Food & Beverage</p>
           <h3 class="work-card-title">Cinematic Burger Ads</h3>
           <span class="work-card-count">5 Projects</span>
@@ -1332,7 +1353,7 @@
 
       <div class="work-card" data-img="projects/cinematic-sports-shoe-advertisement-/thumb.webp" data-images="projects/cinematic-sports-shoe-advertisement-/cinematic-sports-shoe-advertisement-campaign_01.webp,projects/cinematic-sports-shoe-advertisement-/cinematic-sports-shoe-advertisement-campaign_02.webp,projects/cinematic-sports-shoe-advertisement-/cinematic-sports-shoe-advertisement-campaign_03.webp,projects/cinematic-sports-shoe-advertisement-/cinematic-sports-shoe-advertisement-campaign_04.webp,projects/cinematic-sports-shoe-advertisement-/cinematic-sports-shoe-advertisement-campaign_05.webp">
         <img class="work-card-img" src="projects/cinematic-sports-shoe-advertisement-/thumb.webp" alt="Sports Shoe" loading="lazy" />
-        <div class="work-card-body">
+        <div class="work-overlay">
           <p class="work-card-tag">Sportswear</p>
           <h3 class="work-card-title">Sports Shoe Campaign</h3>
           <span class="work-card-count">5 Projects</span>
@@ -1341,7 +1362,7 @@
 
       <div class="work-card" data-img="projects/luxury-perfume-product-advertisement-design/thumb.webp" data-images="projects/luxury-perfume-product-advertisement-design/luxury-perfume-product-advertisement-design_1.webp,projects/luxury-perfume-product-advertisement-design/luxury-perfume-product-advertisement-design_2.webp,projects/luxury-perfume-product-advertisement-design/luxury-perfume-product-advertisement-design_3.webp,projects/luxury-perfume-product-advertisement-design/luxury-perfume-product-advertisement-design_4.webp,projects/luxury-perfume-product-advertisement-design/luxury-perfume-product-advertisement-design_5.webp">
         <img class="work-card-img" src="projects/luxury-perfume-product-advertisement-design/thumb.webp" alt="Perfume Ads" loading="lazy" />
-        <div class="work-card-body">
+        <div class="work-overlay">
           <p class="work-card-tag">Luxury</p>
           <h3 class="work-card-title">Luxury Perfume Ads</h3>
           <span class="work-card-count">5 Projects</span>
@@ -1350,7 +1371,7 @@
 
       <div class="work-card" data-img="projects/luxury-radiance-serum-skincare-ad/thumb.webp" data-images="projects/luxury-radiance-serum-skincare-ad/luxury-radiance-serum-skincare-ad_01.webp,projects/luxury-radiance-serum-skincare-ad/luxury-radiance-serum-skincare-ad_02.webp,projects/luxury-radiance-serum-skincare-ad/luxury-radiance-serum-skincare-ad_03.webp,projects/luxury-radiance-serum-skincare-ad/luxury-radiance-serum-skincare-ad_04.webp,projects/luxury-radiance-serum-skincare-ad/luxury-radiance-serum-skincare-ad_05.webp">
         <img class="work-card-img" src="projects/luxury-radiance-serum-skincare-ad/thumb.webp" alt="Skincare" loading="lazy" />
-        <div class="work-card-body">
+        <div class="work-overlay">
           <p class="work-card-tag">Beauty</p>
           <h3 class="work-card-title">Skincare Campaigns</h3>
           <span class="work-card-count">5 Projects</span>
@@ -1359,7 +1380,7 @@
 
       <div class="work-card" data-img="projects/tech-product-ads/tech-product-ads_01.webp" data-images="projects/tech-product-ads/tech-product-ads_01.webp,projects/tech-product-ads/tech-product-ads_02.webp,projects/tech-product-ads/tech-product-ads_03.webp,projects/tech-product-ads/tech-product-ads_04.webp,projects/tech-product-ads/tech-product-ads_05.webp">
         <img class="work-card-img" src="projects/tech-product-ads/tech-product-ads_01.webp" alt="Tech Ads" loading="lazy" />
-        <div class="work-card-body">
+        <div class="work-overlay">
           <p class="work-card-tag">Technology</p>
           <h3 class="work-card-title">Tech Product Ads</h3>
           <span class="work-card-count">5 Projects</span>
@@ -1368,7 +1389,7 @@
 
       <div class="work-card" data-img="projects/jewelry-campaign/jewelry-campaign_thumbanail.webp" data-images="projects/jewelry-campaign/jewelry-campaign_01.webp,projects/jewelry-campaign/jewelry-campaign_02.webp,projects/jewelry-campaign/jewelry-campaign_03.webp,projects/jewelry-campaign/jewelry-campaign_04.webp,projects/jewelry-campaign/jewelry-campaign_05.webp">
         <img class="work-card-img" src="projects/jewelry-campaign/jewelry-campaign_thumbanail.webp" alt="Jewelry" loading="lazy" />
-        <div class="work-card-body">
+        <div class="work-overlay">
           <p class="work-card-tag">Jewelry</p>
           <h3 class="work-card-title">Jewelry Campaign</h3>
           <span class="work-card-count">5 Projects</span>
@@ -1377,7 +1398,7 @@
 
       <div class="work-card" data-img="projects/clothing-shop-campaign/thumb.webp" data-images="projects/clothing-shop-campaign/clothing-shop-campaign_01.webp,projects/clothing-shop-campaign/clothing-shop-campaign_02.webp,projects/clothing-shop-campaign/clothing-shop-campaign_03.webp,projects/clothing-shop-campaign/clothing-shop-campaign_04.webp,projects/clothing-shop-campaign/clothing-shop-campaign_05.webp">
         <img class="work-card-img" src="projects/clothing-shop-campaign/thumb.webp" alt="Clothing" loading="lazy" />
-        <div class="work-card-body">
+        <div class="work-overlay">
           <p class="work-card-tag">Fashion</p>
           <h3 class="work-card-title">Clothing Shop Campaign</h3>
           <span class="work-card-count">5 Projects</span>
@@ -1386,7 +1407,7 @@
 
       <div class="work-card" data-img="projects/luxury-real-estate-advertisement-campaign/thumb.webp" data-images="projects/luxury-real-estate-advertisement-campaign/luxury-real-estate-advertisement-campaign_01.webp,projects/luxury-real-estate-advertisement-campaign/luxury-real-estate-advertisement-campaign_02.webp,projects/luxury-real-estate-advertisement-campaign/luxury-real-estate-advertisement-campaign_03.webp,projects/luxury-real-estate-advertisement-campaign/luxury-real-estate-advertisement-campaign_04.webp,projects/luxury-real-estate-advertisement-campaign/luxury-real-estate-advertisement-campaign_05.webp,projects/luxury-real-estate-advertisement-campaign/luxury-real-estate-advertisement-campaign_06.webp,projects/luxury-real-estate-advertisement-campaign/luxury-real-estate-advertisement-campaign_07.webp">
         <img class="work-card-img" src="projects/luxury-real-estate-advertisement-campaign/thumb.webp" alt="Real Estate" loading="lazy" />
-        <div class="work-card-body">
+        <div class="work-overlay">
           <p class="work-card-tag">Real Estate</p>
           <h3 class="work-card-title">Luxury Real Estate</h3>
           <span class="work-card-count">7 Projects</span>
@@ -1395,7 +1416,7 @@
 
       <div class="work-card" data-img="projects/luxury-ice-cream-and-cake-advertisement-campaign/thumb.webp" data-images="projects/luxury-ice-cream-and-cake-advertisement-campaign/luxury-food-&amp;-dessert-advertisement-campaign_01.webp,projects/luxury-ice-cream-and-cake-advertisement-campaign/luxury-food-&amp;-dessert-advertisement-campaign_02.webp,projects/luxury-ice-cream-and-cake-advertisement-campaign/luxury-food-&amp;-dessert-advertisement-campaign_03.webp,projects/luxury-ice-cream-and-cake-advertisement-campaign/luxury-food-&amp;-dessert-advertisement-campaign_04.webp,projects/luxury-ice-cream-and-cake-advertisement-campaign/luxury-food-&amp;-dessert-advertisement-campaign_05.webp">
         <img class="work-card-img" src="projects/luxury-ice-cream-and-cake-advertisement-campaign/thumb.webp" alt="Dessert" loading="lazy" />
-        <div class="work-card-body">
+        <div class="work-overlay">
           <p class="work-card-tag">Food & Luxury</p>
           <h3 class="work-card-title">Luxury Dessert Ad</h3>
           <span class="work-card-count">5 Projects</span>
@@ -1623,43 +1644,15 @@
     <h2 class="sec-title">Creative Services</h2>
   </div>
 
-  <div class="services-grid">
-    <div class="svc-card reveal">
-      <span class="svc-icon">⚡</span>
-      <h3 class="svc-name">AI Ads</h3>
-      <p class="svc-desc">High-impact AI-generated advertising visuals that stop the scroll and drive conversions.</p>
-    </div>
-    <div class="svc-card reveal" style="transition-delay:.04s">
-      <span class="svc-icon">🎨</span>
-      <h3 class="svc-name">Poster Design</h3>
-      <p class="svc-desc">Cinematic poster compositions with luxury finishes for print and digital campaigns.</p>
-    </div>
-    <div class="svc-card reveal" style="transition-delay:.08s">
-      <span class="svc-icon">📱</span>
-      <h3 class="svc-name">Instagram Campaigns</h3>
-      <p class="svc-desc">Cohesive brand-forward content systems built for consistent Instagram engagement.</p>
-    </div>
-    <div class="svc-card reveal" style="transition-delay:.12s">
-      <span class="svc-icon">🎬</span>
-      <h3 class="svc-name">Motion Reels</h3>
-      <p class="svc-desc">Animated reels and short-form video content designed for social-first distribution.</p>
-    </div>
-    <div class="svc-card reveal" style="transition-delay:.04s">
-      <span class="svc-icon">💎</span>
-      <h3 class="svc-name">Brand Identity</h3>
-      <p class="svc-desc">Visual identity systems: logo, colour palette, typography and brand guidelines.</p>
-    </div>
-    <div class="svc-card reveal" style="transition-delay:.08s">
-      <span class="svc-icon">📊</span>
-      <h3 class="svc-name">Pitch Decks</h3>
-      <p class="svc-desc">Investor-ready pitch decks with cinematic design that makes your story land.</p>
-    </div>
-    <div class="svc-card reveal" style="transition-delay:.12s">
-      <span class="svc-icon">🛍️</span>
-      <h3 class="svc-name">Product Commercials</h3>
-      <p class="svc-desc">Studio-grade AI product commercial visuals with premium composition.</p>
-    </div>
-  </div>
+  <ul class="svc-list">
+    <li class="svc-item reveal"><span class="svc-num">01</span><span class="svc-item-name">AI Ads</span><span class="svc-item-tag">Advertisement</span><span class="svc-arrow">→</span></li>
+    <li class="svc-item reveal" style="transition-delay:.04s"><span class="svc-num">02</span><span class="svc-item-name">Poster Design</span><span class="svc-item-tag">Print & Digital</span><span class="svc-arrow">→</span></li>
+    <li class="svc-item reveal" style="transition-delay:.08s"><span class="svc-num">03</span><span class="svc-item-name">Instagram Campaigns</span><span class="svc-item-tag">Social Media</span><span class="svc-arrow">→</span></li>
+    <li class="svc-item reveal" style="transition-delay:.12s"><span class="svc-num">04</span><span class="svc-item-name">Motion Reels</span><span class="svc-item-tag">Video</span><span class="svc-arrow">→</span></li>
+    <li class="svc-item reveal" style="transition-delay:.16s"><span class="svc-num">05</span><span class="svc-item-name">Brand Identity</span><span class="svc-item-tag">Branding</span><span class="svc-arrow">→</span></li>
+    <li class="svc-item reveal" style="transition-delay:.20s"><span class="svc-num">06</span><span class="svc-item-name">Pitch Decks</span><span class="svc-item-tag">Presentation</span><span class="svc-arrow">→</span></li>
+    <li class="svc-item reveal" style="transition-delay:.24s"><span class="svc-num">07</span><span class="svc-item-name">Product Commercials</span><span class="svc-item-tag">Commercial</span><span class="svc-arrow">→</span></li>
+  </ul>
 
   <div style="text-align:center">
     <span class="svc-highlight reveal">✦ Bulk Monthly Social Media Packages Available</span>
