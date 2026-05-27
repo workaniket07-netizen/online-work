@@ -4,6 +4,7 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>AniketG — Ai Creative Studio</title>
+  <link rel="icon" type="image/png" href="AniketG_Ai_logo.png" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet" />
@@ -135,7 +136,47 @@
       box-shadow:0 0 20px rgba(0,160,255,0.2);
     }
 
-    @media(max-width:900px) { .nav-links { display:none; } }
+    .hamburger {
+      display:none;
+      flex-direction:column;
+      gap:5px;
+      cursor:pointer;
+      padding:6px;
+      background:none;
+      border:none;
+    }
+    .hamburger span {
+      display:block;
+      width:24px; height:2px;
+      background:#fff;
+      border-radius:2px;
+      transition:all .35s cubic-bezier(.16,1,.3,1);
+    }
+    .hamburger.open span:nth-child(1) { transform:translateY(7px) rotate(45deg); }
+    .hamburger.open span:nth-child(2) { opacity:0; transform:scaleX(0); }
+    .hamburger.open span:nth-child(3) { transform:translateY(-7px) rotate(-45deg); }
+
+    @media(max-width:900px) {
+      .nav-links {
+        display:flex;
+        flex-direction:column;
+        position:fixed;
+        top:0; left:0; right:0;
+        background:rgba(5,5,8,0.97);
+        backdrop-filter:blur(24px);
+        padding:100px 8% 48px;
+        gap:0;
+        transform:translateY(-100%);
+        transition:transform .5s cubic-bezier(.16,1,.3,1);
+        z-index:190;
+        border-bottom:1px solid rgba(0,180,255,0.1);
+      }
+      .nav-links.open { transform:translateY(0); }
+      .nav-links li { border-bottom:1px solid rgba(255,255,255,0.06); }
+      .nav-links a { display:block; padding:18px 0; font-size:15px; letter-spacing:2px; }
+      .hamburger { display:flex; z-index:210; position:relative; }
+      .btn-nav { display:none; }
+    }
 
     /* ─── HERO ─── */
     #hero {
@@ -610,14 +651,11 @@
     }
 
     .pkg-icon {
-      width:44px; height:44px;
-      border-radius:12px;
-      background:linear-gradient(135deg, rgba(0,160,255,0.2), rgba(0,60,200,0.15));
-      border:1px solid rgba(0,180,255,0.2);
-      display:flex;
-      align-items:center;
-      justify-content:center;
-      font-size:20px;
+      font-family:'Outfit', sans-serif;
+      font-size:11px;
+      font-weight:600;
+      letter-spacing:2px;
+      color:rgba(0,180,255,0.6);
       margin-bottom:18px;
     }
 
@@ -1274,6 +1312,10 @@
       <path d="M2 7h10M8 3l4 4-4 4" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
     </svg>
   </a>
+
+  <button class="hamburger" id="hamburger" aria-label="Menu">
+    <span></span><span></span><span></span>
+  </button>
 </nav>
 
 <!-- ─── HERO ─── -->
@@ -1332,9 +1374,9 @@
   <div class="work-head">
     <div class="reveal">
       <p class="sec-label">Featured Work</p>
-      <h2 class="sec-title">Our Selected Projects</h2>
+      <h2 class="sec-title">Selected Work</h2>
     </div>
-    <a href="#contact" class="btn-outline reveal">View All Work →</a>
+    <a href="#work" class="btn-outline reveal">View All Work →</a>
   </div>
 
   <div class="scroll-row-wrap reveal">
@@ -1523,7 +1565,7 @@
   <div class="pkg-grid reveal">
 
     <div class="pkg-card">
-      <div class="pkg-icon">🎨</div>
+      <div class="pkg-icon">01</div>
       <div class="pkg-num">15</div>
       <div class="pkg-per">Creatives / Month</div>
       <ul class="pkg-features">
@@ -1537,7 +1579,7 @@
     </div>
 
     <div class="pkg-card">
-      <div class="pkg-icon">🖼️</div>
+      <div class="pkg-icon">02</div>
       <div class="pkg-num">30</div>
       <div class="pkg-per">Creatives / Month</div>
       <ul class="pkg-features">
@@ -1551,7 +1593,7 @@
     </div>
 
     <div class="pkg-card">
-      <div class="pkg-icon">⚡</div>
+      <div class="pkg-icon">03</div>
       <div class="pkg-num">60</div>
       <div class="pkg-per">Creatives / Month</div>
       <ul class="pkg-features">
@@ -1565,7 +1607,7 @@
     </div>
 
     <div class="pkg-card">
-      <div class="pkg-icon">💎</div>
+      <div class="pkg-icon">04</div>
       <div class="pkg-num">90</div>
       <div class="pkg-per">Creatives / Month</div>
       <ul class="pkg-features">
@@ -1579,7 +1621,7 @@
     </div>
 
     <div class="pkg-card">
-      <div class="pkg-icon">👑</div>
+      <div class="pkg-icon">05</div>
       <div class="pkg-num">120</div>
       <div class="pkg-per">Creatives / Month</div>
       <ul class="pkg-features">
@@ -1606,28 +1648,28 @@
   <div class="bundles-grid">
 
     <div class="bundle-card reveal">
-      <div class="bundle-icon">📦</div>
+      <div class="bundle-icon">—</div>
       <div class="bundle-name">Starter Pack</div>
       <div class="bundle-sub">Perfect for Small Brands</div>
       <div class="bundle-arrow">→</div>
     </div>
 
     <div class="bundle-card reveal" style="transition-delay:.05s">
-      <div class="bundle-icon">☆</div>
+      <div class="bundle-icon">—</div>
       <div class="bundle-name">Growth Pack</div>
       <div class="bundle-sub">For Growing Businesses</div>
       <div class="bundle-arrow">→</div>
     </div>
 
     <div class="bundle-card reveal" style="transition-delay:.1s">
-      <div class="bundle-icon">💎</div>
+      <div class="bundle-icon">—</div>
       <div class="bundle-name">Brand Pack</div>
       <div class="bundle-sub">For Serious Brands</div>
       <div class="bundle-arrow">→</div>
     </div>
 
     <div class="bundle-card reveal" style="transition-delay:.15s">
-      <div class="bundle-icon">👑</div>
+      <div class="bundle-icon">—</div>
       <div class="bundle-name">Agency Pack</div>
       <div class="bundle-sub">For Agencies &amp; Teams</div>
       <div class="bundle-arrow">→</div>
@@ -1787,7 +1829,7 @@
   <div class="contact-inner">
     <p class="sec-label reveal" style="justify-content:center">Contact</p>
     <h2 class="sec-title reveal" style="margin-bottom:0">Let's Build Something Extraordinary.</h2>
-    <p class="contact-sub reveal">Ready to elevate your brand with AI-powered cinematic visuals? Reach out and let's create something unforgettable.</p>
+    <p class="contact-sub reveal">Instagram · Email · WhatsApp — pick your way.</p>
 
     <div class="contact-cards reveal">
       <a href="https://instagram.com/aniketg_ai" class="contact-card" target="_blank" rel="noopener">
@@ -1827,6 +1869,20 @@
 </footer>
 
 <script>
+  // Hamburger nav
+  const hamburger = document.getElementById('hamburger');
+  const navLinks = document.querySelector('.nav-links');
+  hamburger.addEventListener('click', () => {
+    hamburger.classList.toggle('open');
+    navLinks.classList.toggle('open');
+  });
+  navLinks.querySelectorAll('a').forEach(a => {
+    a.addEventListener('click', () => {
+      hamburger.classList.remove('open');
+      navLinks.classList.remove('open');
+    });
+  });
+
   // Cursor glow
   const cg = document.getElementById('cg');
   document.addEventListener('mousemove', e => {
