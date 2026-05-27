@@ -1858,25 +1858,29 @@
 
   // Horizontal scroll buttons
   const row = document.getElementById('workRow');
+  let rafId = null;
 
   function cinScroll(el, toX, dur) {
+    if (rafId) cancelAnimationFrame(rafId);
     const from = el.scrollLeft;
     const diff = toX - from;
     const start = performance.now();
-    function ease(t) { return t < 0.5 ? 4*t*t*t : 1 - Math.pow(-2*t+2,3)/2; }
+    function ease(t) { return t < 0.5 ? 4*t*t*t : 1 - Math.pow(-2*t+2, 3) / 2; }
     function step(now) {
       const p = Math.min((now - start) / dur, 1);
       el.scrollLeft = from + diff * ease(p);
-      if (p < 1) requestAnimationFrame(step);
+      rafId = p < 1 ? requestAnimationFrame(step) : null;
     }
-    requestAnimationFrame(step);
+    rafId = requestAnimationFrame(step);
   }
 
+  const CARD_STEP = 340; // 320px card + 20px gap = 1 card exactly
+
   document.getElementById('scrollLeft').addEventListener('click', () => {
-    cinScroll(row, row.scrollLeft - row.offsetWidth * 0.75, 680);
+    cinScroll(row, row.scrollLeft - CARD_STEP, 560);
   });
   document.getElementById('scrollRight').addEventListener('click', () => {
-    cinScroll(row, row.scrollLeft + row.offsetWidth * 0.75, 680);
+    cinScroll(row, row.scrollLeft + CARD_STEP, 560);
   });
 
   // Package tabs (visual only — same 5 cards for all durations)
