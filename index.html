@@ -1969,6 +1969,14 @@
     cinScroll(row, row.scrollLeft + getStep(), 900);
   });
 
+  // Work row touch swipe
+  let rowTsX = 0;
+  row.addEventListener('touchstart', e => { rowTsX = e.touches[0].clientX; }, { passive: true });
+  row.addEventListener('touchend', e => {
+    const diff = rowTsX - e.changedTouches[0].clientX;
+    if (Math.abs(diff) > 50) cinScroll(row, row.scrollLeft + (diff > 0 ? getStep() : -getStep()), 900);
+  }, { passive: true });
+
   // Package tabs (visual only — same 5 cards for all durations)
   document.querySelectorAll('.pkg-tab').forEach(tab => {
     tab.addEventListener('click', function() {
@@ -2017,6 +2025,14 @@
     if (e.key === 'ArrowRight')  lbStep(1);
     if (e.key === 'ArrowLeft')   lbStep(-1);
   });
+
+  // Touch swipe support for lightbox
+  let tsX = 0;
+  lb.addEventListener('touchstart', e => { tsX = e.touches[0].clientX; }, { passive: true });
+  lb.addEventListener('touchend', e => {
+    const diff = tsX - e.changedTouches[0].clientX;
+    if (Math.abs(diff) > 40) lbStep(diff > 0 ? 1 : -1);
+  }, { passive: true });
 
   // Bundle cards → contact
   document.querySelectorAll('.bundle-card').forEach(c => {
