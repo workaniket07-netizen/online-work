@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Cloud Architecture Toolkit: TypeScript + Terraform for CTO
+PRICE: $177
+TAGS: cloud architecture, typescript, terraform
+SHORT DESC: AI Cloud Architecture Toolkit: TypeScript + Terraform for CTO. $177. Commercial license.

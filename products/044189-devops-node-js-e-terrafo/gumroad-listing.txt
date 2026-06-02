@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI DevOps Toolkit: Node.js/Express + Terraform for CTO
+PRICE: $177
+TAGS: devops, node.js/express, terraform
+SHORT DESC: AI DevOps Toolkit: Node.js/Express + Terraform for CTO. $177. Commercial license.

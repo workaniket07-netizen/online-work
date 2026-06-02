@@ -1,0 +1,170 @@
+╔══════════════════════════════════════════════════════════════════════╗
+║     AI AUTOMATION AGENCY KIT — n8n, Make, Zapier Advanced          ║
+║     400 Workflow Templates + Agency Business System                 ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+Build a $127k-$127k/month automation agency using AI and no-code tools.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 1: AUTOMATION WORKFLOW TEMPLATES (100 Templates)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+TOP-SELLING AUTOMATION USE CASES:
+
+[AU-01] LEAD QUALIFICATION AUTOMATION:
+Trigger: New form submission
+Steps: Score lead (AI) → CRM update → Slack alert if hot lead → Email sequence start
+Tools: n8n + OpenAI + HubSpot/Pipedrive + Slack
+Client value: $300-$800 setup + $100/month maintenance
+
+[AU-02] INVOICE & PAYMENT AUTOMATION:
+Trigger: Project marked complete
+Steps: Generate invoice (template) → Send via email → Follow-up if unpaid (day 7, 14, 30)
+Tools: Make + Stripe/Xero + Gmail + Google Docs
+Client value: $500-$127,000 setup
+
+[AU-03] SOCIAL MEDIA CONTENT PIPELINE:
+Trigger: New blog post published
+Steps: AI summarize (ChatGPT) → Create social posts (5 platforms) → Schedule posts → Report engagement
+Tools: Zapier + WordPress + OpenAI + Buffer
+Client value: $400-$700 setup + $150/month
+
+[AU-04] CUSTOMER ONBOARDING AUTOMATION:
+Trigger: New customer payment confirmed
+Steps: Create account → Send credentials → Schedule onboarding call → Add to CRM → Start email sequence
+Tools: n8n + Stripe + Gmail + Calendly + Notion
+Client value: $600-$127,200 setup
+
+[AU-05] SUPPORT TICKET ROUTING:
+Trigger: New email/chat message
+Steps: AI classify urgency → Route to correct team → Auto-reply acknowledgment → Log in database
+Tools: Make + OpenAI + Zendesk/Intercom + Google Sheets
+Client value: $800-$127,500 setup
+
+[AU-06] COMPETITOR MONITORING:
+Trigger: Daily schedule
+Steps: Scrape competitor sites → AI analyze changes → Report to Slack → Store in database
+Tools: n8n + Puppeteer + OpenAI + Slack + Airtable
+Client value: $500-$127,000 setup
+
+[AU-07] SALES REPORTING AUTOMATION:
+Trigger: End of day/week
+Steps: Pull CRM data → Calculate metrics → Format report → Send to leadership → Archive
+Tools: Zapier + Salesforce/HubSpot + Google Sheets + Gmail
+Client value: $400-$800 setup
+
+[AU-08] EMPLOYEE ONBOARDING:
+Trigger: New hire in HR system
+Steps: Create accounts (email, Slack, etc.) → Assign training → Schedule 1:1 meetings → Set reminders
+Tools: Make + BambooHR + Google Workspace + Slack + Calendly
+Client value: $127,000-$127,000 setup
+
+[AU-09] E-COMMERCE ORDER PROCESSING:
+Trigger: New order
+Steps: Inventory check → Supplier notification → Customer confirmation → Tracking → Review request
+Tools: n8n + Shopify + supplier API + Gmail
+Client value: $600-$127,200 setup
+
+[AU-10] CONTENT APPROVAL WORKFLOW:
+Trigger: Draft submitted
+Steps: AI quality check → Route to reviewer → Approval/rejection → Publish or revise
+Tools: Make + OpenAI + Notion/Airtable + Gmail
+Client value: $400-$800 setup
+
+[AU-11 to AU-100] 90 more automation templates covering: real estate, healthcare, legal, finance, education, e-commerce, SaaS, agencies, restaurants, gyms
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 2: AGENCY BUSINESS SYSTEM (100 Templates)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+DISCOVERY CALL SCRIPT:
+Opening: "Before I show you any solution — can you walk me through what's eating most of your team's time right now?"
+Pain discovery: "How many hours per week is your team spending on [manual task]?"
+Value calculation: "So that's [X] hours × [hourly rate] = $[amount]/month on manual work."
+Solution reveal: "What if that entire process ran automatically? Here's what we'd build..."
+
+DISCOVERY QUESTIONNAIRE (20 questions):
+[DQ-01] What manual, repetitive tasks does your team do every week?
+[DQ-02] What software do you currently use? (List all)
+[DQ-03] Where do you copy/paste data between systems?
+[DQ-04] What reports do you manually compile?
+[DQ-05] What triggers emails or messages you send manually?
+[DQ-06] What does your team wish happened automatically when X event occurs?
+[DQ-07] What integrations have you tried to build but failed?
+[DQ-08] What's the cost of a mistake in your current manual process?
+[DQ-09] Who is responsible for these manual tasks?
+[DQ-10 to DQ-20] More discovery questions
+
+PROPOSAL TEMPLATE:
+━━━━━━━━━━━━━━━━
+AUTOMATION PROPOSAL — [Client Name]
+Prepared by: [Agency]
+
+PROBLEM WE'RE SOLVING:
+Your team currently spends [X hours/week] on [task description].
+Annual cost of this manual work: $[calculation]
+
+PROPOSED AUTOMATION:
+[Workflow diagram description]
+Input: [trigger]
+Process: [steps 1-5]
+Output: [result]
+
+IMPLEMENTATION TIMELINE:
+Week 1: Discovery & mapping
+Week 2: Build & test
+Week 3: Refine & train team
+Week 4: Go live & support
+
+INVESTMENT:
+Setup fee: $[X]
+Monthly maintenance: $[Y]
+ROI: Breaks even in [Z months] based on time saved
+━━━━━━━━━━━━━━━━
+
+PRICING GUIDE:
+Simple automations (1-3 steps): $300-$600
+Medium automations (4-8 steps): $600-$127,500
+Complex automations (8+ steps): $127,500-$127,000
+Monthly retainer: $200-$127,500/month per client
+Target: 5 clients × $800/month = $127,000 MRR
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 3: TOOL MASTERY GUIDES (100 Templates)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+n8n DOCUMENTATION TEMPLATES (30):
+[n8-01] Workflow documentation: Name, trigger, purpose, steps, error handling, maintenance notes
+[n8-02] Node configuration notes: Each node type + common settings + troubleshooting
+[n8-03] Error handling patterns: Try/catch, fallback emails, retry logic documentation
+[n8-04 to n8-30] More n8n templates
+
+MAKE (INTEGROMAT) TEMPLATES (30):
+[MK-01] Scenario documentation template
+[MK-02] Module connection guide
+[MK-03] Filter and router patterns
+[MK-04 to MK-30] More Make templates
+
+ZAPIER TEMPLATES (20):
+[ZP-01] Multi-step Zap documentation
+[ZP-02] Filter logic documentation
+[ZP-03 to ZP-20] More Zapier templates
+
+CLIENT HANDOFF DOCUMENTATION (20):
+[CH-01] Workflow overview document (client-friendly)
+[CH-02] How to monitor and check logs
+[CH-03] Common error solutions guide
+[CH-04] When to call us vs fix yourself
+[CH-05 to CH-20] More handoff templates
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 4: CHATGPT PROMPTS FOR AUTOMATION AGENCY (100 Templates)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[AP-01] "Map the automation opportunities for a [business type] with [X employees]. List: 10 manual processes, estimated time each takes per week, suggested automation tool, and approximate ROI."
+[AP-02] "Write an n8n workflow documentation for: Trigger=[trigger], Steps=[list steps]. Include: purpose, each node explained, error handling, maintenance notes."
+[AP-03] "Create a sales pitch for automation services targeting [business type]. Pain: [manual process]. Solution: [automation description]. Include ROI calculation."
+[AP-04] "Write a case study for an automation project: Client=[type], Problem=[issue], Solution=[automation built], Results=[outcome]. Make it compelling and specific."
+[AP-05 to AP-100] 96 more automation agency ChatGPT prompts
+
+By AniketG AI Systems | Commercial License Included

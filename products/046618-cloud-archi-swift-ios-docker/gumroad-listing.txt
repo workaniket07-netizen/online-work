@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Cloud Architecture Toolkit: Swift/iOS + Docker for VP Engineering
+PRICE: $127
+TAGS: cloud architecture, swift/ios, docker
+SHORT DESC: AI Cloud Architecture Toolkit: Swift/iOS + Docker for VP Engineering. $127. Commercial license.

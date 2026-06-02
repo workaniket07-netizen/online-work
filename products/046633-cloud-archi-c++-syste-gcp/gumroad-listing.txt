@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Cloud Architecture Toolkit: C++/Systems + GCP for Senior
+PRICE: $127
+TAGS: cloud architecture, c++/systems, gcp
+SHORT DESC: AI Cloud Architecture Toolkit: C++/Systems + GCP for Senior. $127. Commercial license.

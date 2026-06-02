@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Prompting: Batch Processing for Video Scripts using Llama 3 (Intermediate)
+PRICE: $127
+TAGS: batch processing, video scripts, prompt engineering
+SHORT DESC: AI Prompting: Batch Processing for Video Scripts using Llama 3 (Intermediate). $127. Commercial license.

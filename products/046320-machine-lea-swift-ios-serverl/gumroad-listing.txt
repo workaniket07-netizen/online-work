@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Machine Learning Toolkit: Swift/iOS + Serverless for Founding Engineer
+PRICE: $127
+TAGS: machine learning, swift/ios, serverless
+SHORT DESC: AI Machine Learning Toolkit: Swift/iOS + Serverless for Founding Engineer. $127. Commercial license.

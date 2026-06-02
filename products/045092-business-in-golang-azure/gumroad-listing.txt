@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Business Intelligence Toolkit: Golang + Azure for Mid-Level
+PRICE: $127
+TAGS: business intelligenc, golang, azure
+SHORT DESC: AI Business Intelligence Toolkit: Golang + Azure for Mid-Level. $127. Commercial license.

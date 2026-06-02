@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Machine Learning Toolkit: Python/Django + Kubernetes for Director of Engineering
+PRICE: $127
+TAGS: machine learning, python/django, kubernetes
+SHORT DESC: AI Machine Learning Toolkit: Python/Django + Kubernetes for Director of Engineering. $127. Commercial license.

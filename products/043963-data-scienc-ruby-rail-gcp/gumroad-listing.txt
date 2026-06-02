@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Data Science Toolkit: Ruby/Rails + GCP for Senior
+PRICE: $127
+TAGS: data science, ruby/rails, gcp
+SHORT DESC: AI Data Science Toolkit: Ruby/Rails + GCP for Senior. $127. Commercial license.

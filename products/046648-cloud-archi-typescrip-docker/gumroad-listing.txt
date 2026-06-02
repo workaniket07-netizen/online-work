@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Cloud Architecture Toolkit: TypeScript + Docker for VP Engineering
+PRICE: $127
+TAGS: cloud architecture, typescript, docker
+SHORT DESC: AI Cloud Architecture Toolkit: TypeScript + Docker for VP Engineering. $127. Commercial license.

@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI DevOps Toolkit: Java/Spring + Terraform for CTO
+PRICE: $177
+TAGS: devops, java/spring, terraform
+SHORT DESC: AI DevOps Toolkit: Java/Spring + Terraform for CTO. $177. Commercial license.

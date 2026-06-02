@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Prompting: Few-Shot Learning for Customer Service using Claude Opus (Intermediate)
+PRICE: $127
+TAGS: few-shot learning, customer service, prompt engineering
+SHORT DESC: AI Prompting: Few-Shot Learning for Customer Service using Claude Opus (Intermediate). $127. Commercial license.

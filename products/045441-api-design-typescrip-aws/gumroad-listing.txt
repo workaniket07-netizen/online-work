@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI API Design Toolkit: TypeScript + AWS for Junior
+PRICE: $127
+TAGS: api design, typescript, aws
+SHORT DESC: AI API Design Toolkit: TypeScript + AWS for Junior. $127. Commercial license.

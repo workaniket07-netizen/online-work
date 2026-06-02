@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Data Science Toolkit: JavaScript/React + AWS for Junior
+PRICE: $127
+TAGS: data science, javascript/react, aws
+SHORT DESC: AI Data Science Toolkit: JavaScript/React + AWS for Junior. $127. Commercial license.

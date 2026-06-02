@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Security Toolkit: Rust + Hybrid for Architect
+PRICE: $177
+TAGS: security, rust, hybrid
+SHORT DESC: AI Security Toolkit: Rust + Hybrid for Architect. $177. Commercial license.

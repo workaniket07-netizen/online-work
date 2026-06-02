@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Data Science Toolkit: Kotlin/Android + AWS for Junior
+PRICE: $127
+TAGS: data science, kotlin/android, aws
+SHORT DESC: AI Data Science Toolkit: Kotlin/Android + AWS for Junior. $127. Commercial license.

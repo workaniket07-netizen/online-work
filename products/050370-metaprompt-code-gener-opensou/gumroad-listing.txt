@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Prompting: Meta-Prompting for Code Generation using Open Source Models (Intermediate)
+PRICE: $127
+TAGS: meta-prompting, code generation, prompt engineering
+SHORT DESC: AI Prompting: Meta-Prompting for Code Generation using Open Source Models (Intermediate). $127. Commercial license.

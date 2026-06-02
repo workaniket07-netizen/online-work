@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Cloud Architecture Toolkit: Golang + AWS for Junior
+PRICE: $127
+TAGS: cloud architecture, golang, aws
+SHORT DESC: AI Cloud Architecture Toolkit: Golang + AWS for Junior. $127. Commercial license.

@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Prompting: Constrained Generation for Customer Service using Mistral (Advanced)
+PRICE: $147
+TAGS: constrained generati, customer service, prompt engineering
+SHORT DESC: AI Prompting: Constrained Generation for Customer Service using Mistral (Advanced). $147. Commercial license.

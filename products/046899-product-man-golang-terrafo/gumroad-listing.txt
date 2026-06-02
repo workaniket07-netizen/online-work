@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Product Management Toolkit: Golang + Terraform for CTO
+PRICE: $177
+TAGS: product management, golang, terraform
+SHORT DESC: AI Product Management Toolkit: Golang + Terraform for CTO. $177. Commercial license.

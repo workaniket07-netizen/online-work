@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI DevOps Toolkit: Scala/Spark + Azure for Mid-Level
+PRICE: $127
+TAGS: devops, scala/spark, azure
+SHORT DESC: AI DevOps Toolkit: Scala/Spark + Azure for Mid-Level. $127. Commercial license.

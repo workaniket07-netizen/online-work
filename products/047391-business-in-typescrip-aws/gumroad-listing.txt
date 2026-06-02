@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Business Intelligence Toolkit: TypeScript + AWS for Junior
+PRICE: $127
+TAGS: business intelligenc, typescript, aws
+SHORT DESC: AI Business Intelligence Toolkit: TypeScript + AWS for Junior. $127. Commercial license.

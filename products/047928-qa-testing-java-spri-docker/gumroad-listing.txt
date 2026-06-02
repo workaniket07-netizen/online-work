@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI QA Testing Toolkit: Java/Spring + Docker for VP Engineering
+PRICE: $127
+TAGS: qa testing, java/spring, docker
+SHORT DESC: AI QA Testing Toolkit: Java/Spring + Docker for VP Engineering. $127. Commercial license.

@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Prompting: Chain-of-Thought for Customer Service using GPT-4 Vision (Advanced)
+PRICE: $147
+TAGS: chain-of-thought, customer service, prompt engineering
+SHORT DESC: AI Prompting: Chain-of-Thought for Customer Service using GPT-4 Vision (Advanced). $147. Commercial license.

@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Prompting: Constrained Generation for Image Generation using Gemini Pro (Beginner)
+PRICE: $127
+TAGS: constrained generati, image generation, prompt engineering
+SHORT DESC: AI Prompting: Constrained Generation for Image Generation using Gemini Pro (Beginner). $127. Commercial license.

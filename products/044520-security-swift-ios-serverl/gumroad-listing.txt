@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Security Toolkit: Swift/iOS + Serverless for Founding Engineer
+PRICE: $127
+TAGS: security, swift/ios, serverless
+SHORT DESC: AI Security Toolkit: Swift/iOS + Serverless for Founding Engineer. $127. Commercial license.

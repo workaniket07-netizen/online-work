@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Machine Learning Toolkit: Ruby/Rails + GCP for Senior
+PRICE: $127
+TAGS: machine learning, ruby/rails, gcp
+SHORT DESC: AI Machine Learning Toolkit: Ruby/Rails + GCP for Senior. $127. Commercial license.

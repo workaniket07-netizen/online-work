@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Systems Architecture Toolkit: C++/Systems + Serverless for Founding Engineer
+PRICE: $127
+TAGS: systems architecture, c++/systems, serverless
+SHORT DESC: AI Systems Architecture Toolkit: C++/Systems + Serverless for Founding Engineer. $127. Commercial license.

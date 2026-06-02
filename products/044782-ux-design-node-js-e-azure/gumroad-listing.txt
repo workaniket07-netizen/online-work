@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI UX Design Toolkit: Node.js/Express + Azure for Mid-Level
+PRICE: $127
+TAGS: ux design, node.js/express, azure
+SHORT DESC: AI UX Design Toolkit: Node.js/Express + Azure for Mid-Level. $127. Commercial license.

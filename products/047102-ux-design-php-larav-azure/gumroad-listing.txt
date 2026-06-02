@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI UX Design Toolkit: PHP/Laravel + Azure for Mid-Level
+PRICE: $127
+TAGS: ux design, php/laravel, azure
+SHORT DESC: AI UX Design Toolkit: PHP/Laravel + Azure for Mid-Level. $127. Commercial license.

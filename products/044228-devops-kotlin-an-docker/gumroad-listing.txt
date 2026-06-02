@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI DevOps Toolkit: Kotlin/Android + Docker for VP Engineering
+PRICE: $127
+TAGS: devops, kotlin/android, docker
+SHORT DESC: AI DevOps Toolkit: Kotlin/Android + Docker for VP Engineering. $127. Commercial license.

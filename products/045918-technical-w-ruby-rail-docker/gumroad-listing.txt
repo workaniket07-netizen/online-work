@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Technical Writing Toolkit: Ruby/Rails + Docker for VP Engineering
+PRICE: $127
+TAGS: technical writing, ruby/rails, docker
+SHORT DESC: AI Technical Writing Toolkit: Ruby/Rails + Docker for VP Engineering. $127. Commercial license.

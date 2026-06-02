@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI API Design Toolkit: Rust + On-Premise for Principal
+PRICE: $177
+TAGS: api design, rust, on-premise
+SHORT DESC: AI API Design Toolkit: Rust + On-Premise for Principal. $177. Commercial license.

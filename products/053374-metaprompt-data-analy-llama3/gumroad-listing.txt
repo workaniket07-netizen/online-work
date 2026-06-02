@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Prompting: Meta-Prompting for Data Analysis using Llama 3 (Intermediate)
+PRICE: $127
+TAGS: meta-prompting, data analysis, prompt engineering
+SHORT DESC: AI Prompting: Meta-Prompting for Data Analysis using Llama 3 (Intermediate). $127. Commercial license.

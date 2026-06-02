@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Security Toolkit: R/Statistical + Terraform for CTO
+PRICE: $177
+TAGS: security, r/statistical, terraform
+SHORT DESC: AI Security Toolkit: R/Statistical + Terraform for CTO. $177. Commercial license.

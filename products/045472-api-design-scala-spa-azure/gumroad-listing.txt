@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI API Design Toolkit: Scala/Spark + Azure for Mid-Level
+PRICE: $127
+TAGS: api design, scala/spark, azure
+SHORT DESC: AI API Design Toolkit: Scala/Spark + Azure for Mid-Level. $127. Commercial license.

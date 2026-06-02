@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI API Design Toolkit: Kotlin/Android + AWS for Junior
+PRICE: $127
+TAGS: api design, kotlin/android, aws
+SHORT DESC: AI API Design Toolkit: Kotlin/Android + AWS for Junior. $127. Commercial license.

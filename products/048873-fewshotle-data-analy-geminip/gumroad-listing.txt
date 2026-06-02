@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Prompting: Few-Shot Learning for Data Analysis using Gemini Pro (Beginner)
+PRICE: $127
+TAGS: few-shot learning, data analysis, prompt engineering
+SHORT DESC: AI Prompting: Few-Shot Learning for Data Analysis using Gemini Pro (Beginner). $127. Commercial license.

@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Prompting: RAG Integration for Customer Service using Claude Sonnet (Intermediate)
+PRICE: $127
+TAGS: rag integration, customer service, prompt engineering
+SHORT DESC: AI Prompting: RAG Integration for Customer Service using Claude Sonnet (Intermediate). $127. Commercial license.

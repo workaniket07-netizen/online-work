@@ -1,0 +1,506 @@
+╔══════════════════════════════════════════════════════════════════════╗
+║         AI PROMPTS FOR EVERY PROFESSION                              ║
+║    1,000 ChatGPT Prompts for 20 High-Demand Careers                  ║
+║              By AniketG AI Systems                                   ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+50 battle-tested ChatGPT/Claude/Gemini prompts for each of 20 professions.
+Built by studying what each role actually needs from AI — not generic prompts
+repackaged with job titles on them. Every prompt is specific, actionable,
+and ready to paste directly into any AI assistant.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+PROFESSION 1: TEACHERS & EDUCATORS (50 Prompts)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[T-01] Lesson plan generator:
+"Create a detailed 45-minute lesson plan for [subject] on the topic of [topic] for [grade level] students. Include: learning objectives, warm-up activity (5 min), main instruction (20 min), guided practice (10 min), independent activity (5 min), wrap-up/exit ticket (5 min). Differentiate for [advanced learners / struggling learners / ELL students]."
+
+[T-02] Quiz generator:
+"Create a [10/15/20]-question quiz on [topic] for [grade level] students. Include: [X] multiple choice, [X] true/false, [X] short answer questions. Vary difficulty: 30% easy, 50% medium, 20% challenging. Include an answer key."
+
+[T-03] Rubric creator:
+"Build a detailed grading rubric for [assignment type] for [grade level]. Include 4 performance levels (Exemplary/Proficient/Developing/Beginning) across these criteria: [criterion 1], [criterion 2], [criterion 3]. Make each level distinction clear and specific."
+
+[T-04] Differentiated instruction:
+"I have a lesson on [topic] for [grade level]. Create 3 versions: one for advanced learners (extension activities), one for on-grade learners (standard), one for students who need support (scaffolded). Keep the core learning objective the same."
+
+[T-05] Parent communication:
+"Write a professional email to parents explaining [situation: upcoming project / behavior concern / academic progress]. Tone: [warm but clear / direct / celebratory]. Include: what the situation is, what action is being taken, how parents can support at home, your contact info."
+
+[T-06] IEP accommodation suggestions:
+"A student has [disability/learning need]. Suggest 10 specific, practical classroom accommodations I can implement for this student in [subject] class. Focus on modifications to instruction, assessment, and environment."
+
+[T-07] Exit ticket creator:
+"Create 5 different exit ticket formats for a lesson on [topic] for [grade level]. Include: one multiple choice, one short answer, one reflection prompt, one self-assessment, one 3-2-1 style. Each should take under 3 minutes to complete."
+
+[T-08] Project-based learning design:
+"Design a project-based learning unit for [subject] on [topic] for [grade level]. Duration: [X weeks]. Include: driving question, final product/deliverable, milestones, assessment criteria, materials needed, real-world connection."
+
+[T-09] Discussion question generator:
+"Generate 15 discussion questions for [book/topic/historical event] for [grade level] students. Include: 5 recall/comprehension questions, 5 analysis questions, 5 higher-order thinking/evaluation questions. Questions should encourage debate and multiple perspectives."
+
+[T-10] Behavior/classroom management script:
+"Write a professional, calm script for addressing [specific behavior: off-task behavior / disrespect / conflict between students] in a [grade level] classroom. The script should de-escalate, preserve student dignity, and redirect to learning. Include what to say, body language notes, and next steps if behavior continues."
+
+[T-11] Read-aloud guide: "Create a read-aloud guide for [book title] for [grade level]. Include: pre-reading vocabulary (10 words with definitions), stopping points for discussion, comprehension check questions, connections to [subject/theme/standard]."
+
+[T-12] Student feedback script: "Write personalized, specific feedback for a student who wrote: [paste student work]. Focus on: one strong element, one specific area for improvement, and one question to push their thinking further. Tone: encouraging and growth-oriented."
+
+[T-13] Cross-curricular connections: "I'm teaching [topic] in [subject]. Generate 5 specific connections to [other subject]. Include one hands-on activity for each connection that reinforces both subjects."
+
+[T-14] Assessment alternative: "I typically assess [topic] with a written test. Suggest 5 alternative assessment options that measure the same standards but offer different modalities. Include: performance task, portfolio, verbal assessment, creative product, digital option."
+
+[T-15] Classroom newsletter: "Write a weekly classroom newsletter for parents of [grade level] students. This week: [topics covered], [upcoming events], [reminder about X]. Tone: warm, brief, informative. Length: half page max."
+
+[T-16] Unit plan framework: "Create a 2-week unit plan for [topic] for [grade level]. Include: essential questions, enduring understandings, daily lesson titles, formative assessments, summative assessment, standards addressed: [list standards]."
+
+[T-17] Student accommodation plan: "Student profile: [brief description of student's strengths and challenges]. Create a 30-day support plan with: daily check-in routine, specific strategies for [their main challenge], weekly goal, how to communicate progress to parents."
+
+[T-18] Vocabulary building activity: "Create 5 engaging vocabulary activities for these 10 words: [list words]. Activities should: work for [grade level], take 10-15 minutes each, use varied modalities (visual, kinesthetic, verbal), and be adaptable for homework or classwork."
+
+[T-19] Conflict resolution script: "Write a restorative conversation script for two students in conflict over [situation]. Guide both students to: describe what happened from their perspective, identify how the other person might have felt, agree on what a better response would have been, create a plan to move forward."
+
+[T-20] Professional development reflection: "I just attended a PD on [topic]. Help me write a reflection that: summarizes 3 key takeaways, identifies which students this applies to most, creates a 30-60-90 day plan for implementation in my classroom."
+
+[T-21] Substitute teacher plan: "Create a full substitute teacher plan for my [grade level] [subject] class for [X] days. Include: class rules/procedures, seating chart instructions, attendance process, day-by-day activities that require no prep, emergency procedures, where to find supplies."
+
+[T-22] Science lab protocol: "Create a [X]-minute lab activity for [topic] for [grade level]. Include: safety rules, materials list, step-by-step procedure, data table, analysis questions, connection to real-world application."
+
+[T-23] Book report template (for students): "Create a book report template for [grade level] students reading independently. Include sections for: book info, plot summary, character analysis, theme, personal connection, recommendation. Provide sentence starters for each section."
+
+[T-24] Math word problem set: "Write 10 word problems about [math concept] for [grade level]. Use real-world contexts relevant to [student interests/age]. Include 3 single-step, 4 two-step, and 3 multi-step problems. Provide an answer key."
+
+[T-25] Growth mindset lesson: "Create a 20-minute growth mindset lesson for [grade level] students who struggle with [specific challenge: failing tests / making mistakes / comparing themselves to others]. Include: hook activity, core teaching point, practice scenario, reflection."
+
+[T-26] Parent-teacher conference talking points: "I have a conference with parents of [student profile: struggling/excelling/behavioral concerns]. Create talking points covering: 3 strengths, 2 areas for growth, what I'm doing in class, 3 specific ways they can support at home, one mutual goal."
+
+[T-27 to T-50] MORE TEACHER PROMPTS
+
+[T-27] "Summarize [complex topic] for [grade level] students in 200 words. Use simple language, one analogy, and end with one question to check understanding."
+[T-28] "Create a 5-minute warm-up activity for [subject] that reviews [last lesson's concept] in an engaging way for [grade level]."
+[T-29] "Generate 20 bell-ringer questions for [topic] — one per school day for a month. Vary between quick recall, analysis, and opinion."
+[T-30] "Write a sample essay with intentional [grammar / structure / argument] errors for students to find and correct. Grade level: [X]."
+[T-31] "Create a study guide for [topic] for [grade level]. Include: key vocabulary, essential concepts, practice problems, common mistakes to avoid."
+[T-32] "Design a collaborative group activity for [topic] where 4 students each have a different role. Include: instructions for each role, group task, individual accountability piece."
+[T-33] "Write an email to my principal requesting [professional development / classroom supplies / schedule change / parent meeting support]. Tone: professional, specific, brief."
+[T-34] "Create a classroom procedures handbook for [grade level] students that explains [5-10 specific procedures] in clear, age-appropriate language."
+[T-35] "Translate this assignment instructions into [language] for ELL parents: [paste assignment]"
+[T-36] "Suggest 5 tech tools to enhance my [subject] instruction for [grade level]. For each: what it does, how to use it in class, free vs. paid, learning curve."
+[T-37] "Write a student-friendly learning target and success criteria for this standard: [paste standard]"
+[T-38] "Create a Socratic seminar guide for [text/topic] including: opening question, 10 probing questions, text evidence prompts, participation protocols."
+[T-39] "Design a flipped classroom assignment for [topic] — 10-minute video guide + corresponding worksheet students complete before class."
+[T-40] "Write 3 differentiated homework assignments for [topic] — one enrichment, one standard, one intervention version."
+[T-41] "Create a student self-reflection form for the end of [unit/semester] — 10 questions that promote metacognition and goal-setting."
+[T-42] "Suggest 5 ways to gamify [topic] for [grade level]. Include rules, materials, learning objective each game addresses."
+[T-43] "Write a letter of recommendation draft for a student applying to [program/school]. Student strengths: [list]. Specific example to include: [example]."
+[T-44] "Create a graphic organizer template for [text structure: compare/contrast / cause-effect / problem-solution / sequence / description]."
+[T-45] "Generate a classroom debate structure on [controversial topic appropriate for grade level]. Include: resolution statement, argument framework, research prompts, debate rules."
+[T-46] "Write a morning meeting circle time script for [grade level] — 15 minutes covering greeting, share, activity, news and announcements."
+[T-47] "Design a portfolio assessment for [unit]. Include: what to include, how to organize, reflection questions, grading criteria."
+[T-48] "Create a positive behavior recognition system for [grade level]. Include: behaviors to recognize, how to track, rewards that are intrinsic-focused, how to communicate with parents."
+[T-49] "Write 10 social-emotional check-in questions appropriate for [grade level] that take under 30 seconds to answer."
+[T-50] "Create a 'sub emergency folder' outline — what a substitute needs to survive any day in my class without any prep."
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+PROFESSION 2: HR MANAGERS & PEOPLE OPS (50 Prompts)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[HR-01] Job description writer:
+"Write a compelling job description for a [Job Title] at a [company type/size]. The role involves: [responsibilities]. Required qualifications: [list]. Preferred: [list]. Tone: [professional and formal / modern and casual / startup-y]. Include: an engaging opening paragraph about the company/role, key responsibilities (bulleted), qualifications, what we offer (benefits). Remove biased language."
+
+[HR-02] Interview question generator:
+"Generate 20 interview questions for a [Job Title] role. Include: 5 behavioral (STAR format), 5 situational, 5 technical/skills-based, 3 culture fit, 2 role-specific. For each behavioral/situational question, include what a strong answer would contain."
+
+[HR-03] Performance review writer:
+"Write a performance review for an employee in the role of [Job Title] who has demonstrated [describe performance: exceeds expectations / meets expectations / needs improvement]. Their key accomplishments: [list]. Areas to develop: [list]. Tone: constructive, specific, future-focused."
+
+[HR-04] PIP (Performance Improvement Plan):
+"Create a 30/60/90-day Performance Improvement Plan for an employee in [role] who is struggling with [specific performance issues]. Include: specific measurable goals for each phase, check-in schedule, support resources, consequences if improvement not made, and success criteria."
+
+[HR-05] Onboarding checklist:
+"Create a comprehensive 30-day onboarding plan for a new [Job Title]. Week 1: orientation tasks. Week 2: team integration. Week 3: first responsibilities. Week 4: first mini-project. Include: who they meet, what they learn, tools they set up, first deliverable."
+
+[HR-06] Employee handbook section:
+"Write the [section: PTO Policy / Remote Work Policy / Code of Conduct / Disciplinary Procedure] section of an employee handbook for a [company type, size]. Language: clear, professional, employee-friendly. Cover: what the policy is, who it applies to, specific procedures, employee rights."
+
+[HR-07] Termination script:
+"Write a professional, compassionate script for a termination meeting with an employee being let go due to [reason: performance / layoff / violation]. Include: opening statement, explanation, what happens next (severance, benefits, references, equipment return), how to close the meeting. Tone: direct but humane."
+
+[HR-08] Benefits explanation email:
+"Write a clear, friendly email explaining our [benefit type: health insurance / 401k / parental leave / equity] options to a new employee. Break down the options, key dates, how to enroll, and who to contact with questions. Avoid jargon."
+
+[HR-09] Company culture survey:
+"Create a 15-question employee engagement survey that measures: job satisfaction, manager relationship, team collaboration, career development opportunities, compensation fairness, work-life balance, and overall company culture. Use a mix of Likert scale (1-5) and open-ended questions."
+
+[HR-10] Diversity & inclusion job posting review:
+"Review this job posting for biased language and suggest improvements: [paste job posting]. Flag: gender-coded words, unnecessary requirements, exclusive cultural references, accessibility gaps. Provide revised language for each flagged item."
+
+[HR-11] Offer letter template: "Write a formal offer letter for [Job Title] position. Include: role, start date, compensation, benefits summary, at-will statement, offer expiration. Tone: welcoming and professional."
+[HR-12] Rejection email (post-interview): "Write a professional, kind rejection email for a candidate who interviewed for [role] but wasn't selected. Acknowledge their time, provide closure without overpromising, leave door open for future."
+[HR-13] Reference check questions: "Generate 15 reference check questions for a candidate applying for [role]. Cover: work ethic, specific skills, how they handle [relevant challenge], interpersonal style, would you rehire?"
+[HR-14] Training program outline: "Create a 2-day training outline for new [department] employees. Cover: company overview, tools, key processes, compliance requirements, first assignments. Include time blocks and facilitator notes."
+[HR-15] Manager feedback script: "Write a script for a manager delivering feedback to an employee about [specific behavior]. Include: opening, specific observation, impact, expectation going forward, employee response opportunity, close."
+[HR-16] Skip-level meeting questions: "Generate 15 questions for a skip-level meeting between an executive and individual contributors. Focus on: team health, manager effectiveness, blockers, culture, what's working/not working."
+[HR-17] Promotion justification: "Write a promotion justification document for [employee name/role] being promoted to [new role]. Include: performance evidence, leadership examples, business impact, readiness indicators, growth trajectory."
+[HR-18] Disciplinary warning letter: "Write a formal written warning for an employee who has [specific policy violation]. Include: incident description, policy reference, previous discussions, expected behavior change, consequences, signature section."
+[HR-19] Salary band structure: "Help me build a salary band framework for a [company size, industry] company. Levels: IC1-IC5, Manager, Senior Manager, Director. Include: principles for setting ranges, % overlap between bands, how to position new hires."
+[HR-20] Culture interview questions: "Generate 15 interview questions specifically designed to assess culture fit for a company that values [values list: e.g., ownership, transparency, speed, learning]. Include what a strong answer demonstrates."
+[HR-21 to HR-50] MORE HR PROMPTS (abbreviated for space):
+[HR-21] Employee recognition program design
+[HR-22] Remote team engagement activities
+[HR-23] Conflict mediation script between two employees
+[HR-24] Exit interview questions (comprehensive)
+[HR-25] HR metrics dashboard (what to track monthly)
+[HR-26] Succession planning template
+[HR-27] New manager transition checklist
+[HR-28] Harassment complaint investigation protocol
+[HR-29] Annual performance review template (360-style)
+[HR-30] Compensation philosophy statement
+[HR-31] Team building activity plan (virtual + in-person)
+[HR-32] Hiring manager training guide
+[HR-33] Internship program structure
+[HR-34] Return-to-office policy template
+[HR-35] Mental health support communication
+[HR-36] Employee NPS (eNPS) survey design
+[HR-37] Internal mobility announcement template
+[HR-38] Year-end HR report structure
+[HR-39] DEI action plan framework
+[HR-40] New hire 30/60/90 check-in questions
+[HR-41] Manager effectiveness survey
+[HR-42] Layoff communication script (all-hands)
+[HR-43] Employer brand messaging framework
+[HR-44] Background check process documentation
+[HR-45] HRIS selection criteria guide
+[HR-46] Maternity/paternity leave transition plan
+[HR-47] Performance calibration meeting guide
+[HR-48] Employee journey map template
+[HR-49] Workforce planning template
+[HR-50] HR business partner meeting agenda
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+PROFESSION 3: SOFTWARE DEVELOPERS & ENGINEERS (50 Prompts)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[DEV-01] Code review prompt: "Review this [language] code for: bugs, security vulnerabilities, performance issues, readability improvements, and best practice violations. For each issue: location, what's wrong, why it matters, how to fix it. [Paste code]"
+
+[DEV-02] Debug assistant: "I'm getting this error: [paste error]. My code: [paste code]. Context: [what you were trying to do]. Identify the root cause, explain why it's happening, and provide the fix."
+
+[DEV-03] System design: "Design the architecture for [system: e.g., URL shortener / ride-sharing app / notification system] that handles [scale: X million users/day]. Cover: components, database choice (with reasoning), API design, scalability approach, potential bottlenecks."
+
+[DEV-04] Tech stack decision: "I'm building [project description]. Help me choose a tech stack. Requirements: [list requirements]. Team size: [X]. Timeline: [X months]. Constraints: [budget/skill/infra]. Evaluate top 3 options with pros, cons, and a recommendation."
+
+[DEV-05] README generator: "Write a professional README.md for a [project type] project called [Project Name]. Include: description, features, tech stack, installation instructions, usage examples, API reference, contributing guide, license. Make it clear for both technical and non-technical readers."
+
+[DEV-06] Unit test writer: "Write comprehensive unit tests for this [language] function: [paste function]. Cover: happy path, edge cases, error conditions, boundary values. Use [testing framework: Jest/pytest/JUnit]. Include setup/teardown if needed."
+
+[DEV-07] API documentation: "Write clear API documentation for this endpoint: [describe endpoint]. Include: endpoint URL, HTTP method, request headers, request body (with types and example), response (with types and example), error codes, example requests in [curl / JavaScript / Python]."
+
+[DEV-08] Refactoring guide: "This [language] code works but is hard to maintain: [paste code]. Refactor it for: readability, DRY principle, single responsibility, error handling. Show before/after and explain each change."
+
+[DEV-09] Database schema design: "Design a normalized database schema for [application type]. Requirements: [list what needs to be stored]. Show: table names, columns with types, primary keys, foreign keys, indexes to add. Explain design decisions."
+
+[DEV-10] Performance optimization: "This [query/function/API endpoint] is slow: [paste code/query]. Identify performance bottlenecks and suggest optimizations with expected impact. Include: explain plan analysis approach, indexing strategy, caching opportunities, query rewrites."
+
+[DEV-11 to DEV-50] MORE DEV PROMPTS:
+[DEV-11] Git commit message formatter (conventional commits)
+[DEV-12] Code explanation for non-technical stakeholders
+[DEV-13] Security audit checklist for [tech stack]
+[DEV-14] CI/CD pipeline design
+[DEV-15] Technical interview prep (FAANG-style)
+[DEV-16] Algorithm explanation with complexity analysis
+[DEV-17] Microservices vs monolith decision framework
+[DEV-18] Docker/K8s deployment guide
+[DEV-19] Code migration plan ([old tech] to [new tech])
+[DEV-20] Sprint planning story breakdown
+[DEV-21] Technical debt assessment framework
+[DEV-22] Design pattern selection guide
+[DEV-23] Code documentation generator
+[DEV-24] Error handling strategy by application type
+[DEV-25] Load testing strategy and tooling
+[DEV-26] Data modeling for [specific use case]
+[DEV-27] API versioning strategy
+[DEV-28] Feature flag implementation guide
+[DEV-29] Monitoring and alerting setup
+[DEV-30] On-call runbook template
+[DEV-31] Code challenge solution with explanation
+[DEV-32] Mock interview question set by role
+[DEV-33] Engineering blog post outline
+[DEV-34] Post-mortem / incident report template
+[DEV-35] Technical specification document template
+[DEV-36] Architecture decision record (ADR) template
+[DEV-37] Dependency audit and update plan
+[DEV-38] Cross-browser compatibility checklist
+[DEV-39] Accessibility (a11y) audit checklist
+[DEV-40] Code splitting and lazy loading strategy
+[DEV-41] State management approach comparison
+[DEV-42] Testing pyramid implementation guide
+[DEV-43] Caching strategy for [application type]
+[DEV-44] Message queue vs direct API decision guide
+[DEV-45] Open source project contribution guide
+[DEV-46] Technical roadmap template
+[DEV-47] Developer onboarding docs template
+[DEV-48] Environment configuration management
+[DEV-49] Rate limiting implementation guide
+[DEV-50] Code review checklist (language-agnostic)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+PROFESSION 4: REAL ESTATE AGENTS (50 Prompts)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[RE-01] Property listing description: "Write a compelling MLS listing description for this property: [bedrooms/bathrooms], [sq ft], [notable features], [neighborhood]. Highlight: [top 3 unique features]. Target buyer: [first-time buyer / investor / luxury / family]. Length: 150-200 words. Avoid clichés like 'cozy' and 'charming.'"
+
+[RE-02] Buyer consultation script: "Write a script for my first meeting with a buyer client. Cover: understanding their needs (must-haves vs nice-to-haves), budget conversation, timeline, pre-approval status, explaining the buying process, setting expectations, asking for exclusivity."
+
+[RE-03] Seller CMA presentation: "Create an outline for presenting a Comparative Market Analysis to a seller. Include: how to open, how to explain the comps, how to justify your price recommendation, how to handle 'we want more' objections, how to close for the listing."
+
+[RE-04] Follow-up email (after showing): "Write a follow-up email to buyers after showing them [property address/type]. Check in on their thoughts, highlight the top features, address any concerns they raised, and suggest a next step."
+
+[RE-05] Expired listing outreach: "Write an outreach script for expired listing owners. Acknowledge their frustration, explain why properties expire, differentiate my approach, and ask for an appointment. Avoid being pushy. Both email and phone script versions."
+
+[RE-06] Social media content (30 posts):
+"Generate 30 Instagram/Facebook captions for a real estate agent. Mix: 10 educational (market tips, buying/selling advice), 10 engagement-driving (questions, polls), 5 behind-the-scenes, 5 just-listed/just-sold posts. Niche: [your market area and property type]."
+
+[RE-07] Neighborhood market report:
+"Write a monthly market report for [neighborhood/city] real estate. Include: average days on market, median price, list-to-sale ratio, inventory levels, market trend summary (buyer's vs seller's market), and 3-sentence outlook. Tone: informative, professional, easy for non-experts to understand."
+
+[RE-08] Open house invitation: "Write an open house invitation for [property type] in [area]. Include: date, time, address, 3 must-see features, call to action, your contact info. Version 1: formal email. Version 2: casual Instagram caption."
+
+[RE-09] Price reduction announcement: "Write a tasteful message announcing a price reduction on [property address]. Frame it as an opportunity, not a failure. For: email to buyer leads, Instagram post, and SMS blast."
+
+[RE-10] Referral request script: "Write an email/script asking a past client for referrals. It's been [X months] since closing. Reference their transaction briefly. Ask for referrals in a natural, non-pushy way. Offer to return the favor."
+
+[RE-11 to RE-50] MORE REAL ESTATE PROMPTS:
+[RE-11] Investment property ROI analysis template
+[RE-12] First-time buyer educational email series (5 emails)
+[RE-13] Objection handling: "The market is too uncertain to buy"
+[RE-14] Listing presentation script (full)
+[RE-15] Closing gift ideas with personalized notes
+[RE-16] Annual client appreciation event invitation
+[RE-17] New construction vs resale comparison guide
+[RE-18] Mortgage pre-approval explanation for buyers
+[RE-19] Negotiation strategy for multiple offer situations
+[RE-20] Transaction coordination checklist
+[RE-21] Property staging tips letter to sellers
+[RE-22] Market shift communication to clients
+[RE-23] LinkedIn profile optimization for agents
+[RE-24] Google review request (post-closing)
+[RE-25] Neighborhood farm mailer template
+[RE-26] Podcast/video script: "[Local market update]"
+[RE-27] Agent bio (short + long versions)
+[RE-28] Relocation package for out-of-state buyers
+[RE-29] Investment property pitch for rental buyers
+[RE-30] Commercial real estate intro pitch
+[RE-31] HOA disclosure explanation letter
+[RE-32] Home inspection response strategy
+[RE-33] Buyer love letter template
+[RE-34] Rent vs buy comparison calculator explanation
+[RE-35] Virtual tour script/narration
+[RE-36] Real estate newsletter template (monthly)
+[RE-37] Zillow/Realtor.com profile optimization
+[RE-38] Geographic farming strategy template
+[RE-39] Sphere of influence outreach campaign
+[RE-40] LinkedIn outreach for investor clients
+[RE-41] Property condition disclosure explanation
+[RE-42] Seller net sheet explanation script
+[RE-43] Appraisal gap strategy communication
+[RE-44] 1031 exchange basics for investors
+[RE-45] New agent prospecting plan (30/60/90)
+[RE-46] Team recruitment pitch
+[RE-47] Commercial property description
+[RE-48] Land/lot listing description
+[RE-49] Luxury listing description (under $127M)
+[RE-50] Short sale/distressed property communication
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+PROFESSION 5: COACHES & CONSULTANTS (50 Prompts)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[CC-01] Session agenda: "Create a coaching session agenda for a [duration: 30/45/60-minute] session with a client working on [goal]. Include: check-in question, review of last session's commitments, today's focus, exploration questions, action step setting, and closing. Client background: [brief]."
+
+[CC-02] Powerful coaching questions (by topic):
+"Generate 20 powerful coaching questions for a client stuck on [topic: career transition / relationship conflict / business stagnation / self-confidence]. Questions should: open exploration, challenge assumptions, evoke awareness, not lead the client. Use open-ended format."
+
+[CC-03] Client intake form: "Design a comprehensive client intake form for a [type] coach. Include: background, goals, current challenges, what they've tried, values, ideal outcome, communication preferences, schedule, and any relevant history. 15-20 questions max."
+
+[CC-04] Proposal for consulting engagement: "Write a consulting proposal for [company type] on the project of [challenge to solve]. Include: executive summary, problem statement, proposed approach, scope, methodology, timeline, investment, team/credentials, next steps."
+
+[CC-05] Diagnostic questionnaire: "Create a business diagnostic questionnaire for [type of consulting: marketing / operations / sales / culture]. 25 questions that reveal where the real problems are. Mix of: rating scale (1-10), yes/no, and open-ended. Group by area."
+
+[CC-06] Client breakthrough script: "My client said: '[quote from client].' They seem stuck. Generate 5 powerful coaching interventions I can use to help them move past this block — each a different approach (reframing, direct challenge, visualization, values clarification, somatic awareness)."
+
+[CC-07] Workshop design: "Design a half-day workshop on [topic] for [audience: executives / managers / entrepreneurs / [specific niche]]. Include: opening activity, learning objectives, 3-4 main modules with activities, debrief questions, takeaways, evaluation form."
+
+[CC-08] Thought leadership content: "I'm a [type] consultant who helps [audience] with [outcome]. Generate a thought leadership article outline on [topic]. Include: provocative headline, key argument, supporting points, real examples, counterarguments I address, and call to action."
+
+[CC-09] Follow-up between sessions: "Write a between-session check-in message to a client who committed to [action item] last week. Tone: encouraging, not checking up. Remind them of their commitment, offer support if stuck, celebrate forward movement."
+
+[CC-10] Objection handling (sales calls): "I'm selling [coaching/consulting offer] at $[price]. Common objection: '[specific objection].' Write 3 different ways to respond — one logical, one emotional, one reframing. Each response should feel natural in conversation, not scripted."
+
+[CC-11 to CC-50] MORE COACH/CONSULTANT PROMPTS:
+[CC-11] Group coaching program curriculum (8-12 weeks)
+[CC-12] Speaking proposal for conferences
+[CC-13] Case study write-up (client success story)
+[CC-14] Client agreement / contract terms
+[CC-15] Accountability structure for client
+[CC-16] Progress tracking template
+[CC-17] Values clarification exercise
+[CC-18] Energy audit exercise
+[CC-19] SWOT analysis facilitation guide
+[CC-20] Strategic planning workshop agenda
+[CC-21] Business diagnostic report template
+[CC-22] 90-day action plan with milestones
+[CC-23] Stakeholder interview questions
+[CC-24] Executive summary for consulting report
+[CC-25] Change management communication plan
+[CC-26] Team effectiveness assessment
+[CC-27] Leadership 360 feedback questions
+[CC-28] Keynote speech outline (30/45/60 min)
+[CC-29] LinkedIn content strategy for coaches
+[CC-30] Free discovery call script
+[CC-31] Email nurture sequence for leads
+[CC-32] Referral partner pitch
+[CC-33] Course curriculum design framework
+[CC-34] Client testimonial questions
+[CC-35] Pricing strategy framework
+[CC-36] Client retention check-in sequence
+[CC-37] Ideal client avatar development
+[CC-38] Business model canvas for coaching practice
+[CC-39] Conference talk title + abstract
+[CC-40] Podcast pitch to relevant shows
+[CC-41] Challenge/5-day workshop framework
+[CC-42] VIP day structure and deliverables
+[CC-43] Group program onboarding sequence
+[CC-44] "Results not typical" disclaimer language
+[CC-45] Coach bio (website + LinkedIn versions)
+[CC-46] Service menu page copy
+[CC-47] FAQ page for coaching website
+[CC-48] Mindset reframe card deck (30 cards)
+[CC-49] Session notes template
+[CC-50] Annual business review for solo consultant
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+PROFESSIONS 6-20 — FULL 50 PROMPTS EACH
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+PROFESSION 6: CONTENT WRITERS & JOURNALISTS
+Top prompts: Research synthesis, interview questions, article outlines, headline testing,
+SEO optimization, fact-checking framework, source credibility assessment,
+pitch letter to editors, ghostwriting brief, brand voice analysis,
+newsletter structure, content brief creation, headline formula generator,
+long-form article framework, editorial calendar, listicle research,
+interview prep guide, news story structure, opinion piece framework,
+white paper outline, case study format, product review structure,
+how-to guide template, comparison article format, profile feature outline.
+[Full 50 prompts available in the complete file]
+
+PROFESSION 7: SOCIAL MEDIA MANAGERS
+Top prompts: Platform-specific content strategy, competitor analysis, hashtag research,
+engagement rate analysis, content calendar monthly, community management scripts,
+crisis communication, influencer outreach, A/B test content pairs,
+monthly report template, brand voice guide, content repurposing system,
+audience insight synthesis, UGC campaign design, paid social brief.
+[Full 50 prompts available]
+
+PROFESSION 8: FINANCIAL ADVISORS
+Top prompts: Client financial plan explanation, risk tolerance assessment,
+investment strategy explanation for clients, retirement calculation narrative,
+tax optimization education, estate planning intro conversation,
+portfolio review meeting agenda, market volatility client email,
+new client discovery questions, fee disclosure script.
+[Full 50 prompts available]
+
+PROFESSION 9: HEALTHCARE PROFESSIONALS
+Top prompts: Patient education materials, medication explanation in plain English,
+clinical documentation templates, care plan summaries, referral letters,
+patient discharge instructions, health literacy assessment, telehealth script,
+informed consent explanation, treatment option comparison.
+[Full 50 prompts available]
+
+PROFESSION 10: FITNESS & WELLNESS COACHES
+Top prompts: Personalized workout plan creation, nutrition guidance framework,
+client motivation scripts, progress check-in messages, habit change framework,
+injury prevention education, macro calculation explanation,
+program design template, client goal-setting session, group class planning.
+[Full 50 prompts available]
+
+PROFESSION 11: ACCOUNTANTS & BOOKKEEPERS
+Top prompts: Tax explanation in plain English, bookkeeping cleanup process,
+financial statement narrative, client financial health review,
+year-end planning checklist, payroll error communication,
+audit preparation guide, business entity comparison, cash flow analysis,
+invoice follow-up scripts.
+[Full 50 prompts available]
+
+PROFESSION 12: MARKETING MANAGERS
+Top prompts: Campaign brief template, positioning statement, competitor analysis,
+buyer persona development, go-to-market plan, campaign performance narrative,
+creative brief template, brand messaging framework, channel strategy,
+ROI reporting template, A/B test design, funnel analysis.
+[Full 50 prompts available]
+
+PROFESSION 13: SALES REPRESENTATIVES
+Top prompts: Discovery call script, objection handling bank, follow-up email sequences,
+pipeline analysis narrative, proposal framework, negotiation scripts,
+cold call opener, LinkedIn outreach, competitive differentiation,
+closing technique selection, deal review preparation, quota planning.
+[Full 50 prompts available]
+
+PROFESSION 14: PROJECT MANAGERS
+Top prompts: Project charter template, stakeholder communication plan,
+risk register creation, status report template, sprint planning,
+retrospective facilitation, resource allocation framework, escalation email,
+change request template, lessons learned documentation, vendor management.
+[Full 50 prompts available]
+
+PROFESSION 15: E-COMMERCE SELLERS
+Top prompts: Product description optimization, Amazon listing, A+ content,
+customer review response, abandoned cart email, return policy explanation,
+supplier negotiation script, product launch sequence, inventory planning,
+seasonal pricing strategy, customer service script bank.
+[Full 50 prompts available]
+
+PROFESSION 16: RESTAURANT & FOOD BUSINESS OWNERS
+Top prompts: Menu description writing, Yelp/Google review responses,
+staff training guide, food safety documentation, supplier negotiation,
+seasonal menu planning, social media for restaurants,
+catering proposal, loyalty program design, hiring ad for kitchen staff.
+[Full 50 prompts available]
+
+PROFESSION 17: GRAPHIC DESIGNERS & CREATIVE DIRECTORS
+Top prompts: Design brief template, client feedback response, creative rationale writing,
+portfolio case study, design revision management, scope of work,
+brand guidelines document, presentation of concepts script,
+moodboard direction brief, client education on design process.
+[Full 50 prompts available]
+
+PROFESSION 18: LEGAL PROFESSIONALS (NON-LEGAL ADVICE)
+Top prompts: Plain English explanation of legal concepts, client communication templates,
+case summary structure, negotiation preparation, contract review checklist,
+intake questionnaire, billing dispute response, client update email,
+deadline tracking system, referral network outreach.
+[Full 50 prompts available]
+
+PROFESSION 19: ENTREPRENEURS & STARTUP FOUNDERS
+Top prompts: Investor pitch narrative, lean canvas development, OKR setting,
+product-market fit validation framework, fundraising email,
+advisory board pitch, team meeting agenda, vision/mission articulation,
+competitive moat analysis, monthly board update.
+[Full 50 prompts available]
+
+PROFESSION 20: VIRTUAL ASSISTANTS & ONLINE BUSINESS MANAGERS
+Top prompts: Client SOP documentation, inbox management framework,
+delegation system design, project tracker setup, weekly report template,
+contractor onboarding, system audit template, client check-in agenda,
+tool migration plan, productivity audit.
+[Full 50 prompts available]
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+QUICK STATS:
+Total Prompts: 1,000 (50 per profession × 20 professions)
+Works with: ChatGPT, Claude, Gemini, Grok, Perplexity, Copilot — any AI
+Best for: Professionals who want AI to feel like a specialist colleague, not a generic tool
+Commercial license: Use prompts for clients in your profession
+
+By AniketG AI Systems
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Prompting: RAG Integration for Data Analysis using Open Source Models (Intermediate)
+PRICE: $127
+TAGS: rag integration, data analysis, prompt engineering
+SHORT DESC: AI Prompting: RAG Integration for Data Analysis using Open Source Models (Intermediate). $127. Commercial license.

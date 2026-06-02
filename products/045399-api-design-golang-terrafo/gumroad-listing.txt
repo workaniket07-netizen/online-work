@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI API Design Toolkit: Golang + Terraform for CTO
+PRICE: $177
+TAGS: api design, golang, terraform
+SHORT DESC: AI API Design Toolkit: Golang + Terraform for CTO. $177. Commercial license.

@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI DevOps Toolkit: Java/Spring + GCP for Senior
+PRICE: $127
+TAGS: devops, java/spring, gcp
+SHORT DESC: AI DevOps Toolkit: Java/Spring + GCP for Senior. $127. Commercial license.

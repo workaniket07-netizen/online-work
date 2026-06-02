@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI UX Design Toolkit: Kotlin/Android + AWS for Junior
+PRICE: $127
+TAGS: ux design, kotlin/android, aws
+SHORT DESC: AI UX Design Toolkit: Kotlin/Android + AWS for Junior. $127. Commercial license.

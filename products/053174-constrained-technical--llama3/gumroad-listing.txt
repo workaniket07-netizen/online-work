@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Prompting: Constrained Generation for Technical Documentation using Llama 3 (Intermediate)
+PRICE: $127
+TAGS: constrained generati, technical documentat, prompt engineering
+SHORT DESC: AI Prompting: Constrained Generation for Technical Documentation using Llama 3 (Intermediate). $127. Commercial license.

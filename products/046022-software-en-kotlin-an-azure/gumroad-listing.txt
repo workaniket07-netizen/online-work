@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Software Engineering Toolkit: Kotlin/Android + Azure for Mid-Level
+PRICE: $127
+TAGS: software engineering, kotlin/android, azure
+SHORT DESC: AI Software Engineering Toolkit: Kotlin/Android + Azure for Mid-Level. $127. Commercial license.

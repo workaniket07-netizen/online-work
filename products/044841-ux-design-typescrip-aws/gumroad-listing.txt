@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI UX Design Toolkit: TypeScript + AWS for Junior
+PRICE: $127
+TAGS: ux design, typescript, aws
+SHORT DESC: AI UX Design Toolkit: TypeScript + AWS for Junior. $127. Commercial license.

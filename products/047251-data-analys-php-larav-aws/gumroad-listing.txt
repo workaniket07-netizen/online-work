@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Data Analysis Toolkit: PHP/Laravel + AWS for Junior
+PRICE: $127
+TAGS: data analysis, php/laravel, aws
+SHORT DESC: AI Data Analysis Toolkit: PHP/Laravel + AWS for Junior. $127. Commercial license.

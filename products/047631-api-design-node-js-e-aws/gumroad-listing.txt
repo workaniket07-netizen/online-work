@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI API Design Toolkit: Node.js/Express + AWS for Junior
+PRICE: $127
+TAGS: api design, node.js/express, aws
+SHORT DESC: AI API Design Toolkit: Node.js/Express + AWS for Junior. $127. Commercial license.

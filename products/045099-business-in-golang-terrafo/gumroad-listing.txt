@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Business Intelligence Toolkit: Golang + Terraform for CTO
+PRICE: $177
+TAGS: business intelligenc, golang, terraform
+SHORT DESC: AI Business Intelligence Toolkit: Golang + Terraform for CTO. $177. Commercial license.

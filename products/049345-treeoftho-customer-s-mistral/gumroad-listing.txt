@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Prompting: Tree-of-Thought for Customer Service using Mistral (Beginner)
+PRICE: $127
+TAGS: tree-of-thought, customer service, prompt engineering
+SHORT DESC: AI Prompting: Tree-of-Thought for Customer Service using Mistral (Beginner). $127. Commercial license.

@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI API Design Toolkit: PHP/Laravel + Terraform for CTO
+PRICE: $177
+TAGS: api design, php/laravel, terraform
+SHORT DESC: AI API Design Toolkit: PHP/Laravel + Terraform for CTO. $177. Commercial license.

@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Cloud Architecture Toolkit: Java/Spring + Terraform for CTO
+PRICE: $177
+TAGS: cloud architecture, java/spring, terraform
+SHORT DESC: AI Cloud Architecture Toolkit: Java/Spring + Terraform for CTO. $177. Commercial license.

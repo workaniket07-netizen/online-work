@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Cloud Architecture Toolkit: Java/Spring + Azure for Mid-Level
+PRICE: $127
+TAGS: cloud architecture, java/spring, azure
+SHORT DESC: AI Cloud Architecture Toolkit: Java/Spring + Azure for Mid-Level. $127. Commercial license.

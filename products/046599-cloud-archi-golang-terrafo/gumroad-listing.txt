@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Cloud Architecture Toolkit: Golang + Terraform for CTO
+PRICE: $177
+TAGS: cloud architecture, golang, terraform
+SHORT DESC: AI Cloud Architecture Toolkit: Golang + Terraform for CTO. $177. Commercial license.

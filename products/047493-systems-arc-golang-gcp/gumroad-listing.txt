@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Systems Architecture Toolkit: Golang + GCP for Senior
+PRICE: $127
+TAGS: systems architecture, golang, gcp
+SHORT DESC: AI Systems Architecture Toolkit: Golang + GCP for Senior. $127. Commercial license.

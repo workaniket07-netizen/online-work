@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Software Engineering Toolkit: Python/Django + GCP for Senior
+PRICE: $127
+TAGS: software engineering, python/django, gcp
+SHORT DESC: AI Software Engineering Toolkit: Python/Django + GCP for Senior. $127. Commercial license.

@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Data Analysis Toolkit: Python/Django + AWS for Junior
+PRICE: $127
+TAGS: data analysis, python/django, aws
+SHORT DESC: AI Data Analysis Toolkit: Python/Django + AWS for Junior. $127. Commercial license.

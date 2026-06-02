@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Security Toolkit: Kotlin/Android + Azure for Mid-Level
+PRICE: $127
+TAGS: security, kotlin/android, azure
+SHORT DESC: AI Security Toolkit: Kotlin/Android + Azure for Mid-Level. $127. Commercial license.

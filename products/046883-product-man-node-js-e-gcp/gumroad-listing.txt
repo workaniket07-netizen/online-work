@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Product Management Toolkit: Node.js/Express + GCP for Senior
+PRICE: $127
+TAGS: product management, node.js/express, gcp
+SHORT DESC: AI Product Management Toolkit: Node.js/Express + GCP for Senior. $127. Commercial license.

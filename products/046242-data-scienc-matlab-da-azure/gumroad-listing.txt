@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Data Science Toolkit: MATLAB/Data + Azure for Mid-Level
+PRICE: $127
+TAGS: data science, matlab/data, azure
+SHORT DESC: AI Data Science Toolkit: MATLAB/Data + Azure for Mid-Level. $127. Commercial license.

@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Business Intelligence Toolkit: Rust + Multi-Cloud for Staff
+PRICE: $177
+TAGS: business intelligenc, rust, multi-cloud
+SHORT DESC: AI Business Intelligence Toolkit: Rust + Multi-Cloud for Staff. $177. Commercial license.

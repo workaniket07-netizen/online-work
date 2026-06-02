@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Technical Writing Toolkit: JavaScript/React + AWS for Junior
+PRICE: $127
+TAGS: technical writing, javascript/react, aws
+SHORT DESC: AI Technical Writing Toolkit: JavaScript/React + AWS for Junior. $127. Commercial license.

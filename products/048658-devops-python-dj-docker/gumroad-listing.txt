@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI DevOps Toolkit: Python/Django + Docker for VP Engineering
+PRICE: $127
+TAGS: devops, python/django, docker
+SHORT DESC: AI DevOps Toolkit: Python/Django + Docker for VP Engineering. $127. Commercial license.

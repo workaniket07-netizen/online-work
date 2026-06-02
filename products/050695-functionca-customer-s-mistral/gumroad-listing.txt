@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Prompting: Function Calling for Customer Service using Mistral (Advanced)
+PRICE: $147
+TAGS: function calling, customer service, prompt engineering
+SHORT DESC: AI Prompting: Function Calling for Customer Service using Mistral (Advanced). $147. Commercial license.

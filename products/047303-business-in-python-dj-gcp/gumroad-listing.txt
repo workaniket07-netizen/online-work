@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Business Intelligence Toolkit: Python/Django + GCP for Senior
+PRICE: $127
+TAGS: business intelligenc, python/django, gcp
+SHORT DESC: AI Business Intelligence Toolkit: Python/Django + GCP for Senior. $127. Commercial license.

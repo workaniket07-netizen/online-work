@@ -1,0 +1,384 @@
+╔══════════════════════════════════════════════════════════════════════╗
+║  AI SYSTEM: SOFTWARE DEV
+║  CONTEXT: OWNER CEO
+║  $207 | COMMERCIAL LICENSE | ANIKETG AI SYSTEMS
+╚══════════════════════════════════════════════════════════════════════╝
+
+Complete AI toolkit for Software Dev in Owner Ceo context.
+Real, actionable prompts ready to paste into ChatGPT or Claude.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+PART 1: SITUATION ANALYSIS (25 real prompts)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[SA-01] "I work in Software Dev focused on Owner Ceo. Analyze my current situation: strengths, weaknesses, key opportunities I may be missing, and the top 3 threats. Be specific, not generic."
+
+[SA-02] "Create a competitive landscape analysis for Software Dev in Owner Ceo space. Who are the top 5 players? What are their pricing, positioning, strengths and weaknesses? What gaps exist that I can exploit?"
+
+[SA-03] "What are the top 10 mistakes professionals make in Software Dev when dealing with Owner Ceo? For each mistake, explain: why it happens, what it costs, and the correct approach."
+
+[SA-04] "Give me a 360-degree market analysis of Software Dev: market size, growth rate, key trends, major customers, major suppliers, and the biggest disruptions happening right now."
+
+[SA-05] "I need to understand customer pain points in Software Dev Owner Ceo. Generate 15 specific pain points ranked by severity. For each: what causes it, how customers describe it, how much it costs them."
+
+[SA-06] "What are the current best practices in Software Dev for Owner Ceo? List 10 evidence-backed practices with specific implementation steps and expected outcomes."
+
+[SA-07] "Analyze the regulatory and compliance landscape for Software Dev in Owner Ceo. What must I know, what changes are coming, and what are the risks of non-compliance?"
+
+[SA-08] "Generate a SWOT analysis for a Software Dev professional focusing on Owner Ceo. Be very specific — avoid generic points. Include numerical benchmarks where possible."
+
+[SA-09] "What technologies are disrupting Software Dev right now? Rank the top 7 by impact. For each: what it does, who's using it, adoption timeline, and how to get ahead of it."
+
+[SA-10] "Map the customer journey in Software Dev Owner Ceo: from first awareness to loyal advocate. Identify the key touchpoints, emotions, friction points, and improvement opportunities at each stage."
+
+[SA-11] "What are the financial benchmarks for success in Software Dev? Give me: revenue per employee, profit margins, CAC, LTV, payback period, and growth rates for top-performing vs average operators."
+
+[SA-12] "Who are the thought leaders and influencers in Software Dev Owner Ceo? List 10 with: their key message, audience size, content platform, and what I can learn from them."
+
+[SA-13] "Identify 5 adjacent markets or use cases that Software Dev professionals rarely pursue but that have significant revenue potential. For each: why it's overlooked, how to enter, expected yield."
+
+[SA-14] "What pricing strategies work best in Software Dev for Owner Ceo? Compare: hourly, project-based, retainer, outcome-based, and subscription models. When to use each, with real rate examples."
+
+[SA-15] "Generate a risk register for Software Dev Owner Ceo: list 12 risks, each with probability (H/M/L), impact (H/M/L), and a specific mitigation action."
+
+[SA-16] "What partnerships or alliances would create the most value for someone in Software Dev Owner Ceo? List 8 types of partners with: what they bring, what you bring, how to approach them."
+
+[SA-17] "What are the most common customer objections in Software Dev Owner Ceo? List the top 10 objections with a persuasive, specific response for each that doesn't come across as defensive."
+
+[SA-18] "Describe the ideal client profile for Software Dev Owner Ceo with maximum specificity: industry, company size, revenue, decision-maker title, pain level, budget range, and buying triggers."
+
+[SA-19] "What does a world-class Software Dev Owner Ceo operation look like? Describe in detail: processes, team structure, technology, metrics, culture, and client experience."
+
+[SA-20] "What are the 5 biggest unmet needs in Software Dev Owner Ceo right now? For each: why it's unmet, who has it, how to address it, and the commercial opportunity."
+
+[SA-21] "Generate 10 questions to ask a potential client or partner in Software Dev Owner Ceo before committing to work together. Questions that reveal alignment, budget, decision process, and red flags."
+
+[SA-22] "What is the future of Software Dev in 3-5 years? Describe the likely landscape: which players will dominate, what business models will win, which skills will be essential vs obsolete."
+
+[SA-23] "Create a benchmarking framework for Software Dev Owner Ceo. What 15 metrics should I track monthly? What are the thresholds for 'underperforming,' 'on track,' and 'excellent' for each?"
+
+[SA-24] "What are the seasonal or cyclical patterns in Software Dev Owner Ceo? When is demand highest, when is competition lowest, and how should I plan my calendar around these patterns?"
+
+[SA-25] "Give me a competitor intelligence playbook for Software Dev Owner Ceo: what to monitor, which tools to use, how to analyze findings, and how to turn insights into action."
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+PART 2: STRATEGY & EXECUTION (30 real prompts)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[ST-01] "Build a 90-day action plan for Software Dev Owner Ceo. Structure it as: Week 1-2 (foundation), Week 3-6 (traction), Week 7-12 (momentum). Each week: specific tasks, who does them, success metric."
+
+[ST-02] "Create a content strategy for Software Dev Owner Ceo: 12 months, platform by platform. For each month: theme, key content pieces, expected outcomes. Focus on content that attracts ideal clients."
+
+[ST-03] "Design a lead generation system for Software Dev Owner Ceo: inbound and outbound. Include: top 3 channels, daily/weekly actions, conversion targets, and how to qualify leads quickly."
+
+[ST-04] "Write a positioning statement for Software Dev Owner Ceo that differentiates from generic competitors. Then write 3 variations: one for LinkedIn, one for a website hero section, one for verbal introduction."
+
+[ST-05] "Create a proposal template for Software Dev Owner Ceo. Include: situation summary, proposed approach, deliverables, timeline, investment, ROI model, terms, and a compelling close."
+
+[ST-06] "Design a client onboarding process for Software Dev Owner Ceo: from signed contract to first deliverable. Step-by-step, with templates for each communication and a checklist for each milestone."
+
+[ST-07] "Build a retention strategy for Software Dev Owner Ceo clients: how to keep them 2+ years, expand the relationship, and turn them into referral sources. Include specific touchpoints and scripts."
+
+[ST-08] "Create a pricing architecture for Software Dev Owner Ceo: entry offer, core offer, premium offer. For each: what's included, price point, ideal buyer, and how to transition clients upward."
+
+[ST-09] "Design a referral program for Software Dev Owner Ceo: what incentive works (monetary vs non-monetary), how to ask, when to ask, scripts for the ask, and how to track referrals."
+
+[ST-10] "Write a LinkedIn outreach sequence for Software Dev Owner Ceo: connection request, follow-up 1 (3 days), follow-up 2 (7 days), value message (14 days), soft pitch (21 days). 5 messages, each under 80 words."
+
+[ST-11] "Build a sales call script for Software Dev Owner Ceo: opening (2 min), discovery questions (10 min), solution presentation (10 min), objection handling (10 min), close (5 min). Include exact language."
+
+[ST-12] "Create a weekly routine for someone running a Software Dev Owner Ceo business: Monday-Friday schedule with time blocks, priority tasks, and what metrics to review each day."
+
+[ST-13] "Design a social proof strategy for Software Dev Owner Ceo: what testimonials to collect, how to ask for them, how to display them, and how to turn case studies into lead generation assets."
+
+[ST-14] "Build a reactivation campaign for past Software Dev Owner Ceo clients who've gone quiet: diagnosis (why they left), message sequence (3 touches), offer, and success rate expectations."
+
+[ST-15] "Create a service productization roadmap for Software Dev Owner Ceo: how to turn custom work into repeatable packages. Include: packaging logic, naming, delivery system, and profit increase estimate."
+
+[ST-16] "Design a partnership outreach strategy for Software Dev Owner Ceo: who to partner with, how to structure the partnership, outreach message, partnership agreement basics, and revenue split model."
+
+[ST-17] "Build a hiring plan for Software Dev Owner Ceo as the business scales: when to hire, who to hire first, job description framework, interview questions, and onboarding for new team members."
+
+[ST-18] "Create a client communication framework for Software Dev Owner Ceo: what to communicate, when, via what channel, tone, and frequency. Include templates for project start, progress updates, and completion."
+
+[ST-19] "Design a thought leadership strategy for Software Dev Owner Ceo: which platforms to own, content pillars, posting cadence, how to repurpose content, and how it converts to business."
+
+[ST-20] "Build a performance measurement system for Software Dev Owner Ceo: weekly KPIs (5), monthly OKRs (3), quarterly milestones (2). What does 'winning' look like at each level?"
+
+[ST-21] "Write email subject lines and preview text for Software Dev Owner Ceo lead nurture emails: 15 variations across curiosity, benefit, urgency, social proof, and question-based approaches."
+
+[ST-22] "Create a discovery call debrief template for Software Dev Owner Ceo: what to capture during the call, how to score the opportunity, follow-up action, and proposal go/no-go criteria."
+
+[ST-23] "Design a customer feedback system for Software Dev Owner Ceo: when to ask for feedback, what questions to ask, how to analyze, how to act, and how to communicate changes back to clients."
+
+[ST-24] "Build a crisis management plan for Software Dev Owner Ceo: top 5 scenarios that could hurt the business, response protocol for each, who does what, and how to recover reputation."
+
+[ST-25] "Create a vendor and tool evaluation framework for Software Dev Owner Ceo: criteria matrix, scoring methodology, red flags to watch for, and due diligence checklist before committing."
+
+[ST-26] "Design a case study template for Software Dev Owner Ceo that can be used for sales, marketing, and PR. Include: situation, challenge, solution, results (with numbers), and client quote structure."
+
+[ST-27] "Build a quarterly business review (QBR) format for Software Dev Owner Ceo: what to review, what data to present, how to frame wins and misses, and how to set goals for the next quarter."
+
+[ST-28] "Create a competitive response playbook for Software Dev Owner Ceo: when a competitor undercuts you, launches something new, or wins a client you wanted — specific responses for each scenario."
+
+[ST-29] "Design an upsell/cross-sell system for Software Dev Owner Ceo: at what point in the client lifecycle to offer, what to offer, how to frame it, scripts, and expected conversion rates."
+
+[ST-30] "Build a 12-month revenue forecast model framework for Software Dev Owner Ceo: key assumptions, revenue drivers, scenario planning (base/bull/bear), and monthly milestone gates."
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+PART 3: AI PROMPTS FOR DAILY WORK (30 real prompts)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[AW-01] "You are an expert in Software Dev Owner Ceo. Review my approach to [situation]: [describe]. What am I missing? What would you do differently? Give me 3 concrete improvements."
+
+[AW-02] "Generate 10 cold email subject lines for reaching decision-makers interested in Software Dev Owner Ceo. Make them specific, curiosity-driven, and under 8 words each."
+
+[AW-03] "Write a LinkedIn post about Software Dev Owner Ceo that teaches something valuable in under 200 words. Structure: hook → insight → example → takeaway → CTA. Make it genuinely useful, not promotional."
+
+[AW-04] "Analyze this Software Dev Owner Ceo proposal: [paste proposal]. Grade it A-F on: clarity, value articulation, pricing, differentiation, and close. Give specific improvements for each area."
+
+[AW-05] "Create a FAQ document for Software Dev Owner Ceo clients. Include 20 real questions with clear, confident answers that build trust and reduce purchase friction."
+
+[AW-06] "Write a 500-word email to re-engage a Software Dev Owner Ceo prospect who went silent after showing initial interest. Use: empathy, added value, low-pressure CTA, and genuine curiosity about their situation."
+
+[AW-07] "Generate a client satisfaction survey for Software Dev Owner Ceo: 10 questions that reveal: satisfaction score, specific feedback, likelihood to refer, and any unmet needs. Include an NPS question."
+
+[AW-08] "Create a 90-day onboarding plan for a new team member joining a Software Dev Owner Ceo operation: daily activities for Week 1, weekly goals for Month 1, milestones for Month 2-3."
+
+[AW-09] "Write a case study for Software Dev Owner Ceo: situation (2 sentences), challenge (3 sentences), approach (5 bullet points), results (3 quantified outcomes), quote (1 sentence). Use [Client Name] as placeholder."
+
+[AW-10] "Generate a meeting agenda for a Software Dev Owner Ceo strategy session: opening, current state review, goal setting, obstacle identification, action planning, accountability. Include time allocation."
+
+[AW-11] "Create a scope of work (SOW) template for Software Dev Owner Ceo engagements: project overview, deliverables, timelines, assumptions, exclusions, payment terms, change order policy."
+
+[AW-12] "Write a performance review framework for a Software Dev Owner Ceo team member: what to evaluate, scoring scale, development goals, conversation structure, and documentation format."
+
+[AW-13] "Generate a competitive analysis one-pager for Software Dev Owner Ceo: me vs. Competitor A vs. Competitor B across 10 dimensions. Format as a comparison table with clear winner notation."
+
+[AW-14] "Create a social media content calendar for Software Dev Owner Ceo: 4 weeks, 5 posts/week. For each post: day, platform, format, topic, hook sentence, and hashtags. Mix educational and promotional."
+
+[AW-15] "Write a pricing objection response for Software Dev Owner Ceo: 'Your price is too high.' Give me 5 different responses — each for a different scenario (budget constraint, comparison, value doubt, etc.)"
+
+[AW-16] "Generate a workshop outline for teaching Software Dev Owner Ceo to beginners: 4-hour workshop, 8 modules, with learning objectives, activities, and takeaways for each module."
+
+[AW-17] "Create a monthly business health check for Software Dev Owner Ceo: 20 questions to answer on the 1st of each month. Questions should cover: revenue, clients, operations, team, and personal satisfaction."
+
+[AW-18] "Write a service agreement summary (not legal text, but plain-English explanation) for Software Dev Owner Ceo: what's included, what's not, how revisions work, IP ownership, payment, and disputes."
+
+[AW-19] "Generate 15 thought leadership article titles for Software Dev Owner Ceo. Mix: counterintuitive takes, how-to guides, industry predictions, case studies, and framework explanations."
+
+[AW-20] "Create a partnership pitch email for Software Dev Owner Ceo: reaching out to a complementary business about a referral partnership. Include: intro, rationale, what each party gets, simple proposed structure."
+
+[AW-21] "Write a follow-up email after a Software Dev Owner Ceo sales call that didn't close: thank them, recap their key pain points (using their words), add one new piece of value, and set a clear next step."
+
+[AW-22] "Generate a hiring ad for a Software Dev Owner Ceo role: job title, 3-sentence hook, 5 responsibilities, 5 requirements, 3 nice-to-haves, what we offer, and how to apply. Make it attract top performers."
+
+[AW-23] "Create an ROI calculator framework for Software Dev Owner Ceo: what inputs the client provides, what calculations to run, how to present the result, and how to use it in sales conversations."
+
+[AW-24] "Write a 'state of the industry' email newsletter for Software Dev Owner Ceo subscribers: opening hook, 3 key trends this month with your take, 1 actionable tip, and a closing CTA."
+
+[AW-25] "Generate 10 webinar topic ideas for Software Dev Owner Ceo: titles that would attract ideal clients, with a short description and the key promise of each. Include: formats (Q&A, workshop, interview, etc.)"
+
+[AW-26] "Create a delegation framework for Software Dev Owner Ceo: what to keep doing yourself, what to delegate immediately, what to systematize, what to outsource. Include: criteria and when to reassign tasks."
+
+[AW-27] "Write a crisis communication template for Software Dev Owner Ceo: when you've made an error, missed a deadline, or disappointed a client. Acknowledge, explain, apologize, compensate, prevent. Keep it under 150 words."
+
+[AW-28] "Generate a reference letter template that a satisfied Software Dev Owner Ceo client would write. Make it specific, credible, and emotionally convincing. Include: context, results, personal observation, recommendation."
+
+[AW-29] "Create a year-end review framework for Software Dev Owner Ceo: financial review, client review, personal performance review, lessons learned, top wins, what to stop/start/continue, and 2025 priorities."
+
+[AW-30] "Write a brand story for Software Dev Owner Ceo: origin (why this work matters), journey (what was learned), mission (who you serve and how), and differentiation (why you and not someone else). Under 300 words."
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+PART 4: TEMPLATES READY TO USE (20 prompts)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[TM-01] CLIENT INTAKE FORM — Software Dev Owner Ceo:
+"1. What is your primary goal for this engagement?
+2. What is your timeline?
+3. What have you tried before and what happened?
+4. What does success look like in 90 days?
+5. What is your budget range?
+6. Who else is involved in this decision?
+7. What would stop us from working together?"
+
+[TM-02] PROPOSAL OPENING — Software Dev Owner Ceo:
+"Thank you for our conversation on [DATE]. Based on what you shared about [PAIN POINT], I've put together this proposal for [COMPANY NAME].
+Your situation: [1-sentence summary of their problem]
+What I propose: [1-sentence solution]
+Expected outcome: [quantified result]
+Investment: $[AMOUNT]
+Next step: [SPECIFIC ACTION]"
+
+[TM-03] COLD EMAIL — Software Dev Owner Ceo:
+"Subject: [Specific observation about their business]
+Hi [NAME],
+I noticed [specific, relevant observation].
+Most [their role] in [their industry] struggle with [pain point].
+I help them [specific outcome] in [timeframe].
+Worth a 15-minute call to see if this applies to you?
+[Your name]"
+
+[TM-04] FOLLOW-UP AFTER NO REPLY:
+"Hi [NAME], checking back on my note from [DATE].
+I understand you're busy — if [PAIN POINT] is still a priority, I'd love to share how I helped [similar company] achieve [specific result].
+If timing isn't right, no worries — just let me know and I'll follow up in [X months].
+Either way works for me."
+
+[TM-05] RATE INCREASE ANNOUNCEMENT:
+"Dear [CLIENT NAME],
+I wanted to give you advance notice that my rates for Software Dev Owner Ceo services will increase from $[OLD] to $[NEW] effective [DATE].
+This increase reflects [reason: demand/investment/results delivered].
+For current clients, I'll honor your existing rate until [DATE].
+To lock in your current rate before then, [CTA].
+Thank you for your continued trust."
+
+[TM-06] PROJECT KICK-OFF EMAIL:
+"Hi [CLIENT], excited to get started!
+Here's what happens next:
+✓ Week 1: [milestone]
+✓ Week 2-3: [milestone]
+✓ Week 4: [deliverable]
+Please send me: [list of what you need from them]
+My commitment to you: [promise]
+Best time to reach me: [availability]
+Let's build something great."
+
+[TM-07] DISCOVERY CALL NOTES TEMPLATE:
+"Client: [NAME] | Date: [DATE]
+Current situation: [1-3 sentences]
+Desired outcome: [specific goal]
+Obstacles: [what's stopping them]
+Timeline: [when they need results]
+Budget indicated: [range]
+Decision process: [who else is involved]
+Next step agreed: [specific action + date]
+My notes/concerns: [honest assessment]"
+
+[TM-08] SERVICE PACKAGE DESCRIPTION:
+"[PACKAGE NAME] — $[PRICE]/month
+WHO IT'S FOR: [specific client type]
+WHAT YOU GET: [5 specific deliverables]
+WHAT YOU DON'T GET: [clear scope boundary]
+RESULTS YOU CAN EXPECT: [specific outcomes]
+HOW IT WORKS: [3-step process]
+COMMITMENT REQUIRED: [client's time/input needed]
+GUARANTEE: [if any]"
+
+[TM-09] TESTIMONIAL REQUEST EMAIL:
+"Hi [CLIENT NAME],
+Working with you on [PROJECT] has been genuinely rewarding.
+Would you be willing to share a quick testimonial? It helps people in similar situations to yours find me.
+If yes, a few sentences on:
+1. What problem you had before we worked together
+2. What specifically helped
+3. The result you got
+Feel free to write it in your own words — honest is better than polished.
+Thank you so much."
+
+[TM-10] OBJECTION: 'I NEED TO THINK ABOUT IT':
+"Absolutely — this is an important decision. 
+To help you think it through, can I ask: what specifically would you need to feel confident moving forward?
+[Pause. Listen.]
+Is there anything about the approach, the price, or the outcome that feels unclear?
+I'd rather we address anything now than have you spend time wondering.
+If it would help, I can also connect you with [CLIENT REFERENCE] who was in a similar position."
+
+[TM-11] LINKEDIN BIO — Software Dev Owner Ceo:
+"I help [specific client type] achieve [specific outcome] through [your approach].
+Most [client type] struggle with [pain point]. I've developed a [system/framework] that [specific benefit].
+Results my clients see: [3 specific outcomes with numbers if possible]
+Currently working with: [type of clients]
+Want to explore if I can help? [CTA]"
+
+[TM-12] CASE STUDY STRUCTURE:
+"TITLE: How [Client Type] Achieved [Specific Result] in [Timeframe]
+THE CLIENT: [2 sentences — who they are, no name if confidential]
+THE CHALLENGE: [2-3 sentences — what was going wrong and why it mattered]
+THE APPROACH: [4-5 bullet points — what was done specifically]
+THE RESULTS: [3 quantified outcomes, e.g., '40% increase in X within 60 days']
+IN THEIR WORDS: '[Short quote from client]'
+WHAT MADE THE DIFFERENCE: [1-2 sentences — key insight or differentiator]"
+
+[TM-13] WEEKLY REVIEW QUESTIONS:
+"Every Friday, answer these 10 questions:
+1. What was my #1 win this week?
+2. What task did I avoid that I shouldn't have?
+3. Which client needs more attention?
+4. What Software Dev Owner Ceo skill did I improve?
+5. How many new leads did I generate?
+6. What did I learn from a client interaction?
+7. What process could I improve?
+8. Did I hit my revenue target?
+9. What am I most proud of?
+10. What's my top priority for next week?"
+
+[TM-14] SCOPE CREEP RESPONSE:
+"Hi [CLIENT],
+I love that the project is evolving — it means it's working!
+The [new request] is a great idea. Since it's outside our original scope, I want to handle it properly.
+Two options:
+Option A: I can add it to this project for $[AMOUNT], completing by [DATE].
+Option B: We scope it as a separate engagement after we complete the current work.
+Which works better for you?"
+
+[TM-15] YEAR-END CLIENT LETTER:
+"Dear [CLIENT NAME],
+As [YEAR] ends, I wanted to reach out personally.
+Working with you on [projects/areas] has been a highlight of my year.
+Reflecting on what we accomplished together: [2-3 specific wins]
+Looking ahead to [NEXT YEAR], I see [1-2 opportunities].
+I'm committed to [specific promise for next year].
+Thank you for your trust, your feedback, and for choosing me.
+Warmly, [Your Name]"
+
+[TM-16] NEW OFFER ANNOUNCEMENT:
+"[SUBJECT LINE: Introducing something new for [client type]]
+Hi [NAME],
+Based on what I've heard from [niche] professionals over the past [period], I've built something new.
+The problem it solves: [specific pain point]
+What I'm offering: [clear description in 2 sentences]
+Who it's perfect for: [specific profile]
+Investment: $[PRICE] (introductory rate for first [X] clients)
+[CTA button: 'Reserve your spot' or 'Book a call']
+Questions? Just reply to this email."
+
+[TM-17] DIFFICULT CONVERSATION FRAMEWORK:
+"When delivering bad news or having a hard conversation in Software Dev Owner Ceo:
+1. OPEN: 'I want to be straightforward with you about something...'
+2. FACT: State what happened without blame
+3. IMPACT: 'Here's what this means for [the project/timeline/outcome]...'
+4. ACCOUNTABILITY: Own your part if relevant
+5. SOLUTION: 'Here's what I propose...'
+6. ASK: 'Does that work for you, or do you have a better idea?'"
+
+[TM-18] INVOICE FOLLOW-UP SEQUENCE:
+"Day 1 after due: 'Hi [NAME], friendly reminder — invoice #[X] for $[AMOUNT] was due [DATE]. Here's the payment link: [LINK]'
+Day 7: 'Hi [NAME], following up on invoice #[X]. Please let me know if there are any issues or if I can resend.'
+Day 14: 'Hi [NAME], invoice #[X] is now [X] days overdue. I need to resolve this by [DATE] to avoid pausing work. Please call me at [PHONE].'
+Day 30: Formal written notice + late fee per agreement."
+
+[TM-19] STRATEGIC PLANNING TEMPLATE:
+"ANNUAL PLAN — Software Dev Owner Ceo
+This Year's Theme: [One word or phrase]
+Revenue Goal: $[TARGET]
+# of Clients Goal: [NUMBER]
+Top 3 Priorities: 1/ 2/ 3/
+What I'm STOPPING: [list]
+What I'm STARTING: [list]
+What I'm CONTINUING: [list]
+The one thing that would make everything else easier: [answer]"
+
+[TM-20] PROCESS DOCUMENTATION TEMPLATE:
+"PROCESS: [name of process]
+PURPOSE: [why this exists]
+TRIGGER: [what starts this process]
+STEPS:
+Step 1: [action] → [responsible person] → [output] → [time required]
+Step 2: [repeat]
+DECISION POINTS: [any if/then branches]
+TOOLS USED: [list]
+COMMON ERRORS: [what goes wrong and how to prevent]
+LAST UPDATED: [date] | OWNER: [name]"
+
+$207 | AniketG AI Systems | Commercial License

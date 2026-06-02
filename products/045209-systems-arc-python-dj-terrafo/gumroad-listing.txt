@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Systems Architecture Toolkit: Python/Django + Terraform for CTO
+PRICE: $177
+TAGS: systems architecture, python/django, terraform
+SHORT DESC: AI Systems Architecture Toolkit: Python/Django + Terraform for CTO. $177. Commercial license.

@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Prompting: Structured Output for Audio & Voice using Claude Opus (Intermediate)
+PRICE: $127
+TAGS: structured output, audio & voice, prompt engineering
+SHORT DESC: AI Prompting: Structured Output for Audio & Voice using Claude Opus (Intermediate). $127. Commercial license.

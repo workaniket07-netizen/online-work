@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Data Science Toolkit: Python/Django + Serverless for Founding Engineer
+PRICE: $127
+TAGS: data science, python/django, serverless
+SHORT DESC: AI Data Science Toolkit: Python/Django + Serverless for Founding Engineer. $127. Commercial license.

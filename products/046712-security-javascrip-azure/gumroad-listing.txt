@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Security Toolkit: JavaScript/React + Azure for Mid-Level
+PRICE: $127
+TAGS: security, javascript/react, azure
+SHORT DESC: AI Security Toolkit: JavaScript/React + Azure for Mid-Level. $127. Commercial license.

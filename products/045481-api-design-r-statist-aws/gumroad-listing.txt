@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI API Design Toolkit: R/Statistical + AWS for Junior
+PRICE: $127
+TAGS: api design, r/statistical, aws
+SHORT DESC: AI API Design Toolkit: R/Statistical + AWS for Junior. $127. Commercial license.

@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Database Administration Toolkit: Python/Django + GCP for Senior
+PRICE: $127
+TAGS: database administrat, python/django, gcp
+SHORT DESC: AI Database Administration Toolkit: Python/Django + GCP for Senior. $127. Commercial license.

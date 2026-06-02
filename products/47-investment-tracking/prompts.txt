@@ -1,0 +1,144 @@
+╔══════════════════════════════════════════════════════════════════════╗
+║           INVESTMENT PORTFOLIO TRACKING & ANALYSIS KIT               ║
+║   300 Templates for Individual Investors & Stock Market Beginners    ║
+║              By AniketG AI Systems                                   ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+NOTE: Educational only. Not financial advice. Past performance
+does not guarantee future results. Consult a licensed financial advisor.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 1: PORTFOLIO TRACKING TEMPLATES (80 Templates)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+PORTFOLIO MASTER TRACKER:
+Ticker | Company | # Shares | Avg Cost | Current Price | Value | Gain/Loss | Gain% | % of Portfolio
+
+Summary Row:
+Total invested: $[X] | Current value: $[X] | Total gain/loss: $[X] | Overall return: [X]%
+
+ASSET ALLOCATION TRACKER:
+Target allocation:
+US Stocks: [X]% | Int'l Stocks: [X]% | Bonds: [X]% | Cash: [X]% | Other: [X]%
+
+Actual allocation:
+[Calculate from portfolio tracker above]
+
+Rebalance needed if any category is off by more than [5]%.
+
+INDIVIDUAL STOCK RESEARCH TEMPLATE:
+Company: | Ticker: | Sector: | Date researched:
+Why I'm interested: [Your investment thesis in 2-3 sentences]
+Business model: [How they make money]
+Competitive moat: [What protects their market position]
+Key metrics: P/E ratio | Revenue growth (3yr) | Profit margin | Debt/equity | Dividend yield
+Risks: [Top 3 risks to this investment]
+My price target: [X] | Buy zone: [X-Y] | Stop loss: [X]
+Position size limit: [X]% of portfolio
+
+DIVIDEND TRACKER:
+Ticker | Dividend/Share | Shares Owned | Annual Income | Yield on Cost | Next Ex-Date | Payment Date
+
+Annual dividend income total: $[X]
+Monthly average: $[X]
+
+REBALANCING WORKSHEET:
+Current value by asset class → Target % → Current % → Difference → $ to buy/sell to rebalance
+
+[Portfolio templates continue: tax lot tracking, options watchlist, watchlist tracker, sector concentration analysis, portfolio performance vs benchmarks]
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 2: INVESTMENT RESEARCH FRAMEWORKS (80 Templates)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+VALUE INVESTING CHECKLIST (buffett-inspired):
+[VI-01] Is the business simple and understandable?
+[VI-02] Does it have a consistent operating history (10+ years)?
+[VI-03] Does it have favorable long-term prospects (durable competitive advantage)?
+[VI-04] Is management rational and shareholder-friendly?
+[VI-05] Is the business return on equity consistently high (>15%)?
+[VI-06] What are owner earnings (net income + depreciation - capex)?
+[VI-07] Is it available at a significant discount to intrinsic value?
+
+FUNDAMENTAL ANALYSIS QUICK SCREEN:
+[FA-01] Revenue growth: 3-year avg > 10% = strong
+[FA-02] Earnings growth: 3-year avg > 10% = strong
+[FA-03] Gross margin: > industry average = competitive advantage
+[FA-04] Operating margin: Expanding over time = pricing power
+[FA-05] Free cash flow: Positive and growing = real profits
+[FA-06] Debt/EBITDA: < 3x = manageable debt
+[FA-07] Return on invested capital (ROIC): > 10% = efficient use of capital
+[FA-08] P/E vs growth (PEG): < 1 = potentially undervalued
+
+ETF/INDEX FUND SELECTION FRAMEWORK:
+[EF-01] Expense ratio: Lower is better. Target < 0.20%
+[EF-02] AUM: Larger fund = more liquid = smaller bid/ask spread
+[EF-03] Tracking error: How closely does it track its index?
+[EF-04] Index methodology: Market cap weighted / equal weighted / factor weighted
+[EF-05] Tax efficiency: ETFs generally more tax-efficient than mutual funds
+
+CHATGPT PROMPTS FOR INVESTORS (40):
+[CP-01] "Explain [financial concept] to a beginner investor. Include: what it means, why it matters, how to use it to evaluate a stock, and what a good vs. bad number looks like."
+[CP-02] "Analyze [company name] using these publicly available metrics: [paste financial data]. Identify: strengths, weaknesses, red flags, and what further research I should do."
+[CP-03] "Compare these two ETFs: [ETF1] vs [ETF2]. Analyze: expense ratio, holdings overlap, historical performance, sector exposure, and which is better for [my investment goal]."
+[CP-04 to CP-40] More: portfolio analysis questions, sector research, economic indicator explanations, risk assessment, dollar cost averaging scenarios
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 3: BEHAVIORAL INVESTING SYSTEMS (80 Templates)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+INVESTMENT POLICY STATEMENT (for yourself):
+My investment goals: [specific goals with timeframes]
+Risk tolerance: [conservative/moderate/aggressive] because [your reasoning]
+Time horizon: [X years to retirement / specific goal date]
+Asset allocation target: [percentages]
+Investment approach: [passive index / active stock picking / hybrid]
+Accounts used: [401k / IRA / taxable brokerage]
+Rebalancing trigger: [annually / when any asset drifts >5%]
+What I will NOT do during a market crash: [sell everything / panic buy / check daily]
+Review schedule: [quarterly]
+
+MARKET CRASH PROTOCOL:
+When market drops 20%+:
+Step 1: Re-read my Investment Policy Statement
+Step 2: Ask: Has my investment thesis changed? (Usually no)
+Step 3: If thesis intact: continue DCA, possibly increase contributions
+Step 4: DO NOT sell based on fear
+Step 5: Do not check portfolio more than weekly
+
+"Time in market > timing the market."
+
+COMMON INVESTOR MISTAKES CHECKLIST:
+[MI-01] Selling winners too early, holding losers too long (disposition effect)
+[MI-02] Overconfidence in individual stock picking
+[MI-03] Recency bias (assuming recent performance continues)
+[MI-04] Not diversifying across sectors/geographies
+[MI-05] Timing the market instead of time in market
+[MI-06] Ignoring taxes (harvesting losses, avoiding short-term gains)
+[MI-07] Chasing yield (high dividend doesn't mean safe investment)
+[MI-08] Neglecting to rebalance (drift creates unintended risk)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 4: INVESTMENT EDUCATION GUIDES (60 Templates)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+GLOSSARY OF KEY TERMS (50 definitions):
+Earnings per share (EPS) | Price-to-earnings (P/E) | Market cap | Book value | EBITDA |
+Beta | Alpha | Sharpe ratio | Dollar cost averaging | Rebalancing | Index fund | ETF |
+Mutual fund | Dividend yield | Ex-dividend date | Stock split | Share buyback |
+Free cash flow | Net income | Revenue | Gross margin | Operating margin | ROIC |
+Return on equity | Debt-to-equity | Current ratio | Bond yield | Duration | Credit rating |
+Options: calls/puts | Strike price | Expiration | IV crush | Fed funds rate | Inflation |
+Bear/bull market | Correction | Recession | Diversification | Asset allocation | Hedge
+
+BEGINNER INVESTMENT ROADMAP:
+Month 1: Emergency fund → open brokerage account → start with index funds
+Month 2-3: Learn to read financial statements → start researching individual companies
+Month 4-6: Build diversified portfolio → understand tax implications
+Month 7-12: Learn advanced concepts → develop your investment process
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+QUICK STATS: 300 templates | Portfolio tracking + Research + Behavioral + Education
+NOTE: Educational only. Not financial advice.
+By AniketG AI Systems
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

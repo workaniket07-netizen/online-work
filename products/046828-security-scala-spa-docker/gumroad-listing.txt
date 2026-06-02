@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Security Toolkit: Scala/Spark + Docker for VP Engineering
+PRICE: $127
+TAGS: security, scala/spark, docker
+SHORT DESC: AI Security Toolkit: Scala/Spark + Docker for VP Engineering. $127. Commercial license.

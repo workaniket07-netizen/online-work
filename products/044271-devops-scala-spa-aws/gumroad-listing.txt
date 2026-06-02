@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI DevOps Toolkit: Scala/Spark + AWS for Junior
+PRICE: $127
+TAGS: devops, scala/spark, aws
+SHORT DESC: AI DevOps Toolkit: Scala/Spark + AWS for Junior. $127. Commercial license.

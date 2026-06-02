@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI DevOps Toolkit: Python/Django + Kubernetes for Director of Engineering
+PRICE: $127
+TAGS: devops, python/django, kubernetes
+SHORT DESC: AI DevOps Toolkit: Python/Django + Kubernetes for Director of Engineering. $127. Commercial license.

@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Technical Writing Toolkit: Node.js/Express + Docker for VP Engineering
+PRICE: $127
+TAGS: technical writing, node.js/express, docker
+SHORT DESC: AI Technical Writing Toolkit: Node.js/Express + Docker for VP Engineering. $127. Commercial license.

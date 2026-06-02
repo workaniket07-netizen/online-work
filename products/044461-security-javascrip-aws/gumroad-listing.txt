@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Security Toolkit: JavaScript/React + AWS for Junior
+PRICE: $127
+TAGS: security, javascript/react, aws
+SHORT DESC: AI Security Toolkit: JavaScript/React + AWS for Junior. $127. Commercial license.

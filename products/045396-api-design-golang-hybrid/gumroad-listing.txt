@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI API Design Toolkit: Golang + Hybrid for Architect
+PRICE: $177
+TAGS: api design, golang, hybrid
+SHORT DESC: AI API Design Toolkit: Golang + Hybrid for Architect. $177. Commercial license.

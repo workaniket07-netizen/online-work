@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI DevOps Toolkit: Ruby/Rails + Azure for Mid-Level
+PRICE: $127
+TAGS: devops, ruby/rails, azure
+SHORT DESC: AI DevOps Toolkit: Ruby/Rails + Azure for Mid-Level. $127. Commercial license.

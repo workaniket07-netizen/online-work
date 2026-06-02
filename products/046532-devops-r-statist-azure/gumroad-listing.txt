@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI DevOps Toolkit: R/Statistical + Azure for Mid-Level
+PRICE: $127
+TAGS: devops, r/statistical, azure
+SHORT DESC: AI DevOps Toolkit: R/Statistical + Azure for Mid-Level. $127. Commercial license.

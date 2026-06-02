@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Systems Architecture Toolkit: Scala/Spark + Azure for Mid-Level
+PRICE: $127
+TAGS: systems architecture, scala/spark, azure
+SHORT DESC: AI Systems Architecture Toolkit: Scala/Spark + Azure for Mid-Level. $127. Commercial license.

@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Prompting: Long Context for Audio & Voice using Llama 3 (Intermediate)
+PRICE: $127
+TAGS: long context, audio & voice, prompt engineering
+SHORT DESC: AI Prompting: Long Context for Audio & Voice using Llama 3 (Intermediate). $127. Commercial license.

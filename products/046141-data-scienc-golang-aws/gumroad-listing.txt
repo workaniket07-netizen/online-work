@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Data Science Toolkit: Golang + AWS for Junior
+PRICE: $127
+TAGS: data science, golang, aws
+SHORT DESC: AI Data Science Toolkit: Golang + AWS for Junior. $127. Commercial license.

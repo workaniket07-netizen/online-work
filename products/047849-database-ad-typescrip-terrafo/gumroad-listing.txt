@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Database Administration Toolkit: TypeScript + Terraform for CTO
+PRICE: $177
+TAGS: database administrat, typescript, terraform
+SHORT DESC: AI Database Administration Toolkit: TypeScript + Terraform for CTO. $177. Commercial license.

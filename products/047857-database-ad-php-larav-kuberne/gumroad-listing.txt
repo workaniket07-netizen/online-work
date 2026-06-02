@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Database Administration Toolkit: PHP/Laravel + Kubernetes for Director of Engineering
+PRICE: $127
+TAGS: database administrat, php/laravel, kubernetes
+SHORT DESC: AI Database Administration Toolkit: PHP/Laravel + Kubernetes for Director of Engineering. $127. Commercial license.

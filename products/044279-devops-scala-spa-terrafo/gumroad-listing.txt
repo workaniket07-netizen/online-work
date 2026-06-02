@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI DevOps Toolkit: Scala/Spark + Terraform for CTO
+PRICE: $177
+TAGS: devops, scala/spark, terraform
+SHORT DESC: AI DevOps Toolkit: Scala/Spark + Terraform for CTO. $177. Commercial license.

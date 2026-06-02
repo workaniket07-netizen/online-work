@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Business Intelligence Toolkit: PHP/Laravel + Docker for VP Engineering
+PRICE: $127
+TAGS: business intelligenc, php/laravel, docker
+SHORT DESC: AI Business Intelligence Toolkit: PHP/Laravel + Docker for VP Engineering. $127. Commercial license.

@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Cloud Architecture Toolkit: Kotlin/Android + Terraform for CTO
+PRICE: $177
+TAGS: cloud architecture, kotlin/android, terraform
+SHORT DESC: AI Cloud Architecture Toolkit: Kotlin/Android + Terraform for CTO. $177. Commercial license.

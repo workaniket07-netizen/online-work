@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI QA Testing Toolkit: Scala/Spark + AWS for Junior
+PRICE: $127
+TAGS: qa testing, scala/spark, aws
+SHORT DESC: AI QA Testing Toolkit: Scala/Spark + AWS for Junior. $127. Commercial license.

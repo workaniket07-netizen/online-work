@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Systems Architecture Toolkit: PHP/Laravel + AWS for Junior
+PRICE: $127
+TAGS: systems architecture, php/laravel, aws
+SHORT DESC: AI Systems Architecture Toolkit: PHP/Laravel + AWS for Junior. $127. Commercial license.

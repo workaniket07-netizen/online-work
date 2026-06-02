@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Systems Architecture Toolkit: Rust + Azure for Mid-Level
+PRICE: $127
+TAGS: systems architecture, rust, azure
+SHORT DESC: AI Systems Architecture Toolkit: Rust + Azure for Mid-Level. $127. Commercial license.

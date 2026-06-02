@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Software Engineering Toolkit: Rust + Docker for VP Engineering
+PRICE: $127
+TAGS: software engineering, rust, docker
+SHORT DESC: AI Software Engineering Toolkit: Rust + Docker for VP Engineering. $127. Commercial license.

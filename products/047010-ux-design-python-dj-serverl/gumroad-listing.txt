@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI UX Design Toolkit: Python/Django + Serverless for Founding Engineer
+PRICE: $127
+TAGS: ux design, python/django, serverless
+SHORT DESC: AI UX Design Toolkit: Python/Django + Serverless for Founding Engineer. $127. Commercial license.

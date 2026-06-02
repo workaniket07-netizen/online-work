@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Machine Learning Toolkit: Swift/iOS + GCP for Senior
+PRICE: $127
+TAGS: machine learning, swift/ios, gcp
+SHORT DESC: AI Machine Learning Toolkit: Swift/iOS + GCP for Senior. $127. Commercial license.

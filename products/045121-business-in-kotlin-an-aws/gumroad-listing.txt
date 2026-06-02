@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Business Intelligence Toolkit: Kotlin/Android + AWS for Junior
+PRICE: $127
+TAGS: business intelligenc, kotlin/android, aws
+SHORT DESC: AI Business Intelligence Toolkit: Kotlin/Android + AWS for Junior. $127. Commercial license.

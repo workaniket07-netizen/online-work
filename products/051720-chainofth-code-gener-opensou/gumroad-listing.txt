@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Prompting: Chain-of-Thought for Code Generation using Open Source Models (Expert)
+PRICE: $147
+TAGS: chain-of-thought, code generation, prompt engineering
+SHORT DESC: AI Prompting: Chain-of-Thought for Code Generation using Open Source Models (Expert). $147. Commercial license.

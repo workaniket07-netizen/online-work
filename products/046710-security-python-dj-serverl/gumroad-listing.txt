@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Security Toolkit: Python/Django + Serverless for Founding Engineer
+PRICE: $127
+TAGS: security, python/django, serverless
+SHORT DESC: AI Security Toolkit: Python/Django + Serverless for Founding Engineer. $127. Commercial license.

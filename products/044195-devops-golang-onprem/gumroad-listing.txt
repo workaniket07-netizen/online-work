@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI DevOps Toolkit: Golang + On-Premise for Principal
+PRICE: $177
+TAGS: devops, golang, on-premise
+SHORT DESC: AI DevOps Toolkit: Golang + On-Premise for Principal. $177. Commercial license.

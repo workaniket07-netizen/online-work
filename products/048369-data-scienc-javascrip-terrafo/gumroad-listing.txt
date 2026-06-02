@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Data Science Toolkit: JavaScript/React + Terraform for CTO
+PRICE: $177
+TAGS: data science, javascript/react, terraform
+SHORT DESC: AI Data Science Toolkit: JavaScript/React + Terraform for CTO. $177. Commercial license.

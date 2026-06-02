@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Cloud Architecture Toolkit: TypeScript + GCP for Senior
+PRICE: $127
+TAGS: cloud architecture, typescript, gcp
+SHORT DESC: AI Cloud Architecture Toolkit: TypeScript + GCP for Senior. $127. Commercial license.

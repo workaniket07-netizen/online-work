@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Machine Learning Toolkit: Golang + GCP for Senior
+PRICE: $127
+TAGS: machine learning, golang, gcp
+SHORT DESC: AI Machine Learning Toolkit: Golang + GCP for Senior. $127. Commercial license.

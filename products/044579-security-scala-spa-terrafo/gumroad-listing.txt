@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Security Toolkit: Scala/Spark + Terraform for CTO
+PRICE: $177
+TAGS: security, scala/spark, terraform
+SHORT DESC: AI Security Toolkit: Scala/Spark + Terraform for CTO. $177. Commercial license.

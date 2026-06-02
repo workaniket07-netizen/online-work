@@ -1,0 +1,147 @@
+╔══════════════════════════════════════════════════════════════════════╗
+║           BOOK WRITING & PUBLISHING KIT                              ║
+║   350 Templates for Writing, Editing & Publishing Your Book         ║
+║              By AniketG AI Systems                                   ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 1: BOOK PLANNING & STRUCTURE (80 Templates)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+BOOK CONCEPT TEMPLATE:
+[BC-01] Working title:
+[BC-02] The promise (what reader gets): By reading this book, [reader] will [specific outcome].
+[BC-03] Target reader: [Specific person at specific moment: "35-year-old professional who..."]
+[BC-04] Core premise in one sentence: This book argues that [main thesis/idea].
+[BC-05] Why you're the right author: [Your credibility + lived experience]
+[BC-06] Why now: [Market timing, relevance, gap this fills]
+[BC-07] Competing books and how yours differs: [2-3 comps + your differentiation]
+[BC-08] Approximate length: [Business/self-help: 40-70k words | Memoir: 70-90k | Fiction: 80-100k+]
+
+CHAPTER OUTLINE TEMPLATES (5 book types):
+[CO-01] NON-FICTION/BUSINESS CHAPTER TEMPLATE:
+Chapter [X]: [Working title]
+One-sentence chapter premise: [What this chapter argues or teaches]
+Chapter goal: By end of chapter, reader will [know/be able to/understand]
+Key points (3-5): [List main content points]
+Stories/examples to include: [Specific case studies, research, personal stories]
+How it connects to next chapter: [Transition logic]
+Approximate word count: [X,000 words]
+
+[CO-02] MEMOIR CHAPTER TEMPLATE:
+Chapter [X]: [Title or scene title]
+Timeline: [When this happens in the story]
+Scene: [What happens — the external event]
+Internal experience: [How you felt, what you thought, what changed in you]
+Theme served: [The larger meaning this scene contributes to]
+What reader learns or feels: [Intended reader experience]
+
+[CO-03] SELF-HELP CHAPTER TEMPLATE:
+Problem introduced | Concept taught | Evidence presented | Exercise or reflection | Takeaway
+
+[CO-04] NOVEL CHAPTER TEMPLATE:
+POV character | Scene goal | Conflict | Turning point | Ends with: hook into next chapter
+
+[CO-05] ESSAY COLLECTION TEMPLATE:
+Essay [X] title | Central argument | Opening hook | Supporting sections | Closing resonance
+
+FULL BOOK OUTLINE FORMATS (5 non-fiction structures):
+[FO-01] Problem-solution arc: Chapters 1-3 establish problem → chapters 4-8 teach solution → final chapter shows transformation
+[FO-02] Before-after-transformation: Author's before state → journey → what changed → how reader can do same
+[FO-03] Framework book: Introduce your [3/5/7]-step framework → one chapter per step → integration chapter
+[FO-04] Research-driven: What the research says + author synthesis + practical application
+[FO-05] Story-driven: Lead with narrative throughout → weave in teaching → readers learn through story
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 2: CHATGPT WRITING ASSISTANCE (80 Templates)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[WA-01] Chapter outline: "Create a detailed outline for Chapter [X] of my book. Chapter premise: [premise]. Key points to cover: [list]. My voice/tone: [description]. Target reader: [description]. Chapter length target: [X words]."
+
+[WA-02] Opening paragraph: "Write 3 different opening paragraphs for Chapter [X] about [topic]. Opening styles: 1) Start in scene 2) Start with a provocative statement 3) Start with a surprising statistic. My voice: [description]."
+
+[WA-03] Research synthesis: "I have these research findings relevant to Chapter [X]: [list or paste]. Synthesize them into a cohesive narrative that supports my argument: [argument]. Make it accessible to [reader level]."
+
+[WA-04] Anecdote development: "Help me develop this brief anecdote into a full scene: [your notes]. Add: sensory details, emotional texture, dialogue if appropriate. My writing voice: [description]."
+
+[WA-05] Transition writing: "Write 3 different transition sentences/paragraphs to connect these two sections: [end of section 1] → [beginning of section 2]. The connection should feel [natural / surprising / logical]."
+
+[WA-06] First draft chapter: "Write a [X word] draft of a chapter for my [book type] book about [topic]. Chapter premise: [one sentence]. Key points to cover: [list]. Tone: [description]. Assume the reader knows: [what they know]. Do NOT assume they know: [what they don't]."
+
+[WA-07] Edit for voice consistency: "Read this passage: [paste]. Then rewrite it to match the voice in this sample passage from the same book: [paste sample]. Keep the content but adjust: sentence length, word choice, rhythm, formality."
+
+[WA-08] Feedback and critique: "Act as a developmental editor. Read this chapter: [paste]. Evaluate: 1) Is the premise clear? 2) Does it deliver on its promise? 3) Are there pacing issues? 4) What's missing? 5) What could be cut? Be specific and direct."
+
+[WA-09 to WA-80] More: chapter conclusion templates, exercises/reflection questions, bibliography research, book title options, subtitle options, author bio, book description, back cover copy, table of contents organization, foreword draft, acknowledgments
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 3: EDITING & REFINING (80 Templates)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+DEVELOPMENTAL EDITING CHECKLIST:
+□ Does every chapter deliver on what the title/heading promises?
+□ Is the overall arc clear? (Where are we going and why?)
+□ Are there any chapters that could be cut without losing the book?
+□ Are stories/examples directly relevant or just interesting?
+□ Does the opening chapter hook the reader and establish the promise?
+□ Does the final chapter deliver a satisfying conclusion?
+□ Is the voice consistent throughout?
+□ Are there any logical gaps in the argument?
+
+LINE EDITING SELF-REVIEW (10 prompts):
+[LE-01] Read aloud test: Anything you stumble over needs rewriting
+[LE-02] Sentence variety: Varied length? Not all long, not all short?
+[LE-03] Passive voice: Find "was/were + verb" constructions → rewrite active
+[LE-04] Adverb pruning: "walked quickly" → "strode" | "said loudly" → "shouted"
+[LE-05] Show vs tell: "She was nervous" → describe what nervous looks like
+[LE-06] Clichés: Flag and replace each one
+[LE-07] Repetition: Same word twice in one paragraph?
+[LE-08] Vague words: "things," "stuff," "nice," "very" → be specific
+[LE-09] Overexplaining: If you said it, don't repeat it different words
+[LE-10] Jargon: If reader might not know this word, replace or define
+
+BETA READER FEEDBACK TEMPLATE:
+Questions to give beta readers:
+1. What was the most valuable chapter/section for you?
+2. Was there any section that felt slow or where you wanted to stop reading?
+3. Was the core argument/message clear throughout?
+4. Is there a question you had that the book didn't answer?
+5. Who else should read this book?
+6. Would you recommend it? Why / why not?
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 4: PUBLISHING & MARKETING (110 Templates)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+TRADITIONAL VS SELF-PUBLISHING COMPARISON:
+Traditional: 1-3 year timeline | 8-15% royalty | Free distribution/marketing support | Prestige | Requires agent/query
+Self-publishing (KDP): 60-90 day timeline | 35-70% royalty | You control everything | Requires your own marketing
+
+QUERY LETTER TEMPLATE (traditional):
+"Dear [Agent name],
+
+[HOOK — 1 sentence that makes them want to read more]
+
+[BOOK DESCRIPTION — 2-3 paragraphs: what it's about, who the protagonist is, what's at stake, what makes it unique]
+
+[MARKET/COMP TITLES — "Readers of [Comp Book A] and [Comp Book B] will enjoy this book because...]
+
+[ABOUT YOU — Brief: relevant credentials, platform, why you wrote this book]
+
+[CLOSING — "I'd be happy to send the full manuscript. Thank you for your time."]
+
+Sincerely, [Name]"
+
+BOOK MARKETING TEMPLATES (30):
+[BM-01] Launch announcement email
+[BM-02] ARC (advance reader copy) request
+[BM-03] Book club discussion guide
+[BM-04] Podcast pitch as author guest
+[BM-05] Media pitch (journalists/bloggers)
+[BM-06 to BM-30] More: Amazon book page optimization, Goodreads author profile, book trailer script, social media launch campaign, author website bio, speaking inquiry response, media kit components
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+QUICK STATS: 350 templates | Planning + AI Writing + Editing + Publishing
+Works for: Non-fiction, memoir, self-help, fiction, poetry collections
+By AniketG AI Systems
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

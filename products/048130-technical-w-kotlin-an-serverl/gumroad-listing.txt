@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Technical Writing Toolkit: Kotlin/Android + Serverless for Founding Engineer
+PRICE: $127
+TAGS: technical writing, kotlin/android, serverless
+SHORT DESC: AI Technical Writing Toolkit: Kotlin/Android + Serverless for Founding Engineer. $127. Commercial license.

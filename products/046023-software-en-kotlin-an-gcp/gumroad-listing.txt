@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Software Engineering Toolkit: Kotlin/Android + GCP for Senior
+PRICE: $127
+TAGS: software engineering, kotlin/android, gcp
+SHORT DESC: AI Software Engineering Toolkit: Kotlin/Android + GCP for Senior. $127. Commercial license.

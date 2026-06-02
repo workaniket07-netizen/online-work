@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI DevOps Toolkit: Kotlin/Android + Hybrid for Architect
+PRICE: $177
+TAGS: devops, kotlin/android, hybrid
+SHORT DESC: AI DevOps Toolkit: Kotlin/Android + Hybrid for Architect. $177. Commercial license.

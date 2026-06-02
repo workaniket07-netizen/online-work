@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Data Science Toolkit: Ruby/Rails + AWS for Junior
+PRICE: $127
+TAGS: data science, ruby/rails, aws
+SHORT DESC: AI Data Science Toolkit: Ruby/Rails + AWS for Junior. $127. Commercial license.

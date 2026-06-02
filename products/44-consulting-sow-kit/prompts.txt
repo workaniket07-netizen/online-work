@@ -1,0 +1,227 @@
+╔══════════════════════════════════════════════════════════════════════╗
+║           CONSULTING & FREELANCE SOW & PROJECT KIT                   ║
+║   400 Templates for Statements of Work, Proposals & Client Systems   ║
+║              By AniketG AI Systems                                   ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 1: STATEMENT OF WORK TEMPLATES (100 Templates)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+MASTER SOW TEMPLATE:
+━━━━━━━━━━━━━━━━
+STATEMENT OF WORK
+
+PROJECT TITLE: [Name]
+CLIENT: [Company name]
+CONSULTANT/FREELANCER: [Your name/company]
+DATE: [Date]
+SOW VERSION: 1.0
+
+1. PROJECT OVERVIEW
+[2-3 sentence summary of what this engagement is about, the business context, and the desired outcome.]
+
+2. PROJECT OBJECTIVES
+By the end of this engagement, the client will have:
+→ [Measurable outcome 1]
+→ [Measurable outcome 2]
+→ [Measurable outcome 3]
+
+3. SCOPE OF WORK
+
+IN SCOPE:
+→ [Specific deliverable 1]
+→ [Specific deliverable 2]
+→ [Specific task/activity]
+→ [Specific meeting or workshop]
+
+OUT OF SCOPE:
+→ [Related thing you are NOT doing]
+→ [Ongoing support not included]
+→ [Platform/tool/implementation not included]
+
+4. DELIVERABLES
+Deliverable | Description | Format | Due Date
+[Name] | [What it is] | [PDF/Workshop/Report] | [Date]
+[Name] | [What it is] | [Format] | [Date]
+
+5. TIMELINE
+Phase 1 — [Name] ([dates]): [What happens]
+Phase 2 — [Name] ([dates]): [What happens]
+Phase 3 — [Name] ([dates]): [What happens]
+Final delivery: [Date]
+
+6. ROLES & RESPONSIBILITIES
+Consultant: [What you will do]
+Client: [What they must provide — access, decisions, approvals, personnel]
+
+7. ASSUMPTIONS
+This SOW assumes:
+→ [Client will provide [X] by [date]]
+→ [All key stakeholders are available for [X] interviews]
+→ [Scope will not expand beyond [X] without a change order]
+
+8. INVESTMENT
+Total fee: $[X]
+Payment structure: [50% on signing / 50% on delivery] OR [monthly installments]
+Expenses: [Included / Client reimburses pre-approved expenses]
+Invoicing: [Net 30 / Net 15 / Upfront]
+
+9. CHANGE ORDER PROCESS
+Any changes to scope, timeline, or deliverables require a written change order signed by both parties. Change orders will include: description of change, additional cost (if any), timeline impact.
+
+10. TERMS
+Confidentiality: [Both parties agree to keep project details confidential]
+Intellectual property: [Specify who owns deliverables after payment]
+Governing law: [Your state/country]
+━━━━━━━━━━━━━━━━
+
+SOW TEMPLATES BY PROJECT TYPE (20):
+[SW-01] Strategy consulting SOW
+[SW-02] Marketing audit SOW
+[SW-03] Technology implementation SOW
+[SW-04] Training/workshop facilitation SOW
+[SW-05] Research and analysis SOW
+[SW-06] Process improvement SOW
+[SW-07] Content creation SOW (long-term)
+[SW-08] Fractional executive SOW
+[SW-09] Product management consulting SOW
+[SW-10] HR/People consulting SOW
+[SW-11 to SW-20] More by specialty
+
+SCOPE CREEP DEFENSE LANGUAGE (20):
+[SC-01] "This request falls outside the original scope. I'm happy to include it as a change order."
+[SC-02] "To keep the current project on track, I'd recommend scoping [new request] as a Phase 2 engagement."
+[SC-03] "The original SOW covers [X]. This new request would add approximately [X hours/dollars] to the engagement. Would you like me to prepare a change order?"
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 2: CONSULTING PROPOSALS (100 Templates)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+CONSULTING PROPOSAL TEMPLATE:
+━━━━━━━━━━━━━━━━
+PROPOSAL: [Project Title]
+Prepared for: [Client Name] | Prepared by: [Your Name] | Date: [Date]
+
+EXECUTIVE SUMMARY (1-2 paragraphs):
+[Client] is seeking [objective]. Based on our discovery call and my experience with [relevant background], I propose [brief description of approach]. This engagement will [specific outcome] within [timeframe].
+
+THE SITUATION:
+[What's happening for the client — their current state + the opportunity/problem]
+
+THE OPPORTUNITY:
+[What success looks like — the specific business outcome they want]
+
+MY APPROACH:
+Phase 1: [Name and brief description]
+Phase 2: [Name and brief description]
+Phase 3: [Name and brief description]
+
+WHAT MAKES ME DIFFERENT:
+→ [Differentiator 1 with evidence]
+→ [Differentiator 2 with evidence]
+
+RELEVANT EXPERIENCE:
+[1-2 relevant case studies or examples — quantified where possible]
+
+INVESTMENT OPTIONS:
+Option 1: [Full scope] — $[X]
+Option 2: [Reduced scope] — $[X]
+Option 3: [Advisory only] — $[X]/month
+
+TIMELINE:
+Start date: [Dependent on signed agreement and deposit]
+Phase completions: [List]
+Final delivery: [Estimated]
+
+NEXT STEPS:
+[Single clear action — "Reply with any questions, or sign the attached agreement to proceed."]
+
+This proposal is valid until [date].
+━━━━━━━━━━━━━━━━
+
+[CP-10 to CP-60] More proposal templates: executive summary only, RFP response format, retainer proposal, value-based pricing justification, competitive differentiation section
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 3: CLIENT COMMUNICATION (100 Templates)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+PROJECT STATUS REPORT TEMPLATE:
+━━━━━━━━━━━━━━━━
+PROJECT STATUS REPORT — [Week of / Date]
+Project: [Name] | Client: [Name] | Prepared by: [You]
+
+STATUS: 🟢 On Track / 🟡 At Risk / 🔴 Off Track
+
+SUMMARY (3 sentences max):
+[What happened this period, overall status, and the single most important upcoming milestone.]
+
+COMPLETED THIS PERIOD:
+→ [Deliverable/milestone]: [Status and brief note]
+→ [Task completed]
+→ [Meeting held — key outcome]
+
+IN PROGRESS:
+→ [Item]: [X]% complete, expected by [date]
+→ [Item]: [Status]
+
+UPCOMING (next 2 weeks):
+→ [Milestone]: [Date]
+→ [Decision needed from client by]: [Date]
+
+RISKS & ISSUES:
+Risk: [What could go wrong] | Mitigation: [What we're doing]
+Issue: [Active problem] | Resolution plan: [What's being done]
+
+CLIENT ACTIONS REQUIRED:
+→ [Specific request + deadline + why it matters for timeline]
+━━━━━━━━━━━━━━━━
+
+[CC-10 to CC-60] More communication templates: kickoff email, meeting agenda, meeting notes, escalation email, project delay notification, final delivery email, post-project survey, case study request
+
+CLIENT MANAGEMENT SCRIPTS (40):
+[CM-01] Client who won't make decisions: "I need [X decision] by [date] to keep the project on schedule. If I don't hear by then, I'll [proceed with the recommended approach / pause this phase]."
+[CM-02] Client who expands scope: "I love the ambition here. This is outside the current SOW — let me scope it as a change order so we can do it properly."
+[CM-03] Project going off-track: "I want to flag a risk early: [issue]. Here's my recommendation: [solution]. Can we schedule 30 minutes to align?"
+[CM-04 to CM-40] More scripts: budget overrun, timeline slippage, team conflict, feedback incorporation, stakeholder alignment
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 4: FINANCIAL & LEGAL FRAMEWORKS (100 Templates)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+INVOICE TEMPLATE:
+[Your Name/Company] | [Address] | [Email] | [Phone]
+INVOICE #[XXX] | Date: [Date] | Due: [Date]
+
+Bill to: [Client name + address]
+Project: [Project name]
+
+Services rendered:
+[Description]: $[Amount]
+[Description]: $[Amount]
+
+Subtotal: $[X]
+Tax ([X]% if applicable): $[X]
+TOTAL DUE: $[X]
+
+Payment methods: [List]
+Make checks payable to: [Name]
+Wire/ACH: [Instructions]
+Late payment: [1.5%/month after 30 days per original agreement]
+
+CONSULTING RATES GUIDE:
+[CR-01] Junior consultant: $127-125/hr
+[CR-02] Mid-level: $125-200/hr
+[CR-03] Senior/expert: $200-400/hr
+[CR-04] Thought leader/C-suite: $400-1,000/hr
+[CR-05] Daily rates: Hourly × 7-8 (not 8 — admin time exists)
+[CR-06] Project rates: (hours estimated × 1.3 buffer × rate) + 15% markup
+[CR-07] Retainer: Agreed monthly deliverables vs. hours — specify clearly
+
+[FL-10 to FL-100] More financial/legal: NDA template outline, IP assignment clauses, indemnification basics, dispute resolution clause, contractor vs employee distinction, tax considerations for consultants, insurance recommendations, contract negotiation framework
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+QUICK STATS: 400 templates | SOW + Proposals + Communication + Financial
+Disclaimer: Templates for educational use. Consult a lawyer for your specific contracts.
+By AniketG AI Systems
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

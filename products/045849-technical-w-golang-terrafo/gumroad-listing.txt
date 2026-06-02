@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Technical Writing Toolkit: Golang + Terraform for CTO
+PRICE: $177
+TAGS: technical writing, golang, terraform
+SHORT DESC: AI Technical Writing Toolkit: Golang + Terraform for CTO. $177. Commercial license.

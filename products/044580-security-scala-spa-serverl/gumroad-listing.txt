@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Security Toolkit: Scala/Spark + Serverless for Founding Engineer
+PRICE: $127
+TAGS: security, scala/spark, serverless
+SHORT DESC: AI Security Toolkit: Scala/Spark + Serverless for Founding Engineer. $127. Commercial license.

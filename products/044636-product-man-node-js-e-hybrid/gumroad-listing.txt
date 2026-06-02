@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Product Management Toolkit: Node.js/Express + Hybrid for Architect
+PRICE: $177
+TAGS: product management, node.js/express, hybrid
+SHORT DESC: AI Product Management Toolkit: Node.js/Express + Hybrid for Architect. $177. Commercial license.

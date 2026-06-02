@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Security Toolkit: Kotlin/Android + Kubernetes for Director of Engineering
+PRICE: $127
+TAGS: security, kotlin/android, kubernetes
+SHORT DESC: AI Security Toolkit: Kotlin/Android + Kubernetes for Director of Engineering. $127. Commercial license.

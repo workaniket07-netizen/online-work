@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI DevOps Toolkit: TypeScript + AWS for Junior
+PRICE: $127
+TAGS: devops, typescript, aws
+SHORT DESC: AI DevOps Toolkit: TypeScript + AWS for Junior. $127. Commercial license.

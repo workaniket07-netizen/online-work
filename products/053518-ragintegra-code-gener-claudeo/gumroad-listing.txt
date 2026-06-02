@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Prompting: RAG Integration for Code Generation using Claude Opus (Intermediate)
+PRICE: $127
+TAGS: rag integration, code generation, prompt engineering
+SHORT DESC: AI Prompting: RAG Integration for Code Generation using Claude Opus (Intermediate). $127. Commercial license.

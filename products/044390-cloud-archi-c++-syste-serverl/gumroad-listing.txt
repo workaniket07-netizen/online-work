@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Cloud Architecture Toolkit: C++/Systems + Serverless for Founding Engineer
+PRICE: $127
+TAGS: cloud architecture, c++/systems, serverless
+SHORT DESC: AI Cloud Architecture Toolkit: C++/Systems + Serverless for Founding Engineer. $127. Commercial license.

@@ -1,0 +1,641 @@
+╔══════════════════════════════════════════════════════════════════════╗
+║         BUSINESS SOP & OPERATIONS VAULT                              ║
+║   400 Standard Operating Procedures, Process Templates & Systems     ║
+║              By AniketG AI Systems                                   ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+Every system, process, and SOP a growing business needs.
+From hiring and onboarding to sales and delivery — documented,
+organized, and ready to customize. Stop reinventing the wheel.
+Stop relying on tribal knowledge. Build a business that runs
+without you having to be there for every decision.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 1: HR & HIRING SOPs (80 Templates)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+━━━━━━━━━━━━━━━━
+SOP: HIRING PROCESS — FULL CYCLE
+━━━━━━━━━━━━━━━━
+
+SOP TITLE: Full-Cycle Recruiting Process
+VERSION: 1.0 | OWNER: [HR Manager / Founder] | LAST UPDATED: [Date]
+PURPOSE: Ensure consistent, fast, bias-reduced hiring for all open roles.
+
+PROCESS OVERVIEW:
+Step 1: Role Definition (Day 1-2)
+Step 2: Job Posting (Day 3)
+Step 3: Resume Screening (Ongoing, Day 3-14)
+Step 4: Phone Screen (Day 7-14)
+Step 5: Skills/Take-home Assessment (Day 10-17)
+Step 6: Panel Interview (Day 14-21)
+Step 7: Reference Checks (Day 18-21)
+Step 8: Offer (Day 21-25)
+Step 9: Onboarding Prep (Day 25-30)
+
+DETAILED STEPS:
+
+STEP 1 — ROLE DEFINITION
+Trigger: Approved headcount request OR critical vacancy
+Owner: Hiring Manager
+Inputs needed: Role title, team, level, reporting structure, budget
+
+Checklist:
+□ Write job description using [Job Description Template]
+□ Define must-have vs nice-to-have qualifications
+□ Set compensation range (use [Salary Band Reference])
+□ Define success metrics for 30/60/90 days
+□ Identify 3-4 panel interviewers + their focus areas
+□ Set timeline and target start date
+□ Get sign-off from [Finance / Leadership]
+
+Output: Approved job description + hiring brief
+
+STEP 2 — JOB POSTING
+Owner: HR / Recruiting
+Channels to post: [LinkedIn / Indeed / company website / niche job boards]
+Posting checklist:
+□ Remove biased language (tool: Textio or manual review)
+□ Include EEO statement
+□ List compensation range (required in [states/countries where required])
+□ Set application close date or "until filled"
+
+STEP 3 — RESUME SCREENING
+Screening criteria (fill per role):
+Must-have #1: [criterion]
+Must-have #2: [criterion]
+Must-have #3: [criterion]
+Disqualifiers: [list automatic disqualifiers if any]
+
+Screen to 10-15 candidates per opening.
+Record decision and reasoning for each candidate reviewed.
+
+STEP 4 — PHONE SCREEN (30 minutes)
+Questions to ask:
+1. Can you tell me about your background and what you're looking for?
+2. What interests you in this specific role/company?
+3. [Role-specific question 1]
+4. [Role-specific question 2]
+5. What are your compensation expectations?
+6. What's your timeline / availability to start?
+
+Scoring rubric: Rate 1-5 on communication, relevance, enthusiasm, compensation fit
+Advance: Score 4+ overall, no disqualifiers
+
+STEP 5 — SKILLS ASSESSMENT
+Options by role type:
+Creative: Portfolio review checklist + 1 real-world exercise
+Technical: [Take-home test / live coding / case study]
+Management: Written case study
+Sales: Role play scenario
+Admin/Ops: Practical task test
+
+Time limit: Maximum [2 hours] for any assessment
+Compensation policy: [Paid / Unpaid — note your company policy]
+
+STEP 6 — PANEL INTERVIEW (60-90 minutes)
+Structure:
+- Welcome + agenda (5 min)
+- [Interviewer 1] — competency focus: [skills/experience] (20 min)
+- [Interviewer 2] — competency focus: [problem-solving/analytical] (20 min)
+- [Interviewer 3] — competency focus: [culture/values] (15 min)
+- Candidate questions (10-15 min)
+- Wrap-up + next steps (5 min)
+
+Debrief protocol:
+- Individual scores submitted BEFORE group discussion
+- Discuss 30 min after last interview
+- Document: strengths, concerns, decision, rationale
+
+STEP 7 — REFERENCE CHECKS
+When: After panel, before offer
+Who checks: [HR / Hiring Manager]
+Minimum references: 2 professional (supervisor preferred)
+Questions:
+1. How long and in what capacity did you work with [candidate]?
+2. What were their primary responsibilities?
+3. What are their greatest strengths?
+4. What areas did they work to improve?
+5. How did they handle [pressure/conflict/feedback]?
+6. Would you rehire them? If not, why?
+7. Is there anything I should know as I make my decision?
+
+STEP 8 — OFFER
+Components: Title, compensation, benefits, start date, contingencies
+Verbal offer → written offer within 24 hours
+Offer letter template: [See Offer Letter Template]
+Exploding offer window: [X business days]
+Counter-offer policy: [Your policy]
+
+STEP 9 — ONBOARDING PREP
+□ IT: Laptop + accounts + access provisioned
+□ Office/workspace: Desk, badge, parking if needed
+□ Announcement: Internal team email drafted
+□ Day 1 schedule: First week agenda created
+□ Buddy/mentor: Assigned
+□ 30/60/90 plan: Draft ready
+
+---
+
+SOP: EMPLOYEE ONBOARDING
+
+TITLE: New Employee Onboarding Process
+PURPOSE: Ensure every new hire feels welcomed, set up to succeed, and productive fast.
+
+PRE-START (Week before start):
+□ Welcome email sent (template below)
+□ IT setup complete — laptop, accounts, email, Slack, tools
+□ Physical workspace ready (if in-office)
+□ Benefits enrollment paperwork sent
+□ Day 1 schedule shared
+□ Buddy/mentor matched and briefed
+□ First week project brief prepared
+
+WELCOME EMAIL TEMPLATE:
+Subject: We're excited to have you join [Company] on [Start Date]!
+
+Hi [Name],
+
+We're thrilled you'll be joining us on [date]. Here's everything you need for a smooth first day:
+
+Your first day:
+→ Arrive/Log in at: [time]
+→ Report to / join: [location or Zoom link]
+→ You'll meet: [who greets them]
+
+Before you start:
+→ Complete your [I-9 / employment forms] here: [link]
+→ Set up your work email (instructions attached)
+
+What to bring: [list if applicable]
+
+Your first week agenda is attached. Any questions before then, reach me at [email/phone].
+
+Welcome to the team — we're glad you're here.
+[Manager/HR Name]
+
+DAY 1 SCHEDULE TEMPLATE:
+9:00 AM — Welcome + office/virtual tour with [buddy]
+9:30 AM — HR: Benefits, policies, paperwork
+11:00 AM — IT: Systems, tools, access
+12:00 PM — Team lunch / virtual coffee
+1:30 PM — 1:1 with direct manager: role overview, first project
+3:00 PM — Tool training session
+4:30 PM — Day 1 debrief + Q&A with manager
+
+WEEK 1 GOALS:
+□ Complete all HR paperwork
+□ Set up all required tools and access
+□ Meet all immediate team members
+□ Understand first 30-day goals
+□ Shadow 2-3 key processes
+□ Complete first small deliverable
+
+30-DAY MILESTONES:
+□ Fully productive in core tools
+□ First real project underway
+□ Relationships established with key stakeholders
+□ 30-day check-in completed with manager
+
+60-DAY MILESTONES:
+□ First full project delivered
+□ Clear on team processes and culture
+□ Feedback received from manager
+□ Any skill gaps identified and addressed
+
+90-DAY MILESTONES:
+□ Operating independently
+□ Contributing ideas and improvements
+□ Full performance review / probation check if applicable
+□ Longer-term goals set
+
+---
+
+[HR SOPs 10-80 — full templates for:]
+[H-10] Performance review cycle SOP
+[H-11] Disciplinary action process
+[H-12] Termination SOP (voluntary + involuntary)
+[H-13] Promotion process
+[H-14] Compensation review cycle
+[H-15] Leave of absence process
+[H-16] Remote work request and approval
+[H-17] Background check process
+[H-18] Contractor onboarding SOP
+[H-19] Employee complaint / grievance process
+[H-20] PTO request and approval
+[H-21] Benefits enrollment / annual re-enrollment
+[H-22] Payroll change request process
+[H-23] New hire equipment provisioning
+[H-24] Employee offboarding SOP
+[H-25] Reference letter request and approval
+[H-26] Harassment complaint investigation
+[H-27] Emergency contact update process
+[H-28] 1:1 meeting cadence and template
+[H-29] Team meeting agenda template
+[H-30] Annual HR calendar template
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 2: SALES & CUSTOMER SUCCESS SOPs (80 Templates)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SOP: SALES PROCESS — B2B SERVICE BUSINESS
+
+TITLE: B2B Sales Process
+PURPOSE: Convert leads to clients consistently and predictably.
+
+STAGE 1 — LEAD QUALIFICATION
+Ideal Customer Profile (ICP) criteria:
+□ Company size: [X-Y employees / $X-Y revenue]
+□ Industry: [list]
+□ Challenge: [problem your service solves]
+□ Budget indicator: [signals they have budget]
+□ Decision-maker access: [role of decision-maker]
+□ Timeline: [actively looking to buy in X timeframe]
+
+Lead scoring: 1 point per ICP criterion met. Score 4+: Priority 1. Score 2-3: Nurture. Score 0-1: Not a fit.
+
+STAGE 2 — FIRST OUTREACH
+Medium: [email / LinkedIn / referral / inbound]
+Goal: Book discovery call
+Message framework: [observation about them] + [relevant connection] + [soft ask for call]
+Follow-up cadence:
+Day 1: First outreach
+Day 4: Follow-up 1 (add value)
+Day 9: Follow-up 2 (softer touch)
+Day 16: Final attempt + breakup email
+If no response: Tag for 90-day re-engage sequence
+
+STAGE 3 — DISCOVERY CALL (30-45 minutes)
+Pre-call prep:
+□ Research company (news, team size, recent announcements)
+□ Prepare 5 discovery questions specific to their situation
+□ Review ICP criteria
+
+Call framework:
+Opening (3 min): Context + agenda
+Discovery (20 min): [List your 5-8 core discovery questions]
+Presentation (10 min): High-level overview of approach + relevant examples
+Qualification (5 min): Budget, timeline, decision process
+Next steps (5 min): Proposal / follow-up call / decision criteria
+
+Qualify: BANT (Budget / Authority / Need / Timeline) or MEDDIC
+Advance if: Clear need + timeline + decision maker involved + budget range aligned
+
+STAGE 4 — PROPOSAL
+Trigger: Qualified discovery call completed
+Turnaround: Within 48 hours of call
+Template: [See Proposal Template]
+Format: PDF or online doc
+Follow-up: Call 48 hours after sending to review together
+Proposal expiry: 30 days
+
+STAGE 5 — NEGOTIATION & CLOSE
+Never discount without getting something in return
+Options for budget objection:
+→ Reduce scope (not rate)
+→ Phase the project
+→ Payment plan
+→ Shorter initial engagement to prove value
+
+Verbal agreement → contract within 24 hours
+Contract tool: [DocuSign / HelloSign / your tool]
+Deposit invoice: Send simultaneously with contract
+
+STAGE 6 — HANDOFF TO DELIVERY
+Once signed + deposit received:
+□ Project folder created
+□ Kickoff call scheduled within 48 hours
+□ Client added to [CRM / project management tool]
+□ Delivery team briefed
+□ Kickoff agenda sent to client
+
+---
+
+SOP: CUSTOMER COMPLAINT HANDLING
+
+TITLE: Customer Complaint Resolution Process
+PURPOSE: Turn complaints into retention opportunities.
+
+RECEIPT (within 1 hour):
+□ Acknowledge receipt: "Thank you for reaching out. I'm looking into this now."
+□ Log in [CRM/ticket system]
+□ Assign owner
+□ Set resolution target: [4 hours / 24 hours / 48 hours depending on severity]
+
+SEVERITY LEVELS:
+Level 1 (Minor): Wrong information, billing question → Resolve same day
+Level 2 (Medium): Service issue, delay, quality concern → Resolve within 24 hours
+Level 3 (Major): Service failure, significant client impact → Escalate immediately, resolve within 4 hours
+
+RESOLUTION PROCESS:
+1. Understand fully: Ask clarifying questions before defending
+2. Acknowledge: "I understand why that's frustrating."
+3. Own: Take responsibility without excessive blame
+4. Fix: Tell them exactly what you'll do and when
+5. Follow up: Check that the resolution was satisfactory
+6. Document: Log root cause and fix to prevent recurrence
+
+RESPONSE TEMPLATES BY ISSUE TYPE:
+Billing error: [template]
+Quality issue: [template]
+Delay: [template]
+Miscommunication: [template]
+Complete failure: [template]
+Refund request: [template]
+
+ESCALATION CRITERIA: Involve manager when:
+→ Client threatens to cancel
+→ Legal implications
+→ Media/social threat
+→ Issue affects multiple clients
+→ Level 3 complaint
+
+---
+
+[Sales SOPs 10-80:]
+[S-10] Inbound lead response SOP (< 5 min response standard)
+[S-11] CRM hygiene and data entry standards
+[S-12] Proposal review and approval process
+[S-13] Contract negotiation boundaries
+[S-14] Win/loss analysis process
+[S-15] Referral program management
+[S-16] Upsell and cross-sell process
+[S-17] Client renewal process (annual/subscription)
+[S-18] Churn risk identification and intervention
+[S-19] Sales forecasting template
+[S-20] Commission calculation and payment
+[S-21] Client success check-in cadence
+[S-22] Quarterly business review (QBR) template
+[S-23] NPS survey + response process
+[S-24] Customer case study process
+[S-25] Testimonial request process
+[S-26] Pipeline review meeting agenda
+[S-27] Cold outreach daily quota and tracking
+[S-28] Competitive intelligence process
+[S-29] Sales collateral review and update cadence
+[S-30] Trial-to-paid conversion SOP
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 3: OPERATIONS & DELIVERY SOPs (80 Templates)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SOP: PROJECT DELIVERY — SERVICE BUSINESS
+
+TITLE: Client Project Delivery Process
+PURPOSE: Deliver every project on time, on scope, to a quality standard clients rave about.
+
+KICKOFF PHASE (Week 1)
+□ Send kickoff agenda 24 hours in advance
+□ Kickoff call: Review scope, timeline, communication plan, first milestone
+□ Set up project workspace ([Notion/Asana/ClickUp/your tool])
+□ Share access with client
+□ Send kickoff summary email within 24 hours of call
+□ Begin work immediately — no "setup lag"
+
+COMMUNICATION STANDARDS:
+→ Response time: Within [4/8/24] hours on business days
+→ Status updates: Every [Friday / week / milestone]
+→ Method: [Email / Slack / your tool] for [category of communication]
+→ Escalation: If blocked > 24 hours, proactively communicate
+
+WEEKLY UPDATE TEMPLATE:
+Subject: [Project Name] — Week [X] Update
+
+Hi [Name],
+
+Quick update for this week:
+
+✅ COMPLETED THIS WEEK:
+- [Task 1]
+- [Task 2]
+
+🔄 IN PROGRESS:
+- [Task 3] — [X]% complete, due [date]
+- [Task 4] — [X]% complete, due [date]
+
+📋 COMING NEXT WEEK:
+- [Milestone/task]
+
+⚠️ ANY BLOCKERS OR NOTES:
+[If none: "Everything is on track."]
+
+We're on schedule for [milestone/delivery date].
+[Your name]
+
+MILESTONE DELIVERY:
+□ Review against original brief before sending
+□ Include delivery summary (what it is, how to use/review it)
+□ Specify what feedback you need and by when
+□ Include version number on all deliverables
+
+FEEDBACK/REVISION MANAGEMENT:
+□ Log all feedback received (date, who, what)
+□ Confirm scope (revision vs. change order)
+□ Turnaround on revisions: [X business days]
+□ Track revision rounds used vs. included
+
+PROJECT CLOSE:
+□ Final delivery email with all files
+□ Summary of what was delivered
+□ Instructions for use/implementation
+□ Request testimonial / case study (see SOP for that)
+□ Archive project folder
+□ Invoice final payment
+□ 30-day check-in scheduled
+□ CRM updated
+
+---
+
+SOP: CONTENT CREATION WORKFLOW
+
+TITLE: Content Production Process
+PURPOSE: Produce consistent, on-brand content without bottlenecks.
+
+IDEATION:
+□ Source ideas from: [content calendar, audience questions, keyword research, industry news]
+□ Document in ideas vault: title concept + format + target keyword/topic
+□ Monthly: review + prioritize backlog
+
+CONTENT BRIEF TEMPLATE:
+Working title:
+Target keyword/topic:
+Primary audience:
+Key message (1 sentence):
+Outline (H2s):
+Tone/voice:
+Key points to include:
+SEO notes:
+CTA:
+Deadline:
+Assigned to:
+
+PRODUCTION STAGES:
+1. Brief approved → writer begins
+2. Draft 1 → review (editor/owner) within [48 hours]
+3. Revisions → draft 2
+4. Final approval → design/formatting
+5. Final file → schedule/publish
+6. Published → promote across channels
+
+QUALITY CHECKLIST (before publishing):
+□ Headline: clear, specific, keyword-included
+□ Introduction: hook within first sentence
+□ Body: every section delivers on what headline promises
+□ CTA: clear, specific, relevant
+□ Visuals: all images have alt text
+□ Links: all links tested
+□ SEO: meta title + description completed
+□ Grammar/spell check: passed
+□ Brand voice: consistent with guidelines
+
+---
+
+[Ops SOPs 10-80:]
+[O-10] Financial month-end close process
+[O-11] Invoice generation and follow-up SOP
+[O-12] Vendor/supplier management process
+[O-13] Technology stack review and update
+[O-14] Data backup and security SOP
+[O-15] Business continuity / emergency process
+[O-16] New tool evaluation and adoption process
+[O-17] Meeting agenda and note-taking standards
+[O-18] Email management SOP (inbox zero method)
+[O-19] File naming and storage conventions
+[O-20] Password management policy
+[O-21] Social media publishing checklist
+[O-22] Email newsletter send checklist
+[O-23] Website maintenance checklist (monthly)
+[O-24] Analytics review and reporting SOP
+[O-25] Quarterly business review (internal)
+[O-26] Annual planning process
+[O-27] Budget creation and review process
+[O-28] Expense approval process
+[O-29] Legal document management
+[O-30] Insurance review process
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 4: MARKETING & CONTENT SOPs (80 Templates)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[M-01] Brand voice guide template
+[M-02] Content calendar monthly planning process
+[M-03] Social media posting checklist (per platform)
+[M-04] Campaign launch checklist
+[M-05] Email marketing send checklist
+[M-06] SEO audit process (quarterly)
+[M-07] Influencer/partnership outreach process
+[M-08] Paid advertising campaign setup SOP
+[M-09] Website conversion rate optimization SOP
+[M-10] Marketing reporting template (weekly/monthly)
+[M-11] Blog post publishing checklist
+[M-12] Video production workflow
+[M-13] Podcast episode production SOP
+[M-14] Press release process
+[M-15] Event marketing checklist
+[M-16] Product launch marketing checklist (full)
+[M-17] Lead magnet creation process
+[M-18] Landing page quality checklist
+[M-19] A/B test documentation template
+[M-20] Competitive analysis process (quarterly)
+[M-21] Marketing budget allocation framework
+[M-22] Customer feedback loop process
+[M-23] Community management standards
+[M-24] Ambassador/affiliate program management
+[M-25] Marketing-sales handoff SOP
+[M-26] Re-targeting campaign setup checklist
+[M-27] Brand asset management (where to find + update)
+[M-28] Photography/video asset collection SOP
+[M-29] User-generated content rights and use
+[M-30] End-of-quarter marketing retrospective
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 5: SOP WRITING TEMPLATES (80 Templates)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+MASTER SOP TEMPLATE:
+━━━━━━━━━━━━━━━━
+SOP TITLE:
+SOP ID: [DEPT-###]
+DEPARTMENT: [HR / Sales / Ops / Marketing / Finance / IT]
+VERSION: [1.0]
+OWNER: [Role, not person name]
+APPROVER: [Role]
+LAST REVIEWED: [Date]
+NEXT REVIEW DATE: [Date + 12 months]
+
+PURPOSE:
+[1-2 sentences: why this process exists and what problem it solves]
+
+SCOPE:
+Applies to: [who this affects]
+Does not apply to: [exclusions]
+
+DEFINITIONS:
+[Term]: [Definition]
+[Abbreviation]: [What it stands for]
+
+TOOLS REQUIRED:
+- [Tool 1]: [How it's used in this process]
+- [Tool 2]: [How it's used in this process]
+
+ROLES & RESPONSIBILITIES:
+[Role 1]: [Specific responsibilities in this process]
+[Role 2]: [Specific responsibilities in this process]
+
+PROCESS:
+
+TRIGGER: [What starts this process]
+
+STEP 1: [Action step]
+Owner: [Role]
+Input: [What you need before starting]
+How to do it: [Specific instructions]
+Output: [What results from this step]
+Time: [Approximate time]
+If X happens: [Exception handling]
+
+STEP 2: [Action step]
+[Same format]
+
+[Continue for all steps]
+
+COMPLETION CRITERIA:
+This process is complete when: [specific condition]
+
+QUALITY CHECKS:
+□ [Quality check 1]
+□ [Quality check 2]
+
+EXCEPTIONS:
+[Situation]: [What to do instead]
+
+RELATED DOCUMENTS:
+- [Related SOP 1]: [Link]
+- [Related template]: [Link]
+
+CHANGE LOG:
+v1.0 [Date]: Initial creation
+v1.1 [Date]: [What changed]
+━━━━━━━━━━━━━━━━
+
+[Additional SOP framework templates:]
+[SF-01] Simple 5-step SOP format (for quick processes)
+[SF-02] Decision tree SOP format (when process has branches)
+[SF-03] Checklist-only SOP format (for pure execution)
+[SF-04] Role-based SOP format (shows who does what)
+[SF-05] Visual flow SOP format (text description of flowchart)
+[SF-06] Emergency/exception SOP format
+[SF-07] Customer-facing process script format
+[SF-08] Training SOP format (includes assessment)
+[SF-09] Audit/review SOP format
+[SF-10] KPI measurement SOP format
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+QUICK STATS:
+Total Templates: 400
+Sections: 5 (HR + Sales + Ops + Marketing + SOP Frameworks)
+Best for: Business owners, ops managers, COOs, consultants building client systems
+Works for: 1-person businesses to 500-person companies
+
+By AniketG AI Systems | Commercial License Included
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

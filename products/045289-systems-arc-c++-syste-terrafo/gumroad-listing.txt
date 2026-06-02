@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Systems Architecture Toolkit: C++/Systems + Terraform for CTO
+PRICE: $177
+TAGS: systems architecture, c++/systems, terraform
+SHORT DESC: AI Systems Architecture Toolkit: C++/Systems + Terraform for CTO. $177. Commercial license.

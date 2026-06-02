@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Product Management Toolkit: Ruby/Rails + AWS for Junior
+PRICE: $127
+TAGS: product management, ruby/rails, aws
+SHORT DESC: AI Product Management Toolkit: Ruby/Rails + AWS for Junior. $127. Commercial license.

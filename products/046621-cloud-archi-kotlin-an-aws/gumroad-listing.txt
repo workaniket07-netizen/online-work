@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Cloud Architecture Toolkit: Kotlin/Android + AWS for Junior
+PRICE: $127
+TAGS: cloud architecture, kotlin/android, aws
+SHORT DESC: AI Cloud Architecture Toolkit: Kotlin/Android + AWS for Junior. $127. Commercial license.

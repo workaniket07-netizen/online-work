@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Product Management Toolkit: Swift/iOS + Terraform for CTO
+PRICE: $177
+TAGS: product management, swift/ios, terraform
+SHORT DESC: AI Product Management Toolkit: Swift/iOS + Terraform for CTO. $177. Commercial license.

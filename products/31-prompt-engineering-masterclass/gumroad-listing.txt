@@ -1,0 +1,80 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+GUMROAD LISTING — PROMPT ENGINEERING MASTERCLASS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+PRODUCT TITLE:
+Prompt Engineering Masterclass — 300 Advanced Techniques, Power Prompts & AI System Templates
+
+PRICE: $127
+
+SHORT DESCRIPTION:
+300 advanced prompting templates — 7 core techniques (role prompting, chain-of-thought, few-shot, output formatting, constraint prompting, iterative refinement, metacognitive), 50 power prompts that replace entire SaaS tools, custom instruction templates, system prompts for AI bots, and multi-turn conversation techniques. For power users, developers, and AI professionals.
+
+LONG DESCRIPTION:
+
+Most ChatGPT users are getting maybe 20% of what AI can do.
+
+Not because the models aren't capable — because they don't know the techniques that unlock the other 80%.
+
+The Prompt Engineering Masterclass gives you 300 advanced prompting techniques and ready-to-use templates — from chain-of-thought reasoning to persona engineering to the 50 power prompts that replace entire software subscriptions.
+
+✅ WHAT'S INSIDE:
+
+🧠 7 Core Prompting Techniques (80 templates)
+→ Role/Persona Prompting — activate expert knowledge domains
+→ Chain-of-Thought (CoT) — force step-by-step reasoning for better accuracy
+→ Few-Shot Learning — teach AI your exact format by example
+→ Output Formatting Control — JSON, tables, strict word counts, template fills
+→ Constraint Prompting — audience constraints, elimination, forced perspective
+→ Iterative Refinement — critique loops, upgrade prompts, specificity injection
+→ Metacognitive Prompting — make AI examine its own reasoning
+
+⚡ 50 Power Prompts (replace entire tools)
+→ The Business Analyzer (replaces consultants)
+→ The Marketing Strategy Generator (replaces agencies)
+→ The Code Reviewer (replaces senior dev review)
+→ The Legal Plain English Translator
+→ The Investor Pitch Rater
+→ The Content Repurposer (one input → 6 platform formats)
+→ The Competitive Intelligence Report
+→ The Product Feedback Analyzer
+→ And 42 more — meeting optimizer, decision framework, data interpreter, brand voice replicator
+
+🤖 Advanced AI Systems (80 templates)
+→ 20 custom instruction templates (copywriter, researcher, code reviewer)
+→ 20 system prompt templates (customer service bot, sales qualifier, HR FAQ bot)
+→ 20 multi-turn conversation techniques (memory hack, Socratic dialogue, progressive refinement)
+→ 20 prompt quality evaluation frameworks (CRISP framework, worst-best test)
+
+🏭 Industry-Specific Advanced Prompts (80 templates)
+→ 20 industries × 4 advanced prompts each
+→ Healthcare, Legal, Finance, Marketing, Engineering, HR, Education, Real Estate
+
+━━━━━━━━━━━━━━━━
+
+🔥 WHO IS THIS FOR?
+
+• Power users who use AI daily and want to go 10x deeper
+• Developers building AI features or apps
+• Marketers running AI-assisted campaigns
+• Consultants using AI for analysis and research
+• Anyone who feels like AI gives them generic outputs and wants to fix that
+
+━━━━━━━━━━━━━━━━
+
+📦 WHAT YOU GET:
+→ 300-template TXT file
+→ Works with ChatGPT-4o, Claude 3.5+, Gemini Ultra, any frontier AI
+→ Commercial license
+→ Lifetime access + updates
+
+━━━━━━━━━━━━━━━━
+
+🛡️ 7-day money-back guarantee.
+
+🚀 INSTANT DOWNLOAD — $47
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+TAGS: prompt engineering, advanced ChatGPT prompts, chain of thought prompting, few shot learning, power prompts ChatGPT, AI prompting techniques, ChatGPT power user, advanced AI prompts, prompt engineering guide, system prompt templates
+

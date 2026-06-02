@@ -1,0 +1,1054 @@
+╔══════════════════════════════════════════════════════════════════════╗
+║         MIDJOURNEY CINEMATIC MASTER PACK — 500 PRO PROMPTS           ║
+║         For Midjourney v6 / SDXL / Stable Diffusion / DALL-E         ║
+║                    By AniketG AI  |  gumroad.com                    ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+HOW TO USE:
+• Copy any prompt
+• Paste directly into Midjourney (/imagine) or SDXL
+• Customize [subject], [color], [location] to your needs
+• Parameters at end: --ar sets aspect ratio, --v 6 for MJ v6
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SECTION 1: CINEMATIC PORTRAITS (100 Prompts)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[P01] cinematic portrait of [woman/man], golden hour backlight, Rembrandt lighting on face, shallow depth of field, Canon EOS R5 85mm f/1.4, film grain, warm amber tones, editorial fashion photography, ultra sharp eyes, photorealistic --ar 2:3 --v 6
+
+[P02] dramatic close-up portrait, deep shadows, single key light from left, high contrast black and white, wet skin texture, intense gaze, studio photography, 8K resolution, grain film texture --ar 2:3 --v 6
+
+[P03] environmental portrait of [elderly person] in [their workspace], natural window light, Leica M10 35mm, dust particles in light, warm tones, documentary photography style, authentic, unposed --ar 3:2 --v 6
+
+[P04] ethereal fantasy portrait, bioluminescent flowers in hair, misty forest background, soft diffused light, long exposure, magical realism, painterly yet photographic, fine art portrait --ar 2:3 --v 6
+
+[P05] moody noir portrait, rain-soaked window behind subject, single neon light source [red/blue/green], heavy shadows, detective story atmosphere, 1940s film noir aesthetic, cinematic grain --ar 2:3 --v 6
+
+[P06] high fashion editorial portrait, metallic body paint, harsh studio lighting, blown-out background, Vogue magazine cover style, avant-garde, dramatic angles, luxury brand campaign --ar 2:3 --v 6
+
+[P07] intimate close-up portrait, freckles and natural skin texture, morning light through sheer curtain, lifestyle photography, soft bokeh background, Canon 50mm f/1.2, warm and authentic --ar 2:3 --v 6
+
+[P08] warrior portrait, battle-worn face, dramatic side lighting, textured skin, medieval armor partially visible, epic fantasy style, cinematic color grading, intense expression, ultra detailed --ar 2:3 --v 6
+
+[P09] underwater portrait, slow motion feel, air bubbles, hair floating gracefully, muted turquoise tones, dreamlike, fine art photography, studio-quality even underwater --ar 2:3 --v 6
+
+[P10] conceptual portrait, face half in shadow half in light, surreal makeup, symbolic background, thought-provoking, contemporary art photography, minimalist composition --ar 2:3 --v 6
+
+[P11] street portrait, candid moment, Tokyo rainy night, neon reflections on wet pavement, stranger caught in perfect light, 35mm film aesthetic, decisive moment photography --ar 2:3 --v 6
+
+[P12] athlete portrait, motion blur background, frozen sharp face, stadium lights, sweat on skin, peak action moment, sports editorial photography, dramatic lighting --ar 16:9 --v 6
+
+[P13] renaissance painter style portrait, chiaroscuro lighting, oil painting texture, classical composition, 17th century backdrop, hyper-realistic, museum quality --ar 2:3 --v 6
+
+[P14] fashion portrait with smoke effect, colored smoke [pink/blue/orange], backlit, silhouette partially visible, editorial style, luxury perfume ad aesthetic, dreamy --ar 2:3 --v 6
+
+[P15] cyberpunk portrait, neon-lit face, holographic display reflections in eyes, rain on glass behind, dark futuristic city, blade runner aesthetic, ultra sharp, 4K --ar 2:3 --v 6
+
+[P16] child portrait in wildflower meadow, golden afternoon light, genuine laughter, shallow depth of field, soft pastel tones, family photography magazine quality --ar 3:2 --v 6
+
+[P17] elderly craftsman portrait, weathered hands in frame, workshop background, single overhead light, black and white, documentary photography, life story visible in face --ar 2:3 --v 6
+
+[P18] conceptual double exposure portrait, face merged with cityscape, dramatic contrast, black silhouette, graphic design meets photography, contemporary fine art --ar 2:3 --v 6
+
+[P19] bridal portrait, golden hour light through cathedral window, veil catching light, soft shadows, ethereal glow, wedding magazine editorial, warm cream tones --ar 2:3 --v 6
+
+[P20] dark academia portrait, library background, antique books, candlelight, moody green tones, intellectual expression, period costume, cinematic depth --ar 2:3 --v 6
+
+[P21] surfer portrait, mid-action, golden sunset, ocean spray frozen in air, salty atmosphere, lifestyle photography, warm California tones --ar 16:9 --v 6
+
+[P22] drag queen portrait, extreme theatrical makeup, feather boa, colorful studio background, high contrast, celebration of identity, editorial fashion --ar 2:3 --v 6
+
+[P23] minimalist portrait, stark white background, single color clothing, geometric shadow, high-fashion, clean, modern editorial, Scandinavian aesthetic --ar 2:3 --v 6
+
+[P24] travel portrait, woman in traditional [Rajasthani/Japanese/Moroccan] dress, authentic location, lifestyle travel photography, cultural celebration, warm tones --ar 2:3 --v 6
+
+[P25] low-light musician portrait, playing instrument, stage light from above, dramatic shadows, concert photography, raw emotion, available light only --ar 2:3 --v 6
+
+[P26] conceptual portrait: face painted as galaxy, stars and nebula on skin, space background, fine art makeup photography, otherworldly, surreal beauty --ar 2:3 --v 6
+
+[P27] desert portrait, subject against vast landscape, warm golden tones, wind in hair, cinematic wide angle, small figure in massive environment, epic scale --ar 16:9 --v 6
+
+[P28] high-key glamour portrait, white background, bright even lighting, perfect skin, luxury beauty brand, retouched but natural-looking, commercial beauty photography --ar 2:3 --v 6
+
+[P29] environmental storytelling portrait, chef in kitchen, steam and fire, dramatic under-lighting, culinary magazine editorial, action and passion visible --ar 2:3 --v 6
+
+[P30] crystal ball portrait, world reflected in orb held by subject, magical, whimsical, fine art concept photography, dreamy lighting --ar 2:3 --v 6
+
+[P31] rain portrait, standing in storm, dramatic clouds, streetlight backlight, raindrops frozen mid-air, cinematic mood, noir thriller aesthetic --ar 2:3 --v 6
+
+[P32] morning light portrait, messy bun, coffee cup, bed linen background, real and relatable, warm lifestyle photography, intimate and authentic --ar 2:3 --v 6
+
+[P33] night sky portrait, Milky Way visible, figure facing stars, long exposure, deep navy blue tones, cosmic connection, astrophotography portrait hybrid --ar 2:3 --v 6
+
+[P34] extreme texture portrait, cracked desert earth skin concept, fashion editorial, dramatic lighting, conceptual beauty, waterless world theme --ar 2:3 --v 6
+
+[P35] winter portrait, breath visible in cold air, pale skin, snowflakes in hair, frozen lake behind, fairy tale atmosphere, fine art portrait --ar 2:3 --v 6
+
+[P36] architectural portrait, subject in bold geometric building, strong lines, graphic composition, fashion photography, Bauhaus inspired --ar 2:3 --v 6
+
+[P37] dusk portrait, magic hour light, silhouette against purple-orange sky, minimalist, emotional, landscape-portrait hybrid, cinematic --ar 16:9 --v 6
+
+[P38] floral portrait, face surrounded by blooming flowers, petals touching skin, spring editorial, beauty brand campaign, pastel palette, feminine elegance --ar 2:3 --v 6
+
+[P39] smoke and mirrors portrait, face obscured by thin veil of smoke, mysterious, fashion forward, editorial, contemporary fine art --ar 2:3 --v 6
+
+[P40] concert crowd portrait, subject facing stage, massive crowd behind, stage lights in background, from behind compositional choice, festival atmosphere --ar 16:9 --v 6
+
+[P41] autumn forest portrait, dappled light through orange leaves, earth tones, cozy editorial, lifestyle photography, seasons change concept --ar 2:3 --v 6
+
+[P42] reflective surface portrait, puddle reflection, upside down world, conceptual street photography, urban, rainy, meditative --ar 2:3 --v 6
+
+[P43] cross-cultural fusion portrait, traditional and modern elements combined in one person, fashion editorial, identity and heritage theme --ar 2:3 --v 6
+
+[P44] ballet dancer portrait, motion captured, tutu in motion, dramatic stage lighting, spotlit against black, fine art dance photography --ar 2:3 --v 6
+
+[P45] tech entrepreneur portrait, minimal home office background, casual but confident, clean lighting, LinkedIn premium editorial --ar 2:3 --v 6
+
+[P46] dramatic theatrical portrait, stage makeup, Elizabethan collar, spotlit, dark background, performing arts magazine editorial --ar 2:3 --v 6
+
+[P47] conceptual mirror portrait, infinity reflections, white room, philosophical, contemporary fine art concept --ar 2:3 --v 6
+
+[P48] grunge aesthetic portrait, urban background, torn clothing styled, desaturated tones, authentic and raw, alternative music editorial --ar 2:3 --v 6
+
+[P49] medical/scientific portrait, lab coat, experiment in progress, dramatic lighting, National Geographic editorial style --ar 2:3 --v 6
+
+[P50] sand portrait, subject emerging from desert, minimal styling, earthy tones, National Geographic magazine quality, environment as character --ar 2:3 --v 6
+
+[P51] fashion week street style portrait, caught between shows, Paris/Milan/Tokyo backdrop, effortlessly stylish, reportage style --ar 2:3 --v 6
+
+[P52] pregnancy portrait, backlit, silhouette option, beautiful light, intimate and powerful, timeless motherhood theme --ar 2:3 --v 6
+
+[P53] boxer portrait, post-fight, sweat and exhaustion, single light source, black and white, grit and determination, sports editorial --ar 2:3 --v 6
+
+[P54] children playing portrait, genuine unposed joy, warm afternoon light, film photography aesthetic, editorial family photography --ar 3:2 --v 6
+
+[P55] conceptual beauty portrait, face half-covered in flowers, half in darkness, contrast, beauty and decay theme --ar 2:3 --v 6
+
+[P56] neon cityscape portrait, subject surrounded by [Tokyo/New York/Blade Runner] neon signs, rich color, commercial photography, nightlife editorial --ar 2:3 --v 6
+
+[P57] winter forest portrait, snow-covered trees, breath mist, dramatic cold tones, editorial fashion shoot, luxury brand campaign --ar 2:3 --v 6
+
+[P58] fruit and vegetable portrait, elaborate headpiece of fresh produce, surreal, playful, colorful, editorial fashion --ar 2:3 --v 6
+
+[P59] introspective bedroom portrait, window light, journal nearby, vulnerable mood, lifestyle editorial, mental health awareness --ar 2:3 --v 6
+
+[P60] iconic hair portrait, dramatic volume and movement, hair frozen in motion, beauty editorial, shampoo commercial quality --ar 2:3 --v 6
+
+[P61] silhouette sunset portrait, dramatic against orange-pink sky, outline only, graphic and beautiful, inspirational --ar 16:9 --v 6
+
+[P62] color pop portrait, black and white background, single colorized element [lips/flower/jacket], commercial photography, striking --ar 2:3 --v 6
+
+[P63] vintage 1970s portrait aesthetic, film grain, warm fade, analog photography style, nostalgic, authentic --ar 2:3 --v 6
+
+[P64] extreme close-up eye portrait, iris detail, light reflection visible, textured skin, macro photography, abstract beauty --ar 1:1 --v 6
+
+[P65] festival portrait, body paint and glitter, colorful crowd, expression of joy, Burning Man aesthetic, vibrant editorial --ar 2:3 --v 6
+
+[P66] new parent portrait, first meeting with newborn, hospital light softened, raw emotion, photojournalism, life's most important moments --ar 3:2 --v 6
+
+[P67] architectural decay portrait, beautiful face in crumbling building, contrast of beauty and ruin, fine art photography, conceptual --ar 2:3 --v 6
+
+[P68] underwater queen portrait, flowing gown, crown of sea plants, ethereal lighting, fantasy fine art, otherworldly beauty --ar 2:3 --v 6
+
+[P69] rooftop city portrait, skyline background at dusk, cool tones, urban lifestyle, commercial editorial --ar 2:3 --v 6
+
+[P70] theatrical grief portrait, dramatic makeup of tears, opera aesthetic, black and white, deeply emotional, fine art --ar 2:3 --v 6
+
+[P71] market vendor portrait, authentic smile, colorful market behind, developing world, National Geographic quality, dignity and joy --ar 2:3 --v 6
+
+[P72] high-speed water splash portrait, face emerging from water explosion, frozen moment, dramatic, beauty campaign --ar 2:3 --v 6
+
+[P73] color field portrait, immersed in single color environment, monochromatic, conceptual photography, contemporary art --ar 2:3 --v 6
+
+[P74] extreme sports portrait, cliff edge behind, wind-swept, gear visible, adventure editorial, REI/outdoor brand campaign --ar 16:9 --v 6
+
+[P75] window light self-portrait aesthetic, simple and intimate, overcast day, honest and quiet, editorial --ar 2:3 --v 6
+
+[P76] projection portrait, images projected onto face, surreal, contemporary fine art photography, identity theme --ar 2:3 --v 6
+
+[P77] café portrait, morning coffee, soft light, Paris aesthetic, lifestyle editorial, warm tones, unposed --ar 2:3 --v 6
+
+[P78] dramatic fashion storm portrait, lightning in background, fashion editorial, powerful weather, luxury brand shoot --ar 9:16 --v 6
+
+[P79] underwater light portrait, dappled sunlight from above water surface, dreamy, fine art, fashion editorial --ar 2:3 --v 6
+
+[P80] texture skin portrait, extreme close-up, ultra detailed pores, wrinkles as art, beauty of aging, fine art photography --ar 1:1 --v 6
+
+[P81] forest bathing portrait, Japanese Shinrin-yoku concept, mist, ancient trees, peaceful expression, wellness editorial --ar 2:3 --v 6
+
+[P82] carnival mirror distortion portrait, warped reflections, fun and surreal, colorful carnival aesthetic, editorial --ar 2:3 --v 6
+
+[P83] cold morning portrait, frozen breath, rosy cheeks, winter sun, outdoors editorial, authentic cold beauty --ar 2:3 --v 6
+
+[P84] tattoo portrait, full sleeve visible, dramatic lighting, contemporary editorial, ink as art story --ar 2:3 --v 6
+
+[P85] graduation portrait, mortarboard hat, campus backdrop, golden hour, milestone moment, portrait photography --ar 2:3 --v 6
+
+[P86] fashion in motion portrait, walking toward camera, motion blur background, confidence, commercial editorial --ar 2:3 --v 6
+
+[P87] light painting portrait, long exposure, colorful light trails around subject, dark background, fine art photography --ar 2:3 --v 6
+
+[P88] desert sand storm portrait, dramatic warm orange sky, dramatic lighting, epic, cinematic --ar 16:9 --v 6
+
+[P89] library portrait, surrounded by ancient books, warm lamplight, intellectual, dark academia, fine art --ar 2:3 --v 6
+
+[P90] face paint as flag portrait, country flag painted on face, celebration and identity, editorial --ar 2:3 --v 6
+
+[P91] black sand beach portrait, dramatic natural contrast, moody volcanic landscape, editorial fashion --ar 16:9 --v 6
+
+[P92] snow globe concept portrait, tiny figure in snow globe setting, conceptual, fine art, magical realism --ar 1:1 --v 6
+
+[P93] pop art portrait, Roy Lichtenstein comic style, primary colors, halftone dots, bold outline, retro --ar 2:3 --v 6
+
+[P94] time concept portrait, clocks melting à la Dalí, surreal portrait, conceptual photography, editorial --ar 2:3 --v 6
+
+[P95] monastery monk portrait, simple robes, meditation, soft window light, quiet dignity, documentary photography --ar 2:3 --v 6
+
+[P96] first snow portrait, wonder and childlike joy, snowflakes, warm scarf and coat, soft light --ar 2:3 --v 6
+
+[P97] silhouette action portrait, jumping or running, dramatic sky, graphic power, inspirational editorial --ar 16:9 --v 6
+
+[P98] aging hands portrait, close up, tell the story of a life, documentary photography, profound and moving --ar 3:2 --v 6
+
+[P99] face in fabric portrait, soft draped silk over face, fashion editorial, sculptural, ethereal --ar 2:3 --v 6
+
+[P100] dusk swimmer portrait, figure half-submerged in still water, reflection, minimalist, serene, fine art --ar 16:9 --v 6
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SECTION 2: PRODUCT & COMMERCIAL PHOTOGRAPHY (100 Prompts)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[PR01] luxury perfume bottle, dark obsidian surface, single overhead rim light, caustic light reflections, deep shadow, premium brand campaign, ultra photorealistic, 8K --ar 1:1 --v 6
+
+[PR02] artisan coffee cup, steam rising, dark slate surface, moody café atmosphere, bokeh background, editorial food photography, Canon 100mm macro --ar 1:1 --v 6
+
+[PR03] premium whiskey bottle, backlit amber liquid, Carrara marble surface, crystal glass beside it, luxury lifestyle product shot, deep rich tones --ar 3:4 --v 6
+
+[PR04] fresh sushi platter, overhead flat lay, dark wood surface, minimal garnish, soft even light, Japanese restaurant menu quality, clean and precise --ar 1:1 --v 6
+
+[PR05] skincare product lineup, white marble background, dried flowers, morning light, clean beauty brand, Instagram-worthy, neutral tones --ar 3:4 --v 6
+
+[PR06] luxury watch, close-up of face and strap, dark background, single light catching metal, detail shot, Swiss watchmaker advertisement quality --ar 1:1 --v 6
+
+[PR07] fresh fruit explosion, fruits mid-air, colorful, white background, high-speed frozen moment, commercial food photography, clean and bold --ar 1:1 --v 6
+
+[PR08] wine bottle and glass, vineyard bokeh background, golden hour, warm amber light through glass, French winery editorial --ar 3:4 --v 6
+
+[PR09] tech gadget (phone/laptop), dark minimal background, dramatic side light, product hero shot, tech magazine quality, modern and sleek --ar 16:9 --v 6
+
+[PR10] artisan bread loaf, wooden cutting board, natural window light, warm tones, bakery atmosphere, lifestyle food editorial --ar 3:2 --v 6
+
+[PR11] sneaker product shot, floating mid-air, dynamic angle, colored background, lifestyle sport brand, Nike/Adidas campaign quality --ar 1:1 --v 6
+
+[PR12] candle with flame, dark moody background, wax texture detail, warm amber glow, home lifestyle brand, flat lay composition --ar 1:1 --v 6
+
+[PR13] burger stack, dramatic studio lighting, cheese melting, sesame bun, dark background, food brand advertising quality --ar 4:5 --v 6
+
+[PR14] crystal perfume bottle, colorful light refraction, facets catching light, luxury, geometric beauty, fine art product photography --ar 1:1 --v 6
+
+[PR15] book stack, cozy reading corner, warm lamplight, coffee cup beside, hygge aesthetic, bookshop or publisher editorial --ar 4:5 --v 6
+
+[PR16] sports shoes with mud splash, action implied, earth tones, sport editorial, energy and performance, outdoor brand campaign --ar 16:9 --v 6
+
+[PR17] chocolate squares, dark chocolate texture, cacao powder dust, dark moody background, premium confectionery brand, macro detail --ar 1:1 --v 6
+
+[PR18] luxury handbag, hero shot, textured leather detail, warm studio light, fashion brand editorial, clean background, aspirational --ar 3:4 --v 6
+
+[PR19] tea ceremony setup, matcha bowl, bamboo whisk, steam rising, Japanese aesthetic, soft natural light, zen product photography --ar 1:1 --v 6
+
+[PR20] freshly baked croissants, golden flaky layers, powdered sugar, Paris café morning light, warm tones, editorial food photography --ar 3:2 --v 6
+
+[PR21] geometric jewelry on marble, minimal flat lay, brass and gold tones, clean shadow, contemporary jeweler editorial --ar 1:1 --v 6
+
+[PR22] cold brew coffee bottle, ice condensation on glass, dark background, droplets of water, premium café brand, refreshing --ar 3:4 --v 6
+
+[PR23] succulent plant collection, flat lay, terracotta pots, warm sunlight, lifestyle home editorial, botanical brand --ar 1:1 --v 6
+
+[PR24] luxury leather wallet, detail of stitching and texture, dark wood background, single side light, premium menswear brand --ar 1:1 --v 6
+
+[PR25] homemade jam jars, sunlit window, vintage labels, morning kitchen atmosphere, artisan food brand, warm and wholesome --ar 3:2 --v 6
+
+[PR26] running shoes, overhead flat lay, track surface, editorial sportswear, bold colors, clean composition --ar 1:1 --v 6
+
+[PR27] cheese board, styled with honey, nuts, crackers, rustic wood, warm side light, food magazine editorial, abundant and inviting --ar 3:2 --v 6
+
+[PR28] water droplet on product surface [can/bottle], macro lens, black background, minimalist product photography, crisp and fresh --ar 1:1 --v 6
+
+[PR29] luxury spa products, white towels, rose petals, soft light, hotel editorial, wellness brand campaign --ar 3:4 --v 6
+
+[PR30] single espresso shot, black cup, white saucer, marble background, dark tones, Italian café, minimalist coffee editorial --ar 1:1 --v 6
+
+[PR31] vitamin/supplement bottles, clean medical aesthetic, white background, precise lighting, pharmaceutical brand quality --ar 4:5 --v 6
+
+[PR32] knife set on wooden block, kitchen light, texture and sharpness detail, culinary equipment editorial, professional chef --ar 3:2 --v 6
+
+[PR33] artisan pottery collection, earthy glazes, natural light, textured linen background, craft brand, warm tones --ar 3:2 --v 6
+
+[PR34] protein shake bottle, gym background blurred, condensation, muscle and health, sports nutrition brand --ar 3:4 --v 6
+
+[PR35] flowers in glass vase, window light, water droplets on petals, lifestyle home editorial, florist brand --ar 3:4 --v 6
+
+[PR36] headphones over-ear, floating mid-air, dark background, dynamic lighting, premium audio brand campaign --ar 1:1 --v 6
+
+[PR37] fresh pasta with sauce, steam, rustic Italian kitchen, warm tones, restaurant editorial, authentic and appetizing --ar 3:2 --v 6
+
+[PR38] sunglasses flat lay, sand and shell props, beach lifestyle, summer brand, warm tones, vacation editorial --ar 3:2 --v 6
+
+[PR39] yoga mat rolled out, morning light, wooden floor, plant in background, wellness brand, peaceful lifestyle --ar 16:9 --v 6
+
+[PR40] honey jar with honeycomb, golden liquid pour, dark wood, backlit, artisan food product, rich amber tones --ar 3:4 --v 6
+
+[PR41] electric guitar close-up detail, pickups and strings, low-angle dramatic light, music brand editorial --ar 16:9 --v 6
+
+[PR42] notebook and pen, flat lay, morning coffee, desk editorial, stationery brand, productivity lifestyle --ar 3:2 --v 6
+
+[PR43] ice cream scoop, single scoop on cone, dramatic macro light, creamy texture, dessert brand advertising --ar 4:5 --v 6
+
+[PR44] raw steak on butcher block, parsley garnish, dramatic overhead light, restaurant quality, meaty and rich --ar 3:2 --v 6
+
+[PR45] luxury soap bars, botanical ingredients around them, spa aesthetic, white and earth tones, clean beauty --ar 3:2 --v 6
+
+[PR46] paint tubes and brushes, artist palette, colorful pigments, editorial art supply brand --ar 3:2 --v 6
+
+[PR47] cereal splash in milk, frozen mid-action, bold colors, fun energy, food brand advertising --ar 1:1 --v 6
+
+[PR48] camping gear flat lay, tent/sleeping bag/tools, outdoor light, adventure brand editorial, earthy tones --ar 3:2 --v 6
+
+[PR49] eyeshadow palette, rich pigments close-up, luxury makeup brand, dark moody editorial --ar 1:1 --v 6
+
+[PR50] glass bottle of mineral water, mountain background blurred, crisp and pure, hydration brand --ar 3:4 --v 6
+
+[PR51] avocado toast styled, sourdough, toppings detail, flat lay, food blog quality, morning light --ar 1:1 --v 6
+
+[PR52] luxury fountain pen, leather notebook, desk detail, masculine lifestyle editorial, executive brand --ar 3:2 --v 6
+
+[PR53] bath bomb dissolving in water, color swirls, overhead macro, beauty brand, colorful and inviting --ar 1:1 --v 6
+
+[PR54] tropical fruit flat lay, overhead, colorful, white background, food brand, summer and freshness --ar 1:1 --v 6
+
+[PR55] audio record on turntable, vinyl close-up, warm light, retro music editorial, music brand --ar 1:1 --v 6
+
+[PR56] electric toothbrush, bathroom counter, clean minimalist, healthcare brand, white and chrome tones --ar 3:4 --v 6
+
+[PR57] spice collection, small jars in row, warm spices visible, dark wood, food editorial, cooking brand --ar 3:2 --v 6
+
+[PR58] luxury bedding, pillow detail, soft morning light, interior lifestyle editorial, hotel brand quality --ar 16:9 --v 6
+
+[PR59] vintage camera on map and coffee, travel editorial, flat lay, warm tones, travel photography brand --ar 3:2 --v 6
+
+[PR60] protein bar product shot, gym environment, hard shadow, energy drink beside it, sports nutrition --ar 1:1 --v 6
+
+[PR61] flower crown flat lay, botanical photography, macro petals, fine art print quality --ar 1:1 --v 6
+
+[PR62] sauce bottle pour close-up, frozen mid-drizzle, dark moody background, premium food brand --ar 3:4 --v 6
+
+[PR63] wallet cards and cash arrangement, stylish editorial, financial brand, clean and premium --ar 3:2 --v 6
+
+[PR64] baby products, soft pastel tones, gentle lighting, parenting brand editorial, safe and pure --ar 3:2 --v 6
+
+[PR65] espresso machine detail, chrome and steam, dark kitchen, barista brand, precision and craft --ar 3:2 --v 6
+
+[PR66] book open with light rays, inspiring editorial, publisher or education brand --ar 3:2 --v 6
+
+[PR67] kitchen herb garden, morning light, fresh green herbs, rustic wooden box, food lifestyle brand --ar 3:2 --v 6
+
+[PR68] luxury car interior detail, leather seat, dashboard, dramatic light, automotive editorial --ar 16:9 --v 6
+
+[PR69] cocktail drink, colorful garnish, dark moody bar background, premium spirits brand --ar 3:4 --v 6
+
+[PR70] outdoor backpack, mountain trail, adventure editorial, natural light, travel and exploration brand --ar 3:2 --v 6
+
+[PR71] cheese close-up, texture and mold, rustic aesthetic, artisan dairy brand, rich and complex --ar 1:1 --v 6
+
+[PR72] vintage perfume atomizer, flower petals, editorial beauty, retro luxury aesthetic --ar 3:4 --v 6
+
+[PR73] paintbrush marks on canvas, abstract close-up, creative brand, art studio editorial --ar 1:1 --v 6
+
+[PR74] matcha latte art, overhead view, coffee shop aesthetic, warm minimal tones, café brand --ar 1:1 --v 6
+
+[PR75] product box unboxing, white tissue paper, premium packaging, e-commerce brand editorial --ar 3:4 --v 6
+
+[PR76] sleeping mask, pillow, dawn light through curtain, sleep wellness brand, soft and peaceful --ar 3:2 --v 6
+
+[PR77] cactus collection, sunset light, terracotta, boho aesthetic, plant brand editorial --ar 3:2 --v 6
+
+[PR78] luxury pen case, suede lining, detail shot, gift photography, premium brand --ar 3:2 --v 6
+
+[PR79] kimchi in ceramic bowls, steam visible, Korean food editorial, authentic and appetizing --ar 3:2 --v 6
+
+[PR80] drone overhead shot of food flat lay, creative angle, restaurant aerial photography --ar 1:1 --v 6
+
+[PR81] mineral face mask, clay texture, clean skin background, skincare brand --ar 1:1 --v 6
+
+[PR82] lemon drop splash, frozen water, white background, citrus fresh, frozen moment --ar 1:1 --v 6
+
+[PR83] luxury writing paper with seal, elegant stationery, editorial, wedding brand --ar 3:4 --v 6
+
+[PR84] fitness tracker on wrist, active lifestyle, outdoors, health tech brand --ar 1:1 --v 6
+
+[PR85] wood and metal workshop tools, craftsman editorial, maker brand, authentic and skilled --ar 3:2 --v 6
+
+[PR86] popcorn overflowing bowl, movie night aesthetic, colorful, food brand, fun --ar 1:1 --v 6
+
+[PR87] vintage globe with travel accessories, editorial travel brand, nostalgic and aspirational --ar 3:2 --v 6
+
+[PR88] silk fabric detail, luxury textile, draped and lit dramatically, fashion material brand --ar 1:1 --v 6
+
+[PR89] olive oil pouring on bread, Mediterranean lifestyle, warm golden tones, authentic food editorial --ar 3:2 --v 6
+
+[PR90] sports equipment flat lay, gym lifestyle editorial, motivation brand, clean composition --ar 3:2 --v 6
+
+[PR91] birthday cake with candles, dramatic overhead light, rich and celebratory, bakery brand --ar 1:1 --v 6
+
+[PR92] single flower macro, dewdrops, ultra detail, fine art botanical photography --ar 1:1 --v 6
+
+[PR93] skincare routine flat lay, morning light, mirror and products, clean beauty brand --ar 3:4 --v 6
+
+[PR94] paint-splattered work boots, creative and rugged, maker editorial, artist lifestyle brand --ar 1:1 --v 6
+
+[PR95] premium chocolate bar opened, dark chocolate texture, gold foil, luxury confectionery --ar 1:1 --v 6
+
+[PR96] cold glass of beer, golden lager, bubbles, dark wood bar, craft beer brand --ar 3:4 --v 6
+
+[PR97] knitting needles and yarn, cozy home editorial, textile brand, autumn warmth --ar 3:2 --v 6
+
+[PR98] fresh herbs tied in bundle, soft window light, farmhouse aesthetic, organic food brand --ar 3:4 --v 6
+
+[PR99] gaming keyboard lit up, RGB lighting, dark desk, tech brand, dramatic angles --ar 16:9 --v 6
+
+[PR100] custom sneakers close-up, hand-painted details, macro, street art brand, urban creative --ar 1:1 --v 6
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SECTION 3: LANDSCAPES & ARCHITECTURE (100 Prompts)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[L01] misty mountain valley at dawn, pink and gold light, fog layers between peaks, long exposure stillness, Ansel Adams meets modern cinema, ultra wide --ar 16:9 --v 6
+
+[L02] Japanese torii gates in autumn forest, orange maple leaves, misty morning, spiritual and serene, Kyoto editorial --ar 2:3 --v 6
+
+[L03] Iceland glacier lagoon, icebergs floating, turquoise water, dramatic clouds, golden hour, National Geographic editorial --ar 16:9 --v 6
+
+[L04] Venice canal at night, reflections in still water, lamplight on stone, gondola in shadow, romantic and timeless --ar 3:2 --v 6
+
+[L05] Moroccan riad courtyard, geometric tiles, fountain, afternoon light shafts, travel editorial, rich color --ar 2:3 --v 6
+
+[L06] rainforest waterfall, lush green, mist rising, sunbeam through canopy, long exposure water, tropical paradise --ar 2:3 --v 6
+
+[L07] desert sand dunes, minimalist curves, single shadow line, late afternoon warm light, graphic beauty --ar 16:9 --v 6
+
+[L08] Tokyo street at night, neon lights, rain-wet pavement, commuters with umbrellas, Blade Runner aesthetic --ar 2:3 --v 6
+
+[L09] Northern Lights over Norwegian fjord, reflections in still water, star field visible, epic natural light show --ar 16:9 --v 6
+
+[L10] Santorini cliffside village, white and blue, sunset golden light, Mediterranean sea far below, travel editorial --ar 16:9 --v 6
+
+[L11] underground cave with crystal formations, natural light beam from above, geological wonder, National Geographic --ar 2:3 --v 6
+
+[L12] Scottish Highlands storm, dramatic dark clouds, golden light breaking through, heather moorland, cinematic --ar 16:9 --v 6
+
+[L13] New York City rooftop view at night, billion lights, Empire State Building visible, Manhattan scale --ar 16:9 --v 6
+
+[L14] bamboo forest path, Japan, green light filtering, misty morning, peaceful walk, Zen editorial --ar 2:3 --v 6
+
+[L15] Sahara desert camp at night, Milky Way overhead, warm tent lights, immensity of universe and desert --ar 16:9 --v 6
+
+[L16] Swiss village in winter, snow on rooftops, church spire, pine trees, postcard perfect, Christmas travel editorial --ar 16:9 --v 6
+
+[L17] Australian outback red earth at sunset, dramatic horizon, gum trees silhouette, vast and ancient land --ar 16:9 --v 6
+
+[L18] Machu Picchu at dawn, clouds below, Inca ruins, atmospheric mist, sunrise colors, wonder of the world --ar 16:9 --v 6
+
+[L19] Norwegian stave church in snow, ancient dark wood, winter forest, mystical Nordic editorial --ar 2:3 --v 6
+
+[L20] Great Barrier Reef aerial view, turquoise and green, coral patterns visible, blue Pacific, overhead --ar 16:9 --v 6
+
+[L21] Prague Old Town at golden hour, red rooftops, river reflection, storybook European city --ar 16:9 --v 6
+
+[L22] Amazon river from above, serpentine curve, dense green jungle, aerial photography editorial --ar 16:9 --v 6
+
+[L23] Petra ancient city, rose-red rock carved facade, warm evening light, Jordan travel editorial --ar 2:3 --v 6
+
+[L24] Singapore skyline at night, Marina Bay Sands, light reflections on water, ultra modern city --ar 16:9 --v 6
+
+[L25] New Zealand fjord, vertical cliffs, still dark water, mirror reflection, ethereal and remote --ar 2:3 --v 6
+
+[L26] lavender fields Provence France, purple rows to horizon, village in background, summer travel editorial --ar 16:9 --v 6
+
+[L27] tropical beach at sunrise, pink sky, palm silhouette, empty beach, perfect peace --ar 16:9 --v 6
+
+[L28] Uyuni salt flats Bolivia, perfect mirror reflection of sky, figures small in infinite space, conceptual editorial --ar 16:9 --v 6
+
+[L29] volcanic eruption from safe distance, lava flow into ocean, dramatic steam, power of nature --ar 16:9 --v 6
+
+[L30] cherry blossom avenue, Japan spring, pink canopy over road, cyclists passing, travel editorial --ar 16:9 --v 6
+
+[L31] Atacama desert starfield, clearest sky on earth, Milky Way brilliant, telescope in silhouette --ar 16:9 --v 6
+
+[L32] Maldives water bungalows, turquoise lagoon, aerial view, luxury travel editorial --ar 16:9 --v 6
+
+[L33] autumn forest floor carpet, fallen orange and red leaves, misty trees above, quiet and meditative --ar 16:9 --v 6
+
+[L34] Swiss Alps cable car view, dramatic peaks above clouds, snow and sky, adventure travel --ar 16:9 --v 6
+
+[L35] Irish Cliffs of Moher, dramatic vertical drop, Atlantic waves far below, moody grey sky --ar 16:9 --v 6
+
+[L36] Patagonia Torres del Paine, granite towers, lake reflection, windy drama, ultimate landscape --ar 16:9 --v 6
+
+[L37] Bali rice terrace sunrise, layers of green, palm trees, morning mist, spiritual landscape --ar 16:9 --v 6
+
+[L38] Paris rooftop, Eiffel Tower in background, morning mist, classic French architecture, travel editorial --ar 16:9 --v 6
+
+[L39] underwater coral world, tropical fish, rays of sunlight, diving photography quality, vivid color --ar 16:9 --v 6
+
+[L40] Istanbul at dusk, minarets silhouette, call to prayer moment, pink and orange sky, cultural editorial --ar 16:9 --v 6
+
+[L41] forest in fog, monochromatic, tall pines disappearing into mist, ethereal, silence, fine art landscape --ar 16:9 --v 6
+
+[L42] Monument Valley Arizona, iconic buttes, dramatic red light, Western landscape, cinematic classic --ar 16:9 --v 6
+
+[L43] frozen lake, perfect ice, air bubbles trapped, macro detail, winter wonder, abstract landscape --ar 1:1 --v 6
+
+[L44] Cape Town from Table Mountain, city and sea below, clouds rolling in, South Africa editorial --ar 16:9 --v 6
+
+[L45] Andalucia white village on clifftop, Spain, terracotta rooftops, dramatic coast, travel editorial --ar 16:9 --v 6
+
+[L46] London fog morning, red bus silhouette, Big Ben outline, Thames reflection, iconic and moody --ar 16:9 --v 6
+
+[L47] Rajasthan golden fort at sunset, warm stone, camels below, desert kingdom, India editorial --ar 16:9 --v 6
+
+[L48] frozen Niagara Falls, ice formations, winter wonder, dramatic scale, natural phenomenon --ar 16:9 --v 6
+
+[L49] Norwegian village reflected in fjord, colorful houses, mirror image, travel editorial, calm water --ar 16:9 --v 6
+
+[L50] storm over ocean, lightning strike, dramatic sky, power of nature, fine art landscape --ar 16:9 --v 6
+
+[L51] Tokyo teamLab digital art installation, light and reflection, futuristic space, art editorial --ar 16:9 --v 6
+
+[L52] Tuscan vineyard at harvest, rolling hills, cypress trees, warm golden tones, Italian wine country --ar 16:9 --v 6
+
+[L53] Antarctica iceberg, electric blue interior, scale figure for reference, pure and alien landscape --ar 16:9 --v 6
+
+[L54] street market Mumbai, chaotic and colorful, overhead view, vibrant India editorial --ar 16:9 --v 6
+
+[L55] modern bridge at night, light trails of cars, long exposure, structural beauty, architecture editorial --ar 16:9 --v 6
+
+[L56] Swiss watch factory interior, precision machinery, clean lines, industrial beauty, brand editorial --ar 16:9 --v 6
+
+[L57] Cappadocia balloon festival, dozens of hot air balloons, sunrise, fairy chimney landscape --ar 16:9 --v 6
+
+[L58] dark forest with single lantern light, mysterious path, fantasy editorial, magical --ar 2:3 --v 6
+
+[L59] Korean DMZ bridge, fog and military history, quiet power, photojournalism landscape --ar 16:9 --v 6
+
+[L60] grand cathedral interior, gothic arches, light through rose window, spiritual awe --ar 2:3 --v 6
+
+[L61] Great Wall of China, dragon spine mountain, autumn foliage, historical epic landscape --ar 16:9 --v 6
+
+[L62] Miami art deco architecture, pastel colors, palm trees, dusk light, vibrant city editorial --ar 2:3 --v 6
+
+[L63] Greenland icecap aerial, white expanse, blue melt pools, scale incomprehensible, climate editorial --ar 16:9 --v 6
+
+[L64] Amazon tribe village aerial, circular structure, deep jungle, anthropological photography --ar 16:9 --v 6
+
+[L65] Dubai skyline at night, Burj Khalifa lit, desert stars above, luxury and future city --ar 16:9 --v 6
+
+[L66] Mediterranean olive grove, gnarled ancient trees, golden light, simple beauty --ar 16:9 --v 6
+
+[L67] Angkor Wat at sunrise, temple rising from mist, Cambodia, spiritual and historical --ar 16:9 --v 6
+
+[L68] NYC Central Park aerial autumn, red and gold rectangle in concrete city, helicopter view --ar 16:9 --v 6
+
+[L69] Lofoten Islands Norway, colourful fishing cottages, mountain backdrop, water reflection --ar 16:9 --v 6
+
+[L70] Baobab trees Madagascar, alien-looking giants, orange sunset, surreal landscape --ar 16:9 --v 6
+
+[L71] rice paddy terraces Vietnam, early morning, mist rising, single farmer, green and gold --ar 16:9 --v 6
+
+[L72] Colombian coffee farm, green hills, flowering plants, happy farmer, authentic editorial --ar 16:9 --v 6
+
+[L73] Namib desert dead vlei, bleached trees, orange dunes, surreal landscape, fine art photography --ar 16:9 --v 6
+
+[L74] Hong Kong urban density, apartment blocks, neon signs, streets below, overwhelming urban --ar 2:3 --v 6
+
+[L75] Finnish sauna by frozen lake, steam and snow, birch trees, Nordic winter wellness --ar 3:2 --v 6
+
+[L76] Galápagos Islands natural scene, unique wildlife, untouched nature, scientific editorial --ar 16:9 --v 6
+
+[L77] modern architecture detail, glass and steel reflection, blue sky, Zaha Hadid aesthetic --ar 2:3 --v 6
+
+[L78] Faroe Islands cliffs, dramatic verticality, wild ocean, sheep on edge, remote and extreme --ar 16:9 --v 6
+
+[L79] ancient Roman Forum, historical ruins, modern Rome beyond, time and civilization editorial --ar 16:9 --v 6
+
+[L80] blue hour city park, couple on bench, street lights just on, trees silhouetted, romantic --ar 16:9 --v 6
+
+[L81] Canadian Rockies lake reflection, Lake Louise turquoise, mountains, glaciers, impossibly perfect --ar 16:9 --v 6
+
+[L82] Venice at fog, mysterious, shapes barely visible, atmospheric, painterly, Canaletto meets photography --ar 16:9 --v 6
+
+[L83] Himalayan mountain pass, prayer flags, vast scale, spiritual and physical journey --ar 16:9 --v 6
+
+[L84] São Paulo favela and wealthy district, aerial inequality editorial, powerful documentary --ar 16:9 --v 6
+
+[L85] Big Sur Pacific Coast Highway, dramatic cliffs, ocean, iconic American road trip --ar 16:9 --v 6
+
+[L86] old growth redwood forest, looking up, cathedral scale trees, green filtered light --ar 2:3 --v 6
+
+[L87] Wadi Rum Jordan, red desert landscape, rock formations, adventure editorial --ar 16:9 --v 6
+
+[L88] Venice in acqua alta flooding, chair stack in flooded piazza, surreal but beautiful --ar 16:9 --v 6
+
+[L89] Korean palace in spring, cherry blossom, traditional rooflines, travel and heritage editorial --ar 16:9 --v 6
+
+[L90] Liverpool street graffiti art, colorful murals, urban culture, documentary photography --ar 3:2 --v 6
+
+[L91] Scandinavian wilderness cabin, smoke from chimney, lake, golden hour, retreat editorial --ar 16:9 --v 6
+
+[L92] cloud sea above valley, mountain peaks emerging, aerial perspective, spiritual editorial --ar 16:9 --v 6
+
+[L93] Mariana Trench concept visualization, deepest ocean, bioluminescence, unknown creatures, eerie beauty --ar 16:9 --v 6
+
+[L94] Arctic fox in snow, white camouflage, icy landscape, wildlife photography, National Geographic --ar 16:9 --v 6
+
+[L95] Mexican cenote, blue hole in jungle, swimmers below, aerial view, turquoise water --ar 16:9 --v 6
+
+[L96] Glastonbury Festival, colorful tents, mud, bands of light, aerial music festival editorial --ar 16:9 --v 6
+
+[L97] lighthouse in stormy sea, waves crashing, heroic architecture, dramatic weather photography --ar 16:9 --v 6
+
+[L98] Gobi Desert nomad camp, vast emptiness, ger tents, Mongolia, ancient way of life --ar 16:9 --v 6
+
+[L99] Silicon Valley HQ architecture, Apple Park aerial, Googleplex, tech campus editorial --ar 16:9 --v 6
+
+[L100] rising tide mangrove forest, aerial, green fractals, blue water, natural geometry --ar 16:9 --v 6
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SECTION 4: SCI-FI & FANTASY WORLDS (100 Prompts)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[SF01] floating sky islands, ancient ruins covered in moss, waterfalls to infinite below, warm golden light, epic fantasy world, cinematic --ar 16:9 --v 6
+
+[SF02] cyberpunk city at night, neon signs in [Japanese/Chinese/Hindi], flying cars, rain, blade runner but more colorful --ar 16:9 --v 6
+
+[SF03] giant mechanical spider walking through Victorian steampunk city, brass and copper, coal smoke, epic scale --ar 16:9 --v 6
+
+[SF04] underwater atlantis ruins, ancient columns, colorful fish, dramatic light rays from above, epic fantasy --ar 16:9 --v 6
+
+[SF05] massive alien mothership entering atmosphere, epic scale against clouds, threatening and awe-inspiring, cinematic sci-fi --ar 16:9 --v 6
+
+[SF06] wizard's observatory tower, star charts on walls, glowing potions, ancient books floating, warm magical light --ar 2:3 --v 6
+
+[SF07] post-apocalyptic city reclaimed by jungle, vines and trees through skyscrapers, nature wins, epic and melancholy --ar 16:9 --v 6
+
+[SF08] ice palace on glacier, crystal architecture, northern lights visible through transparent walls, fantasy epic --ar 16:9 --v 6
+
+[SF09] dragon flying over medieval city, fire breath illuminating night, citizens fleeing, epic battle scene --ar 16:9 --v 6
+
+[SF10] alien planet surface, double sun, exotic plant life, explorer figure for scale, vibrant color palette --ar 16:9 --v 6
+
+[SF11] ancient library with infinite shelves, ladders to impossible heights, magical dust floating, books flying --ar 16:9 --v 6
+
+[SF12] space station interior, Earth visible through massive window, zero gravity scene, ultra realistic sci-fi --ar 16:9 --v 6
+
+[SF13] enchanted forest, bioluminescent mushrooms and flowers, fairy lights, magical creatures glimpsed, dreamlike --ar 16:9 --v 6
+
+[SF14] time traveler's workshop, clocks everywhere, portal energy, era artifacts mixed, warm chaotic light --ar 16:9 --v 6
+
+[SF15] giant stone golem guardian at temple entrance, ancient and powerful, moss covered, awakening --ar 2:3 --v 6
+
+[SF16] terraformed Mars city, red planet landscape outside dome, futuristic interior, early colony life --ar 16:9 --v 6
+
+[SF17] mermaid queen throne room, coral palace, underwater light, dramatic scale, Disney meets realism --ar 16:9 --v 6
+
+[SF18] dark forest witch's cottage, natural magic everywhere, cauldron glowing, ravens, moonlight --ar 16:9 --v 6
+
+[SF19] generation ship interior, ecosystem preserved, people and nature, hundreds of years in space --ar 16:9 --v 6
+
+[SF20] epic sea monster rising from ocean, ship in foreground for scale, stormy sky, kraken attack --ar 16:9 --v 6
+
+[SF21] sky train between cloud cities, impossibly long bridge, morning light, futuristic transport --ar 16:9 --v 6
+
+[SF22] haunted Victorian mansion on cliff, lightning storm, gothic horror, every window lit with strange light --ar 16:9 --v 6
+
+[SF23] desert planet trading post, various alien species, cantina atmosphere, Star Wars meets realism --ar 16:9 --v 6
+
+[SF24] phoenix rising from volcanic eruption, fire feathers, epic mythological scene, cinematic --ar 16:9 --v 6
+
+[SF25] AI consciousness visualization, digital mind space, neural connections, beautiful and eerie --ar 16:9 --v 6
+
+[SF26] underwater dome city, futuristic architecture, sea life outside, dramatic light from above --ar 16:9 --v 6
+
+[SF27] forest god awakening, ancient deity made of trees and light, forest creatures watching, epic --ar 2:3 --v 6
+
+[SF28] abandoned space colony, Earth plants reclaiming metal, melancholy beauty, solarpunk aesthetic --ar 16:9 --v 6
+
+[SF29] tournament arena, fantasy warriors facing off, crowd watching, magical combat, epic scale --ar 16:9 --v 6
+
+[SF30] quantum computer chamber, glowing qubits, scientists in hazmat, advanced tech, sci-fi editorial --ar 16:9 --v 6
+
+[SF31] elven city in ancient forest, organic architecture, tree houses at canopy level, magical light --ar 16:9 --v 6
+
+[SF32] black hole visualization, accretion disk, light bending, Interstellar accuracy, cosmic scale --ar 16:9 --v 6
+
+[SF33] sand worm from Dune scale scene, desert, fremen figure running, epic landscape, cinematic --ar 16:9 --v 6
+
+[SF34] alchemist's laboratory, bubbling experiments, transmutation circles, medieval magic meets steampunk --ar 16:9 --v 6
+
+[SF35] first contact scene, humans and alien species, UN-style meeting room, tension and wonder --ar 16:9 --v 6
+
+[SF36] aurora borealis amplified, alien aurora in multiple colors, fantastical sky, fantasy editorial --ar 16:9 --v 6
+
+[SF37] medieval siege battle, castle walls, catapults, dramatic fire, epic battle fantasy --ar 16:9 --v 6
+
+[SF38] clockwork universe interior, gear mechanisms creating reality, Maker God concept, steampunk cosmos --ar 1:1 --v 6
+
+[SF39] pirate ship in supernatural storm, ghost crew, glowing sea, supernatural nautical horror --ar 16:9 --v 6
+
+[SF40] crystal cave with dragon egg, massive underground cavern, glowing egg, epic scale --ar 16:9 --v 6
+
+[SF41] cybernetic augmented human, chrome and skin merged, blue lights, transhumanism concept --ar 2:3 --v 6
+
+[SF42] giant whale flying through clouds, ethereal fantasy, child riding on back, Spirited Away inspired --ar 16:9 --v 6
+
+[SF43] ancient Egyptian gods walking among mortals, supernatural scale, Memphis epic, cinematic --ar 16:9 --v 6
+
+[SF44] virtual reality world exit door, digital seam in realistic environment, existential concept --ar 16:9 --v 6
+
+[SF45] forest of giant mushrooms, alien-like world, explorers discovering, bioluminescent, Avatar inspired --ar 16:9 --v 6
+
+[SF46] sword pulled from stone, magical light, Arthurian legend, chosen one moment, cinematic --ar 2:3 --v 6
+
+[SF47] alien coral reef, exotic sea life, completely unfamiliar species, vivid color, exoplanet ocean --ar 16:9 --v 6
+
+[SF48] tower of babel moment, ambitious construction to clouds, ancient world epic, cinematic biblical --ar 2:3 --v 6
+
+[SF49] robot awakening moment, first consciousness, factory setting, poignant sci-fi, Pinocchio concept --ar 16:9 --v 6
+
+[SF50] warrior princess in crystal armor, magic sword, epic fantasy poster, dynamic pose, dramatic light --ar 2:3 --v 6
+
+[SF51] ocean city at sunset, bio-engineered coral architecture, sustainable future, optimistic sci-fi --ar 16:9 --v 6
+
+[SF52] necromancer summons army, gothic scene, epic spell effect, undead rising, cinematic fantasy --ar 16:9 --v 6
+
+[SF53] Jupiter from its moon Europa, massive planet filling sky, dramatic scale, realistic space concept --ar 16:9 --v 6
+
+[SF54] fairy market, hundreds of tiny creatures, magical goods, toadstool stalls, moonlight --ar 16:9 --v 6
+
+[SF55] mech suit warrior in ruined city, post-apocalyptic, dramatic scale, lone hero, cinematic --ar 16:9 --v 6
+
+[SF56] deep ocean bioluminescent creature encounter, diver for scale, alien beauty, dark deep sea --ar 16:9 --v 6
+
+[SF57] mystical portal in ancient stone circle, energy swirling, what's through it partially visible, Stonehenge inspired --ar 16:9 --v 6
+
+[SF58] celestial being descending, wings of pure light, clouds parting, mythological, divine scale --ar 2:3 --v 6
+
+[SF59] alien archaeology dig site, unearthed technology, human scientists overwhelmed, discovery moment --ar 16:9 --v 6
+
+[SF60] enchanted weapon forge, dwarf smith, magical metal, forge fire, epic fantasy crafting --ar 16:9 --v 6
+
+[SF61] solarpunk future city, green architecture, solar panels integrated, sustainable and beautiful --ar 16:9 --v 6
+
+[SF62] kraken attack on sailing ship, massive tentacles, sailors on deck, historical fantasy chaos --ar 16:9 --v 6
+
+[SF63] space elevator, tether to orbit, futuristic Earth, infrastructure of the future, conceptual sci-fi --ar 9:16 --v 6
+
+[SF64] vampire castle at midnight, gothic architecture, blood moon, bats in sky, dark fantasy --ar 16:9 --v 6
+
+[SF65] Dyson sphere under construction, stellar engineering, impossible scale, far future civilization --ar 16:9 --v 6
+
+[SF66] phoenix vs dragon battle, aerial combat, fire everywhere, epic fantasy, maximum drama --ar 16:9 --v 6
+
+[SF67] secret underground city of exiled elves, ancient and melancholic, underground forest, dim light --ar 16:9 --v 6
+
+[SF68] DNA strand visualization as landscape, walking through biology, educational sci-art --ar 16:9 --v 6
+
+[SF69] crashed spaceship in jungle, moss covered, mystery and discovery, sci-fi treasure hunt --ar 16:9 --v 6
+
+[SF70] oracle vision chamber, prophecy manifesting as light, mystical, ancient temple, high fantasy --ar 16:9 --v 6
+
+[SF71] biomechanical tree, organic and mechanical merged, solarpunk concept art, beautiful and strange --ar 2:3 --v 6
+
+[SF72] sky castle above clouds, floating architecture, fantasy, airship docking, imagination unlimited --ar 16:9 --v 6
+
+[SF73] mind palace visualization, thoughts as rooms and objects, psychological concept, surreal --ar 16:9 --v 6
+
+[SF74] ancient giant sleeping under mountain, rocky texture skin, centuries of stillness, mythology --ar 16:9 --v 6
+
+[SF75] light bridge between star systems, civilization spanning travel, optimistic sci-fi, bright and hopeful --ar 16:9 --v 6
+
+[SF76] magical girl transformation sequence, light effects, costume materialization, anime realism --ar 9:16 --v 6
+
+[SF77] haunted forest maze, twisted trees, lost wanderer, eerie fog, fairy tale dark edition --ar 16:9 --v 6
+
+[SF78] alien language decipherment scene, symbols on wall, scientists excited, Indiana Jones meets sci-fi --ar 16:9 --v 6
+
+[SF79] ocean leviathan skeleton, massive scale in desert, ancient fallen creature, epic atmosphere --ar 16:9 --v 6
+
+[SF80] divine tournament of gods, mythologies colliding, Greek vs Norse vs Hindu, epic concept --ar 16:9 --v 6
+
+[SF81] floating market in sky, platforms connected by bridges, traders and goods, anime-inspired realism --ar 16:9 --v 6
+
+[SF82] arctic research station, blizzard outside, warmth inside, isolated and dramatic, sci-fi thriller --ar 16:9 --v 6
+
+[SF83] magic school great hall, floating candles, vast ceiling, students in robes, Harry Potter quality --ar 16:9 --v 6
+
+[SF84] underwater volcanic vent ecosystem, alien life thriving in extreme conditions, nature editorial --ar 16:9 --v 6
+
+[SF85] samurai robot warrior, feudal Japan meets mech, bamboo forest, dramatic encounter --ar 2:3 --v 6
+
+[SF86] comet impact seen from orbit, small and distant, blue Earth, terrible beauty --ar 16:9 --v 6
+
+[SF87] ice giant approaching frozen world, mythological scale, planet-sized being --ar 16:9 --v 6
+
+[SF88] circus of impossible acts, gravity defiance, magical performances, gaslit, Victorian wonder --ar 16:9 --v 6
+
+[SF89] digital city inside internet, abstract but structured, data flowing as rivers, conceptual --ar 16:9 --v 6
+
+[SF90] sleeping beauty castle, frozen in time for centuries, overgrown, beautiful stasis --ar 16:9 --v 6
+
+[SF91] megacity of the future, 500 years hence, vertical gardens, flying everything, hopeful --ar 16:9 --v 6
+
+[SF92] mirror dimension, impossible angles, objects reflected out of space-time, Doctor Strange style --ar 1:1 --v 6
+
+[SF93] time storm, weather of different eras mixed, dinosaur and spaceship in same sky, chaos --ar 16:9 --v 6
+
+[SF94] benevolent alien arrival, sunrise lighting, gentle giants, humanity's hopeful first contact --ar 16:9 --v 6
+
+[SF95] forge of creation, first sunrise of new world, god's hands crafting, theological epic --ar 16:9 --v 6
+
+[SF96] magical tournament arena in autumn, floating platforms, dueling mages, crowd watching, epic --ar 16:9 --v 6
+
+[SF97] ruins of Earth from orbit, ocean reclaimed what was human, centuries hence --ar 16:9 --v 6
+
+[SF98] steampunk airship fleet, war in the clouds, Victorian epic, cannon fire, dramatic --ar 16:9 --v 6
+
+[SF99] garden of cosmic memory, where lost things go, melancholy beauty, soft surreal light --ar 16:9 --v 6
+
+[SF100] universe birth, Big Bang moment, light and energy from nothing, creation is beautiful --ar 16:9 --v 6
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SECTION 5: FASHION & LIFESTYLE EDITORIAL (100 Prompts)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[FA01] high fashion editorial, oversized black coat, white minimalist backdrop, harsh shadows, Vogue Italia quality, architectural clothing, fierce pose --ar 2:3 --v 6
+
+[FA02] couture gown in abandoned building, contrast of beauty and decay, dramatic light, fine art fashion photography --ar 2:3 --v 6
+
+[FA03] athleisure lookbook, street style, golden hour, candid and cool, Nike/Lululemon editorial quality --ar 2:3 --v 6
+
+[FA04] 1960s mod fashion revival, geometric patterns, Mary Quant aesthetic, bright primary colors, retro editorial --ar 2:3 --v 6
+
+[FA05] sustainable fashion editorial, natural fabrics, forest setting, ethical brand campaign, earthy tones --ar 2:3 --v 6
+
+[FA06] dramatic couture ballgown, versailles garden, historical meets contemporary, editorial luxury --ar 2:3 --v 6
+
+[FA07] streetwear editorial Tokyo, layered outfits, urban environment, Harajuku meets luxury --ar 2:3 --v 6
+
+[FA08] 1920s art deco fashion, flapper dress, speakeasy setting, warm golden tones, Gatsby editorial --ar 2:3 --v 6
+
+[FA09] body positive fashion campaign, diverse models, joyful movement, inclusive and powerful --ar 3:2 --v 6
+
+[FA10] winter luxury fashion, fur (faux) coat, ski resort backdrop, aspirational lifestyle editorial --ar 2:3 --v 6
+
+[FA11] swimwear editorial, dramatic rocky coastline, harsh beautiful light, luxury brand campaign --ar 2:3 --v 6
+
+[FA12] gender fluid fashion editorial, boundary-breaking styling, thought-provoking, contemporary --ar 2:3 --v 6
+
+[FA13] maximalist fashion, layers upon layers, pattern mixing, colorful and bold, editorial chaos --ar 2:3 --v 6
+
+[FA14] Parisian everyday chic, cobblestone street, effortless style, café background, classic --ar 2:3 --v 6
+
+[FA15] resort wear collection, turquoise waters, white and cream palette, vacation dreams editorial --ar 3:2 --v 6
+
+[FA16] avant-garde fashion week runway, conceptual collection, editorial photography, dramatic staging --ar 2:3 --v 6
+
+[FA17] menswear editorial, tailoring detail, boardroom to rooftop, power dressing campaign --ar 2:3 --v 6
+
+[FA18] 90s nostalgia fashion, vintage styling, film grain, music video aesthetic, denim and plaid --ar 2:3 --v 6
+
+[FA19] wellness lifestyle editorial, yoga poses, sunrise, premium activewear, aspirational health brand --ar 16:9 --v 6
+
+[FA20] jewelry brand editorial, statement pieces, dramatic studio light, luxury magazine quality --ar 2:3 --v 6
+
+[FA21] designer shoe campaign, single shoe hero, dramatic side light, luxury brand, Italy editorial --ar 1:1 --v 6
+
+[FA22] outdoor adventure fashion, mountain backdrop, technical clothing, REI/Arc'teryx quality editorial --ar 3:2 --v 6
+
+[FA23] wedding editorial, venue: tropical jungle, bohemian dress, light filtering through canopy --ar 2:3 --v 6
+
+[FA24] Indian bridal fashion editorial, heavy jewelry, rich fabric, warm interior light, traditional grandeur --ar 2:3 --v 6
+
+[FA25] futuristic fashion, metallic fabrics, geometric cuts, neon studio lighting, sci-fi editorial --ar 2:3 --v 6
+
+[FA26] summer festival fashion, flower crown, maxi dress, golden afternoon, Coachella aesthetic --ar 2:3 --v 6
+
+[FA27] luxury watch advertisement, model on yacht, aspirational lifestyle, warm Mediterranean light --ar 3:2 --v 6
+
+[FA28] lingerie editorial, soft window light, neutral palette, intimate and tasteful, Victoria's Secret quality --ar 2:3 --v 6
+
+[FA29] winter coat editorial, snowy city street, warm breath mist, dramatic cold light --ar 2:3 --v 6
+
+[FA30] sneaker culture editorial, limited edition shoes, streetwear, hype culture, dynamic composition --ar 1:1 --v 6
+
+[FA31] fitness brand campaign, powerful athlete, peak performance, dramatic outdoor light --ar 16:9 --v 6
+
+[FA32] vintage clothing market, editorial discovery, warm light, authentic second-hand culture --ar 3:2 --v 6
+
+[FA33] evening gown at opera house, grand staircase, chandeliers, old world glamour --ar 2:3 --v 6
+
+[FA34] casual denim brand, Sunday morning, home setting, authentic relaxed lifestyle --ar 3:2 --v 6
+
+[FA35] children's fashion editorial, natural play, outdoor light, authentic and joyful --ar 3:2 --v 6
+
+[FA36] black and white fashion editorial, high contrast, timeless and graphic, Avedon inspired --ar 2:3 --v 6
+
+[FA37] plus size fashion campaign, powerful and beautiful, diverse representation, joyful editorial --ar 2:3 --v 6
+
+[FA38] cultural fusion fashion, traditional and modern, identity celebration, rich color --ar 2:3 --v 6
+
+[FA39] menswear grooming brand, clean bathroom, morning routine, aspirational masculinity editorial --ar 2:3 --v 6
+
+[FA40] luxury bag campaign, hero product on marble surface, fashion model in background --ar 3:4 --v 6
+
+[FA41] formal corporate fashion, power dressing, modern office, sophisticated editorial --ar 2:3 --v 6
+
+[FA42] resort wear in Santorini, white dress, blue sea, summer luxury lifestyle --ar 2:3 --v 6
+
+[FA43] leather fashion editorial, biker jacket, urban night setting, cool and edgy --ar 2:3 --v 6
+
+[FA44] print and pattern fashion, bold graphic clothing, clean white studio, color pop editorial --ar 2:3 --v 6
+
+[FA45] lingerie editorial spring flowers, garden setting, feminine and natural, soft brand --ar 2:3 --v 6
+
+[FA46] ski lodge fashion, luxury après-ski, warm wood interior, premium winter brand --ar 3:2 --v 6
+
+[FA47] maternity fashion editorial, glowing portrait, natural light, empowerment and beauty --ar 2:3 --v 6
+
+[FA48] couture bridal, cathedral veil, grand marble hall, timeless luxury editorial --ar 2:3 --v 6
+
+[FA49] fashion week backstage, candid chaos, models getting ready, real editorial moments --ar 3:2 --v 6
+
+[FA50] street photographer style fashion, caught unaware, candid cool, black and white --ar 2:3 --v 6
+
+[FA51] knitwear autumn editorial, forest path, warm woollen layers, cozy luxury brand --ar 2:3 --v 6
+
+[FA52] urban cycling fashion, stylish commuter, city backdrop, sustainable transport lifestyle --ar 2:3 --v 6
+
+[FA53] luxury hotel lifestyle editorial, robe and slippers, balcony view, morning coffee, aspirational --ar 16:9 --v 6
+
+[FA54] dance fashion editorial, movement captured, sheer fabric in motion, dramatic studio light --ar 2:3 --v 6
+
+[FA55] art gallery fashion, model among contemporary art, fashion meets art world editorial --ar 2:3 --v 6
+
+[FA56] gender neutral fashion campaign, inclusive styling, thoughtful editorial, contemporary brand --ar 2:3 --v 6
+
+[FA57] vintage 1950s housewife fashion, kitsch and ironic, retro editorial, pastel palette --ar 2:3 --v 6
+
+[FA58] outdoor yoga lifestyle brand, sunrise mountains, premium activewear, wellbeing editorial --ar 16:9 --v 6
+
+[FA59] dark haute couture, gothic architecture, black and dramatic, the dark side of luxury --ar 2:3 --v 6
+
+[FA60] fashion campaign in Havana, colorful walls, vintage cars, Cuban heat, editorial travel fashion --ar 3:2 --v 6
+
+[FA61] sport luxe editorial, tennis at private court, premium sportswear, country club lifestyle --ar 3:2 --v 6
+
+[FA62] transparency trend editorial, sheer fabric, artistic body coverage, avant-garde fashion --ar 2:3 --v 6
+
+[FA63] fall harvest fashion editorial, pumpkins and leaves, knit sweater, warm tones, cozy brand --ar 3:2 --v 6
+
+[FA64] futuristic protective fashion, dystopian brand, structured armor aesthetic, editorial sci-fi --ar 2:3 --v 6
+
+[FA65] flower market fashion editorial, floral abundance, natural color, spring launch campaign --ar 3:2 --v 6
+
+[FA66] mountain resort fashion, cable car, snow peaks, luxurious cold weather gear --ar 16:9 --v 6
+
+[FA67] editorial swimwear desert, unexpected contrast, dunes and bikini, striking and bold --ar 2:3 --v 6
+
+[FA68] leather craft brand, artisan hands, details of handmade goods, editorial authenticity --ar 3:2 --v 6
+
+[FA69] black turtleneck minimalist fashion, Scandinavian aesthetic, clean editorial --ar 2:3 --v 6
+
+[FA70] neon jungle editorial, bright colors in lush tropical setting, vivid fashion campaign --ar 2:3 --v 6
+
+[FA71] airport fashion editorial, departure hall, jet set lifestyle, premium travel fashion brand --ar 3:2 --v 6
+
+[FA72] underwater fashion editorial, flowing fabric, mermaid concept, fine art --ar 2:3 --v 6
+
+[FA73] vintage leather jacket, motorcycle, California highway, rock n roll editorial --ar 16:9 --v 6
+
+[FA74] fashion in the rain, puddle reflections, wet and cool, cinematic weather editorial --ar 2:3 --v 6
+
+[FA75] craft beer meets fashion, brewery editorial, industrial chic, hipster brand --ar 3:2 --v 6
+
+[FA76] royal blue gown, formal event editorial, grand setting, timeless beauty --ar 2:3 --v 6
+
+[FA77] resort white collection, endless pool, minimal architecture, Mediterranean summer dream --ar 16:9 --v 6
+
+[FA78] editorial street photography fashion, NYC subway, real world energy, authentic style --ar 2:3 --v 6
+
+[FA79] cozy home fashion editorial, knitwear and books, fireplace light, lifestyle brand --ar 3:2 --v 6
+
+[FA80] performance art fashion, conceptual extreme, fashion as statement, editorial art --ar 2:3 --v 6
+
+[FA81] sustainable natural fiber fashion, field of wheat, organic brand, back to earth editorial --ar 16:9 --v 6
+
+[FA82] city rooftop after-work fashion, casual Friday style, golden hour, urban life editorial --ar 3:2 --v 6
+
+[FA83] fashion week front row editorial, celebrities and buyers, fashion world spectacle --ar 3:2 --v 6
+
+[FA84] traditional kimono modern shoot, beautiful contrast old and new Japan, fashion editorial --ar 2:3 --v 6
+
+[FA85] white shirt editorial, hundred ways to wear one piece, lookbook campaign --ar 2:3 --v 6
+
+[FA86] sneaker collaboration campaign, artist and brand, creative process, limited edition launch --ar 3:2 --v 6
+
+[FA87] luxury fragrance campaign, dream sequence visual, model in fog, aspirational, romantic --ar 16:9 --v 6
+
+[FA88] menswear unboxing editorial, quality materials, craftsmanship detail, slow fashion brand --ar 3:2 --v 6
+
+[FA89] athleisure brunch fashion, Saturday morning vibes, casual chic, health lifestyle brand --ar 3:2 --v 6
+
+[FA90] night out fashion editorial, restaurant, cocktails, glamorous and effortless --ar 2:3 --v 6
+
+[FA91] travel fashion editorial, multiple locations, one outfit, adventure and style --ar 3:2 --v 6
+
+[FA92] bold color blocking fashion, graphic visual, summer campaign, joyful energy --ar 2:3 --v 6
+
+[FA93] ballet flat comeback editorial, Parisian street, retro modern fusion, classic brand --ar 2:3 --v 6
+
+[FA94] luxury lingerie editorial, baroque interior, bed of roses, old world glamour --ar 2:3 --v 6
+
+[FA95] music festival fashion coverage, many looks, energy and color, editorial --ar 3:2 --v 6
+
+[FA96] capsule wardrobe editorial, 10 pieces, 30 outfits, minimal and versatile brand --ar 3:2 --v 6
+
+[FA97] fashion illustration come to life, drawing style meets photography, editorial hybrid --ar 2:3 --v 6
+
+[FA98] night swim fashion, luxury pool villa, night sky, exclusive resort editorial --ar 16:9 --v 6
+
+[FA99] back to school fashion, autumn campus, youth brand, energetic and fresh --ar 3:2 --v 6
+
+[FA100] end of year fashion retrospective, year's best looks, editorial compilation, celebratory --ar 3:2 --v 6
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+TOTAL: 500 PROMPTS
+Portraits (100) + Product/Commercial (100) + Landscapes (100) + Sci-Fi/Fantasy (100) + Fashion/Lifestyle (100)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+PARAMETERS GUIDE:
+--ar 16:9   = widescreen landscape
+--ar 2:3    = portrait (phone wallpaper, poster)
+--ar 1:1    = square (Instagram)
+--ar 3:2    = standard photo ratio
+--v 6       = Midjourney version 6 (best quality)
+--s 500     = add for more stylized results
+--q 2       = higher quality (slower)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+© AniketG AI — For personal and commercial use by buyer only.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

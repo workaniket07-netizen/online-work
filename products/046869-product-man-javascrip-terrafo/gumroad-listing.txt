@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Product Management Toolkit: JavaScript/React + Terraform for CTO
+PRICE: $177
+TAGS: product management, javascript/react, terraform
+SHORT DESC: AI Product Management Toolkit: JavaScript/React + Terraform for CTO. $177. Commercial license.

@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Product Management Toolkit: Ruby/Rails + Docker for VP Engineering
+PRICE: $127
+TAGS: product management, ruby/rails, docker
+SHORT DESC: AI Product Management Toolkit: Ruby/Rails + Docker for VP Engineering. $127. Commercial license.

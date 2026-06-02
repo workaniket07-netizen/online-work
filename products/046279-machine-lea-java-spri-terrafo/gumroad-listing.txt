@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Machine Learning Toolkit: Java/Spring + Terraform for CTO
+PRICE: $177
+TAGS: machine learning, java/spring, terraform
+SHORT DESC: AI Machine Learning Toolkit: Java/Spring + Terraform for CTO. $177. Commercial license.

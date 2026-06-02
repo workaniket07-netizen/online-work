@@ -1,0 +1,134 @@
+╔══════════════════════════════════════════════════════════════════════╗
+║              GRANT WRITING VAULT                                     ║
+║   350 Templates for Nonprofit Grants, Applications & Reporting       ║
+║              By AniketG AI Systems                                   ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 1: GRANT APPLICATION COMPONENTS (100 Templates)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+EXECUTIVE SUMMARY TEMPLATE:
+[Organization name] requests $[amount] from [Funder name] to [brief project description] in [location] over [timeframe].
+
+We will [specific action] to [specific outcome] for [target population]. This project directly aligns with [funder's priority area] by [connection to their mission].
+
+[Organization] has [evidence of capacity: years in operation, past successful projects, community relationships]. With this grant, we will [single most compelling outcome — make it quantifiable if possible].
+
+NEED STATEMENT / STATEMENT OF NEED (20 templates):
+[NS-01] Data-driven opening: "In [geographic area], [problem] affects [X number/percent] of [population]. This means [human impact translation] — [specific consequence]. Despite [what exists], [gap] remains unaddressed."
+[NS-02] Story-first opening: "[Brief story about one person affected by the problem — 3-4 sentences]. [Name]'s situation is not unique. [Statistic connecting the story to the larger problem]."
+[NS-03] Trend-based: "Over the past [X years], [problem] in [area] has increased by [X%]. Without intervention, [projection]. [Organization]'s program addresses this trend by [solution]."
+
+PROJECT DESCRIPTION (10 templates):
+[PD-01] Activities-based: "The [Project Name] will deliver [activities] to [target population] through [methods]. Activities include: [list]. Each activity is evidence-based, having shown [outcome] in [research/prior programs]."
+[PD-02] Theory of change: "If we [inputs/activities], then [outputs] will occur. These outputs will lead to [outcomes] because [logic]. Ultimately, this contributes to [long-term impact]."
+[PD-03] SMART goal format: "By [date], [Organization] will [specific, measurable, achievable, relevant, time-bound outcome]."
+
+BUDGET NARRATIVE (15 templates):
+[BN-01] Personnel: "[Title] (1.0 FTE): $[X]. This position is responsible for [specific duties related to grant]. Their [qualification] makes them uniquely positioned for [specific tasks]."
+[BN-02] Contractual: "We will contract with [type of organization] for [service]. This approach is preferred because [cost-effectiveness / expertise / community trust]. Cost: $[X] based on [rate × units]."
+[BN-03] Indirect/overhead: "Indirect costs at [X]% of [base] = $[X]. These costs represent [what they cover] and are documented in our [cost allocation plan / negotiated indirect rate agreement]."
+
+EVALUATION PLAN (10 templates):
+[EP-01] Process evaluation: "We will track [activities completed], [people served], [quality indicators]. Data collected via [method] [frequency]. Responsible: [position]."
+[EP-02] Outcome evaluation: "We will measure [specific outcome] using [instrument] at [baseline / mid / post program]. Target: [X]% of participants will [achieve outcome]. Analysis conducted by [who]."
+[EP-03] Logic model components: Inputs → Activities → Outputs → Short-term outcomes → Long-term outcomes → Impact
+
+SUSTAINABILITY SECTION (10 templates):
+[SS-01] Diversified funding: "After this grant period, [Project] will be sustained through [X sources]: [revenue X% / government contract X% / earned income X%]. We have [evidence of existing commitments]."
+[SS-02] Capacity building: "This grant will [build staff capacity / develop systems / establish partnerships] that will continue beyond the grant period regardless of this funder's continued support."
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 2: FUNDER RESEARCH & RELATIONSHIP (80 Templates)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+FUNDER RESEARCH TEMPLATE:
+[FR-01] Funder name:
+[FR-02] Focus areas (exact language from their website):
+[FR-03] Geographic priorities:
+[FR-04] Grant size range:
+[FR-05] Typical grantee profile:
+[FR-06] Past grantees (research GuideStar/990s):
+[FR-07] Application deadlines:
+[FR-08] Relationship required before applying:
+[FR-09] How our work aligns (use their language):
+[FR-10] Who to contact: | How to cultivate relationship:
+
+LOI (LETTER OF INQUIRY) TEMPLATES (10):
+[LI-01] "Dear [Funder name], [Organization] seeks [amount] from [Foundation] to [project description]. This request aligns with your priority of [their language] through [how our work addresses it]. We have served [population] for [X years], achieving [key outcome]. I would welcome the opportunity to discuss this further and attach our LOI for your review."
+
+SITE VISIT PREPARATION:
+[SV-01] Before: Review your application; prepare to speak to any section without notes; have data ready; prepare story of one client (with permission); know your budget deeply
+[SV-02] During: Lead with mission impact, not organizational needs; answer questions concisely; show passion without begging
+[SV-03] After: Send thank-you within 24 hours; provide any requested follow-up information promptly
+
+DONOR/FUNDER RELATIONSHIP CALENDAR:
+[RC-01] Regular touchpoints: 1-2 updates per year even when not applying
+[RC-02] Grant report → natural opportunity to share success
+[RC-03] Invite funders to events and program visits
+[RC-04] Send relevant news articles that connect to their interests
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 3: GRANT REPORTING & COMPLIANCE (80 Templates)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+INTERIM PROGRESS REPORT TEMPLATE:
+━━━━━━━━━━━━━━━━
+GRANT: [Funder] — [Project Name]
+GRANT PERIOD: [Dates] | REPORT PERIOD: [Dates] | REPORT DUE: [Date]
+
+PROGRAM PROGRESS:
+Activities completed to date: [vs. plan]
+Participants served: [number] of [goal number] ([X]% toward goal)
+Key milestones achieved: [list]
+Milestones behind schedule: [if any, with explanation and adjusted timeline]
+
+OUTCOMES DATA:
+[Outcome indicator]: [Current data] vs. [Target] = [% achieved]
+[Outcome indicator]: [Current data] vs. [Target] = [% achieved]
+
+STORY OF IMPACT:
+[One brief story with client permission that illustrates the program's work — 100-200 words]
+
+FINANCIAL SUMMARY:
+Budget vs. actual for period [attach financial report]
+Significant variances: [explanation and any reallocation requests]
+
+CHALLENGES & ADJUSTMENTS:
+[What was harder than expected] → [How you adapted] → [Current plan]
+
+UPCOMING ACTIVITIES (next period):
+[List of planned activities with timeline]
+━━━━━━━━━━━━━━━━
+
+FINAL REPORT TEMPLATE:
+[Same structure but with complete data, lessons learned, sustainability plan update, and recommendation for future funding]
+
+GRANT MANAGEMENT TRACKING SYSTEM:
+[GT-01] Active grants dashboard: Funder | Amount | Period | Next Report | Contact | Status
+[GT-02] Reporting calendar: All grant report deadlines in one view + 2-week advance reminders
+[GT-03] Budget tracking: Approved budget vs. actual spend by line item monthly
+[GT-04] Outcome tracking: All program metrics with target vs. actual updated regularly
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 4: CHATGPT PROMPTS FOR GRANT WRITERS (90 Templates)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[GP-01] "Write a need statement for a grant application about [program/issue] in [location]. Use this data: [paste statistics]. Include: the scale of the problem, who is most affected, why existing solutions fall short, and urgency."
+
+[GP-02] "Review this grant narrative for: alignment with the funder's priorities (their priorities: [list]), clarity of outcomes, strength of evidence cited, and persuasiveness. Suggest specific improvements: [paste narrative]."
+
+[GP-03] "Write a project description for a [program type] serving [population] in [location]. Program activities: [list]. Our evidence base: [research/prior outcomes]. Funder priority: [their language]. Length: [X words]."
+
+[GP-04] "Transform this impact story into a compelling narrative for a grant report: [facts about the client/situation]. Use real storytelling techniques — opening scene, tension, resolution. Client is anonymized as [pseudonym]."
+
+[GP-05] "Create a logic model for this program: Goal: [goal]. Activities: [list]. Target population: [description]. Expected outcomes: [list]. Format as a table with: Inputs → Activities → Outputs → Short-term outcomes → Long-term outcomes → Impact."
+
+[GP-06 to GP-90] More prompts: budget narrative by line item, sustainability narrative, organizational capacity section, LOI drafting, cover letter for application, board chair letter, auditor financial statement summary, data visualization description, comparison of programs for gap analysis
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+QUICK STATS: 350 templates | Applications + Funder Research + Reporting + ChatGPT Prompts
+Works for: Nonprofits, community organizations, schools, healthcare orgs, arts orgs
+By AniketG AI Systems
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

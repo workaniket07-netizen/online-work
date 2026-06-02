@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Systems Architecture Toolkit: Ruby/Rails + Terraform for CTO
+PRICE: $177
+TAGS: systems architecture, ruby/rails, terraform
+SHORT DESC: AI Systems Architecture Toolkit: Ruby/Rails + Terraform for CTO. $177. Commercial license.

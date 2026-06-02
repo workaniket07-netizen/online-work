@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Business Intelligence Toolkit: Rust + AWS for Junior
+PRICE: $127
+TAGS: business intelligenc, rust, aws
+SHORT DESC: AI Business Intelligence Toolkit: Rust + AWS for Junior. $127. Commercial license.

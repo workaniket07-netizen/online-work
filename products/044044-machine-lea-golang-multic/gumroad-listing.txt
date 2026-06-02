@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Machine Learning Toolkit: Golang + Multi-Cloud for Staff
+PRICE: $177
+TAGS: machine learning, golang, multi-cloud
+SHORT DESC: AI Machine Learning Toolkit: Golang + Multi-Cloud for Staff. $177. Commercial license.

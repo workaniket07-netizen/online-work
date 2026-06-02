@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI QA Testing Toolkit: TypeScript + Terraform for CTO
+PRICE: $177
+TAGS: qa testing, typescript, terraform
+SHORT DESC: AI QA Testing Toolkit: TypeScript + Terraform for CTO. $177. Commercial license.

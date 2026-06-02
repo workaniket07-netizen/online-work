@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Security Toolkit: Ruby/Rails + GCP for Senior
+PRICE: $127
+TAGS: security, ruby/rails, gcp
+SHORT DESC: AI Security Toolkit: Ruby/Rails + GCP for Senior. $127. Commercial license.

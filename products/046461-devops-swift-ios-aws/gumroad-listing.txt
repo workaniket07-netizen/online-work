@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI DevOps Toolkit: Swift/iOS + AWS for Junior
+PRICE: $127
+TAGS: devops, swift/ios, aws
+SHORT DESC: AI DevOps Toolkit: Swift/iOS + AWS for Junior. $127. Commercial license.

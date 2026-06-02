@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI API Design Toolkit: Golang + AWS for Junior
+PRICE: $127
+TAGS: api design, golang, aws
+SHORT DESC: AI API Design Toolkit: Golang + AWS for Junior. $127. Commercial license.

@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Database Administration Toolkit: MATLAB/Data + Docker for VP Engineering
+PRICE: $127
+TAGS: database administrat, matlab/data, docker
+SHORT DESC: AI Database Administration Toolkit: MATLAB/Data + Docker for VP Engineering. $127. Commercial license.

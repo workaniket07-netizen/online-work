@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Systems Architecture Toolkit: Python/Django + AWS for Junior
+PRICE: $127
+TAGS: systems architecture, python/django, aws
+SHORT DESC: AI Systems Architecture Toolkit: Python/Django + AWS for Junior. $127. Commercial license.

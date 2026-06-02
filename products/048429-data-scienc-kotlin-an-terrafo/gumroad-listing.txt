@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Data Science Toolkit: Kotlin/Android + Terraform for CTO
+PRICE: $177
+TAGS: data science, kotlin/android, terraform
+SHORT DESC: AI Data Science Toolkit: Kotlin/Android + Terraform for CTO. $177. Commercial license.

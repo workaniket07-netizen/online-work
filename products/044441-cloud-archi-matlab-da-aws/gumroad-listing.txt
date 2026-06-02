@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Cloud Architecture Toolkit: MATLAB/Data + AWS for Junior
+PRICE: $127
+TAGS: cloud architecture, matlab/data, aws
+SHORT DESC: AI Cloud Architecture Toolkit: MATLAB/Data + AWS for Junior. $127. Commercial license.

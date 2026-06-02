@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Prompting: Constrained Generation for Customer Service using GPT-4 Vision (Beginner)
+PRICE: $127
+TAGS: constrained generati, customer service, prompt engineering
+SHORT DESC: AI Prompting: Constrained Generation for Customer Service using GPT-4 Vision (Beginner). $127. Commercial license.

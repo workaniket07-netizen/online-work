@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Prompting: ReAct Framework for Code Generation using Open Source Models (Intermediate)
+PRICE: $127
+TAGS: react framework, code generation, prompt engineering
+SHORT DESC: AI Prompting: ReAct Framework for Code Generation using Open Source Models (Intermediate). $127. Commercial license.

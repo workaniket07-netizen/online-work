@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Business Intelligence Toolkit: Swift/iOS + Docker for VP Engineering
+PRICE: $127
+TAGS: business intelligenc, swift/ios, docker
+SHORT DESC: AI Business Intelligence Toolkit: Swift/iOS + Docker for VP Engineering. $127. Commercial license.

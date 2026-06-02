@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Database Administration Toolkit: Swift/iOS + AWS for Junior
+PRICE: $127
+TAGS: database administrat, swift/ios, aws
+SHORT DESC: AI Database Administration Toolkit: Swift/iOS + AWS for Junior. $127. Commercial license.

@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Data Analysis Toolkit: R/Statistical + Kubernetes for Director of Engineering
+PRICE: $127
+TAGS: data analysis, r/statistical, kubernetes
+SHORT DESC: AI Data Analysis Toolkit: R/Statistical + Kubernetes for Director of Engineering. $127. Commercial license.

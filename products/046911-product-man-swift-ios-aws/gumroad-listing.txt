@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Product Management Toolkit: Swift/iOS + AWS for Junior
+PRICE: $127
+TAGS: product management, swift/ios, aws
+SHORT DESC: AI Product Management Toolkit: Swift/iOS + AWS for Junior. $127. Commercial license.

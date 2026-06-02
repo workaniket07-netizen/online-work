@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Product Management Toolkit: Golang + GCP for Senior
+PRICE: $127
+TAGS: product management, golang, gcp
+SHORT DESC: AI Product Management Toolkit: Golang + GCP for Senior. $127. Commercial license.

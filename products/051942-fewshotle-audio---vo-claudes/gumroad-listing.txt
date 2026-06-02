@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Prompting: Few-Shot Learning for Audio & Voice using Claude Sonnet (Intermediate)
+PRICE: $127
+TAGS: few-shot learning, audio & voice, prompt engineering
+SHORT DESC: AI Prompting: Few-Shot Learning for Audio & Voice using Claude Sonnet (Intermediate). $127. Commercial license.

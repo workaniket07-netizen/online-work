@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Product Management Toolkit: Kotlin/Android + GCP for Senior
+PRICE: $127
+TAGS: product management, kotlin/android, gcp
+SHORT DESC: AI Product Management Toolkit: Kotlin/Android + GCP for Senior. $127. Commercial license.

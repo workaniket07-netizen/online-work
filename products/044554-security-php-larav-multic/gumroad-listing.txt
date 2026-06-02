@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Security Toolkit: PHP/Laravel + Multi-Cloud for Staff
+PRICE: $177
+TAGS: security, php/laravel, multi-cloud
+SHORT DESC: AI Security Toolkit: PHP/Laravel + Multi-Cloud for Staff. $177. Commercial license.

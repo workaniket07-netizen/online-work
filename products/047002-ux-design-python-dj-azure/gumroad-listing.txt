@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI UX Design Toolkit: Python/Django + Azure for Mid-Level
+PRICE: $127
+TAGS: ux design, python/django, azure
+SHORT DESC: AI UX Design Toolkit: Python/Django + Azure for Mid-Level. $127. Commercial license.

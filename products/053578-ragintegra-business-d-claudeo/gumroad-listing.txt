@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Prompting: RAG Integration for Business Documents using Claude Opus (Intermediate)
+PRICE: $127
+TAGS: rag integration, business documents, prompt engineering
+SHORT DESC: AI Prompting: RAG Integration for Business Documents using Claude Opus (Intermediate). $127. Commercial license.

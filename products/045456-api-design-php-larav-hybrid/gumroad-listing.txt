@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI API Design Toolkit: PHP/Laravel + Hybrid for Architect
+PRICE: $177
+TAGS: api design, php/laravel, hybrid
+SHORT DESC: AI API Design Toolkit: PHP/Laravel + Hybrid for Architect. $177. Commercial license.

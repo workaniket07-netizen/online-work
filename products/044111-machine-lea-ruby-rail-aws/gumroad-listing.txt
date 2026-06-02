@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Machine Learning Toolkit: Ruby/Rails + AWS for Junior
+PRICE: $127
+TAGS: machine learning, ruby/rails, aws
+SHORT DESC: AI Machine Learning Toolkit: Ruby/Rails + AWS for Junior. $127. Commercial license.

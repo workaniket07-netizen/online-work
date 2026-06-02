@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI DevOps Toolkit: TypeScript + Azure for Mid-Level
+PRICE: $127
+TAGS: devops, typescript, azure
+SHORT DESC: AI DevOps Toolkit: TypeScript + Azure for Mid-Level. $127. Commercial license.

@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Prompting: RAG Integration for Customer Service using Open Source Models (Intermediate)
+PRICE: $127
+TAGS: rag integration, customer service, prompt engineering
+SHORT DESC: AI Prompting: RAG Integration for Customer Service using Open Source Models (Intermediate). $127. Commercial license.

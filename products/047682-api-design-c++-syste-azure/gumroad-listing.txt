@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI API Design Toolkit: C++/Systems + Azure for Mid-Level
+PRICE: $127
+TAGS: api design, c++/systems, azure
+SHORT DESC: AI API Design Toolkit: C++/Systems + Azure for Mid-Level. $127. Commercial license.

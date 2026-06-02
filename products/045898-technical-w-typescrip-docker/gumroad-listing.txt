@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Technical Writing Toolkit: TypeScript + Docker for VP Engineering
+PRICE: $127
+TAGS: technical writing, typescript, docker
+SHORT DESC: AI Technical Writing Toolkit: TypeScript + Docker for VP Engineering. $127. Commercial license.

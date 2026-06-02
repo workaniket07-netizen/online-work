@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Prompting: Few-Shot Learning for Decision Support using Gemini Ultra (Beginner)
+PRICE: $127
+TAGS: few-shot learning, decision support, prompt engineering
+SHORT DESC: AI Prompting: Few-Shot Learning for Decision Support using Gemini Ultra (Beginner). $127. Commercial license.

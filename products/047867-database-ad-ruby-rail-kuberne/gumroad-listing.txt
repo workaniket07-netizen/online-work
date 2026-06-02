@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Database Administration Toolkit: Ruby/Rails + Kubernetes for Director of Engineering
+PRICE: $127
+TAGS: database administrat, ruby/rails, kubernetes
+SHORT DESC: AI Database Administration Toolkit: Ruby/Rails + Kubernetes for Director of Engineering. $127. Commercial license.

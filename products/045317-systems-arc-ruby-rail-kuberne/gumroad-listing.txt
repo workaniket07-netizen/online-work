@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Systems Architecture Toolkit: Ruby/Rails + Kubernetes for Director of Engineering
+PRICE: $127
+TAGS: systems architecture, ruby/rails, kubernetes
+SHORT DESC: AI Systems Architecture Toolkit: Ruby/Rails + Kubernetes for Director of Engineering. $127. Commercial license.

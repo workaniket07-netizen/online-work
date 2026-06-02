@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI API Design Toolkit: PHP/Laravel + GCP for Senior
+PRICE: $127
+TAGS: api design, php/laravel, gcp
+SHORT DESC: AI API Design Toolkit: PHP/Laravel + GCP for Senior. $127. Commercial license.

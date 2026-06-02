@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Database Administration Toolkit: Kotlin/Android + Serverless for Founding Engineer
+PRICE: $127
+TAGS: database administrat, kotlin/android, serverless
+SHORT DESC: AI Database Administration Toolkit: Kotlin/Android + Serverless for Founding Engineer. $127. Commercial license.

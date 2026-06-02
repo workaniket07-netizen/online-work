@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI QA Testing Toolkit: JavaScript/React + Terraform for CTO
+PRICE: $177
+TAGS: qa testing, javascript/react, terraform
+SHORT DESC: AI QA Testing Toolkit: JavaScript/React + Terraform for CTO. $177. Commercial license.

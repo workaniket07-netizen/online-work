@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Security Toolkit: Ruby/Rails + Docker for VP Engineering
+PRICE: $127
+TAGS: security, ruby/rails, docker
+SHORT DESC: AI Security Toolkit: Ruby/Rails + Docker for VP Engineering. $127. Commercial license.

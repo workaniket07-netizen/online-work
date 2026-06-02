@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Technical Writing Toolkit: Java/Spring + Terraform for CTO
+PRICE: $177
+TAGS: technical writing, java/spring, terraform
+SHORT DESC: AI Technical Writing Toolkit: Java/Spring + Terraform for CTO. $177. Commercial license.

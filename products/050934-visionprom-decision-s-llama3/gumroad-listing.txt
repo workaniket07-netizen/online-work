@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Prompting: Vision Prompting for Decision Support using Llama 3 (Intermediate)
+PRICE: $127
+TAGS: vision prompting, decision support, prompt engineering
+SHORT DESC: AI Prompting: Vision Prompting for Decision Support using Llama 3 (Intermediate). $127. Commercial license.

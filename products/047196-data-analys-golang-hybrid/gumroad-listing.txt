@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Data Analysis Toolkit: Golang + Hybrid for Architect
+PRICE: $177
+TAGS: data analysis, golang, hybrid
+SHORT DESC: AI Data Analysis Toolkit: Golang + Hybrid for Architect. $177. Commercial license.

@@ -1,0 +1,382 @@
+╔══════════════════════════════════════════════════════════════════════╗
+║      AI PHOTOGRAPHY PROMPT BIBLE — 400 PROFESSIONAL PROMPTS          ║
+║   For Midjourney, SDXL, Stable Diffusion, DALL-E, Firefly           ║
+║                    By AniketG AI  |  gumroad.com                    ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+This pack is specifically designed for photographers, visual artists, and
+content creators who want to generate professional-grade photography with AI.
+
+Every prompt uses real photography terminology:
+• Camera models and lenses
+• Lighting setups photographers actually use
+• Film stocks and their characteristics
+• Professional editing styles
+• Genre-specific compositions
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SECTION 1: STUDIO PHOTOGRAPHY (80 Prompts)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[S01] Beauty portrait, Profoto B10 softbox at 45-degree angle, white seamless backdrop, catchlights in eyes, Hasselblad medium format look, skin texture visible, commercial beauty campaign, 8K detail --ar 2:3
+
+[S02] Product photography, 2-light setup, key light from right with white reflector fill, pure black background, liquid product with caustic reflections, macro detail, advertising quality --ar 1:1
+
+[S03] Corporate headshot, Rembrandt lighting with white V-flat reflector, mid-gray seamless, Canon R5 85mm f/1.8, professional yet approachable, LinkedIn profile quality --ar 2:3
+
+[S04] High-key beauty shot, 3-light butterfly setup, white cyclorama, pure white everywhere, fashion editorial, clean retouched skin, cosmetics brand campaign --ar 2:3
+
+[S05] Low-key dramatic portrait, single Fresnel spotlight from above-left, dark background, theatrical, Hollywood 1940s film noir lighting, black and white --ar 2:3
+
+[S06] Fashion editorial, ring flash main light, colored gels on background, bold saturated tones, 1990s fashion editorial revival, high contrast --ar 2:3
+
+[S07] Still life, soft box from above and slightly in front, surface: brushed brass, dark background, single product with long shadow, luxury editorial --ar 1:1
+
+[S08] Dance/movement portrait, high-speed sync flash frozen motion, multiple exposure technique, dark studio, elegant blur trails, fine art photography --ar 2:3
+
+[S09] Beauty macro, macro lens on eyes and lips, ring flash reflection, pore detail visible, cosmetics product photography quality, ultra sharp --ar 1:1
+
+[S10] Children's portrait, large octabox main light, white reflector beneath, colorful seamless background, genuine laughing expression, commercial family photography --ar 3:2
+
+[S11] Hair photography, large beauty dish backlit, black background, hair in motion (or perfectly styled), shampoo campaign quality, strand detail --ar 2:3
+
+[S12] Fragrance product, incident metered exposure, white seamless, controlled reflections on glass bottle, luxury perfume campaign --ar 3:4
+
+[S13] Fitness portrait, hard strobe with strip box side light, dark background, muscle definition in shadow, health brand advertising --ar 2:3
+
+[S14] Newborn photography, window light simulation, soft diffused box light, white background, sleeping pose, warm and gentle tones --ar 2:3
+
+[S15] Jewelry closeup, macro lens, ring light for even sparkle, pure black velvet background, diamond facets catching light, jeweler catalog quality --ar 1:1
+
+[S16] Food photography studio setup, beauty dish from upper right, black slate surface, steam from hot dish, restaurant editorial --ar 3:2
+
+[S17] Fashion lookbook, outdoor light simulation indoors, mixed daylight and strobe, clean minimal background, commercial apparel --ar 2:3
+
+[S18] Musician portrait, dramatic side light, instrument interaction, concert feeling but studio control, music press photo quality --ar 2:3
+
+[S19] Pet photography, large natural light simulation, white background, perfect sharp eyes, tack-sharp fur, veterinary brand --ar 1:1
+
+[S20] Abstract body photography, ultra cropped, geometric composition, single light raking across skin, fine art --ar 1:1
+
+[S21] Maternity portrait, side window light, white muslin background, soft focus background, gentle and intimate --ar 2:3
+
+[S22] Author/speaker headshot, Rembrandt lighting, shallow DOF, bookshelf background, intellectual and warm, publishing quality --ar 2:3
+
+[S23] Watch advertisement, macro setup, mixed light: cool LED behind + warm strobe front, dark surface, precision and luxury --ar 1:1
+
+[S24] Hand/product shot, overhead perspective, textured linen surface, window light, artisan/craft product --ar 1:1
+
+[S25] Athletic action frozen, strobe at 1/8000 sync speed, black background, mid-air motion, clean studio --ar 3:2
+
+[S26] Couple portrait, 45-degree two-light setup, gray seamless, natural interaction, engagement or anniversary portrait --ar 3:2
+
+[S27] Cosmetics flat lay, white seamless, even overhead lighting, luxury arrangement, beauty editorial --ar 1:1
+
+[S28] Food splash, high-speed photography setup, dark background, liquid frozen mid-splash, colorful, advertising --ar 1:1
+
+[S29] Dark editorial fashion, single light with grid, dark shadows, high fashion mood, editorial --ar 2:3
+
+[S30] Glass product, two white foam boards each side, no reflections or controlled, minimal and clean --ar 3:4
+
+[S31] Dramatic editorial, colored gel light [cyan/magenta/orange], dark background, conceptual and bold --ar 2:3
+
+[S32] Lifestyle product, sunlight through window simulated by LED panel, warm tones, home setting feel --ar 3:2
+
+[S33] Architecture model photography, perspective shift technique, white background, precise and structural --ar 16:9
+
+[S34] Concept beauty, avant-garde makeup, editorial lighting, high fashion magazine, front cover quality --ar 2:3
+
+[S35] Book cover photography, 3-dimensional composition, mixed elements, dramatic light, publishing grade --ar 2:3
+
+[S36] Culinary hero shot, large natural light window simulation, steam, chef-quality plating, restaurant --ar 3:2
+
+[S37] Extreme closeup textures: fabric weave, wood grain, leather, skin — macro studio, abstract --ar 1:1
+
+[S38] Vehicle detail in studio, rim and rubber detail, dramatic lighting, automotive editorial --ar 16:9
+
+[S39] Packaging photography, white infinity curve, product hero, soft shadows, e-commerce quality --ar 1:1
+
+[S40] Portrait series in matching style: subject in black turtleneck, white background, same angle all, editorial --ar 2:3
+
+[S41-80] Extended studio categories: medical/pharma, toy/child products, electronics, shoes, bags, sports gear, food brands, wellness products, beauty campaigns, architectural elements, art objects, musical instruments, luxury goods, stationery, homeware, candles, coffee/tea products, alcohol photography, supplements, plant/botanical, technology, industrial, office products, outdoor gear, pet products, subscription box, gift products, cosmetics detail, hair products, skincare range, fragrance range
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SECTION 2: NATURAL LIGHT PHOTOGRAPHY (80 Prompts)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[N01] Golden hour portrait, backlit subject with rim light halo, lens flare intentional, warm amber-gold palette, summer evening, film photography feel, Fujifilm Pro 400H simulation --ar 2:3
+
+[N02] Blue hour cityscape, 5 minutes after sunset, ambient light balanced with interior windows, hand-held sharpness, street documentary --ar 16:9
+
+[N03] Overcast diffused light portrait, even shadowless exposure, colors desaturated naturally, documentary photography, authentic --ar 2:3
+
+[N04] Harsh midday sun used creatively, deep graphic shadows, minimalist composition, black and white treatment, geometric --ar 2:3
+
+[N05] Dappled forest light, bokeh sun circles (bokeh balls), Sigma Art 50mm f/1.4, dreamy and romantic --ar 2:3
+
+[N06] Window light lifestyle, late morning sun from north window, warm shadows, interior editorial, Scandinavian feel --ar 3:2
+
+[N07] Fog/mist atmosphere portrait, soft everything, mystery and atmosphere, muted palette, fine art --ar 2:3
+
+[N08] Sunrise landscape, long exposure, pastel sky reflected in water, tripod-sharp foreground, travel editorial --ar 16:9
+
+[N09] Autumn leaf light, orange and yellow glow through canopy, natural bokeh, walking path, warm and seasonal --ar 16:9
+
+[N10] Snow light portrait, bright reflective snow as fill light, cold white tones, winter editorial --ar 2:3
+
+[N11] Candle/firelight portrait, warm low color temperature, high ISO grain, intimate and warm, 3200K light --ar 2:3
+
+[N12] Shade portrait, open shade from building, even cool light, urban street portrait, documentary --ar 2:3
+
+[N13] Rain window photography, water droplets on glass, shallow focus on drops, dreamy bokeh outside --ar 2:3
+
+[N14] Moon photography long exposure, full moon light, dark landscape, stars, quiet and vast --ar 16:9
+
+[N15] Underexposed moody landscape, intentional -1 or -2 stops, rich saturated shadows, editorial decision --ar 16:9
+
+[N16] Morning kitchen lifestyle, sunbeam through window, dust particles in light, coffee steam, warm --ar 3:2
+
+[N17] Beach afternoon light, warm sand reflection as fill, subject against sea, travel and lifestyle --ar 2:3
+
+[N18] Mixed artificial and natural light, warm tungsten inside vs. cool daylight through window, split tone --ar 3:2
+
+[N19] Cloudy day minimalist, white sky as backdrop, clean and simple, Scandinavian editorial --ar 16:9
+
+[N20] Dramatic storm light, brief sun through dark clouds, high contrast, epic landscape moment --ar 16:9
+
+[N21] Late afternoon side window portrait, shadow falls across half face, natural chiaroscuro, intimate --ar 2:3
+
+[N22] Underwater natural light, sun shimmer from above surface, clear water, lifestyle aquatic photography --ar 16:9
+
+[N23] Shade-to-sun transition, one subject in shade one in sun, natural split light, editorial concept --ar 2:3
+
+[N24] Urban morning documentary, first light on wet streets, before the city wakes, blue and gold tones --ar 16:9
+
+[N25] Bokeh foreground with sharp background, reverse typical, artistic, fine art landscape --ar 16:9
+
+[N26] Infrared effect natural, ovexposed green leaves become white, ethereal landscape, dreamy sky --ar 16:9
+
+[N27] Night portrait, available light only from street lamps, high ISO film grain, authentic city night --ar 2:3
+
+[N28] Studio-quality window light, large north-facing window, reflector opposite, commercial beauty --ar 2:3
+
+[N29] Mountain summit light, thin air clear light, sharp shadows, heroic adventure portrait --ar 16:9
+
+[N30] Venice afternoon light, bounced from canal surface onto stone walls, golden and architectural --ar 16:9
+
+[N31-80] Extended natural light categories for: desert light, tropical forest, arctic, Mediterranean, urban Asian city, rainy streets, lavender field, olive grove, cherry blossom, winter pine forest, high altitude, savanna sunset, coastal rock pool, meadow morning, barn interior light, tropical beach, monastery courtyard, waterfall mist, bamboo forest, vineyard sunset, mountain stream, lake reflection, wheat field, tulip garden, fishing village, market stall, cafe window, train station, airport glass, gallery interior light
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SECTION 3: FILM PHOTOGRAPHY STYLES (80 Prompts)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[F01] Kodak Portra 400 portrait simulation: creamy skin tones, slight warmth, gentle grain structure, pastel shadows, saturation slightly pulled back, film halation on highlights --ar 2:3
+
+[F02] Fujifilm Velvia 50 landscape: hyper-saturated colors, punchy contrast, deep blues and greens, slide film look, nature editorial --ar 16:9
+
+[F03] Kodak Tri-X 400 black and white: classic grain structure, punchy contrast, street photography grain, Cartier-Bresson era feel --ar 2:3
+
+[F04] Fujifilm Pro 400H: overexposed 1 stop, cool shadows, creamy highlights, fashion editorial 2000s, pastel wedding photography --ar 2:3
+
+[F05] Ilford HP5 black and white: finer grain than Tri-X, excellent shadow detail, documentary quality, versatile film look --ar 2:3
+
+[F06] Kodak Portra 160: less grain than 400, ultimate skin rendering, very slight warmth, controlled and precise --ar 2:3
+
+[F07] Cinestill 800T: tungsten-balanced in daylight, red halation on highlights, neon and city lights, cinematic night photography --ar 16:9
+
+[F08] Fujifilm Superia 400: casual snapshot aesthetic, slight green-yellow cast, convenience film nostalgia --ar 3:2
+
+[F09] Kodak Gold 200: warm shadows, orange tint, budget film aesthetic, nostalgic family snapshots --ar 3:2
+
+[F10] Lomography film effects: vignetted corners, light leaks, cross-processing look, toy camera feel, creative --ar 1:1
+
+[F11] 4x5 large format look: maximum sharpness, depth of field from tilt-shift, grain almost invisible, studio portrait --ar 2:3
+
+[F12] Polaroid SX-70 instant film: square format, soft edges, overexposed whites, vintage and personal --ar 1:1
+
+[F13] 1970s family photo aesthetic: warm faded tones, slight color shift, casual snapshot energy --ar 3:2
+
+[F14] 1990s portrait studio: slight over-saturation, soft-focus effect, dated but charming --ar 2:3
+
+[F15] Daguerreotype simulation: extreme detail, silver-blue tones, historical early photography aesthetic --ar 3:4
+
+[F16] Cyanotype print aesthetic: blue tones, botanical subjects, contact print look, fine art alternative process --ar 1:1
+
+[F17] Wet plate collodion look: imperfections, organic grain, 1860s aesthetic, intense direct gaze --ar 2:3
+
+[F18] Medium format 645 portrait: slightly wider than 35mm perspective, beautiful bokeh character, Hasselblad quality --ar 2:3
+
+[F19] Infrared film effect: white foliage, dark sky, surreal dreamlike landscape --ar 16:9
+
+[F20] Expired film simulation: color shifts, fog, unusual color casts, light leaks, unpredictable --ar 2:3
+
+[F21-80] Extended film style prompts: Ektar 100, Provia 100F, Acros 100, Ortho film, Rollei RPX, Kodak T-Max, Ilford Delta, Super 8 movie film look, 16mm cinema grain, 35mm anamorphic, VistaVision, IMAX film, 1980s MTV aesthetic, 1960s photojournalism, Life magazine era photography, wartime documentary, Victorian hand-tinted, Autochromes color, Stereoscopic 3D flat look, contact sheet strip, expired Ektachrome, cross-process look, solarization effect, Sabattier effect, lith printing aesthetic, platinum print, albumen silver print, salt print, calotype, collotype, gravure printing, chromogenic print, C-type print, Fuji Crystal Archive, archival quality, gallery exhibition print, editorial magazine, tabloid newspaper, wire photo, photofax, aerial photography film, documentary black and white, photojournalism unposed, street candid 35mm, reportage style
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SECTION 4: CAMERA & LENS GUIDE FOR AI PROMPTS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+ADD THESE TO ANY PROMPT FOR AUTHENTIC CAMERA LOOKS:
+
+PORTRAIT LENSES:
+[CL01] "Canon EF 85mm f/1.2L, bokeh rendering creamy and circular, subject separation"
+[CL02] "Sony FE 135mm f/1.8 GM, compression, shallow DOF, background completely dissolved"
+[CL03] "Zeiss Otus 55mm f/1.4, clinical sharpness, micro-contrast, medium format quality"
+[CL04] "Leica Noctilux 50mm f/0.95, extremely shallow DOF, swirly bokeh, dreamlike focus falloff"
+[CL05] "Voigtländer 40mm f/1.2, vintage character, smooth rendering, film camera feel"
+
+LANDSCAPE LENSES:
+[CL06] "Canon TS-E 17mm f/4, tilt-shift miniature or corrected perspective, architectural precision"
+[CL07] "Sony FE 12-24mm f/2.8 GM, ultra-wide, dramatic perspective, everything in frame"
+[CL08] "Nikon 14-24mm f/2.8, classic ultra-wide, stars and landscape edge-to-edge sharpness"
+[CL09] "Sigma 14mm f/1.8 Art, astrophotography, stars perfectly rendered at edges"
+[CL10] "Canon RF 15-35mm f/2.8, environmental portrait or dramatic landscape"
+
+MACRO LENSES:
+[CL11] "Canon MP-E 65mm, 5:1 magnification, insect eye detail, maximum macro"
+[CL12] "Sony FE 90mm f/2.8 Macro G, product photography, 1:1 macro, clinical sharp"
+[CL13] "Nikon 105mm f/2.8 VR Macro, beautiful macro bokeh, nature or product"
+[CL14] "Laowa 25mm f/2.8 2.5-5x Ultra Macro, extreme magnification, texture as art"
+[CL15] "Sigma 180mm f/2.8 Macro, long working distance, wildlife macro photography"
+
+CAMERA BODIES:
+[CB01] "Hasselblad 907X 100MP medium format, ultimate detail, skin texture perfect"
+[CB02] "Leica M11, rangefinder character, street photography authenticity, Leica rendering"
+[CB03] "Sony A7R V, 61MP, extreme landscape or product, every pixel visible"
+[CB04] "Fujifilm GFX 100S, medium format crop, Fujifilm color science, commercial quality"
+[CB05] "Phase One IQ4 150MP, supreme studio quality, professional advertising photography"
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SECTION 5: LIGHTING SETUPS IN PLAIN LANGUAGE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+ADD THESE LIGHTING TERMS TO ANY PROMPT:
+
+PORTRAIT LIGHTING:
+[LT01] "Rembrandt lighting: key light at 45 degrees, small triangle of light on shadow cheek"
+[LT02] "Split lighting: light directly to one side, face exactly half lit half shadow"
+[LT03] "Butterfly lighting: light directly above and slightly in front, V-shadow under nose"
+[LT04] "Loop lighting: key light slightly above eye level, slightly to side, small shadow from nose"
+[LT05] "Broad lighting: key light on side of face toward camera, more face lit"
+[LT06] "Short lighting: key light on side of face away from camera, more face in shadow, slimming"
+[LT07] "Rim/hair lighting: light behind subject, separates from background, creates halo outline"
+[LT08] "Clamshell: two lights, one above and one below, catches eyes perfectly, beauty"
+[LT09] "Paramount/glamour: butterfly with reflector fill, Hollywood classic, catchlights in eyes"
+[LT10] "Available/window light: north window, diffused, directional without harsh shadows"
+
+DRAMATIC/CINEMATIC LIGHTING:
+[LT11] "High contrast chiaroscuro: one strong light, no fill, deep rich shadows, Italian baroque"
+[LT12] "Silhouette: subject fully backlit, exposure for background, subject as dark shape"
+[LT13] "Lens flare: light source directly in frame, hexagonal or anamorphic streak"
+[LT14] "God rays: shafts of light through mist, particles lit, atmospheric depth"
+[LT15] "Practical lights: lamp or neon or candle as actual light source in frame, mixed with strobe"
+[LT16] "Motivated light: light appears to come from logical source in scene"
+[LT17] "Hard light: small light source, direct sun or fresnel, crisp shadow edges"
+[LT18] "Soft light: large diffused light source, wrap-around quality, soft shadow edges"
+[LT19] "Bounce light: strobe bounced off white ceiling or wall, broad and even, casual feel"
+[LT20] "Colored gels: theatrical colored light [red/cyan/amber/magenta] for dramatic effect"
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SECTION 6: 80 GENRE-SPECIFIC PHOTOGRAPHY PROMPTS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+STREET PHOTOGRAPHY:
+[SP01] Tokyo rush hour, 35mm equivalent, high contrast black and white, decisive moment, Cartier-Bresson style, grain, authentic
+[SP02] Mumbai street market, color street photography, Vivian Maier influence, shadows and color, decisive framing
+[SP03] New York subway reflection, strangers in glass, layered transparency, candid documentary
+[SP04] London foggy morning street, lamplight glow, long coat figure, 1970s photojournalism
+[SP05] Paris cobblestone alley, evening light, couple glimpsed at distance, romantic documentary
+[SP06] Hong Kong neon night street, umbrella in rain, neon reflection puddles, Blade Runner real life
+[SP07] Istanbul bazaar chaos, overhead color, crowds and goods, chaotic frame, vivid
+[SP08] Detroit urban decay, abandoned building window light, documentary decay, powerful
+[SP09] Havana street portrait, colorful walls, warm afternoon, willing subject, candid warm
+[SP10] Berlin underground, late night commuters, harsh fluorescent, solitary figures, urban loneliness
+
+WILDLIFE PHOTOGRAPHY:
+[WL01] African lion in golden grass, 600mm telephoto compression, eye-level, National Geographic quality
+[WL02] Hummingbird frozen at flower, 1/2000 shutter, wing detail, garden background bokeh
+[WL03] Polar bear on ice, aerial perspective, blue-white world, environmental portrait
+[WL04] Eagle catching fish, water explosion frozen, 1/4000 shutter, dramatic scale
+[WL05] Elephant family at sunset, African horizon, silhouette, warm backlit
+[WL06] Leopard in acacia tree, telephoto, compression, dappled afternoon light
+[WL07] Wolf pack in snow, winter, breath mist, pack dynamics captured
+[WL08] Whale breach, ocean spray, scale against sky, adventure wildlife
+[WL09] Chameleon macro, extreme detail, eye in focus, color and texture
+[WL10] Bird of paradise display, New Guinea forest, behavior documentary, National Geographic
+
+DOCUMENTARY/REPORTAGE:
+[DR01] Refugee camp at dawn, long lens from respectful distance, life amid hardship, dignified
+[DR02] Protest crowd, overhead aerial perspective, signs and faces, democratic moment
+[DR03] Emergency room doctors, available light, motion blur, dedication to work
+[DR04] Factory workers end of shift, industrial light, exhaustion and dignity
+[DR05] School children in developing country, natural light classroom, hope and future
+[DR06] Farmer at harvest, early light, lifetime of work in hands, quiet portrait
+[DR07] Election day voting queue, color, diversity, democracy
+[DR08] Market day developing world, overhead chaos, organized spontaneity, color
+[DR09] Religious ceremony, candlelight, devotion on faces, respectful documentary
+[DR10] Traditional craft being made, artisan hands, disappearing art form
+
+CONCEPTUAL/FINE ART:
+[CA01] Empty chair in flooded room, conceptual isolation, soft light, surreal but photographic
+[CA02] Mirror in forest, reflection shows different season, fine art concept
+[CA03] Single flower in industrial space, beauty vs environment, conceptual
+[CA04] Aging hands holding youth photo, generational concept, intimate
+[CA05] Clock melting in empty room, surreal concept, photographic quality
+[CA06] Person in mask in crowd, identity concept, street meets studio
+[CA07] Books as landscape, miniature world in library, scale illusion
+[CA08] Window with bars, framing freedom concept, light and dark
+[CA09] Empty spaces series: chair, desk, table — people recently left
+[CA10] Shadow portrait — only shadow, no subject, abstract concept
+
+ARCHITECTURE PHOTOGRAPHY:
+[AR01] Zaha Hadid building from below, ultra-wide, distorted curves, dramatic sky
+[AR02] Interior, golden ratio staircase, long exposure blurred figures, structure
+[AR03] Bridge reflection in river, perfect symmetry, blue hour, golden reflections
+[AR04] Empty cathedral nave, tilted horizon, leading lines to altar, awe
+[AR05] Industrial architecture detail, steel and glass, abstract geometry, graphic
+[AR06] Traditional wooden building, Japan, dusk light, cultural preservation
+[AR07] Urban canyon, skyscraper walls either side, tiny figure below, scale
+[AR08] Grand hotel lobby, symmetry, warm light, empty moment before chaos
+[AR09] Airport terminal, glass roof, light patterns, modern transit
+[AR10] Ruins at sunrise, romantic decay, historical layers visible
+
+[SP11-SP30] More street photography cities: Lagos, São Paulo, Kolkata, Mexico City, Cairo, Seoul, Sydney, Toronto, Amsterdam, Stockholm, Bangkok, Buenos Aires, Cape Town, Tehran, Manila, Nairobi, Chicago, Barcelona, Athens, Dubrovnik
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+BONUS: 10 COMPLETE PROMPT FORMULAS
+
+FORMULA 1 (Portrait): [Subject description] + [Lighting setup] + [Camera + lens] + [Background] + [Mood/tone] + [Film/processing style] + [Aspect ratio]
+
+FORMULA 2 (Landscape): [Location + time of day] + [Weather/atmosphere] + [Camera angle] + [Focal length] + [Long exposure duration if any] + [Color mood] + [Aspect ratio]
+
+FORMULA 3 (Product): [Product type + material] + [Surface/background] + [Light source + direction] + [Color temperature] + [Style reference] + [Quality descriptor] + [Aspect ratio]
+
+FORMULA 4 (Street): [City + time] + [Weather + light] + [Focal length] + [Film stock] + [Decisive moment descriptor] + [Mood] + [Aspect ratio]
+
+FORMULA 5 (Fashion): [Clothing description] + [Model/pose direction] + [Location or studio] + [Light quality] + [Magazine/brand reference] + [Color palette] + [Aspect ratio]
+
+FORMULA 6 (Wildlife): [Animal + behavior] + [Habitat] + [Time of day] + [Lens compression] + [Shutter speed for motion] + [Background blur] + [Aspect ratio]
+
+FORMULA 7 (Architecture): [Building type + era] + [Camera angle — low/high/straight] + [Time of day] + [Sky condition] + [Focal length] + [Processing style] + [Aspect ratio]
+
+FORMULA 8 (Documentary): [Subject + situation] + [Emotional state] + [Available light quality] + [Focal length] + [Color vs black and white] + [Film grain level] + [Aspect ratio]
+
+FORMULA 9 (Conceptual): [Core concept/metaphor] + [Visual elements that represent it] + [Light and atmosphere] + [Color palette] + [Processing style] + [Aspect ratio]
+
+FORMULA 10 (Commercial): [Product + unique feature] + [Desired customer emotion] + [Brand aesthetic] + [Light setup] + [Surface/environment] + [Quality level] + [Aspect ratio]
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+TOTAL: 400 PHOTOGRAPHY PROMPTS + FORMULAS + REFERENCE GUIDES
+Studio (80) + Natural Light (80) + Film Styles (80) + Camera/Lens/Lighting Guides + Genre Prompts (80) + Bonus Formulas (10)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+© AniketG AI — For personal and commercial use by buyer only.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

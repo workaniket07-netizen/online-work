@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Prompting: Function Calling for Image Generation using Gemini Pro (Beginner)
+PRICE: $127
+TAGS: function calling, image generation, prompt engineering
+SHORT DESC: AI Prompting: Function Calling for Image Generation using Gemini Pro (Beginner). $127. Commercial license.

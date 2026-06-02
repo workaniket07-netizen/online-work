@@ -1,0 +1,5 @@
+PRODUCT TITLE: AI for JAMstack Developers & Teams
+PRICE: $127
+TAGS: JAMstack AI, static site AI, headless development AI
+SHORT DESC: AI for JAMstack Developers & Teams. Commercial license. Instant download.
+LONG DESC: AI for JAMstack Developers & Teams. 7-day guarantee.

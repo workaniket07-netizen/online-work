@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI DevOps Toolkit: JavaScript/React + Kubernetes for Director of Engineering
+PRICE: $127
+TAGS: devops, javascript/react, kubernetes
+SHORT DESC: AI DevOps Toolkit: JavaScript/React + Kubernetes for Director of Engineering. $127. Commercial license.

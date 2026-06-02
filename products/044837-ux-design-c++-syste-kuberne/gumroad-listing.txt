@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI UX Design Toolkit: C++/Systems + Kubernetes for Director of Engineering
+PRICE: $127
+TAGS: ux design, c++/systems, kubernetes
+SHORT DESC: AI UX Design Toolkit: C++/Systems + Kubernetes for Director of Engineering. $127. Commercial license.

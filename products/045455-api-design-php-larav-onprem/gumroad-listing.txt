@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI API Design Toolkit: PHP/Laravel + On-Premise for Principal
+PRICE: $177
+TAGS: api design, php/laravel, on-premise
+SHORT DESC: AI API Design Toolkit: PHP/Laravel + On-Premise for Principal. $177. Commercial license.

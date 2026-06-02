@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Software Engineering Toolkit: Python/Django + Azure for Mid-Level
+PRICE: $127
+TAGS: software engineering, python/django, azure
+SHORT DESC: AI Software Engineering Toolkit: Python/Django + Azure for Mid-Level. $127. Commercial license.

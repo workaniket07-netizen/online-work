@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Machine Learning Toolkit: Ruby/Rails + Kubernetes for Director of Engineering
+PRICE: $127
+TAGS: machine learning, ruby/rails, kubernetes
+SHORT DESC: AI Machine Learning Toolkit: Ruby/Rails + Kubernetes for Director of Engineering. $127. Commercial license.

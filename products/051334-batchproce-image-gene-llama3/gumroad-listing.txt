@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Prompting: Batch Processing for Image Generation using Llama 3 (Intermediate)
+PRICE: $127
+TAGS: batch processing, image generation, prompt engineering
+SHORT DESC: AI Prompting: Batch Processing for Image Generation using Llama 3 (Intermediate). $127. Commercial license.

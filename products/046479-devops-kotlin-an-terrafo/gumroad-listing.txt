@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI DevOps Toolkit: Kotlin/Android + Terraform for CTO
+PRICE: $177
+TAGS: devops, kotlin/android, terraform
+SHORT DESC: AI DevOps Toolkit: Kotlin/Android + Terraform for CTO. $177. Commercial license.

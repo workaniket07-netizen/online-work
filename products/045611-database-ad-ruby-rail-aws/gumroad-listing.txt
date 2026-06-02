@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Database Administration Toolkit: Ruby/Rails + AWS for Junior
+PRICE: $127
+TAGS: database administrat, ruby/rails, aws
+SHORT DESC: AI Database Administration Toolkit: Ruby/Rails + AWS for Junior. $127. Commercial license.

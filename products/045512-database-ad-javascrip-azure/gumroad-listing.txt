@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Database Administration Toolkit: JavaScript/React + Azure for Mid-Level
+PRICE: $127
+TAGS: database administrat, javascript/react, azure
+SHORT DESC: AI Database Administration Toolkit: JavaScript/React + Azure for Mid-Level. $127. Commercial license.

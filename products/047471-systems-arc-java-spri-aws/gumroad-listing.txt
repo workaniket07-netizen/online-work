@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Systems Architecture Toolkit: Java/Spring + AWS for Junior
+PRICE: $127
+TAGS: systems architecture, java/spring, aws
+SHORT DESC: AI Systems Architecture Toolkit: Java/Spring + AWS for Junior. $127. Commercial license.

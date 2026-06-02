@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Cloud Architecture Toolkit: Python/Django + Terraform for CTO
+PRICE: $177
+TAGS: cloud architecture, python/django, terraform
+SHORT DESC: AI Cloud Architecture Toolkit: Python/Django + Terraform for CTO. $177. Commercial license.

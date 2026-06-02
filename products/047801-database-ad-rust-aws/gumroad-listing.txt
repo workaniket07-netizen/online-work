@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Database Administration Toolkit: Rust + AWS for Junior
+PRICE: $127
+TAGS: database administrat, rust, aws
+SHORT DESC: AI Database Administration Toolkit: Rust + AWS for Junior. $127. Commercial license.

@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Systems Architecture Toolkit: MATLAB/Data + Docker for VP Engineering
+PRICE: $127
+TAGS: systems architecture, matlab/data, docker
+SHORT DESC: AI Systems Architecture Toolkit: MATLAB/Data + Docker for VP Engineering. $127. Commercial license.

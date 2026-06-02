@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI DevOps Toolkit: Python/Django + Serverless for Founding Engineer
+PRICE: $127
+TAGS: devops, python/django, serverless
+SHORT DESC: AI DevOps Toolkit: Python/Django + Serverless for Founding Engineer. $127. Commercial license.

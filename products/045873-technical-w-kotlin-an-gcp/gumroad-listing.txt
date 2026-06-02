@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Technical Writing Toolkit: Kotlin/Android + GCP for Senior
+PRICE: $127
+TAGS: technical writing, kotlin/android, gcp
+SHORT DESC: AI Technical Writing Toolkit: Kotlin/Android + GCP for Senior. $127. Commercial license.

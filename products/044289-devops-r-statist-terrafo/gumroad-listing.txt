@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI DevOps Toolkit: R/Statistical + Terraform for CTO
+PRICE: $177
+TAGS: devops, r/statistical, terraform
+SHORT DESC: AI DevOps Toolkit: R/Statistical + Terraform for CTO. $177. Commercial license.

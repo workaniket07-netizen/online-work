@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Technical Writing Toolkit: Golang + AWS for Junior
+PRICE: $127
+TAGS: technical writing, golang, aws
+SHORT DESC: AI Technical Writing Toolkit: Golang + AWS for Junior. $127. Commercial license.

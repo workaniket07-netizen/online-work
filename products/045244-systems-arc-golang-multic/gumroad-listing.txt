@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Systems Architecture Toolkit: Golang + Multi-Cloud for Staff
+PRICE: $177
+TAGS: systems architecture, golang, multi-cloud
+SHORT DESC: AI Systems Architecture Toolkit: Golang + Multi-Cloud for Staff. $177. Commercial license.

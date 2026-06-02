@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI API Design Toolkit: JavaScript/React + GCP for Senior
+PRICE: $127
+TAGS: api design, javascript/react, gcp
+SHORT DESC: AI API Design Toolkit: JavaScript/React + GCP for Senior. $127. Commercial license.

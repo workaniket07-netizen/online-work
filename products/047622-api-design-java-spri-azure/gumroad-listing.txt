@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI API Design Toolkit: Java/Spring + Azure for Mid-Level
+PRICE: $127
+TAGS: api design, java/spring, azure
+SHORT DESC: AI API Design Toolkit: Java/Spring + Azure for Mid-Level. $127. Commercial license.

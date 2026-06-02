@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Security Toolkit: PHP/Laravel + Terraform for CTO
+PRICE: $177
+TAGS: security, php/laravel, terraform
+SHORT DESC: AI Security Toolkit: PHP/Laravel + Terraform for CTO. $177. Commercial license.

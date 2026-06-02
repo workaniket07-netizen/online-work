@@ -1,0 +1,147 @@
+╔══════════════════════════════════════════════════════════════════════╗
+║           REMOTE JOB HUNTER VAULT                                    ║
+║   300 Templates to Land a Remote Job in 30 Days                     ║
+║              By AniketG AI Systems                                   ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 1: RESUME FOR REMOTE JOBS (60 Templates)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+REMOTE-SPECIFIC RESUME ADDITIONS:
+[RR-01] Remote work section: "Remote Work Experience: [X years]. Tools: Slack, Zoom, Asana, Notion, GitHub, [relevant tools]. Async communication: [proof of working across time zones]"
+
+[RR-02] Skills section for remote roles:
+→ Async communication
+→ Self-directed work
+→ Remote collaboration tools: [list]
+→ Time zone management
+→ Written communication
+→ Video conferencing
+
+[RR-03] Resume summary for remote roles:
+"[Title] with [X years] experience working fully remote since [year]. Proven track record of [achievement] while collaborating with distributed teams across [X time zones]. Expert in async-first workflows using [tools]."
+
+RESUME TEMPLATES BY REMOTE JOB TYPE:
+[RT-01] Developer/Engineer remote resume
+[RT-02] Digital marketer remote resume
+[RT-03] Customer success remote resume
+[RT-04] Content writer remote resume
+[RT-05] Project manager remote resume
+[RT-06] Designer remote resume
+[RT-07] Data analyst remote resume
+[RT-08] Finance/accounting remote resume
+
+ACHIEVEMENT BULLETS FOR REMOTE ROLES:
+[AB-01] "Led cross-functional project with [X] team members across [Y] time zones, delivering [result] on schedule"
+[AB-02] "Managed [number] concurrent client accounts remotely, maintaining [X]% satisfaction score"
+[AB-03] "Built and documented [system/process] that reduced team onboarding time by [X]%"
+[AB-04 to AB-20] More remote-specific achievement bullets
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 2: WHERE TO FIND REMOTE JOBS (40 Templates)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+TOP REMOTE JOB PLATFORMS:
+[JP-01] Remote.co — curated remote jobs
+[JP-02] We Work Remotely — largest remote job board
+[JP-03] FlexJobs — verified remote + flexible jobs
+[JP-04] Remote OK — tech + startup focus
+[JP-05] Jobspresso — curated remote jobs
+[JP-06] Himalayas — remote-first company focus
+[JP-07] LinkedIn (filter: Remote) — highest volume
+[JP-08] Indeed (filter: Remote) — broad reach
+[JP-09] Glassdoor (filter: Remote) — includes company culture
+[JP-10] AngelList/Wellfound — startup remote roles
+
+BY ROLE TYPE:
+[JP-11] Developers: GitHub Jobs, Stack Overflow Jobs, Toptal
+[JP-12] Designers: Dribbble Jobs, Behance Jobs, Toptal
+[JP-13] Writers: ProBlogger, Contena, Freelance Writing Jobs
+[JP-14] Marketing: Marketing Hire, GrowthRocks
+[JP-15] Customer success: Customer.io, Support Driven
+
+JOB SEARCH TRACKER:
+Company | Role | Applied Date | Response | Interview | Status | Notes
+
+FOLLOW-UP TEMPLATES (5 timing):
+[FU-01] 5 days after application (no response)
+[FU-02] 24 hours after interview
+[FU-03] 1 week after final interview (no decision)
+[FU-04] After rejection (staying connected)
+[FU-05] 90 days after rejection (reconnect)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 3: INTERVIEW PREP FOR REMOTE ROLES (80 Templates)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+REMOTE-SPECIFIC INTERVIEW QUESTIONS + ANSWERS:
+
+[IQ-01] "How do you stay productive when working from home?"
+Framework: Environment → routine → tools → communication → boundaries
+Sample: "I work from a dedicated home office, follow a structured schedule, use [tools] for deep work, and maintain clear boundaries between work and personal time. I've found that [specific habit] has been key to my productivity."
+
+[IQ-02] "How do you communicate with a distributed team?"
+Key points: proactive communication, over-document, time zone awareness, async-first, when to escalate to sync
+
+[IQ-03] "How do you handle isolation or lack of collaboration in remote work?"
+Key points: online communities, virtual coffee chats, contributing to async discussion, finding local coworking spaces
+
+[IQ-04] "Tell me about a challenge you faced working remotely and how you solved it."
+STAR format: Situation (remote challenge) → Task → Action → Result
+
+[IQ-05] "What's your home office setup like?"
+Mention: dedicated space, good lighting, quality microphone, reliable internet, backup plan
+
+[IQ-06 to IQ-30] More remote-specific interview questions with answer frameworks
+
+GENERAL INTERVIEW PREP (30 questions):
+[GI-01 to GI-30] Common interview questions with remote-angle answers
+
+SALARY NEGOTIATION FOR REMOTE ROLES:
+[SN-01] Research remote salary data: levels.fyi, Glassdoor, Remote.com Salary Explorer
+[SN-02] Location-based pay negotiation
+[SN-03] Negotiation script for remote-first companies
+[SN-04] Benefits negotiation: equipment stipend, internet allowance, home office budget
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 4: 30-DAY REMOTE JOB LANDING SYSTEM (80 Templates)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+WEEK 1 — Foundation:
+→ Update resume with remote-specific language
+→ Optimize LinkedIn for remote searches
+→ Set up profiles on top 5 remote job boards
+→ Define target: role + industry + salary range + time zone flexibility
+
+WEEK 2 — Apply:
+→ Apply to 5-10 positions per day
+→ Customize each application (15 minutes per application)
+→ Track every application
+
+WEEK 3 — Network:
+→ Connect with 10 remote workers at target companies
+→ Message for informational interviews
+→ Post on LinkedIn about remote work experience
+
+WEEK 4 — Interview:
+→ Prepare answers to 30 most common questions
+→ Mock interview practice
+→ Technical setup check
+→ Follow up on all applications
+
+LINKEDIN OPTIMIZATION FOR REMOTE:
+[LO-01] Headline: "[Title] | [Specialty] | Open to Remote Opportunities"
+[LO-02] About section: Mention remote experience prominently
+[LO-03] Featured section: Remote work portfolio or testimonials
+[LO-04] Skills: Add async communication, remote tools
+
+CHATGPT PROMPTS FOR JOB HUNTING (20):
+[CP-01] "Help me tailor my resume for this job posting. My resume: [PASTE]. Job posting: [PASTE]. Identify: keywords to add, experiences to emphasize, what to remove."
+[CP-02] "Write a cover letter for this remote role. Company: [X]. Role: [Y]. My experience: [Z]. Tone: professional but personable."
+[CP-03 to CP-20] More job hunting AI prompts
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+STATS: 300 templates | Resume + Job Boards + Interview Prep + 30-Day System
+By AniketG AI Systems
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

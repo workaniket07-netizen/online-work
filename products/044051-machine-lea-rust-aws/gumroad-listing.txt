@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Machine Learning Toolkit: Rust + AWS for Junior
+PRICE: $127
+TAGS: machine learning, rust, aws
+SHORT DESC: AI Machine Learning Toolkit: Rust + AWS for Junior. $127. Commercial license.

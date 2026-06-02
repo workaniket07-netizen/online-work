@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Machine Learning Toolkit: Ruby/Rails + Docker for VP Engineering
+PRICE: $127
+TAGS: machine learning, ruby/rails, docker
+SHORT DESC: AI Machine Learning Toolkit: Ruby/Rails + Docker for VP Engineering. $127. Commercial license.

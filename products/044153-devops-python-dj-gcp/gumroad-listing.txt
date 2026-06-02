@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI DevOps Toolkit: Python/Django + GCP for Senior
+PRICE: $127
+TAGS: devops, python/django, gcp
+SHORT DESC: AI DevOps Toolkit: Python/Django + GCP for Senior. $127. Commercial license.

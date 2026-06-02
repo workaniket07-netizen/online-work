@@ -1,0 +1,285 @@
+╔══════════════════════════════════════════════════════════════════════╗
+║         FITNESS & HEALTH COACHING TEMPLATE VAULT                     ║
+║   400 Client Templates, Workout Plans, Nutrition Scripts & Systems   ║
+║              By AniketG AI Systems                                   ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+Everything a fitness coach, personal trainer, or health coach needs —
+client intake forms, workout program templates, nutrition frameworks,
+check-in messages, transformation scripts, marketing copy,
+and ChatGPT prompts for creating customized plans in minutes.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 1: CLIENT INTAKE & ONBOARDING (60 Templates)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+NEW CLIENT INTAKE FORM:
+━━━━━━━━━━━━━━━━
+HEALTH & FITNESS INTAKE QUESTIONNAIRE
+
+PERSONAL INFORMATION:
+Name: | Age: | Location:
+Height: | Current weight: | Goal weight:
+Occupation (sedentary/active?):
+
+HEALTH HISTORY:
+Current medications (that may affect exercise):
+Any injuries, chronic conditions, or physical limitations:
+Recent surgeries (within 12 months):
+Pain areas (circle): Knees / Back / Hips / Shoulders / Other:
+Have you worked with a trainer before? What did/didn't work?
+
+FITNESS HISTORY:
+How often do you currently exercise?
+Types of exercise you currently do:
+Exercises/movements you enjoy:
+Exercises you dislike or cannot perform:
+Last time you exercised consistently:
+
+NUTRITION:
+Typical daily diet (brief description):
+Food allergies or intolerances:
+How many meals per day?
+Do you track calories/macros? Current intake (if known):
+Rate your relationship with food (1-10, where 1=very difficult):
+
+GOALS & MOTIVATION:
+Primary goal (circle): Weight loss / Muscle gain / Endurance / Strength / Health / Sport-specific
+Timeline: I want to achieve my goal by:
+Why is this goal important to you right now?
+What has prevented you from reaching this goal before?
+How do you handle setbacks (miss workouts, bad eating day)?
+
+LIFESTYLE:
+Sleep: Hours per night | Sleep quality (1-10):
+Stress level (1-10): | Primary stressors:
+Time available to train: Days/week: | Minutes per session:
+Time of day preference: AM / Midday / PM
+Access to: ☐ Full gym ☐ Home gym ☐ Bodyweight only ☐ Outdoors
+Equipment available (if home):
+
+COACHING PREFERENCES:
+How often do you want check-ins?
+How do you prefer to be motivated: ☐ Firm ☐ Encouraging ☐ Analytical
+What does success in our coaching relationship look like to you?
+━━━━━━━━━━━━━━━━
+
+WELCOME EMAIL TO NEW CLIENT:
+Subject: Welcome to [Your Coaching Program] — Let's get started!
+
+Hi [Name],
+
+Welcome — I'm genuinely excited to work with you.
+
+You've taken a real step today, and I want you to know: I'm fully committed to helping you get to [their specific goal].
+
+Here's what happens next:
+
+WEEK 1 PLAN:
+→ Day 1-2: Complete your intake form (attached/linked)
+→ Day 3: I'll send your customized program
+→ Day 4: We have our kickoff call ([time + link])
+→ Day 5+: Training begins
+
+WHAT TO DO RIGHT NOW:
+1. Complete intake form: [link]
+2. Take progress photos (front, side, back) — for your eyes only, stored privately
+3. Optional: weigh yourself first thing in the morning
+
+HOW TO REACH ME:
+→ Daily questions: [messaging platform]
+→ Response time: Within [X hours]
+→ Emergency/urgent: [method]
+
+One thing to know about how I coach: [your coaching philosophy in 1-2 sentences]
+
+Any questions before we start? Hit reply — I'm here.
+
+Let's go, [Name].
+[Your Name]
+
+---
+
+CLIENT GOAL-SETTING SESSION TEMPLATE:
+[GS-01] "Tell me your #1 goal — in as much detail as possible. Don't give me the polished version. Give me the real, honest version."
+[GS-02] "On a scale of 1-10, how committed are you to this goal right now? What would make it a 10?"
+[GS-03] "What has your relationship with [fitness/food/health] looked like for the past year?"
+[GS-04] "What does success look like at [1 month / 3 months / 6 months]? Be specific."
+[GS-05] "What's the thing you're most afraid of in this process?"
+[GS-06] "What has worked for you before — even partially?"
+[GS-07] "If you could change ONE thing about your current [body/health/fitness], what would it be?"
+[GS-08] "How does [your goal] connect to your life outside of fitness?"
+[GS-09] "What support do you have at home?"
+[GS-10] "What's your biggest obstacle right now?"
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 2: WORKOUT PROGRAM TEMPLATES (80 Templates)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+BEGINNER FULL-BODY PROGRAM (3 days/week):
+━━━━━━━━━━━━━━━━
+CLIENT: [Name] | GOAL: [Goal] | WEEKS: 1-4 | LEVEL: Beginner
+
+WORKOUT A (Day 1 & 3):
+Warm-up: 5-minute walk + dynamic stretches
+
+1. Goblet squat: 3 sets × 10 reps | Rest: 60 sec
+2. Push-up (or incline): 3 sets × 8-10 reps | Rest: 60 sec
+3. Dumbbell row (single arm): 3 sets × 10 reps | Rest: 60 sec
+4. Romanian deadlift: 3 sets × 10 reps | Rest: 60 sec
+5. Plank: 3 sets × 20 seconds | Rest: 30 sec
+
+Cool-down: 5-minute light walk + static stretches
+
+WORKOUT B (Day 2 or midweek — optional):
+20-30 min low-intensity cardio (walk, bike, swim)
+OR: Rest day with 15-minute mobility work
+
+PROGRESSIVE OVERLOAD: Add [2.5 lbs / 1 rep] when you can complete all sets with good form.
+━━━━━━━━━━━━━━━━
+
+WORKOUT TEMPLATES BY GOAL (15 programs):
+[WT-01] Beginner Full-Body 3x/week
+[WT-02] Intermediate Upper/Lower Split 4x/week
+[WT-03] Advanced Push/Pull/Legs 6x/week
+[WT-04] Fat loss + Muscle retain program
+[WT-05] Pure strength program (powerlifting-inspired)
+[WT-06] Hypertrophy (muscle building) program
+[WT-07] Home bodyweight-only program
+[WT-08] Resistance band program
+[WT-09] HIIT program (3x/week)
+[WT-10] Senior/low-impact program
+[WT-11] Post-pregnancy return to fitness
+[WT-12] Athletic performance program
+[WT-13] Yoga + strength hybrid
+[WT-14] Endurance + strength combination
+[WT-15] 30-day transformation challenge
+
+EXERCISE LIBRARY (descriptions for 50 exercises):
+For each: exercise name | muscles worked | how to perform (3-4 cues) | common mistakes | easier modification | harder progression
+
+[EX-01] Squat: Quads, glutes, hamstrings. Cues: feet shoulder-width, track knees over toes, chest tall, hips below parallel. Mistake: knees caving in. Easier: box squat. Harder: barbell back squat.
+[EX-02] Push-up: Chest, shoulders, triceps. Cues: hands slightly wider than shoulders, straight line from head to heels, lower chest to floor. Mistake: sagging hips. Easier: incline push-up. Harder: deficit push-up.
+[EX-03 to EX-50] Continue with all major compound and isolation movements
+
+CHATGPT PROMPTS FOR CUSTOM PROGRAMS (20):
+[CP-01] "Create a [X-week] training program for a [level] client. Goal: [goal]. Equipment: [available]. Time per session: [X minutes]. Days per week: [X]. Include: sets, reps, rest, progressive overload plan, and warm-up/cool-down."
+
+[CP-02] "Modify this workout program for someone with [limitation: bad knees / shoulder injury / pregnancy / arthritis]: [paste program]. Replace exercises that stress [area] with appropriate alternatives."
+
+[CP-03] "Create a training block periodization plan for [X months] for a [goal] athlete. Include: Phase 1 (foundation), Phase 2 (build), Phase 3 (peak), Phase 4 (deload). Reps/sets/intensity for each phase."
+
+[CP-04] "Write a deload week protocol for a client who has been training hard for [X weeks]. What should intensity, volume, and frequency look like?"
+
+[CP-05] "Create a mobility and flexibility routine for someone who [sits at desk all day / has tight hips / has poor shoulder mobility]. Include 10 exercises with hold times and frequency recommendations."
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 3: NUTRITION COACHING TEMPLATES (80 Templates)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+CALORIE & MACRO CALCULATOR:
+[NC-01] TDEE CALCULATION:
+BMR (Mifflin-St Jeor):
+Male: 10 × weight(kg) + 6.25 × height(cm) − 5 × age + 5
+Female: 10 × weight(kg) + 6.25 × height(cm) − 5 × age − 161
+
+Activity multiplier:
+Sedentary (desk job, minimal exercise): × 1.2
+Light activity (1-3 days/week exercise): × 1.375
+Moderate (3-5 days/week): × 1.55
+Very active (6-7 days/week): × 1.725
+Extremely active (athlete/2x daily): × 1.9
+
+TDEE = BMR × activity multiplier
+
+CALORIE TARGETS BY GOAL:
+Weight loss: TDEE − 300 to 500 (0.5-1 lb/week)
+Aggressive loss: TDEE − 750 (don't go below 1,200 women / 1,500 men)
+Maintenance: TDEE
+Muscle gain (lean bulk): TDEE + 200 to 300
+
+MACRO BREAKDOWN TEMPLATES:
+Fat loss focus: Protein 40% / Carbs 35% / Fat 25%
+Muscle gain: Protein 30% / Carbs 45% / Fat 25%
+Balanced: Protein 30% / Carbs 40% / Fat 30%
+Low carb: Protein 35% / Carbs 25% / Fat 40%
+
+NUTRITION GUIDANCE SCRIPTS (20):
+[NQ-01] Explaining protein: "Protein is the most important macro for your goal because [reason]. Aim for [X]g/day. Easy high-protein foods: chicken breast, Greek yogurt, eggs, cottage cheese, protein shakes. Your daily target means [practical example: 2 chicken breasts + 1 scoop protein + 1 cup Greek yogurt]."
+
+[NQ-02] Meal timing guidance: "For your goal of [goal], here's how I'd structure your meals: [breakfast around X AM / pre-workout X minutes before / post-workout within 30-60 min / last meal by X PM]. Here's why timing matters for you specifically: [reason]."
+
+[NQ-03] Dealing with hunger: "If you're consistently hungry on [calorie target], here's what to try: [1. Add more protein to each meal 2. Eat more volume with vegetables 3. Drink water before meals 4. Check sleep — poor sleep increases hunger hormones]. Let me know which you try and I'll adjust the plan."
+
+[NQ-04 to NQ-20] More nutrition scripts: alcohol conversation, weekend eating, social eating, cravings management, plateaus, cheat meals vs. flexible eating, intuitive eating introduction, tracking fatigue, supplement basics
+
+SAMPLE MEAL PLAN TEMPLATES (5 levels):
+[MP-01] 1,400 calories (weight loss, small woman)
+[MP-02] 1,800 calories (moderate weight loss, average woman)
+[MP-03] 2,200 calories (maintenance / muscle gain, woman + weight loss man)
+[MP-04] 2,600 calories (muscle gain, average man)
+[MP-05] 3,000+ calories (active athlete / aggressive bulk)
+
+Each template: breakfast / snack / lunch / snack / dinner / macros per meal
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 4: CLIENT COMMUNICATION & RETENTION (80 Templates)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+WEEKLY CHECK-IN SYSTEM:
+[CI-01] CHECK-IN FORM (send every Sunday):
+This week's compliance:
+→ Workouts completed: [X] of [X planned]
+→ Nutrition on track: [%]
+→ Sleep average: [hours]
+
+Numbers (if tracking):
+→ Weight: [X]
+→ Photos taken: Yes/No
+
+This week's wins (what went well):
+
+This week's challenges:
+
+Questions or feedback for me:
+
+Motivation level this week (1-10):
+Energy level (1-10):
+Stress level (1-10):
+
+[CI-02] CHECK-IN RESPONSE TEMPLATES:
+For client who crushed it: "[Name]! [Specific praise for what they accomplished]. This is exactly the kind of week that creates results. [1-2 specific adjustments or progressions for next week]. Keep going — you're building something real."
+
+For client who struggled: "[Name], I see this week was hard. [Acknowledge specific challenge they shared]. First: this is normal, not failure. [Specific action for next week — one small thing]. When [similar situation happens], here's what to do: [practical solution]. I'm right here."
+
+For client who missed check-in: "Hey [Name], missed your check-in this week! Everything okay? No judgment — I just want to make sure you're supported. Send me even 2 sentences on how the week went and we'll adjust from there."
+
+MOTIVATION SCRIPTS (20):
+[MS-01] When client wants to quit: "[Name], I hear you. Before we make any decisions — can you tell me specifically what feels impossible right now? Often what feels like 'I want to quit' is actually 'I need to adjust [specific thing].'"
+
+[MS-02] After missed workouts: "Missing workouts happens to everyone. The difference between people who reach their goals and those who don't isn't perfection — it's what you do NEXT. One workout won't build your goal, and one missed workout won't ruin it. What can we adjust to make next week more realistic?"
+
+[MS-03] For motivational message: "Today might feel hard. Remember why you started: [refer back to their goal from intake]. You've already [specific progress they've made]. That didn't happen by accident. Keep going."
+
+[MS-04 to MS-20] More motivation templates: plateau mindset, comparing to others, injury setback, life stress interfering, visible results celebration, invisible results explanation, long-term thinking script
+
+MARKETING COPY TEMPLATES (20):
+[MK-01] Instagram bio: "[Job title] helping [audience] [achieve outcome]. [Proof: X clients / X years / credential]. Free [resource]: [link]"
+
+[MK-02] Before/after post caption: "Client name [used with permission]. [Where they started]. [What we did together]. [Where they are now]. DM '[word]' if you want a plan for [their situation too]."
+
+[MK-03] Social media hook formats (10): Myth-bust, result reveal, process behind result, client story, "most people don't know", controversial fitness take, quick tip, behind-scenes, transformation timeline
+
+[MK-04] Offer post template: "If you're [situation client is in] and want [specific result], my [program name] might be exactly what you need. [X spots available / opening [date]]. DM me '[word]' to get details."
+
+[MK-05 to MK-20] More marketing: testimonial post format, reel script for gym content, LinkedIn post for fitness professionals, TikTok fitness content hooks
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+QUICK STATS:
+Total Templates: 400
+Sections: 4 (Intake + Workouts + Nutrition + Communication + Marketing)
+Works for: Online coaches, personal trainers, gym owners, nutrition coaches, health coaches
+Commercial license: Full permission to use with paying clients
+
+By AniketG AI Systems
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

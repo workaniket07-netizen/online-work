@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Cloud Architecture Toolkit: Swift/iOS + Serverless for Founding Engineer
+PRICE: $127
+TAGS: cloud architecture, swift/ios, serverless
+SHORT DESC: AI Cloud Architecture Toolkit: Swift/iOS + Serverless for Founding Engineer. $127. Commercial license.

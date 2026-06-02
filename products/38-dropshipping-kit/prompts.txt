@@ -1,0 +1,157 @@
+╔══════════════════════════════════════════════════════════════════════╗
+║              DROPSHIPPING LAUNCH & SCALE KIT                         ║
+║   400 Templates for Product Research, Store Copy & Customer Service  ║
+║              By AniketG AI Systems                                   ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 1: PRODUCT RESEARCH SYSTEM (80 Templates)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+WINNING PRODUCT CRITERIA (score 1 point each):
+□ Solves a clear problem or triggers strong emotion
+□ Not easily found in local stores (drives online purchase)
+□ Sell price $127-150 (sweet spot for impulse + low return rate)
+□ Light and small (low shipping cost)
+□ Trending upward on Google Trends (not declining)
+□ 2-4x profit margin possible
+□ Supplier ships in under 2 weeks (ideally 7-10 days)
+□ Not heavily branded/trademarked
+Score 6+: Strong product. Score 4-5: Needs more validation. Under 4: Skip.
+
+PRODUCT RESEARCH SOURCES:
+[PR-01] TikTok: Search #TikTokMadeMeBuyIt + your niche → viral products with proven demand
+[PR-02] Amazon: Sort by "New Releases" in a category → trending before they hit mass market
+[PR-03] AliExpress: "Orders" sort → find what's already selling globally
+[PR-04] Facebook Ads Library: Search competitor brand → see their best-performing ads
+[PR-05] Google Trends: Compare 2-3 product keywords → verify rising trend
+[PR-06] Minea/AdSpy tools: See competitor Facebook ads + engagement data
+[PR-07] Pinterest Trends: Categories with "growing" badge = product opportunity
+
+COMPETITOR ANALYSIS TEMPLATE:
+[CA-01] Competitor store URL:
+[CA-02] Their best-selling products:
+[CA-03] Their price point:
+[CA-04] Their ad copy style:
+[CA-05] What reviews say they're missing:
+[CA-06] My differentiation:
+
+SUPPLIER VETTING CHECKLIST:
+□ Minimum [X] months trading history on platform
+□ Response time under 24 hours
+□ Sample ordered and quality verified
+□ Shipping time confirmed for target country
+□ Has photos/videos I can use (or creates custom)
+□ Handles returns policy clear
+□ Can handle volume if product scales
+
+PRODUCT TESTING FRAMEWORK:
+[PT-01] Phase 1 (Days 1-7): Run $127-10/day Facebook/TikTok ad → test 3 creatives
+[PT-02] Phase 2 (Days 8-14): Scale winner to $127-30/day, kill losers
+[PT-03] Phase 3 (Days 15-30): If profitable, scale to $100+/day
+[PT-04] Kill signal: Over $127 spent with 0 purchases = kill ad
+[PT-05] Scale signal: ROAS > 2.5x for 3+ consecutive days
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 2: STORE COPY & CONVERSION (80 Templates)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+PRODUCT PAGE COPY FORMULA:
+[Hook: Pain or desire in first line]
+[What it is + who it's for]
+[Top 3 benefits as bullets with evidence]
+[Feature list]
+[Social proof: X happy customers / X★ rating / media mention]
+[Urgency: Limited stock / X people viewing]
+[CTA: Buy Now + Guarantee]
+
+PRODUCT DESCRIPTION EXAMPLES (10 niches):
+[PD-01] Health/wellness gadget: Lead with transformation, not specs
+[PD-02] Home organization: Lead with the problem (clutter, stress)
+[PD-03] Pet product: Lead with pet's wellbeing (emotional hook)
+[PD-04] Fitness equipment: Lead with goal achievement
+[PD-05] Kitchen tool: Lead with time saved or result (food outcome)
+[PD-06] Beauty/skincare: Lead with confidence/appearance transformation
+[PD-07] Baby product: Lead with parent peace of mind / safety
+[PD-08] Outdoor/camping: Lead with adventure/experience
+[PD-09] Tech accessory: Lead with problem solved
+[PD-10] Fashion: Lead with the feeling of wearing it
+
+HOMEPAGE COPY TEMPLATE:
+Hero: [Bold benefit statement] | [What your store sells in 5 words]
+CTA: Shop Now / Get Yours Today
+Trust bar: Free Shipping | X-Day Returns | [X]+ Happy Customers | Secure Checkout
+Featured products: [Top 3 with benefit-focused names]
+
+COLLECTION PAGE NAMES:
+→ Don't: "Accessories," "Products," "Items"
+→ Do: "Transform Your [X]," "For [Specific Person]," "Our Most-Loved [Category]"
+
+TRUST SIGNALS (copy templates):
+[TS-01] Guarantee badge: "100% Satisfaction Guarantee — Love it or full refund. No hassle."
+[TS-02] Shipping badge: "Free tracked shipping on all orders over $[X]"
+[TS-03] Security badge: "Secure checkout via [payment methods]"
+[TS-04] Reviews badge: "[X]+ verified 5-star reviews"
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 3: AD COPY & MARKETING (80 Templates)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+FACEBOOK/INSTAGRAM AD FORMULAS (30):
+[AD-01] PROBLEM-SOLUTION: "[Relatable problem]? [Product] fixes it in [timeframe]. [Proof]. Shop now → [link]"
+[AD-02] CURIOSITY: "Why is everyone buying [product] for their [use case]? [Answer]. Get yours: [link]"
+[AD-03] SOCIAL PROOF: "[X] people bought this last week. Here's why they loved it: [review quote]. Limited stock."
+[AD-04] TRANSFORMATION: "Before [product]: [frustration]. After [product]: [result]. See the difference: [link]"
+[AD-05] URGENCY: "Only [X] left at this price. [Benefit] + free shipping today. Order now."
+[AD-06] UGC-STYLE: "[Written as if a customer] Just got my [product] and honestly I'm obsessed. [Result]. Link in bio."
+[AD-07] COMPARISON: "Still using [old solution]? [Product] is [X]x better. Here's why: [3 points]"
+[AD-08] GIFT ANGLE: "The [occasion] gift they'll actually use. [Product] — perfect for [recipient]. Ships in [X] days."
+[AD-09 to AD-30] More: seasonal, discount, bundle, viral challenge tie-in, influencer quote, before/after image ad
+
+TIKTOK AD SCRIPTS (20):
+[TT-01] Honest review format: "I saw this [product] everywhere and finally ordered. Here's my honest review after [X] weeks: [pros] + [cons]."
+[TT-02] Demonstration format: Show product solving the problem → before/after → CTA
+[TT-03] Trending audio + product: Sync your demo to trending audio
+[TT-04 to TT-20] More TikTok: ASMR unboxing, day-in-my-life feature, POV format, reaction to competitor
+
+EMAIL FLOWS (30):
+[EF-01] Abandoned cart (3 emails: 1hr / 24hr / 72hr)
+[EF-02] Welcome series (5 emails)
+[EF-03] Post-purchase (3 emails: confirmation / shipping / delivered)
+[EF-04] Review request (2 emails: 7 days / 14 days after delivery)
+[EF-05] Win-back (3 emails for 90-day inactive customers)
+[EF-06 to EF-30] More: flash sale, new product launch, VIP list, referral ask
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 4: CUSTOMER SERVICE & OPERATIONS (80 Templates)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+CUSTOMER SERVICE SCRIPTS (30):
+[CS-01] "Where is my order?": Check tracking → provide link → if delayed, apologize + offer timeline
+[CS-02] "My order never arrived": Check tracking → file claim with carrier → reship or refund
+[CS-03] "Wrong item received": Apologize + ship correct item immediately + let them keep wrong item (cheaper than return shipping)
+[CS-04] "Item broken/defective": Apologize + reship immediately + no return required
+[CS-05] "I want to cancel": If not shipped: cancel immediately. If shipped: explain return process.
+[CS-06] "Is this product real?": Address trust concerns with evidence (reviews, before/after, guarantee)
+[CS-07 to CS-30] More: dispute responses, chargeback prevention, international customs, delay explanation
+
+OPERATIONS CHECKLIST:
+[OP-01] Daily: Check orders, respond to messages within 4 hours, process fulfillments
+[OP-02] Weekly: Review ad performance, check inventory with suppliers, respond to reviews
+[OP-03] Monthly: P&L analysis, top/bottom product review, supplier relationship check
+
+DROPSHIPPING PROFIT CALCULATOR:
+Selling price: $[X]
+Product cost: ($[X])
+Shipping: ($[X])
+Platform fees (2-3%): ($[X])
+Payment processing (2.9% + $127.30): ($[X])
+Ad spend per order (CPA): ($[X])
+NET PROFIT: $[X] | MARGIN: [X]%
+
+Target: 20%+ net margin after all costs.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+QUICK STATS: 400 templates | Product Research + Store Copy + Ads + Operations
+By AniketG AI Systems
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

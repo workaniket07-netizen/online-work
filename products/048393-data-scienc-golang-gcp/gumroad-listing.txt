@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Data Science Toolkit: Golang + GCP for Senior
+PRICE: $127
+TAGS: data science, golang, gcp
+SHORT DESC: AI Data Science Toolkit: Golang + GCP for Senior. $127. Commercial license.

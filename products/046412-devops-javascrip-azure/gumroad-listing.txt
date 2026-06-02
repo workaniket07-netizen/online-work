@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI DevOps Toolkit: JavaScript/React + Azure for Mid-Level
+PRICE: $127
+TAGS: devops, javascript/react, azure
+SHORT DESC: AI DevOps Toolkit: JavaScript/React + Azure for Mid-Level. $127. Commercial license.

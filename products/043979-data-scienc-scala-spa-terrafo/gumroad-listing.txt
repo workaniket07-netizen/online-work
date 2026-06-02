@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Data Science Toolkit: Scala/Spark + Terraform for CTO
+PRICE: $177
+TAGS: data science, scala/spark, terraform
+SHORT DESC: AI Data Science Toolkit: Scala/Spark + Terraform for CTO. $177. Commercial license.

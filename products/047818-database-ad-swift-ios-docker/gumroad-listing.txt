@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Database Administration Toolkit: Swift/iOS + Docker for VP Engineering
+PRICE: $127
+TAGS: database administrat, swift/ios, docker
+SHORT DESC: AI Database Administration Toolkit: Swift/iOS + Docker for VP Engineering. $127. Commercial license.

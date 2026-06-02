@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI DevOps Toolkit: JavaScript/React + Terraform for CTO
+PRICE: $177
+TAGS: devops, javascript/react, terraform
+SHORT DESC: AI DevOps Toolkit: JavaScript/React + Terraform for CTO. $177. Commercial license.

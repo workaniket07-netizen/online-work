@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Database Administration Toolkit: Golang + GCP for Senior
+PRICE: $127
+TAGS: database administrat, golang, gcp
+SHORT DESC: AI Database Administration Toolkit: Golang + GCP for Senior. $127. Commercial license.

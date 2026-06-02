@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Prompting: Iterative Refinement for Code Generation using GPT-4 Vision (Beginner)
+PRICE: $127
+TAGS: iterative refinement, code generation, prompt engineering
+SHORT DESC: AI Prompting: Iterative Refinement for Code Generation using GPT-4 Vision (Beginner). $127. Commercial license.

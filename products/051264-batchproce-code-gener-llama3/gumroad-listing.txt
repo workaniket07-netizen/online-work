@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Prompting: Batch Processing for Code Generation using Llama 3 (Expert)
+PRICE: $147
+TAGS: batch processing, code generation, prompt engineering
+SHORT DESC: AI Prompting: Batch Processing for Code Generation using Llama 3 (Expert). $147. Commercial license.

@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Data Science Toolkit: TypeScript + GCP for Senior
+PRICE: $127
+TAGS: data science, typescript, gcp
+SHORT DESC: AI Data Science Toolkit: TypeScript + GCP for Senior. $127. Commercial license.

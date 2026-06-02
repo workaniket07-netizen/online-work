@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Prompting: Structured Output for Customer Service using Claude Sonnet (Intermediate)
+PRICE: $127
+TAGS: structured output, customer service, prompt engineering
+SHORT DESC: AI Prompting: Structured Output for Customer Service using Claude Sonnet (Intermediate). $127. Commercial license.

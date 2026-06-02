@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Technical Writing Toolkit: PHP/Laravel + AWS for Junior
+PRICE: $127
+TAGS: technical writing, php/laravel, aws
+SHORT DESC: AI Technical Writing Toolkit: PHP/Laravel + AWS for Junior. $127. Commercial license.

@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Machine Learning Toolkit: Kotlin/Android + Serverless for Founding Engineer
+PRICE: $127
+TAGS: machine learning, kotlin/android, serverless
+SHORT DESC: AI Machine Learning Toolkit: Kotlin/Android + Serverless for Founding Engineer. $127. Commercial license.

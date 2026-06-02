@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI DevOps Toolkit: Ruby/Rails + Docker for VP Engineering
+PRICE: $127
+TAGS: devops, ruby/rails, docker
+SHORT DESC: AI DevOps Toolkit: Ruby/Rails + Docker for VP Engineering. $127. Commercial license.

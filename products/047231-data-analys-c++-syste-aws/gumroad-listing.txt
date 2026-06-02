@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Data Analysis Toolkit: C++/Systems + AWS for Junior
+PRICE: $127
+TAGS: data analysis, c++/systems, aws
+SHORT DESC: AI Data Analysis Toolkit: C++/Systems + AWS for Junior. $127. Commercial license.

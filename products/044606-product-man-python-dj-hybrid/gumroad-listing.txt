@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Product Management Toolkit: Python/Django + Hybrid for Architect
+PRICE: $177
+TAGS: product management, python/django, hybrid
+SHORT DESC: AI Product Management Toolkit: Python/Django + Hybrid for Architect. $177. Commercial license.

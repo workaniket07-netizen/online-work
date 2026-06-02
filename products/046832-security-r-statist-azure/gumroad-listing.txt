@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Security Toolkit: R/Statistical + Azure for Mid-Level
+PRICE: $127
+TAGS: security, r/statistical, azure
+SHORT DESC: AI Security Toolkit: R/Statistical + Azure for Mid-Level. $127. Commercial license.

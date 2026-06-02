@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Technical Writing Toolkit: Python/Django + Terraform for CTO
+PRICE: $177
+TAGS: technical writing, python/django, terraform
+SHORT DESC: AI Technical Writing Toolkit: Python/Django + Terraform for CTO. $177. Commercial license.

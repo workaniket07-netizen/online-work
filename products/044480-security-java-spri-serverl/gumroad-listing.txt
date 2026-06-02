@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Security Toolkit: Java/Spring + Serverless for Founding Engineer
+PRICE: $127
+TAGS: security, java/spring, serverless
+SHORT DESC: AI Security Toolkit: Java/Spring + Serverless for Founding Engineer. $127. Commercial license.

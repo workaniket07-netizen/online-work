@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Technical Writing Toolkit: Python/Django + AWS for Junior
+PRICE: $127
+TAGS: technical writing, python/django, aws
+SHORT DESC: AI Technical Writing Toolkit: Python/Django + AWS for Junior. $127. Commercial license.

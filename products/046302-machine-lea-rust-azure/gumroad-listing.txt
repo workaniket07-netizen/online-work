@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Machine Learning Toolkit: Rust + Azure for Mid-Level
+PRICE: $127
+TAGS: machine learning, rust, azure
+SHORT DESC: AI Machine Learning Toolkit: Rust + Azure for Mid-Level. $127. Commercial license.

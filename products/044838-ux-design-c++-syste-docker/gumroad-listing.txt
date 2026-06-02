@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI UX Design Toolkit: C++/Systems + Docker for VP Engineering
+PRICE: $127
+TAGS: ux design, c++/systems, docker
+SHORT DESC: AI UX Design Toolkit: C++/Systems + Docker for VP Engineering. $127. Commercial license.

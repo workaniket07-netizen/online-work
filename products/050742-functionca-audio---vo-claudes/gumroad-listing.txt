@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Prompting: Function Calling for Audio & Voice using Claude Sonnet (Intermediate)
+PRICE: $127
+TAGS: function calling, audio & voice, prompt engineering
+SHORT DESC: AI Prompting: Function Calling for Audio & Voice using Claude Sonnet (Intermediate). $127. Commercial license.

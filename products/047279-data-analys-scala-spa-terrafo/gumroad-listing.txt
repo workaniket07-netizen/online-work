@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Data Analysis Toolkit: Scala/Spark + Terraform for CTO
+PRICE: $177
+TAGS: data analysis, scala/spark, terraform
+SHORT DESC: AI Data Analysis Toolkit: Scala/Spark + Terraform for CTO. $177. Commercial license.

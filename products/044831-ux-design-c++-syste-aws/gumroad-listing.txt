@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI UX Design Toolkit: C++/Systems + AWS for Junior
+PRICE: $127
+TAGS: ux design, c++/systems, aws
+SHORT DESC: AI UX Design Toolkit: C++/Systems + AWS for Junior. $127. Commercial license.

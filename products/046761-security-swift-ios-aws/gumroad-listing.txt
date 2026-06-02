@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Security Toolkit: Swift/iOS + AWS for Junior
+PRICE: $127
+TAGS: security, swift/ios, aws
+SHORT DESC: AI Security Toolkit: Swift/iOS + AWS for Junior. $127. Commercial license.

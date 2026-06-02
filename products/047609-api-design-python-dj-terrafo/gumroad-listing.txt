@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI API Design Toolkit: Python/Django + Terraform for CTO
+PRICE: $177
+TAGS: api design, python/django, terraform
+SHORT DESC: AI API Design Toolkit: Python/Django + Terraform for CTO. $177. Commercial license.

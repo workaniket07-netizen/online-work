@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI UX Design Toolkit: Swift/iOS + AWS for Junior
+PRICE: $127
+TAGS: ux design, swift/ios, aws
+SHORT DESC: AI UX Design Toolkit: Swift/iOS + AWS for Junior. $127. Commercial license.

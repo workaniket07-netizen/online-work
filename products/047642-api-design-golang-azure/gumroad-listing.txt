@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI API Design Toolkit: Golang + Azure for Mid-Level
+PRICE: $127
+TAGS: api design, golang, azure
+SHORT DESC: AI API Design Toolkit: Golang + Azure for Mid-Level. $127. Commercial license.

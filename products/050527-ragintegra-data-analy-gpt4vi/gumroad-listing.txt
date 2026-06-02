@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Prompting: RAG Integration for Data Analysis using GPT-4 Vision (Advanced)
+PRICE: $147
+TAGS: rag integration, data analysis, prompt engineering
+SHORT DESC: AI Prompting: RAG Integration for Data Analysis using GPT-4 Vision (Advanced). $147. Commercial license.

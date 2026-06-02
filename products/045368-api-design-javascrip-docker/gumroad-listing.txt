@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI API Design Toolkit: JavaScript/React + Docker for VP Engineering
+PRICE: $127
+TAGS: api design, javascript/react, docker
+SHORT DESC: AI API Design Toolkit: JavaScript/React + Docker for VP Engineering. $127. Commercial license.

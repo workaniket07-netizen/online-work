@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Prompting: ReAct Framework for Video Scripts using Gemini Pro (Beginner)
+PRICE: $127
+TAGS: react framework, video scripts, prompt engineering
+SHORT DESC: AI Prompting: ReAct Framework for Video Scripts using Gemini Pro (Beginner). $127. Commercial license.

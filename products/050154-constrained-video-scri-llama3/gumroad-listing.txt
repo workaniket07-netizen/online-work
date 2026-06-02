@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Prompting: Constrained Generation for Video Scripts using Llama 3 (Intermediate)
+PRICE: $127
+TAGS: constrained generati, video scripts, prompt engineering
+SHORT DESC: AI Prompting: Constrained Generation for Video Scripts using Llama 3 (Intermediate). $127. Commercial license.

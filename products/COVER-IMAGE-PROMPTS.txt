@@ -1,0 +1,583 @@
+╔══════════════════════════════════════════════════════════════════════╗
+║           GUMROAD COVER IMAGE PROMPTS — ALL 50 PRODUCTS             ║
+║           Use: Canva AI / DALL-E 3 (ChatGPT) / Ideogram.ai          ║
+║           Size: 1280×720 pixels (16:9 landscape)                    ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+INSTRUCTIONS:
+1. Go to ChatGPT (free) → DALL-E 3 OR Canva.com → AI Image Generator
+2. Copy prompt below for each product
+3. Generate → download → upload to Gumroad listing
+4. Canva: Also add product title as text overlay after generating
+
+COLOR GUIDELINES:
+- Dark background + bright text = high contrast = better CTR
+- Brand colors to use: Deep navy (#0D1B2A) + Gold (#F4A261) + White
+- Or: Dark charcoal (#1C1C1E) + Coral (#FF6B6B) + White
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+PRODUCT 1: AI BUSINESS OPERATOR VAULT ($47)
+PROMPT:
+"Dark navy blue background, floating glowing holographic AI chat interface and business icons (charts, lightning bolt, dollar sign), minimalist flat design style, professional corporate aesthetic, clean typography space at top, subtle gold accent lines, 16:9 ratio, digital product thumbnail style, no text in image"
+
+CANVA TEXT OVERLAY:
+Title: "AI BUSINESS OPERATOR VAULT"
+Subtitle: "550 Prompts for Marketing, Sales & Growth"
+Badge: "$47 • Instant Download"
+
+━━━━━━━━━━━━━━━━
+
+PRODUCT 2: MIDJOURNEY CINEMATIC MASTER PACK ($27)
+PROMPT:
+"Dark cinematic background, multiple small glowing film frames showing dramatic portraits and landscapes floating in 3D space, purple and deep blue gradient, lens flare effects, professional photography aesthetic, empty space for text at top, no text in image, 16:9 ratio, premium digital product style"
+
+CANVA TEXT OVERLAY:
+Title: "MIDJOURNEY CINEMATIC MASTER PACK"
+Subtitle: "500 AI Image Prompts"
+Badge: "$27 • Instant Download"
+
+━━━━━━━━━━━━━━━━
+
+PRODUCT 3: INSTAGRAM CONTENT MACHINE ($19)
+PROMPT:
+"Vibrant gradient background (coral to deep purple), floating Instagram phone screen mockups showing beautiful content, social media icons, engagement metrics floating around, modern influencer aesthetic, clean space for text overlay at top, energetic and modern style, 16:9 ratio, no text"
+
+CANVA TEXT OVERLAY:
+Title: "INSTAGRAM CONTENT MACHINE"
+Subtitle: "365 Done-For-You Posts, Hooks & Reels"
+Badge: "$19 • Instant Download"
+
+━━━━━━━━━━━━━━━━
+
+PRODUCT 4: AI PHOTOGRAPHY PROMPT BIBLE ($22)
+PROMPT:
+"Deep black background, floating camera lens with golden light rings, scattered photography-style Polaroid frames showing different lighting setups, professional photography studio atmosphere, subtle warm lighting, cinematic mood, space for title text at top, 16:9 ratio, luxury feel, no text"
+
+CANVA TEXT OVERLAY:
+Title: "AI PHOTOGRAPHY PROMPT BIBLE"
+Subtitle: "400 Studio, Film & Cinematic Prompts"
+Badge: "$22 • Instant Download"
+
+━━━━━━━━━━━━━━━━
+
+PRODUCT 5: CHATGPT COPYWRITING VAULT ($37)
+PROMPT:
+"Dark charcoal background, glowing typewriter or pen nib with golden ink flowing into conversion graphs going up, copywriting symbols (quotation marks, headlines, CTA buttons) floating around, professional marketing aesthetic, warm gold accent lighting, space for text at top, 16:9 ratio, no text"
+
+CANVA TEXT OVERLAY:
+Title: "CHATGPT COPYWRITING VAULT"
+Subtitle: "400 Fill-In-The-Blank Copy Templates"
+Badge: "$37 • Instant Download"
+
+━━━━━━━━━━━━━━━━
+
+PRODUCT 6: FREELANCER CLIENT ACQUISITION VAULT ($47)
+PROMPT:
+"Dark navy background, professional handshake silhouette with glowing digital connection lines, floating contract and proposal document icons, upward trending revenue graph, modern business aesthetic, gold and white accents, professional consultant feel, space for title at top, 16:9 ratio, no text"
+
+CANVA TEXT OVERLAY:
+Title: "FREELANCER CLIENT ACQUISITION VAULT"
+Subtitle: "500 Scripts to Go From 0 to Fully Booked"
+Badge: "$47 • Instant Download"
+
+━━━━━━━━━━━━━━━━
+
+PRODUCT 7: YOUTUBE SCRIPT MACHINE ($37)
+PROMPT:
+"Deep red and charcoal background, YouTube play button glowing with rays of light, floating script pages and video thumbnails, subscriber count going up, creator content aesthetic, energetic and dynamic, space for title at top, 16:9 ratio, no text"
+
+CANVA TEXT OVERLAY:
+Title: "YOUTUBE SCRIPT MACHINE"
+Subtitle: "300 Hooks, Scripts & CTAs for Any Niche"
+Badge: "$37 • Instant Download"
+
+━━━━━━━━━━━━━━━━
+
+PRODUCT 8: LINKEDIN DOMINATION VAULT ($37)
+PROMPT:
+"Professional dark blue background, LinkedIn-style profile cards floating with connection lines between them, upward trending follower graph, B2B professional aesthetic, subtle blue glow lighting, corporate but modern feel, space for title at top, 16:9 ratio, no text"
+
+CANVA TEXT OVERLAY:
+Title: "LINKEDIN DOMINATION VAULT"
+Subtitle: "400 Posts, Scripts & Profile Templates"
+Badge: "$37 • Instant Download"
+
+━━━━━━━━━━━━━━━━
+
+PRODUCT 9: SEO & BLOG CONTENT MACHINE ($37)
+PROMPT:
+"Dark background with glowing search bar showing #1 ranking, floating blog post cards and keyword research data, Google search results floating upward, green growth indicators, clean tech aesthetic, space for title at top, 16:9 ratio, no text"
+
+CANVA TEXT OVERLAY:
+Title: "SEO & BLOG CONTENT MACHINE"
+Subtitle: "350 Templates for Ranking Content"
+Badge: "$37 • Instant Download"
+
+━━━━━━━━━━━━━━━━
+
+PRODUCT 10: EMAIL MARKETING FUNNEL KIT ($47)
+PROMPT:
+"Dark background, opened email envelope with golden light streaming out, email sequence funnel visualization with conversion arrows, inbox icons, open rate percentages floating up, professional email marketing aesthetic, space for title at top, 16:9 ratio, no text"
+
+CANVA TEXT OVERLAY:
+Title: "EMAIL MARKETING FUNNEL KIT"
+Subtitle: "450 Templates, Sequences & Subject Lines"
+Badge: "$47 • Instant Download"
+
+━━━━━━━━━━━━━━━━
+
+PRODUCT 11: CREATOR ECONOMY MONETIZATION PACK ($37)
+PROMPT:
+"Dark purple to black gradient, creator with multiple income stream icons floating around (YouTube, Instagram, products, sponsorships), dollar signs and growth charts, modern influencer business aesthetic, space for title at top, 16:9 ratio, no text"
+
+CANVA TEXT OVERLAY:
+Title: "CREATOR ECONOMY MONETIZATION PACK"
+Subtitle: "350 Templates for Brand Deals & Digital Products"
+Badge: "$37 • Instant Download"
+
+━━━━━━━━━━━━━━━━
+
+PRODUCT 12: NOTION PRODUCTIVITY OS ($37)
+PROMPT:
+"Clean minimal dark background, floating Notion-style dashboard with organized blocks, productivity icons (calendar, tasks, goals), satisfying organized aesthetic, dark mode UI feel, soft purple accent lighting, space for title at top, 16:9 ratio, no text"
+
+CANVA TEXT OVERLAY:
+Title: "NOTION PRODUCTIVITY OS"
+Subtitle: "300 Templates to Run Your Life & Business"
+Badge: "$37 • Instant Download"
+
+━━━━━━━━━━━━━━━━
+
+PRODUCT 13: AI PROMPTS FOR EVERY PROFESSION ($47)
+PROMPT:
+"Dark background, 20 small profession icons arranged in a circle (teacher, doctor, developer, designer, etc.) all connecting to a central AI brain, glowing neural network lines, diverse professional aesthetic, modern AI visualization, space for title at top, 16:9 ratio, no text"
+
+CANVA TEXT OVERLAY:
+Title: "AI PROMPTS FOR EVERY PROFESSION"
+Subtitle: "1,000 ChatGPT Prompts for 20 Careers"
+Badge: "$47 • Instant Download"
+
+━━━━━━━━━━━━━━━━
+
+PRODUCT 14: BUSINESS SOP & OPERATIONS VAULT ($47)
+PROMPT:
+"Dark corporate background, organized workflow diagram with glowing nodes and arrows, team hierarchy icons, process documentation aesthetic, professional operations feel, gold and blue accents, clean systematic visual, space for title at top, 16:9 ratio, no text"
+
+CANVA TEXT OVERLAY:
+Title: "BUSINESS SOP & OPERATIONS VAULT"
+Subtitle: "400 Standard Operating Procedures"
+Badge: "$47 • Instant Download"
+
+━━━━━━━━━━━━━━━━
+
+PRODUCT 15: RESUME & CAREER DOMINATION KIT ($27)
+PROMPT:
+"Dark background, professional resume document glowing with gold highlights, career growth arrow pointing up, job offer envelope, achievement badges floating, corporate professional aesthetic, confidence and success mood, space for title at top, 16:9 ratio, no text"
+
+CANVA TEXT OVERLAY:
+Title: "RESUME & CAREER DOMINATION KIT"
+Subtitle: "250 Templates for ATS Resumes & Interviews"
+Badge: "$27 • Instant Download"
+
+━━━━━━━━━━━━━━━━
+
+PRODUCT 16: E-COMMERCE LAUNCH & GROWTH KIT ($37)
+PROMPT:
+"Dark background, floating Shopify-style storefront with products, shopping bag icons, conversion rate meter going up, product photos flying into a shopping cart, e-commerce success aesthetic, gold and green accents, space for title at top, 16:9 ratio, no text"
+
+CANVA TEXT OVERLAY:
+Title: "E-COMMERCE LAUNCH & GROWTH KIT"
+Subtitle: "400 Product Descriptions, Ads & Email Templates"
+Badge: "$37 • Instant Download"
+
+━━━━━━━━━━━━━━━━
+
+PRODUCT 17: AI SIDE HUSTLE & INCOME VAULT ($47)
+PROMPT:
+"Dark background, laptop showing dollar signs and income graphs, multiple income stream icons floating (YouTube, Etsy, Fiverr, digital products), 'passive income' aesthetic, AI brain central element, motivational wealth aesthetic, gold coins and upward arrows, space for title at top, 16:9 ratio, no text"
+
+CANVA TEXT OVERLAY:
+Title: "AI SIDE HUSTLE & INCOME VAULT"
+Subtitle: "200+ AI Business Ideas With Launch Guides"
+Badge: "$47 • Instant Download"
+
+━━━━━━━━━━━━━━━━
+
+PRODUCT 18: TIKTOK VIRAL VAULT ($37)
+PROMPT:
+"Dark vibrant background, TikTok-style phone screen with viral content indicators, view counter going up dramatically, fire emoji and trending arrows, energetic creator aesthetic, pink and purple gradient accents, dynamic and exciting mood, space for title at top, 16:9 ratio, no text"
+
+CANVA TEXT OVERLAY:
+Title: "TIKTOK & SHORT-FORM VIDEO VIRAL VAULT"
+Subtitle: "500 Scripts, Hooks & Algorithm Strategies"
+Badge: "$37 • Instant Download"
+
+━━━━━━━━━━━━━━━━
+
+PRODUCT 19: STUDENT AI VAULT ($27)
+PROMPT:
+"Dark academic background, graduation cap with AI brain symbol, floating A+ grade papers, book and laptop combination, study notes and formulas in background, academic excellence aesthetic, blue and gold colors, hopeful student success mood, space for title at top, 16:9 ratio, no text"
+
+CANVA TEXT OVERLAY:
+Title: "STUDENT AI VAULT"
+Subtitle: "400 ChatGPT Prompts for Academic Success"
+Badge: "$27 • Instant Download"
+
+━━━━━━━━━━━━━━━━
+
+PRODUCT 20: PERSONAL FINANCE PLAYBOOK ($37)
+PROMPT:
+"Dark background, upward trending wealth graph with dollar signs transforming into house/car/freedom icons, piggy bank breaking open with coins floating up, financial freedom aesthetic, green and gold accents, professional but accessible feel, space for title at top, 16:9 ratio, no text"
+
+CANVA TEXT OVERLAY:
+Title: "PERSONAL FINANCE & WEALTH BUILDING PLAYBOOK"
+Subtitle: "350 Budgets, Debt Payoff Plans & Investing Guides"
+Badge: "$37 • Instant Download"
+
+━━━━━━━━━━━━━━━━
+
+PRODUCT 21: PINTEREST MARKETING MACHINE ($27)
+PROMPT:
+"Light cream/white background (EXCEPTION — Pinterest aesthetic), Pinterest-style pin grid with beautiful images, red Pinterest logo accent, traffic arrows pointing up, save and click icons, feminine but professional aesthetic, blush pink and cream colors, space for title at top, 16:9 ratio, no text"
+
+CANVA TEXT OVERLAY:
+Title: "PINTEREST MARKETING MACHINE"
+Subtitle: "300 Pin Titles, Descriptions & Growth Plan"
+Badge: "$27 • Instant Download"
+
+━━━━━━━━━━━━━━━━
+
+PRODUCT 22: WEDDING PLANNING MASTERPACK ($37)
+PROMPT:
+"Romantic dark floral background, floating wedding elements (rings, flowers, invitation card, venue), elegant gold script aesthetic, soft candlelight glow, luxury wedding mood, gold and ivory colors, romantic and sophisticated, space for title at top, 16:9 ratio, no text"
+
+CANVA TEXT OVERLAY:
+Title: "ULTIMATE WEDDING PLANNING MASTERPACK"
+Subtitle: "400 Checklists, Budgets & Vendor Scripts"
+Badge: "$37 • Instant Download"
+
+━━━━━━━━━━━━━━━━
+
+PRODUCT 23: MINDSET & MANIFESTATION JOURNAL ($19)
+PROMPT:
+"Deep purple to black gradient, floating golden journal pages, moon and stars, manifestation symbols, affirmation words in soft light, spiritual wellness aesthetic, soft purple and gold glow, peaceful and aspirational mood, space for title at top, 16:9 ratio, no text"
+
+CANVA TEXT OVERLAY:
+Title: "MINDSET & MANIFESTATION JOURNAL SYSTEM"
+Subtitle: "365 Daily Prompts, Affirmations & Visualizations"
+Badge: "$19 • Instant Download"
+
+━━━━━━━━━━━━━━━━
+
+PRODUCT 24: PODCAST LAUNCH KIT ($37)
+PROMPT:
+"Dark studio background, professional podcast microphone glowing with sound waves, headphones, subscriber count rising, waveform visualization, creator professional aesthetic, orange and charcoal color scheme, broadcasting confidence mood, space for title at top, 16:9 ratio, no text"
+
+CANVA TEXT OVERLAY:
+Title: "PODCAST LAUNCH & GROWTH KIT"
+Subtitle: "350 Scripts, Show Notes & Sponsorship Templates"
+Badge: "$37 • Instant Download"
+
+━━━━━━━━━━━━━━━━
+
+PRODUCT 25: AIRBNB SUPERHOST KIT ($37)
+PROMPT:
+"Warm hospitality aesthetic on dark background, cozy home interior elements floating (door keys, star rating, bed, plants), Airbnb-style 5-star rating badges, welcoming and professional host aesthetic, warm amber and white lighting, space for title at top, 16:9 ratio, no text"
+
+CANVA TEXT OVERLAY:
+Title: "AIRBNB SUPERHOST KIT"
+Subtitle: "350 Listing Templates, Messages & Reviews"
+Badge: "$37 • Instant Download"
+
+━━━━━━━━━━━━━━━━
+
+PRODUCT 26: AMAZON KDP KIT ($37)
+PROMPT:
+"Dark background, floating open book pages with golden light, Kindle device glowing, dollar signs and passive income graphs, journal and planner cover designs floating, self-publishing success aesthetic, warm gold and amber accents, space for title at top, 16:9 ratio, no text"
+
+CANVA TEXT OVERLAY:
+Title: "AMAZON KDP & SELF-PUBLISHING KIT"
+Subtitle: "350 Templates for Books, Journals & Planners"
+Badge: "$37 • Instant Download"
+
+━━━━━━━━━━━━━━━━
+
+PRODUCT 27: FITNESS COACHING TEMPLATES ($37)
+PROMPT:
+"Dark gym aesthetic, glowing dumbbell and protein shake, transformation before-after arrows, client progress chart going up, coach clipboard with workout plan, energetic athletic aesthetic, orange and black color scheme, motivational mood, space for title at top, 16:9 ratio, no text"
+
+CANVA TEXT OVERLAY:
+Title: "FITNESS & HEALTH COACHING TEMPLATE VAULT"
+Subtitle: "400 Client Scripts, Workout Plans & Marketing"
+Badge: "$37 • Instant Download"
+
+━━━━━━━━━━━━━━━━
+
+PRODUCT 28: CANVA CREATOR KIT ($27)
+PROMPT:
+"Colorful dark background, floating Canva-style design elements (color palettes, fonts, layout grids), passive income dollar signs, Etsy shop mockup, design tools aesthetic, creative and colorful but dark base, purple and pink accents, space for title at top, 16:9 ratio, no text"
+
+CANVA TEXT OVERLAY:
+Title: "CANVA CREATOR & SELLER KIT"
+Subtitle: "300 Templates for Designing & Selling on Etsy"
+Badge: "$27 • Instant Download"
+
+━━━━━━━━━━━━━━━━
+
+PRODUCT 29: REAL ESTATE INVESTOR PLAYBOOK ($47)
+PROMPT:
+"Dark background, glowing house silhouette with rising value graph, cash flow calculator, property keys and blueprints floating, investment portfolio icons, wealth-building real estate aesthetic, gold and dark green accents, sophisticated investor mood, space for title at top, 16:9 ratio, no text"
+
+CANVA TEXT OVERLAY:
+Title: "REAL ESTATE INVESTOR PLAYBOOK"
+Subtitle: "350 Analysis Templates & Landlord Scripts"
+Badge: "$47 • Instant Download"
+
+━━━━━━━━━━━━━━━━
+
+PRODUCT 30: SOCIAL MEDIA AGENCY KIT ($47)
+PROMPT:
+"Dark professional background, multiple brand logos being managed from one dashboard, content calendar grid glowing, client success metrics floating up, agency CEO aesthetic, multiple platform icons orbiting a central hub, corporate creative vibe, space for title at top, 16:9 ratio, no text"
+
+CANVA TEXT OVERLAY:
+Title: "SOCIAL MEDIA AGENCY OPERATIONS KIT"
+Subtitle: "400 Client Templates, Reports & Scaling Systems"
+Badge: "$47 • Instant Download"
+
+━━━━━━━━━━━━━━━━
+
+PRODUCT 31: PROMPT ENGINEERING MASTERCLASS ($47)
+PROMPT:
+"Deep black background, glowing neural network pattern, AI brain with radiating prompt chains, code-like text streams, advanced technology aesthetic, electric blue and white neon accents, sophisticated AI power aesthetic, hacker/engineer vibe without being intimidating, space for title at top, 16:9 ratio, no text"
+
+CANVA TEXT OVERLAY:
+Title: "PROMPT ENGINEERING MASTERCLASS"
+Subtitle: "300 Advanced Techniques & Power Prompts"
+Badge: "$47 • Instant Download"
+
+━━━━━━━━━━━━━━━━
+
+PRODUCT 32: TEACHER CLASSROOM PACK ($19)
+PROMPT:
+"Warm school aesthetic on dark background, floating apple, pencil, notebook, graduation cap, gold star rating badges, caring teacher energy, warm amber and cream accents, organized and professional classroom feel, space for title at top, 16:9 ratio, no text"
+
+CANVA TEXT OVERLAY:
+Title: "TEACHER CLASSROOM RESOURCE PACK"
+Subtitle: "400 Templates for Behavior, Lessons & Communication"
+Badge: "$19 • Instant Download"
+
+━━━━━━━━━━━━━━━━
+
+PRODUCT 33: DATING PROFILE KIT ($19)
+PROMPT:
+"Dark romantic background, floating phone screens showing dating app profiles, heart connections between matches, confident person silhouette, modern dating aesthetic, red and dark pink accents, hopeful and fun vibe without being cheesy, space for title at top, 16:9 ratio, no text"
+
+CANVA TEXT OVERLAY:
+Title: "DATING PROFILE & CONVERSATION MASTERY KIT"
+Subtitle: "300 Bio Templates, Openers & Date Ideas"
+Badge: "$19 • Instant Download"
+
+━━━━━━━━━━━━━━━━
+
+PRODUCT 34: PARENTING RESOURCE PACK ($19)
+PROMPT:
+"Warm dark background, floating colorful children's elements (blocks, crayons, stars), parent and child silhouette connecting, family warmth aesthetic, soft orange and cream accents, loving and organized family vibe, space for title at top, 16:9 ratio, no text"
+
+CANVA TEXT OVERLAY:
+Title: "PARENTING RESOURCE & ACTIVITY PACK"
+Subtitle: "400 Activities, Scripts & Family Systems"
+Badge: "$19 • Instant Download"
+
+━━━━━━━━━━━━━━━━
+
+PRODUCT 35: MENTAL HEALTH WORKBOOK ($27)
+PROMPT:
+"Calming dark background, soft glowing brain with healing light, gentle waves representing calm, mindfulness symbols (lotus, breathing waves), therapeutic warmth, lavender and soft blue accents, peaceful and healing aesthetic, space for title at top, 16:9 ratio, no text"
+
+CANVA TEXT OVERLAY:
+Title: "MENTAL HEALTH & ANXIETY RELIEF WORKBOOK"
+Subtitle: "300 CBT & Mindfulness Exercises"
+Badge: "$27 • Instant Download"
+
+━━━━━━━━━━━━━━━━
+
+PRODUCT 36: STARTUP FOUNDER TOOLKIT ($47)
+PROMPT:
+"Dark startup aesthetic, glowing rocket launching upward, pitch deck slides floating, funding bar filling up, team and strategy icons, modern tech startup vibe, electric blue and white on dark background, ambitious founder energy, space for title at top, 16:9 ratio, no text"
+
+CANVA TEXT OVERLAY:
+Title: "STARTUP FOUNDER TOOLKIT"
+Subtitle: "400 Pitch Decks, Investor Emails & OKR Systems"
+Badge: "$47 • Instant Download"
+
+━━━━━━━━━━━━━━━━
+
+PRODUCT 37: ETSY BUSINESS KIT ($37)
+PROMPT:
+"Warm Etsy-aesthetic, floating product listing cards, star ratings, heart saves, passive income graph rising, small business creator vibe, warm terracotta and cream on dark background, handmade meets digital business aesthetic, space for title at top, 16:9 ratio, no text"
+
+CANVA TEXT OVERLAY:
+Title: "ETSY BUSINESS COMPLETE TOOLKIT"
+Subtitle: "400 Templates for SEO, Listings & Growth"
+Badge: "$37 • Instant Download"
+
+━━━━━━━━━━━━━━━━
+
+PRODUCT 38: DROPSHIPPING KIT ($37)
+PROMPT:
+"Dark e-commerce background, product floating from supplier to customer with profit highlighted, Facebook and TikTok ad screens, ROAS going up, winning product research aesthetic, blue and orange accents, business opportunity mood, space for title at top, 16:9 ratio, no text"
+
+CANVA TEXT OVERLAY:
+Title: "DROPSHIPPING LAUNCH & SCALE KIT"
+Subtitle: "400 Templates for Products, Ads & Customer Service"
+Badge: "$37 • Instant Download"
+
+━━━━━━━━━━━━━━━━
+
+PRODUCT 39: PHOTOGRAPHY BUSINESS ($37)
+PROMPT:
+"Dark studio background, camera lens with golden bokeh light, portrait shoot setup, client booking calendar, revenue graph for photography business, professional photographer aesthetic, warm golden light on dark, artistic yet business-focused, space for title at top, 16:9 ratio, no text"
+
+CANVA TEXT OVERLAY:
+Title: "PHOTOGRAPHY BUSINESS COMPLETE KIT"
+Subtitle: "400 Client Scripts, Pricing & Marketing Templates"
+Badge: "$37 • Instant Download"
+
+━━━━━━━━━━━━━━━━
+
+PRODUCT 40: VIRTUAL ASSISTANT KIT ($47)
+PROMPT:
+"Dark work-from-home aesthetic, multiple laptop screens being managed remotely, task completion checkmarks, client satisfaction icons, remote work setup floating, VA success aesthetic, teal and charcoal color scheme, professional digital nomad vibe, space for title at top, 16:9 ratio, no text"
+
+CANVA TEXT OVERLAY:
+Title: "VIRTUAL ASSISTANT BUSINESS LAUNCH KIT"
+Subtitle: "400 Client Scripts, SOPs & Scaling Templates"
+Badge: "$47 • Instant Download"
+
+━━━━━━━━━━━━━━━━
+
+PRODUCT 41: NUTRITION COACHING ($37)
+PROMPT:
+"Dark wellness background, glowing meal plate with nutritious food icons, transformation body silhouette, health metrics improving, food diary and macros floating, clean nutrition aesthetic, green and gold accents, healthy living aspirational mood, space for title at top, 16:9 ratio, no text"
+
+CANVA TEXT OVERLAY:
+Title: "NUTRITION COACHING TEMPLATE VAULT"
+Subtitle: "350 Client Scripts, Meal Frameworks & Marketing"
+Badge: "$37 • Instant Download"
+
+━━━━━━━━━━━━━━━━
+
+PRODUCT 42: LANGUAGE LEARNING AI ($27)
+PROMPT:
+"Dark background with floating language characters (Spanish, French, Japanese, Arabic script), AI brain translating between languages, conversation bubbles in multiple languages, learning progress bar going up, globe with language connections, cultural and intellectual aesthetic, space for title at top, 16:9 ratio, no text"
+
+CANVA TEXT OVERLAY:
+Title: "LANGUAGE LEARNING AI VAULT"
+Subtitle: "300 ChatGPT Prompts for Any Language"
+Badge: "$27 • Instant Download"
+
+━━━━━━━━━━━━━━━━
+
+PRODUCT 43: HOME ORGANIZATION ($19)
+PROMPT:
+"Clean dark minimalist background, perfectly organized shelf silhouette with soft glow, decluttered home aesthetic, floating checkboxes being completed, calm and satisfying visual, white and soft blue accents on dark, KonMari zen feeling, space for title at top, 16:9 ratio, no text"
+
+CANVA TEXT OVERLAY:
+Title: "HOME ORGANIZATION & CLEANING SYSTEM"
+Subtitle: "300 Decluttering Checklists & Schedules"
+Badge: "$19 • Instant Download"
+
+━━━━━━━━━━━━━━━━
+
+PRODUCT 44: CONSULTING SOW KIT ($47)
+PROMPT:
+"Dark professional background, contract document with gold seal glowing, project timeline Gantt chart, consultant briefcase, client presentation slides, B2B professional aesthetic, navy and gold color scheme, authoritative consulting vibe, space for title at top, 16:9 ratio, no text"
+
+CANVA TEXT OVERLAY:
+Title: "CONSULTING & FREELANCE SOW KIT"
+Subtitle: "400 Statements of Work & Project Templates"
+Badge: "$47 • Instant Download"
+
+━━━━━━━━━━━━━━━━
+
+PRODUCT 45: GRANT WRITING VAULT ($47)
+PROMPT:
+"Dark nonprofit aesthetic, glowing grant check being awarded, mission impact icons floating, nonprofit organization chart, community helping hands, funding bar filling up, purple and gold accents, impact-driven and hopeful aesthetic, space for title at top, 16:9 ratio, no text"
+
+CANVA TEXT OVERLAY:
+Title: "GRANT WRITING VAULT"
+Subtitle: "350 Templates for Nonprofit Grants & Reporting"
+Badge: "$47 • Instant Download"
+
+━━━━━━━━━━━━━━━━
+
+PRODUCT 46: YOUTUBE CHANNEL GROWTH ($37)
+PROMPT:
+"Dark YouTube creator aesthetic, subscriber counter dramatically increasing, viral video thumbnails floating, monetization dashboard glowing, creator setup (camera, ring light) silhouette, red and dark background, creator success energy, space for title at top, 16:9 ratio, no text"
+
+CANVA TEXT OVERLAY:
+Title: "YOUTUBE CHANNEL GROWTH & MONETIZATION VAULT"
+Subtitle: "350 Templates for Subscribers & Revenue"
+Badge: "$37 • Instant Download"
+
+━━━━━━━━━━━━━━━━
+
+PRODUCT 47: INVESTMENT TRACKING ($37)
+PROMPT:
+"Dark financial aesthetic, glowing stock chart going up dramatically, investment portfolio pie chart, compound interest visualization, bull market energy, green and gold on dark background, Warren Buffett-style wealth aesthetic without being cliché, space for title at top, 16:9 ratio, no text"
+
+CANVA TEXT OVERLAY:
+Title: "INVESTMENT PORTFOLIO TRACKING KIT"
+Subtitle: "300 Analysis Templates & Research Frameworks"
+Badge: "$37 • Instant Download"
+
+━━━━━━━━━━━━━━━━
+
+PRODUCT 48: ADULTING LIFE SKILLS ($19)
+PROMPT:
+"Dark background, floating adulting icons (keys, tax form, car keys, first aid kit, budget spreadsheet, lease document), young adult discovering competence aesthetic, organized and empowered feel, blue and orange accents, relatable and funny-but-serious, space for title at top, 16:9 ratio, no text"
+
+CANVA TEXT OVERLAY:
+Title: "ADULTING LIFE SKILLS MASTERGUIDE"
+Subtitle: "350 Templates for Taxes, Credit & Life Admin"
+Badge: "$19 • Instant Download"
+
+━━━━━━━━━━━━━━━━
+
+PRODUCT 49: BOOK WRITING KIT ($37)
+PROMPT:
+"Dark literary aesthetic, open glowing book with golden pages, typewriter keys floating, bestseller list in background, author silhouette writing, published book covers floating, ambitious author energy, deep blue and gold accents, space for title at top, 16:9 ratio, no text"
+
+CANVA TEXT OVERLAY:
+Title: "BOOK WRITING & PUBLISHING KIT"
+Subtitle: "350 Templates for Writing & Publishing Your Book"
+Badge: "$37 • Instant Download"
+
+━━━━━━━━━━━━━━━━
+
+PRODUCT 50: NONPROFIT FUNDRAISING ($47)
+PROMPT:
+"Dark background with warm heart-glow at center, fundraising thermometer filling up, donor hands contributing, nonprofit mission icons floating, community impact visualization, purple and warm amber accents, hopeful and impactful nonprofit aesthetic, space for title at top, 16:9 ratio, no text"
+
+CANVA TEXT OVERLAY:
+Title: "NONPROFIT FUNDRAISING & DONOR RELATIONS KIT"
+Subtitle: "400 Appeal Letters, Events & Campaign Templates"
+Badge: "$47 • Instant Download"
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+QUICK GUIDE: HOW TO CREATE ALL 50 COVERS IN 2 HOURS
+
+BATCH METHOD (fastest):
+1. Open Canva.com (free)
+2. Create new design → Custom size 1280×720
+3. Use dark background template
+4. AI Image Generator (Canva AI) → paste prompt above
+5. Add text overlay with product title
+6. Download all → upload to Gumroad
+
+OR: ChatGPT (free) → DALL-E 3 → paste prompt → download
+
+SHORTCUT: Create 1 cover → duplicate → change colors + text for each product
+Total time: 2-3 hours for all 50 covers
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

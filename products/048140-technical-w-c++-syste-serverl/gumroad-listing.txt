@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Technical Writing Toolkit: C++/Systems + Serverless for Founding Engineer
+PRICE: $127
+TAGS: technical writing, c++/systems, serverless
+SHORT DESC: AI Technical Writing Toolkit: C++/Systems + Serverless for Founding Engineer. $127. Commercial license.

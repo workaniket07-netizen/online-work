@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Product Management Toolkit: TypeScript + Multi-Cloud for Staff
+PRICE: $177
+TAGS: product management, typescript, multi-cloud
+SHORT DESC: AI Product Management Toolkit: TypeScript + Multi-Cloud for Staff. $177. Commercial license.

@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Security Toolkit: Golang + Hybrid for Architect
+PRICE: $177
+TAGS: security, golang, hybrid
+SHORT DESC: AI Security Toolkit: Golang + Hybrid for Architect. $177. Commercial license.

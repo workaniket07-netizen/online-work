@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Software Engineering Toolkit: Golang + Terraform for CTO
+PRICE: $177
+TAGS: software engineering, golang, terraform
+SHORT DESC: AI Software Engineering Toolkit: Golang + Terraform for CTO. $177. Commercial license.

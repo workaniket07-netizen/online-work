@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Product Management Toolkit: PHP/Laravel + Terraform for CTO
+PRICE: $177
+TAGS: product management, php/laravel, terraform
+SHORT DESC: AI Product Management Toolkit: PHP/Laravel + Terraform for CTO. $177. Commercial license.

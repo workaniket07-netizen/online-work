@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Data Science Toolkit: MATLAB/Data + Docker for VP Engineering
+PRICE: $127
+TAGS: data science, matlab/data, docker
+SHORT DESC: AI Data Science Toolkit: MATLAB/Data + Docker for VP Engineering. $127. Commercial license.

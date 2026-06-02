@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Security Toolkit: Python/Django + AWS for Junior
+PRICE: $127
+TAGS: security, python/django, aws
+SHORT DESC: AI Security Toolkit: Python/Django + AWS for Junior. $127. Commercial license.

@@ -1,0 +1,5 @@
+PRODUCT TITLE: AI for Monitoring & Observability Tools
+PRICE: $127
+TAGS: monitoring AI, observability AI, alerting AI, logs AI
+SHORT DESC: AI for Monitoring & Observability Tools. Commercial license. Instant download.
+LONG DESC: AI for Monitoring & Observability Tools. 7-day guarantee.

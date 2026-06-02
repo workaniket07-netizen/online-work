@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Security Toolkit: TypeScript + Serverless for Founding Engineer
+PRICE: $127
+TAGS: security, typescript, serverless
+SHORT DESC: AI Security Toolkit: TypeScript + Serverless for Founding Engineer. $127. Commercial license.

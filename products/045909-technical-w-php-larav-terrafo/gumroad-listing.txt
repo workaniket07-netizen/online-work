@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Technical Writing Toolkit: PHP/Laravel + Terraform for CTO
+PRICE: $177
+TAGS: technical writing, php/laravel, terraform
+SHORT DESC: AI Technical Writing Toolkit: PHP/Laravel + Terraform for CTO. $177. Commercial license.

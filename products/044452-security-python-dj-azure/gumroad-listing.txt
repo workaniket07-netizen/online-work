@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Security Toolkit: Python/Django + Azure for Mid-Level
+PRICE: $127
+TAGS: security, python/django, azure
+SHORT DESC: AI Security Toolkit: Python/Django + Azure for Mid-Level. $127. Commercial license.

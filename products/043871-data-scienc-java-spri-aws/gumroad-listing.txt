@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Data Science Toolkit: Java/Spring + AWS for Junior
+PRICE: $127
+TAGS: data science, java/spring, aws
+SHORT DESC: AI Data Science Toolkit: Java/Spring + AWS for Junior. $127. Commercial license.

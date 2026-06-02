@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI API Design Toolkit: MATLAB/Data + Docker for VP Engineering
+PRICE: $127
+TAGS: api design, matlab/data, docker
+SHORT DESC: AI API Design Toolkit: MATLAB/Data + Docker for VP Engineering. $127. Commercial license.

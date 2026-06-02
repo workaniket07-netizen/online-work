@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI UX Design Toolkit: PHP/Laravel + Docker for VP Engineering
+PRICE: $127
+TAGS: ux design, php/laravel, docker
+SHORT DESC: AI UX Design Toolkit: PHP/Laravel + Docker for VP Engineering. $127. Commercial license.

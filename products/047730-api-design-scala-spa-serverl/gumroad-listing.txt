@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI API Design Toolkit: Scala/Spark + Serverless for Founding Engineer
+PRICE: $127
+TAGS: api design, scala/spark, serverless
+SHORT DESC: AI API Design Toolkit: Scala/Spark + Serverless for Founding Engineer. $127. Commercial license.

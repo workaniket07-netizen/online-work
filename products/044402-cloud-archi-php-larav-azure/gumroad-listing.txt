@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Cloud Architecture Toolkit: PHP/Laravel + Azure for Mid-Level
+PRICE: $127
+TAGS: cloud architecture, php/laravel, azure
+SHORT DESC: AI Cloud Architecture Toolkit: PHP/Laravel + Azure for Mid-Level. $127. Commercial license.

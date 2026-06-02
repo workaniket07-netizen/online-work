@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Systems Architecture Toolkit: Scala/Spark + Serverless for Founding Engineer
+PRICE: $127
+TAGS: systems architecture, scala/spark, serverless
+SHORT DESC: AI Systems Architecture Toolkit: Scala/Spark + Serverless for Founding Engineer. $127. Commercial license.

@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Technical Writing Toolkit: C++/Systems + AWS for Junior
+PRICE: $127
+TAGS: technical writing, c++/systems, aws
+SHORT DESC: AI Technical Writing Toolkit: C++/Systems + AWS for Junior. $127. Commercial license.

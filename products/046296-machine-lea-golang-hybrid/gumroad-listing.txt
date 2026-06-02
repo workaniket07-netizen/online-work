@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Machine Learning Toolkit: Golang + Hybrid for Architect
+PRICE: $177
+TAGS: machine learning, golang, hybrid
+SHORT DESC: AI Machine Learning Toolkit: Golang + Hybrid for Architect. $177. Commercial license.

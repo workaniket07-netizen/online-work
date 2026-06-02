@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Database Administration Toolkit: Scala/Spark + Azure for Mid-Level
+PRICE: $127
+TAGS: database administrat, scala/spark, azure
+SHORT DESC: AI Database Administration Toolkit: Scala/Spark + Azure for Mid-Level. $127. Commercial license.

@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Prompting: System Prompts for Decision Support using Claude Sonnet (Intermediate)
+PRICE: $127
+TAGS: system prompts, decision support, prompt engineering
+SHORT DESC: AI Prompting: System Prompts for Decision Support using Claude Sonnet (Intermediate). $127. Commercial license.

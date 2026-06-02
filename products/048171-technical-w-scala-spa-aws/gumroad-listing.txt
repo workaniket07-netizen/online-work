@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Technical Writing Toolkit: Scala/Spark + AWS for Junior
+PRICE: $127
+TAGS: technical writing, scala/spark, aws
+SHORT DESC: AI Technical Writing Toolkit: Scala/Spark + AWS for Junior. $127. Commercial license.

@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Cloud Architecture Toolkit: Ruby/Rails + Docker for VP Engineering
+PRICE: $127
+TAGS: cloud architecture, ruby/rails, docker
+SHORT DESC: AI Cloud Architecture Toolkit: Ruby/Rails + Docker for VP Engineering. $127. Commercial license.

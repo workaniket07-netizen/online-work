@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Prompting: Meta-Prompting for Code Generation using GPT-4 Vision (Advanced)
+PRICE: $147
+TAGS: meta-prompting, code generation, prompt engineering
+SHORT DESC: AI Prompting: Meta-Prompting for Code Generation using GPT-4 Vision (Advanced). $147. Commercial license.

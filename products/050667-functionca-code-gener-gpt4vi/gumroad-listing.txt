@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Prompting: Function Calling for Code Generation using GPT-4 Vision (Advanced)
+PRICE: $147
+TAGS: function calling, code generation, prompt engineering
+SHORT DESC: AI Prompting: Function Calling for Code Generation using GPT-4 Vision (Advanced). $147. Commercial license.

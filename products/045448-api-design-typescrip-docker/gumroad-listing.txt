@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI API Design Toolkit: TypeScript + Docker for VP Engineering
+PRICE: $127
+TAGS: api design, typescript, docker
+SHORT DESC: AI API Design Toolkit: TypeScript + Docker for VP Engineering. $127. Commercial license.

@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Product Management Toolkit: PHP/Laravel + Serverless for Founding Engineer
+PRICE: $127
+TAGS: product management, php/laravel, serverless
+SHORT DESC: AI Product Management Toolkit: PHP/Laravel + Serverless for Founding Engineer. $127. Commercial license.

@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI API Design Toolkit: TypeScript + On-Premise for Principal
+PRICE: $177
+TAGS: api design, typescript, on-premise
+SHORT DESC: AI API Design Toolkit: TypeScript + On-Premise for Principal. $177. Commercial license.

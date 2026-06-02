@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI UX Design Toolkit: Golang + AWS for Junior
+PRICE: $127
+TAGS: ux design, golang, aws
+SHORT DESC: AI UX Design Toolkit: Golang + AWS for Junior. $127. Commercial license.

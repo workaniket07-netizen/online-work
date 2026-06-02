@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Data Analysis Toolkit: TypeScript + AWS for Junior
+PRICE: $127
+TAGS: data analysis, typescript, aws
+SHORT DESC: AI Data Analysis Toolkit: TypeScript + AWS for Junior. $127. Commercial license.

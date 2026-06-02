@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Software Engineering Toolkit: Ruby/Rails + Docker for VP Engineering
+PRICE: $127
+TAGS: software engineering, ruby/rails, docker
+SHORT DESC: AI Software Engineering Toolkit: Ruby/Rails + Docker for VP Engineering. $127. Commercial license.

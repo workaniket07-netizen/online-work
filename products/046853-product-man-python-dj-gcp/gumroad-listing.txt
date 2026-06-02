@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Product Management Toolkit: Python/Django + GCP for Senior
+PRICE: $127
+TAGS: product management, python/django, gcp
+SHORT DESC: AI Product Management Toolkit: Python/Django + GCP for Senior. $127. Commercial license.

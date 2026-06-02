@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Product Management Toolkit: Rust + Terraform for CTO
+PRICE: $177
+TAGS: product management, rust, terraform
+SHORT DESC: AI Product Management Toolkit: Rust + Terraform for CTO. $177. Commercial license.

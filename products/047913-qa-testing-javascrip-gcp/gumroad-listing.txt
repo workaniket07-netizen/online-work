@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI QA Testing Toolkit: JavaScript/React + GCP for Senior
+PRICE: $127
+TAGS: qa testing, javascript/react, gcp
+SHORT DESC: AI QA Testing Toolkit: JavaScript/React + GCP for Senior. $127. Commercial license.

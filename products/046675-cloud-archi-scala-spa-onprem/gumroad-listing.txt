@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Cloud Architecture Toolkit: Scala/Spark + On-Premise for Principal
+PRICE: $177
+TAGS: cloud architecture, scala/spark, on-premise
+SHORT DESC: AI Cloud Architecture Toolkit: Scala/Spark + On-Premise for Principal. $177. Commercial license.

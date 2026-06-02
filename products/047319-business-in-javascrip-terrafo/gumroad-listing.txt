@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Business Intelligence Toolkit: JavaScript/React + Terraform for CTO
+PRICE: $177
+TAGS: business intelligenc, javascript/react, terraform
+SHORT DESC: AI Business Intelligence Toolkit: JavaScript/React + Terraform for CTO. $177. Commercial license.

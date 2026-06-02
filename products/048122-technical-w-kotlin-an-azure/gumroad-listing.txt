@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Technical Writing Toolkit: Kotlin/Android + Azure for Mid-Level
+PRICE: $127
+TAGS: technical writing, kotlin/android, azure
+SHORT DESC: AI Technical Writing Toolkit: Kotlin/Android + Azure for Mid-Level. $127. Commercial license.

@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Database Administration Toolkit: Scala/Spark + AWS for Junior
+PRICE: $127
+TAGS: database administrat, scala/spark, aws
+SHORT DESC: AI Database Administration Toolkit: Scala/Spark + AWS for Junior. $127. Commercial license.

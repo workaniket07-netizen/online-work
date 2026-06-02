@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Data Science Toolkit: PHP/Laravel + Docker for VP Engineering
+PRICE: $127
+TAGS: data science, php/laravel, docker
+SHORT DESC: AI Data Science Toolkit: PHP/Laravel + Docker for VP Engineering. $127. Commercial license.

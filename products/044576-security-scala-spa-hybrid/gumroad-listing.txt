@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Security Toolkit: Scala/Spark + Hybrid for Architect
+PRICE: $177
+TAGS: security, scala/spark, hybrid
+SHORT DESC: AI Security Toolkit: Scala/Spark + Hybrid for Architect. $177. Commercial license.

@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Software Engineering Toolkit: Scala/Spark + AWS for Junior
+PRICE: $127
+TAGS: software engineering, scala/spark, aws
+SHORT DESC: AI Software Engineering Toolkit: Scala/Spark + AWS for Junior. $127. Commercial license.

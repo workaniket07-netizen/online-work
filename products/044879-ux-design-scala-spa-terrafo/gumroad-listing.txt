@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI UX Design Toolkit: Scala/Spark + Terraform for CTO
+PRICE: $177
+TAGS: ux design, scala/spark, terraform
+SHORT DESC: AI UX Design Toolkit: Scala/Spark + Terraform for CTO. $177. Commercial license.

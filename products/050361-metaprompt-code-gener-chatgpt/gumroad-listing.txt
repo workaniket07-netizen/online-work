@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Prompting: Meta-Prompting for Code Generation using ChatGPT-4o (Beginner)
+PRICE: $127
+TAGS: meta-prompting, code generation, prompt engineering
+SHORT DESC: AI Prompting: Meta-Prompting for Code Generation using ChatGPT-4o (Beginner). $127. Commercial license.

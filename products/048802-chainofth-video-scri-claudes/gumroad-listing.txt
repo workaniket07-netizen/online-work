@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Prompting: Chain-of-Thought for Video Scripts using Claude Sonnet (Intermediate)
+PRICE: $127
+TAGS: chain-of-thought, video scripts, prompt engineering
+SHORT DESC: AI Prompting: Chain-of-Thought for Video Scripts using Claude Sonnet (Intermediate). $127. Commercial license.

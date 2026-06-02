@@ -1,0 +1,296 @@
+╔══════════════════════════════════════════════════════════════════════╗
+║           SOCIAL MEDIA AGENCY OPERATIONS KIT                         ║
+║   400 Client Templates, Reporting Frameworks, SOPs & Growth Systems  ║
+║              By AniketG AI Systems                                   ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+The complete operational system for social media agencies and freelancers
+managing multiple clients. Onboarding, strategy decks, content calendars,
+monthly reports, client communication, pricing packages, and the SOPs
+that let you scale from 3 to 30 clients without the chaos.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 1: CLIENT ACQUISITION & ONBOARDING (80 Templates)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SERVICE PACKAGES TEMPLATE:
+━━━━━━━━━━━━━━━━
+SOCIAL MEDIA MANAGEMENT PACKAGES
+
+STARTER — $[X]/month:
+→ [X] platforms ([which ones])
+→ [X] posts per week per platform
+→ Basic engagement monitoring
+→ Monthly performance report
+→ Content calendar shared for approval
+
+GROWTH — $[X]/month:
+→ [X] platforms
+→ [X] posts per week
+→ Active community management ([X] hours/week)
+→ Story/Reel content ([X] per week)
+→ Bi-weekly strategy calls
+→ Monthly detailed report with insights
+→ Paid ad management (ad spend separate)
+
+AUTHORITY — $[X]/month:
+→ Full platform management
+→ Daily posting across all platforms
+→ Full community management
+→ Reel/TikTok production ([X] per week)
+→ Email newsletter ([X] per month)
+→ Weekly calls
+→ Custom dashboard access
+→ Quarterly strategy review
+→ Priority response time
+━━━━━━━━━━━━━━━━
+
+CLIENT INTAKE QUESTIONNAIRE:
+[CQ-01] Business overview: What does your business do? Who is your ideal customer?
+[CQ-02] Brand voice: 3 words that describe your brand personality. Brands you admire (and why)?
+[CQ-03] Current social presence: Which platforms? Follower count? Current content frequency?
+[CQ-04] Goals: Primary goal for social media this year? Secondary? How do you measure success?
+[CQ-05] Content history: What's worked well? What hasn't worked? What do you want to do more of?
+[CQ-06] Brand assets: Do you have brand guidelines? Logo files? Photography? Color codes?
+[CQ-07] Competitors: Top 3 competitors + what they do well on social?
+[CQ-08] Audience: Age range, location, income level, biggest pain points?
+[CQ-09] Approvals: Who approves content? What's the turnaround expected?
+[CQ-10] Sensitive topics: Any topics to avoid? Political/religious/competitor mentions policy?
+
+SOCIAL MEDIA STRATEGY PRESENTATION STRUCTURE:
+━━━━━━━━━━━━━━━━
+SLIDE 1: Cover — "[Brand Name] Social Media Strategy | [Month Year] | Prepared by [Agency]"
+
+SLIDE 2: Business Overview
+→ What you do → Who you serve → Current digital presence
+
+SLIDE 3: Audience Analysis
+→ Primary persona: [Name], [age], [platform], [content consumed]
+→ Secondary persona (if applicable)
+
+SLIDE 4: Competitive Analysis
+→ [Competitor 1]: what they do well, follower count, content pillars
+→ [Competitor 2]: same
+→ [Competitor 3]: same
+→ Opportunity: what they're NOT doing that [Brand] can own
+
+SLIDE 5: Platform Recommendation
+→ [Platform 1]: Why + content format focus
+→ [Platform 2]: Why + content format focus
+→ Not recommended now: [Platform X] — reason (save for when [condition])
+
+SLIDE 6: Content Pillars
+→ Pillar 1: [Name] — [purpose + % of content]
+→ Pillar 2: [Name] — [purpose + % of content]
+→ Pillar 3: [Name] — [purpose + % of content]
+→ Pillar 4: [Name] — [purpose + % of content]
+
+SLIDE 7: Content Mix
+→ [X]% Educational
+→ [X]% Engagement/Community
+→ [X]% Promotional
+→ [X]% Brand story/Behind scenes
+
+SLIDE 8: Monthly Content Calendar Overview
+→ Week 1, 2, 3, 4 content themes
+→ Platform cadence
+→ Content format breakdown (posts/reels/stories)
+
+SLIDE 9: KPIs & Metrics
+→ Primary KPI: [engagement rate / reach / lead gen]
+→ Secondary KPIs: [list]
+→ Reporting cadence: [monthly]
+→ Baseline current metrics vs 90-day targets
+
+SLIDE 10: Timeline & Investment
+→ Month 1: Strategy + setup
+→ Month 2-3: Execution + learning
+→ Month 4+: Optimization
+→ Investment: $[X]/month
+━━━━━━━━━━━━━━━━
+
+CLIENT ONBOARDING WORKFLOW:
+[OW-01] Day 1: Contract signed → send welcome email + intake form
+[OW-02] Day 2-3: Client completes intake form
+[OW-03] Day 4-5: Research, competitive analysis, strategy draft
+[OW-04] Day 7: Strategy presentation call
+[OW-05] Day 8-10: Revisions + approval
+[OW-06] Day 11-12: Content calendar Month 1 built + sent for approval
+[OW-07] Day 14: Content approved → scheduling begins
+[OW-08] Day 15+: Active management begins
+
+WELCOME EMAIL TEMPLATE:
+Subject: Welcome to [Agency Name] — Your social media journey starts now
+
+Hi [Name],
+
+We're officially getting started! I'm [Your Name] and I'll be your dedicated strategist.
+
+Here's what happens next:
+
+Step 1 — Complete intake form: [Link] (takes ~15 minutes)
+Step 2 — Join our shared workspace: [Link to Notion/Asana/ClickUp]
+Step 3 — Kickoff call: [Date/time — book here: link]
+Step 4 — Access requirements: Please add [email] as admin to [platforms]
+
+We'll have your strategy presentation ready by [date].
+
+If you have questions before then — I'm always reachable at [email].
+
+Excited to build something great with you.
+
+[Your Name]
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 2: CONTENT PRODUCTION SYSTEM (80 Templates)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+MONTHLY CONTENT CALENDAR TEMPLATE:
+━━━━━━━━━━━━━━━━
+CLIENT: [Name] | MONTH: [Month Year] | PLATFORM(S): [list]
+
+WEEK 1 THEME: [Topic]
+MON: [Content type] — [Brief description] | Status: Draft/Scheduled/Posted
+TUE: [Content type] — [Brief description] | Status:
+WED: [Content type] — [Brief description] | Status:
+THU: [Content type] — [Brief description] | Status:
+FRI: [Content type] — [Brief description] | Status:
+SAT: [Content type if posting] | Status:
+
+[Repeat for Week 2, 3, 4]
+
+MONTHLY CONTENT MIX:
+Educational posts: [#] | Engagement posts: [#] | Promotional: [#] | Brand: [#]
+Reels/video: [#] | Static images: [#] | Carousels: [#] | Stories: [daily/as needed]
+
+APPROVAL STATUS:
+Week 1: Submitted [date] | Client approved: [date]
+Week 2: Submitted [date] | Client approved: [date]
+━━━━━━━━━━━━━━━━
+
+CONTENT BRIEF PER POST:
+[CB-01] Post type: [Reel/Carousel/Static]
+Platform: [Instagram/LinkedIn/TikTok]
+Content pillar: [Educational/Promotional/Engagement]
+Topic: [Specific topic]
+Hook/Opening: [First line or visual hook]
+Key message: [What reader should take away]
+CTA: [What action you want them to take]
+Hashtags: [3-10 relevant]
+Visual direction: [What image/video/graphic is needed]
+Copy (full): [Full caption]
+Due date: [When draft must be ready]
+Approval deadline: [When client must respond]
+
+CAPTION WRITING SYSTEM (by content type):
+[CW-01] Educational post formula: Hook + Context + Value points + Takeaway + CTA
+[CW-02] Engagement post formula: Relatable hook + Question/Poll + Personal take + Invite reply
+[CW-03] Promotional post formula: Problem → Solution (your product/service) → Proof → CTA
+[CW-04] Brand story formula: Authentic moment → What it reveals → Invitation to connect
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 3: REPORTING & ANALYTICS (80 Templates)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+MONTHLY REPORT TEMPLATE:
+━━━━━━━━━━━━━━━━
+[CLIENT NAME] | SOCIAL MEDIA REPORT
+[Month Year] | Prepared by [Agency Name]
+
+EXECUTIVE SUMMARY:
+[2-3 sentences on the month — what happened, what worked, what to focus on next month]
+
+PLATFORM PERFORMANCE — [INSTAGRAM]:
+Followers: [This month] vs [Last month] | Change: [+X / +X%]
+Reach: [This month] vs [Last month] | Change: [+X%]
+Impressions: [X] | Change: [+X%]
+Engagement rate: [X]% | Industry benchmark: [X]%
+Profile visits: [X]
+Link clicks: [X]
+Best performing post: [post description] — [metrics]
+
+PLATFORM PERFORMANCE — [LINKEDIN / TIKTOK / etc.]:
+[Same format]
+
+CONTENT BREAKDOWN:
+Total posts published: [X] (target was [X])
+Posts per format: Reels [X] | Carousels [X] | Static [X] | Stories [X]
+Average engagement by format: Reels [X%] | Carousels [X%] | Static [X%]
+
+TOP PERFORMING CONTENT:
+1. [Post description] — [reach/engagement metrics] — Why it worked: [brief]
+2. [Post description] — [metrics] — Why it worked: [brief]
+3. [Post description] — [metrics] — Why it worked: [brief]
+
+INSIGHTS & LEARNINGS:
+What worked: [specific observations]
+What didn't work: [honest assessment]
+Audience insight: [what the data tells us about the audience this month]
+
+NEXT MONTH STRATEGY ADJUSTMENTS:
+Based on this month's data, next month we will:
+→ [Adjustment 1 with reasoning]
+→ [Adjustment 2 with reasoning]
+→ [Test: one new thing to try]
+
+CAMPAIGN/AD PERFORMANCE [if applicable]:
+Campaign: [name] | Budget: $[X] | Reach: [X] | CPM: $[X] | CPC: $[X] | Conversions: [X] | CPA: $[X]
+
+[NEXT MONTH PREVIEW]:
+Focus theme: [Month theme]
+Content calendar ready by: [Date]
+━━━━━━━━━━━━━━━━
+
+METRICS BENCHMARKS (2025):
+Instagram engagement rate: 1-3% good | 4%+ excellent
+TikTok engagement rate: 5-8% good | 10%+ viral
+LinkedIn: 2-4% good for brand pages
+Facebook: 0.5-1.5% industry average (declining)
+Email open rate: 20-30% good | 40%+ excellent
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 4: CLIENT RETENTION & AGENCY SCALING (80 Templates)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+CLIENT COMMUNICATION SCRIPTS (20):
+[CC-01] Monthly check-in: "Hi [Name], your monthly report is attached. Key highlight: [one win]. One thing I want to discuss: [one concern or opportunity]. Are you free [day] for a brief call?"
+
+[CC-02] Handling "why aren't we growing faster": "Growth on social media compounds — the first 90 days are always the slowest. Here's where we are vs benchmark: [data]. Here's what I'm doing to accelerate: [3 specific actions next month]."
+
+[CC-03] Upsell to higher package: "Based on [X months] of data, your account is ready for a more aggressive growth strategy. If we add [X service], here's what I expect to happen: [specific projection]. That would be $[X] more per month. Want to discuss?"
+
+[CC-04] Difficult feedback response: "Thank you for being direct — I appreciate it. I hear [their feedback]. My honest response: [your take]. Here's what I'll change going forward: [specific actions]. Can we agree on [next metric/milestone] as our success measure?"
+
+[CC-05] Re-engagement: "Hi [Name], I noticed engagement has been lower this month. I want to address it head-on: [explanation + plan]. Before our next call, I'd like to share a revised approach. Can we schedule [date/time]?"
+
+[CC-06 to CC-20] More scripts: rate increase, contract renewal, scope creep, missed deadline, client wants to pause, referral request
+
+AGENCY SOPs (20):
+[SOP-01] Content approval process (how long clients have, what happens if no response)
+[SOP-02] Onboarding SOP (step-by-step for new clients)
+[SOP-03] Monthly reporting SOP (when it goes out, what's included, who reviews)
+[SOP-04] New hire/contractor onboarding
+[SOP-05] Crisis communication protocol (when a client has a PR issue)
+[SOP-06] Offboarding SOP (cleanly exit clients who cancel)
+[SOP-07] Platform access management (security, shared passwords)
+[SOP-08] Client feedback loop process
+[SOP-09] QA review before any content goes live
+[SOP-10 to SOP-20] More SOPs: competitive intelligence, trend monitoring, content recycling system, performance review cadence
+
+AGENCY PRICING GUIDE (20 templates):
+[AP-01] How to price your packages (hourly vs. retainer vs. value-based)
+[AP-02] What to include in a retainer (deliverables + communication + revisions)
+[AP-03] How to raise rates with existing clients (script + timeline)
+[AP-04] How to respond to "you're too expensive"
+[AP-05] Pricing by client size (solopreneur vs. SMB vs. enterprise)
+[AP-06 to AP-20] More pricing templates: proposal pricing section, custom quote framework, add-on pricing, white-label pricing, referral commission structure
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+QUICK STATS:
+Total Templates: 400
+Sections: 4 (Acquisition + Content Production + Reporting + Agency Scaling)
+Works for: Solo SMMs, boutique agencies, in-house social media teams
+Best for: Managing 3-30 client accounts systematically
+
+By AniketG AI Systems
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

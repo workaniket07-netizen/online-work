@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI API Design Toolkit: TypeScript + Multi-Cloud for Staff
+PRICE: $177
+TAGS: api design, typescript, multi-cloud
+SHORT DESC: AI API Design Toolkit: TypeScript + Multi-Cloud for Staff. $177. Commercial license.

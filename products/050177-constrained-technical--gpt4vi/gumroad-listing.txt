@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Prompting: Constrained Generation for Technical Documentation using GPT-4 Vision (Beginner)
+PRICE: $127
+TAGS: constrained generati, technical documentat, prompt engineering
+SHORT DESC: AI Prompting: Constrained Generation for Technical Documentation using GPT-4 Vision (Beginner). $127. Commercial license.

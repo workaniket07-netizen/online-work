@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Data Analysis Toolkit: Kotlin/Android + Serverless for Founding Engineer
+PRICE: $127
+TAGS: data analysis, kotlin/android, serverless
+SHORT DESC: AI Data Analysis Toolkit: Kotlin/Android + Serverless for Founding Engineer. $127. Commercial license.

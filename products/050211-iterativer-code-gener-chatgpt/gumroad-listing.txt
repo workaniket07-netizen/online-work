@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Prompting: Iterative Refinement for Code Generation using ChatGPT-4o (Advanced)
+PRICE: $147
+TAGS: iterative refinement, code generation, prompt engineering
+SHORT DESC: AI Prompting: Iterative Refinement for Code Generation using ChatGPT-4o (Advanced). $147. Commercial license.

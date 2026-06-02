@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI API Design Toolkit: Rust + AWS for Junior
+PRICE: $127
+TAGS: api design, rust, aws
+SHORT DESC: AI API Design Toolkit: Rust + AWS for Junior. $127. Commercial license.

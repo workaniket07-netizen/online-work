@@ -1,0 +1,935 @@
+╔══════════════════════════════════════════════════════════════════════╗
+║            NOTION PRODUCTIVITY OS                                    ║
+║   Complete Life & Business System — 300 Templates & Frameworks       ║
+║              By AniketG AI Systems                                   ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+The complete Notion operating system for ambitious professionals.
+Every page, database, template, and workflow you need to run your
+life and business from a single workspace. Copy → paste into Notion
+→ customize. No design skills needed.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+HOW TO USE THIS FILE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Each template below includes:
+1. PAGE NAME — what to name it in Notion
+2. DATABASE PROPERTIES — columns/fields to create
+3. VIEWS — which views to add (Table, Board, Calendar, Gallery, List)
+4. TEMPLATE CONTENT — default content for each entry type
+5. FORMULAS — Notion formulas to copy-paste directly
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+MODULE 1: LIFE COMMAND CENTER (50 Templates)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+━━━━━━━━━━━━━━━━
+DAILY PLANNER TEMPLATE
+━━━━━━━━━━━━━━━━
+
+PAGE NAME: 📅 Daily Planner
+
+DATABASE PROPERTIES:
+- Date (Date)
+- Day Rating (Select: ⭐ Poor / ⭐⭐ Okay / ⭐⭐⭐ Good / ⭐⭐⭐⭐ Great / ⭐⭐⭐⭐⭐ Excellent)
+- Energy Level (Select: 🔋 Low / 🔋🔋 Medium / 🔋🔋🔋 High)
+- Top 3 Done (Checkbox)
+- Mood (Select: 😴 Tired / 😟 Stressed / 😐 Neutral / 😊 Good / 🔥 Energized)
+- Word of the Day (Text)
+
+DAILY PAGE TEMPLATE:
+━━━━━━━━━━━━━━━━
+📅 [DATE] — [DAY OF WEEK]
+
+🎯 TOP 3 PRIORITIES (must complete today)
+[ ] 1. [Most important task]
+[ ] 2. [Second priority]
+[ ] 3. [Third priority]
+
+⏰ SCHEDULE
+6:00 AM — [Morning routine]
+9:00 AM — [Deep work block 1]
+12:00 PM — [Lunch + break]
+2:00 PM — [Deep work block 2]
+5:00 PM — [Review + plan tomorrow]
+[Evening] — [Personal time]
+
+📝 BRAIN DUMP (everything on your mind)
+[Write anything here — tasks, ideas, worries, thoughts]
+
+🌱 DAILY HABITS
+[ ] Exercise / movement
+[ ] 8 glasses water
+[ ] No phone first 30 min
+[ ] Read for 20 min
+[ ] Gratitude — 3 things:
+  1.
+  2.
+  3.
+
+📊 END OF DAY REVIEW
+What went well:
+What I'd improve:
+Tomorrow's #1 priority:
+Day rating: /5
+━━━━━━━━━━━━━━━━
+
+---
+
+WEEKLY PLANNER TEMPLATE
+
+PAGE NAME: 📆 Weekly Planner
+
+DATABASE PROPERTIES:
+- Week (Date — weekly)
+- Week Theme (Text)
+- Goal Progress (Number — 0-100, show as ring)
+- Wins (Text)
+- Carries Forward (Text)
+
+WEEKLY PAGE TEMPLATE:
+━━━━━━━━━━━━━━━━
+📆 WEEK OF [DATE RANGE]
+Theme: [One word or phrase to define this week]
+
+🎯 WEEK'S TOP GOALS
+Must achieve:
+[ ] [Goal 1 — specific and measurable]
+[ ] [Goal 2]
+[ ] [Goal 3]
+
+Should achieve:
+[ ] [Goal 4]
+[ ] [Goal 5]
+
+Would be nice:
+[ ] [Goal 6]
+
+📋 WEEKLY TASK LIST
+Monday: [tasks]
+Tuesday: [tasks]
+Wednesday: [tasks]
+Thursday: [tasks]
+Friday: [tasks]
+Weekend: [tasks]
+
+📊 HABIT TRACKER (check daily)
+          M  T  W  T  F  S  S
+Exercise  ☐  ☐  ☐  ☐  ☐  ☐  ☐
+Reading   ☐  ☐  ☐  ☐  ☐  ☐  ☐
+Water     ☐  ☐  ☐  ☐  ☐  ☐  ☐
+Meditate  ☐  ☐  ☐  ☐  ☐  ☐  ☐
+[Custom]  ☐  ☐  ☐  ☐  ☐  ☐  ☐
+
+📝 WEEKLY REVIEW (fill Friday evening)
+3 wins this week:
+1.
+2.
+3.
+What I learned:
+What I'd do differently:
+Next week's #1 focus:
+━━━━━━━━━━━━━━━━
+
+---
+
+GOAL TRACKER TEMPLATE
+
+PAGE NAME: 🎯 Goals 2025-2026
+
+DATABASE PROPERTIES:
+- Goal Name (Title)
+- Category (Select: Career / Health / Finance / Relationships / Learning / Personal)
+- Status (Select: 🌱 Planted / 🔥 Active / ⏸️ Paused / ✅ Achieved / ❌ Dropped)
+- Target Date (Date)
+- Progress (Number 0-100, show as bar)
+- Why It Matters (Text)
+- Next Action (Text)
+- Milestone 1 (Text)
+- Milestone 2 (Text)
+- Milestone 3 (Text)
+
+VIEWS:
+- Table: All goals
+- Board: Grouped by Category
+- Board: Grouped by Status
+- Filtered: Active only
+
+GOAL ENTRY TEMPLATE:
+━━━━━━━━━━━━━━━━
+🎯 GOAL: [Goal title]
+
+WHY THIS MATTERS:
+[Write 2-3 sentences on why this goal matters to you personally]
+
+THE VISION: If I achieve this by [date], my life will look like:
+[Describe the specific future state in detail]
+
+MILESTONES:
+□ Milestone 1 by [date]: [what specifically]
+□ Milestone 2 by [date]: [what specifically]
+□ Milestone 3 by [date]: [what specifically]
+□ COMPLETE by [date]: [the finish line]
+
+OBSTACLES I ANTICIPATE:
+- [Obstacle 1]: My plan → [how you'll handle it]
+- [Obstacle 2]: My plan → [how you'll handle it]
+
+WEEKLY CHECK-IN SECTION:
+Week of [date]: Progress — [X]% | Notes: [what happened]
+━━━━━━━━━━━━━━━━
+
+---
+
+[HABIT TRACKER DATABASE]
+PAGE NAME: 🔄 Habit Tracker
+
+PROPERTIES:
+- Habit (Title)
+- Category (Select: Health / Mindset / Work / Relationships / Learning)
+- Frequency (Select: Daily / Weekdays / 3x Week / Weekly)
+- Streak (Number — formula based)
+- Started Date (Date)
+- Why (Text)
+- Trigger (Text — what cues it)
+- Reward (Text — small reward when done)
+
+HABIT LOG ENTRY TEMPLATE:
+━━━━━━━━━━━━━━━━
+HABIT: [Name]
+Why I'm building this: [one sentence on impact]
+Trigger: [what cue will remind me]
+Tiny version (on hard days): [smallest possible version]
+Full version: [the complete habit]
+Reward: [small celebration after completing]
+
+Track daily: M☐ T☐ W☐ T☐ F☐ S☐ S☐
+Week [X] notes: [observations, struggles, wins]
+━━━━━━━━━━━━━━━━
+
+---
+
+[JOURNAL DATABASE]
+PAGE NAME: 📓 Journal
+
+PROPERTIES:
+- Date (Date)
+- Mood (Select: 😊 / 😐 / 😢 / 🔥 / 😴)
+- Entry Type (Select: Morning / Evening / Reflection / Gratitude / Free Write)
+- Tags (Multi-select)
+
+JOURNAL PROMPTS (50 templates):
+
+MORNING PROMPTS:
+[JP-01] Today I'm grateful for: / Today's intention: / One thing I want to feel today:
+[JP-02] What would make today a win? / Who do I want to show up as? / One thing I'm releasing:
+[JP-03] My energy feels [X] because [Y]. Today I'll [action] to shift it.
+[JP-04] The most important thing I can do today for future-me is:
+[JP-05] I'm worried about [X]. But what I actually control is [Y]. So I'll focus on [Z].
+[JP-06] If I could only accomplish ONE thing today, it would be [X] because [Y].
+[JP-07] What's on my mind right now that I need to get out before the day starts?
+[JP-08] Three things I know to be true about today's opportunities:
+[JP-09] The person I want to be today would [think / do / say] [X].
+[JP-10] Today's theme word: [word]. What that means for how I show up:
+
+EVENING PROMPTS:
+[JP-11] Three things that happened today that I'm grateful for (and why each):
+[JP-12] What did I do today that I'm proud of? What would I do differently?
+[JP-13] The moment that stuck with me most today was [X] because [Y].
+[JP-14] What did I learn today? How can I use it tomorrow?
+[JP-15] Was I the person I wanted to be today? Where yes, where no?
+[JP-16] What was hard today? What did it teach me?
+[JP-17] Energy at end of day: [X/10]. What drained me: [X]. What filled me: [Y].
+[JP-18] Tomorrow, my top priority is [X]. To make that happen, I need to [preparation].
+[JP-19] What am I carrying into tomorrow that I should put down?
+[JP-20] If today was a chapter in a book about my life, what would it be called?
+
+WEEKLY REFLECTION PROMPTS:
+[JP-21] This week's biggest win (and what made it possible):
+[JP-22] What pattern am I noticing in how I spend my time vs. what I say matters?
+[JP-23] The moment this week I felt most like myself:
+[JP-24] What would I tell someone else in my exact situation right now?
+[JP-25] One thing I want to do differently next week, specifically:
+
+MONTHLY REVIEW PROMPTS:
+[JP-26] What was this month's biggest growth?
+[JP-27] Where am I not living by my values?
+[JP-28] What am I avoiding that I know I shouldn't?
+[JP-29] If I could press restart on one thing from this month, it would be [X].
+[JP-30] The version of me that exists 6 months from now has [what] that I'm building right now.
+
+DEEP REFLECTION PROMPTS:
+[JP-31] What's the story I keep telling myself that might not be true?
+[JP-32] What would I do if I knew I couldn't fail?
+[JP-33] Who do I envy — and what does that tell me about what I want?
+[JP-34] What am I pretending not to know?
+[JP-35] If my life were a business, what would the SWOT analysis look like?
+[JP-36] What decision have I been putting off? What would happen if I decided today?
+[JP-37] What relationships am I neglecting? What would change if I invested there?
+[JP-38] What does my ideal ordinary Tuesday look like in 3 years?
+[JP-39] What am I optimizing for that doesn't actually make me happy?
+[JP-40] If I could talk to the version of me from 5 years ago, what would surprise them most about where I am?
+
+CREATIVITY PROMPTS:
+[JP-41] 10 things I've been curious about lately:
+[JP-42] A problem I want to solve, and 5 unconventional approaches:
+[JP-43] What would [person I admire] do in my current situation?
+[JP-44] Free association: [start with first word that comes to mind, keep writing for 10 min without stopping]
+[JP-45] Draw/describe a metaphor for where I am right now in life:
+
+GRATITUDE DEEP DIVES:
+[JP-46] Something ordinary I usually overlook that I'm actually grateful for:
+[JP-47] A person who made a difference in my life recently who I haven't thanked:
+[JP-48] Something hard that happened that I'm now grateful for:
+[JP-49] An ability or quality I take for granted:
+[JP-50] The simple things that make my daily life possible:
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+MODULE 2: BUSINESS & WORK OS (80 Templates)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+PROJECT TRACKER
+
+PAGE NAME: 🗂️ Projects
+
+PROPERTIES:
+- Project Name (Title)
+- Status (Select: 💡 Idea / 📋 Planning / 🔥 Active / ⏸️ On Hold / ✅ Complete / ❌ Dropped)
+- Priority (Select: 🔴 Urgent / 🟠 High / 🟡 Medium / 🟢 Low)
+- Client (Relation → Clients database)
+- Start Date (Date)
+- Due Date (Date)
+- Budget (Number)
+- Progress (Number 0-100)
+- Tags (Multi-select)
+
+PROJECT PAGE TEMPLATE:
+━━━━━━━━━━━━━━━━
+PROJECT: [Name]
+Client: [Client]  |  Due: [Date]  |  Budget: $[X]
+
+🎯 PROJECT GOAL
+[One clear sentence: what does done look like?]
+
+📋 SCOPE
+In scope:
+- [deliverable 1]
+- [deliverable 2]
+- [deliverable 3]
+Out of scope:
+- [thing NOT included]
+- [thing NOT included]
+
+📅 MILESTONES
+[ ] [Milestone 1] — [Date]
+[ ] [Milestone 2] — [Date]
+[ ] [Milestone 3] — [Date]
+[ ] Final delivery — [Date]
+
+📝 TASKS
+[ ] [Task 1] — [owner] — [due date]
+[ ] [Task 2] — [owner] — [due date]
+[ ] [Task 3] — [owner] — [due date]
+
+📁 RESOURCES
+- Brief: [link]
+- Assets: [link]
+- Communication thread: [link]
+
+📊 UPDATES
+[Date]: [Status update — what happened, what's next]
+━━━━━━━━━━━━━━━━
+
+---
+
+CLIENT CRM TEMPLATE
+
+PAGE NAME: 👥 Clients & CRM
+
+PROPERTIES:
+- Client Name (Title)
+- Company (Text)
+- Status (Select: 🌱 Lead / 📞 Proposal Sent / 🤝 Active / 💤 Dormant / ✅ Complete)
+- Revenue (Number)
+- Next Action (Text)
+- Next Action Date (Date)
+- Contact (Email)
+- Platform (Select: Email / LinkedIn / Instagram / Referral / Cold Outreach)
+- Notes (Text)
+
+VIEWS:
+- Table: All clients
+- Board: Grouped by Status (kanban CRM)
+- Calendar: By Next Action Date
+- Filtered: Active clients only
+- Filtered: Leads only
+
+CLIENT ENTRY TEMPLATE:
+━━━━━━━━━━━━━━━━
+CLIENT: [Name] | [Company]
+
+RELATIONSHIP CONTEXT:
+How we met: [source / referral / outreach]
+First contact: [date]
+What they need: [brief description]
+Communication style: [formal / casual / detail-oriented / big picture]
+
+ENGAGEMENT HISTORY:
+[Date]: [Brief note — what happened, agreed, discussed]
+[Date]: [Brief note]
+
+ACTIVE PROJECTS: [link to project entries]
+
+FINANCIAL:
+Total billed: $[X]
+Paid: $[X]
+Outstanding: $[X]
+Next invoice: [date]
+
+NOTES & PREFERENCES:
+[Anything important to remember about this client]
+━━━━━━━━━━━━━━━━
+
+---
+
+TASK MASTER DATABASE
+
+PAGE NAME: ✅ Tasks
+
+PROPERTIES:
+- Task (Title)
+- Status (Select: 📥 Inbox / ⏰ Scheduled / 🔥 In Progress / ⏸️ Waiting / ✅ Done)
+- Priority (Select: 🔴 P1 / 🟠 P2 / 🟡 P3 / 🟢 P4)
+- Due Date (Date)
+- Project (Relation)
+- Context (Select: @Computer / @Phone / @Meeting / @Email / @Errands / @Creative)
+- Estimate (Select: 5min / 15min / 30min / 1hr / 2hr / 4hr / Full day)
+- Energy Required (Select: 🔋 Low / 🔋🔋 Medium / 🔋🔋🔋 High)
+
+VIEWS:
+- Table: All active tasks
+- Board: Status kanban
+- Filtered: Due today
+- Filtered: P1 + P2 only
+- Filtered: By @Context
+- Calendar: By due date
+
+TASK CAPTURE TEMPLATES:
+Quick capture: [Task] | [Project] | [Due] | [Priority]
+Meeting action: From [meeting name] on [date]: [task] by [date]
+Email action: Re: [email subject] — [action needed] by [date]
+Idea to action: [Idea] → First step: [specific action]
+
+---
+
+CONTENT CALENDAR
+
+PAGE NAME: 📱 Content Calendar
+
+PROPERTIES:
+- Post Title (Title)
+- Platform (Multi-select: Instagram / LinkedIn / YouTube / Twitter / Newsletter / TikTok)
+- Status (Select: 💡 Idea / ✍️ Drafting / 👀 Review / ✅ Scheduled / 📤 Published)
+- Publish Date (Date)
+- Format (Select: Carousel / Reel / Post / Story / Thread / Newsletter / Video)
+- Hook (Text)
+- CTA (Text)
+- Performance (Text — for post-publish notes)
+- Tags (Multi-select)
+
+VIEWS:
+- Calendar: All platforms
+- Board: By Status
+- Filtered: This week
+- Filtered: By Platform
+- Gallery: Published posts
+
+CONTENT ENTRY TEMPLATE:
+━━━━━━━━━━━━━━━━
+POST: [Title]
+Platform: [X]  |  Format: [X]  |  Date: [X]
+
+HOOK (first line):
+[Hook — what stops the scroll]
+
+BODY:
+[Full post content]
+
+CTA:
+[What you want them to do]
+
+HASHTAGS (Instagram only):
+[#tag1 #tag2 #tag3...]
+
+NOTES:
+[Design direction / asset needed / special instructions]
+━━━━━━━━━━━━━━━━
+
+---
+
+FINANCE TRACKER
+
+PAGE NAME: 💰 Finance Dashboard
+
+PROPERTIES (Income):
+- Source (Title)
+- Amount (Number)
+- Date (Date)
+- Category (Select: Freelance / Product Sales / Retainer / Investment / Other)
+- Recurring (Checkbox)
+- Invoice # (Text)
+
+PROPERTIES (Expenses):
+- Item (Title)
+- Amount (Number)
+- Date (Date)
+- Category (Select: Software / Marketing / Equipment / Learning / Tax / Personal)
+- Recurring (Checkbox)
+- Tax Deductible (Checkbox)
+
+MONTHLY FINANCE REVIEW TEMPLATE:
+━━━━━━━━━━━━━━━━
+📊 [MONTH YEAR] FINANCE REVIEW
+
+INCOME:
+Total: $[X]
+By source: [breakdown]
+
+EXPENSES:
+Total: $[X]
+By category: [breakdown]
+Tax deductible total: $[X]
+
+NET: $[X]
+
+GOALS TRACKING:
+Monthly target: $[X] | Actual: $[X] | Gap: $[X]
+Savings rate: [X]%
+
+NOTES & ACTIONS:
+[Observations, changes to make, invoices to send]
+━━━━━━━━━━━━━━━━
+
+---
+
+MEETING NOTES TEMPLATE
+
+PAGE NAME: 🤝 Meetings
+
+PROPERTIES:
+- Meeting Title (Title)
+- Date (Date)
+- Attendees (Text)
+- Project (Relation)
+- Client (Relation)
+- Type (Select: Client Call / Team Sync / 1:1 / Sales Call / Discovery / Review)
+
+MEETING NOTE TEMPLATE:
+━━━━━━━━━━━━━━━━
+📋 MEETING: [Title]
+Date: [Date]  |  Time: [Duration]  |  Attendees: [Names]
+
+AGENDA
+1. [Agenda item 1]
+2. [Agenda item 2]
+3. [Agenda item 3]
+
+DISCUSSION NOTES
+[Agenda item 1]: [what was discussed, decisions made]
+[Agenda item 2]: [what was discussed, decisions made]
+[Agenda item 3]: [what was discussed, decisions made]
+
+ACTION ITEMS (who does what by when)
+[ ] [Person] → [Task] → by [date]
+[ ] [Person] → [Task] → by [date]
+[ ] [Person] → [Task] → by [date]
+
+DECISIONS MADE
+- [Decision 1]
+- [Decision 2]
+
+NEXT MEETING: [Date | Agenda preview]
+━━━━━━━━━━━━━━━━
+
+---
+
+[BT-07 to BT-30] MORE BUSINESS TEMPLATES
+
+[BT-07] Proposals database: Track all proposals sent — client, amount, status, follow-up dates
+[BT-08] Invoice tracker: Invoice #, client, amount, sent date, due date, paid date, status
+[BT-09] Contract database: All contracts — client, value, start, end, renewal date, status
+[BT-10] Vendor/tools tracker: All subscriptions — name, cost/month, renewal date, value rating
+[BT-11] Learning log: Books/courses/articles — what, key takeaways, action from it
+[BT-12] Ideas vault: Capture ideas before they disappear — idea, category, next step to evaluate
+[BT-13] Reading list: Book title, author, category, status, key quotes, action
+[BT-14] Swipe file: Screenshots/examples of great work — what's great about it, how to apply
+[BT-15] Job board: For agencies/clients — job title, source, status, applied, response
+[BT-16] Network CRM: Personal connections — name, context, last contact, follow-up date
+[BT-17] Resources hub: Useful links organized by category — link, description, when to use
+[BT-18] SOP library: All processes documented — process name, steps, who does it, last updated
+[BT-19] KPI dashboard: Key metrics tracked weekly/monthly with goals and actuals
+[BT-20] Testimonials vault: Client quotes — who, what they said, project context, permission to use
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+MODULE 3: FREELANCER OS (50 Templates)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+COMPLETE FREELANCER DASHBOARD
+
+Master Dashboard page layout:
+━━━━━━━━━━━━━━━━
+🏠 [YOUR NAME]'s FREELANCER HQ
+
+📊 THIS MONTH AT A GLANCE
+Revenue target: $[X]  |  Current: $[X]  |  [Progress bar via formula]
+Active clients: [Linked count]
+Open proposals: [Linked count]
+Pending invoices: $[X]
+
+⚡ TODAY'S FOCUS
+Top 3: [Linked from daily planner]
+Meetings today: [Calendar view — today filtered]
+
+🔥 ACTIVE PROJECTS
+[Linked board — status: Active, 3 properties shown]
+
+📥 PIPELINE
+[Linked board — status: Lead + Proposal, client + amount shown]
+
+💰 RECENT INVOICES
+[Linked table — last 5 invoices by date]
+
+📅 THIS WEEK
+[Calendar view — all tasks + meetings]
+━━━━━━━━━━━━━━━━
+
+FREELANCER PROPOSAL TEMPLATE:
+━━━━━━━━━━━━━━━━
+PROPOSAL: [Project Name] for [Client]
+Sent: [Date]  |  Amount: $[X]  |  Status: [Pending]
+
+SCOPE:
+[What's included]
+
+TIMELINE:
+[Start → Milestone → End]
+
+PRICING:
+[Breakdown]
+
+NOTES:
+[Special terms, context, follow-up plan]
+━━━━━━━━━━━━━━━━
+
+INCOME GOAL CALCULATOR:
+━━━━━━━━━━━━━━━━
+MONTHLY TARGET: $[X]
+
+To hit $[X]/month, I need:
+Option A: [X] clients at $[avg rate]
+Option B: [X] products selling [Y] units at $[Z]
+Option C: [X] retainer + [Y] project
+
+Current portfolio:
+- Client retainers: $[X]/month
+- Active projects: $[X] this month
+- Product income: $[X] this month
+- Gap to target: $[X]
+
+Lead sources I should activate:
+[List 3-5 with specific actions]
+━━━━━━━━━━━━━━━━
+
+[FO-10 to FO-50] MORE FREELANCER TEMPLATES
+
+[FO-10] Project handoff checklist: Everything to deliver at project close
+[FO-11] Client onboarding checklist: First 7 days with a new client
+[FO-12] Scope creep log: Track all out-of-scope requests with dates and status
+[FO-13] Portfolio tracker: Projects available for portfolio — client permission, results, link
+[FO-14] Rate increase tracker: Track rates by client over time, next increase date
+[FO-15] Referral tracker: Who referred who, referral reward paid, outcome
+[FO-16] Service offering matrix: Services vs. delivery format vs. price tier
+[FO-17] Capacity planner: Hours available vs. committed by week/month
+[FO-18] Discovery call prep: Template for research before calls
+[FO-19] Client satisfaction tracker: NPS-style rating + notes after each project
+[FO-20] Annual review template: Revenue, clients, skills, growth, goals for next year
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+MODULE 4: HEALTH & WELLNESS OS (60 Templates)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+FITNESS TRACKER DATABASE
+
+PAGE NAME: 💪 Fitness Tracker
+
+PROPERTIES:
+- Workout (Title)
+- Date (Date)
+- Type (Select: Strength / Cardio / Yoga / Sport / Walk / HIIT / Flexibility)
+- Duration (Number — minutes)
+- Intensity (Select: 😴 Easy / 💪 Moderate / 🔥 Hard / 💀 Maximum)
+- Completed (Checkbox)
+- Notes (Text)
+
+WORKOUT LOG TEMPLATE:
+━━━━━━━━━━━━━━━━
+WORKOUT: [Name/Type] — [Date]
+Duration: [X] min  |  Intensity: [X]
+
+EXERCISES:
+Exercise 1: [Name] — [Sets x Reps] — [Weight/Distance/Time]
+Exercise 2: [Name] — [Sets x Reps] — [Weight/Distance/Time]
+Exercise 3: [Name] — [Sets x Reps] — [Weight/Distance/Time]
+[Continue...]
+
+HOW IT FELT:
+Energy going in: [X/5]  |  Energy after: [X/5]
+What went well:
+What to improve:
+
+NEXT SESSION:
+[What to focus on, adjustments]
+━━━━━━━━━━━━━━━━
+
+MEAL PLANNER TEMPLATE:
+━━━━━━━━━━━━━━━━
+📅 MEAL PLAN: Week of [Date]
+
+MONDAY:
+Breakfast: [meal + prep note]
+Lunch: [meal + prep note]
+Dinner: [meal + prep note]
+Snacks: [options]
+
+[Repeat for each day]
+
+GROCERY LIST (generated from above):
+Proteins: [list]
+Vegetables: [list]
+Fruits: [list]
+Grains/carbs: [list]
+Dairy: [list]
+Other: [list]
+━━━━━━━━━━━━━━━━
+
+SLEEP LOG:
+PROPERTIES: Date, Bedtime, Wake time, Duration (formula), Quality (1-5), Notes
+FORMULA for Duration: dateBetween(prop("Wake Time"), prop("Bed Time"), "minutes") / 60
+
+MENTAL HEALTH CHECK-IN TEMPLATE:
+━━━━━━━━━━━━━━━━
+DATE: [Date]
+
+EMOTIONAL STATE TODAY:
+Physical energy: /10
+Mental clarity: /10
+Emotional stability: /10
+Social battery: /10
+
+What's on my mind:
+[Write freely — no judgment]
+
+Anxiety/stress about:
+[Name it specifically — vague anxiety is worse than specific worry]
+
+What would help right now:
+[Be specific — rest, movement, connection, creative outlet, etc.]
+
+Self-compassion note (write something kind to yourself):
+━━━━━━━━━━━━━━━━
+
+[HW-10 to HW-60] MORE WELLNESS TEMPLATES
+
+[HW-10] Water intake tracker (daily checkbox with amount)
+[HW-11] Supplement tracker (what, when, effects)
+[HW-12] Medical records organizer (doctor, appointment, notes, next visit)
+[HW-13] Period/cycle tracker (if relevant — dates, symptoms, patterns)
+[HW-14] Energy diary (time of day + energy level + what affected it)
+[HW-15] Gratitude practice database (daily 3 things + monthly review)
+[HW-16] Meditation log (type, duration, how it felt, insights)
+[HW-17] Body measurements tracker (weight, measurements, date, goal)
+[HW-18] Seasonal health goals (quarterly focus areas + habits)
+[HW-19] Recovery day protocol (what to do on rest days for recovery)
+[HW-20] Stress triggers log (situation, trigger, reaction, better response)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+MODULE 5: LEARNING & KNOWLEDGE OS (40 Templates)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+BOOK NOTES TEMPLATE
+
+PAGE NAME: 📚 Book Notes
+
+PROPERTIES:
+- Book Title (Title)
+- Author (Text)
+- Category (Select: Business / Self-Help / Technical / Fiction / History / Science)
+- Status (Select: Want to Read / Reading / Finished / Reference)
+- Rating (Select: ⭐⭐⭐ / ⭐⭐⭐⭐ / ⭐⭐⭐⭐⭐)
+- Started (Date)
+- Finished (Date)
+- Actionable (Checkbox — will you take action from this?)
+
+BOOK NOTE TEMPLATE:
+━━━━━━━━━━━━━━━━
+📚 [BOOK TITLE] — [Author]
+Rating: /5  |  Finished: [Date]  |  Category: [X]
+
+THE BIG IDEA (one paragraph):
+[The core thesis of this book in your own words]
+
+TOP 5 TAKEAWAYS:
+1. [Insight + why it matters to me]
+2. [Insight + why it matters to me]
+3. [Insight + why it matters to me]
+4. [Insight + why it matters to me]
+5. [Insight + why it matters to me]
+
+BEST QUOTES:
+"[Quote 1]" — page [X]
+"[Quote 2]" — page [X]
+
+HOW I'LL APPLY THIS:
+In my work: [specific application]
+In my life: [specific application]
+First action from this book: [action within 48 hours]
+
+RECOMMEND TO:
+[Who specifically would benefit from this book and why]
+━━━━━━━━━━━━━━━━
+
+COURSE NOTES TEMPLATE:
+━━━━━━━━━━━━━━━━
+🎓 COURSE: [Name] by [Instructor]
+Platform: [X]  |  Started: [Date]  |  Progress: [X%]
+
+MODULE NOTES:
+[Module 1 name]:
+- Key point:
+- Key point:
+- Action item:
+
+[Module 2 name]:
+- Key point:
+- Key point:
+- Action item:
+
+OVERALL NOTES:
+What I'm implementing immediately:
+1. [Action]
+2. [Action]
+3. [Action]
+
+Questions I still have:
+[List]
+━━━━━━━━━━━━━━━━
+
+SECOND BRAIN SETUP:
+PAGE NAME: 🧠 Second Brain
+
+STRUCTURE:
+├── 📥 INBOX (capture everything here first)
+├── 🗂️ AREAS (ongoing responsibilities)
+│   ├── Work
+│   ├── Health
+│   ├── Finance
+│   └── Personal
+├── 📁 RESOURCES (reference material)
+│   ├── Articles
+│   ├── Videos
+│   ├── Quotes
+│   └── Research
+├── 🗃️ ARCHIVES (completed/inactive)
+└── 🔗 LINKED DATABASES (hub page)
+
+DAILY CAPTURE HABIT:
+Everything interesting → Notion Inbox
+Weekly: Sort inbox into Areas/Resources/Archives
+Monthly: Review and prune
+
+[LK-10 to LK-40] MORE LEARNING TEMPLATES
+
+[LK-10] Article notes (URL, key points, how to apply, date read)
+[LK-11] Video notes (YouTube link, key takeaways, timestamp markers)
+[LK-12] Podcast notes (episode, guest, main ideas, actions)
+[LK-13] Skill development plan (skill, current level, target level, resources, practice plan)
+[LK-14] Research database (topic, sources, findings, open questions)
+[LK-15] Quote collection (quote, author, context, why it resonates)
+[LK-16] Vocabulary builder (word, definition, example sentence, origin)
+[LK-17] Course wishlist (course name, instructor, platform, price, priority)
+[LK-18] Conference/event notes (event, date, speakers, key ideas, connections made)
+[LK-19] Weekly review → knowledge (what did I learn this week worth remembering?)
+[LK-20] Personal wiki (your reference notes organized by topic)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+MODULE 6: SETUP GUIDE & NOTION FORMULAS (20 Templates)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+HOW TO SET UP YOUR NOTION OS IN 1 DAY:
+
+HOUR 1: Foundation
+1. Create workspace called "[Your Name] HQ"
+2. Build sidebar structure: Life / Work / Health / Learning / Archive
+3. Import Daily Planner, Goal Tracker, Task Master databases
+
+HOUR 2: Business
+4. Build Client CRM
+5. Build Project Tracker (link to Client CRM)
+6. Build Finance Tracker
+7. Build Content Calendar (link to Projects)
+
+HOUR 3: Life
+8. Build Habit Tracker
+9. Build Journal database
+10. Build Book Notes
+
+HOUR 4: Connect
+11. Build Master Dashboard page
+12. Link all databases to dashboard
+13. Set up recurring views
+14. Create first week of daily pages
+
+━━━━━━━━━━━━━━━━
+
+USEFUL NOTION FORMULAS (copy-paste ready):
+
+[F-01] Days until deadline:
+dateBetween(prop("Due Date"), now(), "days")
+
+[F-02] Project duration:
+dateBetween(prop("End Date"), prop("Start Date"), "days")
+
+[F-03] Overdue flag:
+if(dateBetween(now(), prop("Due Date"), "days") > 0, "⚠️ OVERDUE", "✅ On Track")
+
+[F-04] Monthly revenue total (rollup):
+Use Rollup property → Sum of Amount from Invoice database filtered by current month
+
+[F-05] Reading time estimate:
+round(prop("Word Count") / 250) + " min read"
+
+[F-06] Habit streak (simplified):
+"Use linked counter and update manually or use Zapier automation"
+
+[F-07] Task age:
+dateBetween(now(), prop("Created"), "days") + " days old"
+
+[F-08] Percentage complete (for goals):
+prop("Completed Steps") / prop("Total Steps") * 100
+
+[F-09] Status emoji:
+if(prop("Status") == "Done", "✅", if(prop("Status") == "In Progress", "🔥", if(prop("Status") == "Blocked", "❌", "📋")))
+
+[F-10] Next follow-up flag:
+if(dateBetween(now(), prop("Next Follow-up"), "days") <= 3, "🔴 Follow up soon", "🟢 Good")
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+QUICK STATS:
+Total Templates: 300
+Modules: 6 (Life / Business / Freelancer / Health / Learning / Setup)
+Works with: Notion Free, Plus, Business plans
+No Notion experience needed — step-by-step setup guide included
+
+By AniketG AI Systems | Commercial License Included
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

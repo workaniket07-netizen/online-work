@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Security Toolkit: Ruby/Rails + Terraform for CTO
+PRICE: $177
+TAGS: security, ruby/rails, terraform
+SHORT DESC: AI Security Toolkit: Ruby/Rails + Terraform for CTO. $177. Commercial license.

@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Prompting: Prompt Chaining for Technical Documentation using Claude Sonnet (Intermediate)
+PRICE: $127
+TAGS: prompt chaining, technical documentat, prompt engineering
+SHORT DESC: AI Prompting: Prompt Chaining for Technical Documentation using Claude Sonnet (Intermediate). $127. Commercial license.

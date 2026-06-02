@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Data Science Toolkit: Node.js/Express + Kubernetes for Director of Engineering
+PRICE: $127
+TAGS: data science, node.js/express, kubernetes
+SHORT DESC: AI Data Science Toolkit: Node.js/Express + Kubernetes for Director of Engineering. $127. Commercial license.

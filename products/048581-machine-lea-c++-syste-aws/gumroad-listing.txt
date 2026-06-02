@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Machine Learning Toolkit: C++/Systems + AWS for Junior
+PRICE: $127
+TAGS: machine learning, c++/systems, aws
+SHORT DESC: AI Machine Learning Toolkit: C++/Systems + AWS for Junior. $127. Commercial license.

@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI QA Testing Toolkit: Python/Django + Multi-Cloud for Staff
+PRICE: $177
+TAGS: qa testing, python/django, multi-cloud
+SHORT DESC: AI QA Testing Toolkit: Python/Django + Multi-Cloud for Staff. $177. Commercial license.

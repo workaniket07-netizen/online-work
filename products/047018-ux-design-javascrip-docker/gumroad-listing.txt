@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI UX Design Toolkit: JavaScript/React + Docker for VP Engineering
+PRICE: $127
+TAGS: ux design, javascript/react, docker
+SHORT DESC: AI UX Design Toolkit: JavaScript/React + Docker for VP Engineering. $127. Commercial license.

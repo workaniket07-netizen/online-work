@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Software Engineering Toolkit: Swift/iOS + AWS for Junior
+PRICE: $127
+TAGS: software engineering, swift/ios, aws
+SHORT DESC: AI Software Engineering Toolkit: Swift/iOS + AWS for Junior. $127. Commercial license.

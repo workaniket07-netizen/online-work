@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Security Toolkit: TypeScript + AWS for Junior
+PRICE: $127
+TAGS: security, typescript, aws
+SHORT DESC: AI Security Toolkit: TypeScript + AWS for Junior. $127. Commercial license.

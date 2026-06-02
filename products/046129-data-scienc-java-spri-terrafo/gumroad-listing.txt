@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Data Science Toolkit: Java/Spring + Terraform for CTO
+PRICE: $177
+TAGS: data science, java/spring, terraform
+SHORT DESC: AI Data Science Toolkit: Java/Spring + Terraform for CTO. $177. Commercial license.

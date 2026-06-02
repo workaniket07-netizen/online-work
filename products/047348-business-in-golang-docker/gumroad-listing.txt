@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Business Intelligence Toolkit: Golang + Docker for VP Engineering
+PRICE: $127
+TAGS: business intelligenc, golang, docker
+SHORT DESC: AI Business Intelligence Toolkit: Golang + Docker for VP Engineering. $127. Commercial license.

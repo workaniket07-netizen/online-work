@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Systems Architecture Toolkit: Java/Spring + Terraform for CTO
+PRICE: $177
+TAGS: systems architecture, java/spring, terraform
+SHORT DESC: AI Systems Architecture Toolkit: Java/Spring + Terraform for CTO. $177. Commercial license.

@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Software Engineering Toolkit: C++/Systems + Serverless for Founding Engineer
+PRICE: $127
+TAGS: software engineering, c++/systems, serverless
+SHORT DESC: AI Software Engineering Toolkit: C++/Systems + Serverless for Founding Engineer. $127. Commercial license.

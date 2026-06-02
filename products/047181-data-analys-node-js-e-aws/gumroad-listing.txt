@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Data Analysis Toolkit: Node.js/Express + AWS for Junior
+PRICE: $127
+TAGS: data analysis, node.js/express, aws
+SHORT DESC: AI Data Analysis Toolkit: Node.js/Express + AWS for Junior. $127. Commercial license.

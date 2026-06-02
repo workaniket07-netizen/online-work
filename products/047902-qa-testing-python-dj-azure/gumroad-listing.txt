@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI QA Testing Toolkit: Python/Django + Azure for Mid-Level
+PRICE: $127
+TAGS: qa testing, python/django, azure
+SHORT DESC: AI QA Testing Toolkit: Python/Django + Azure for Mid-Level. $127. Commercial license.

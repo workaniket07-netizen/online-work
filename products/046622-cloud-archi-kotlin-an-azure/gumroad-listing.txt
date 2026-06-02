@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Cloud Architecture Toolkit: Kotlin/Android + Azure for Mid-Level
+PRICE: $127
+TAGS: cloud architecture, kotlin/android, azure
+SHORT DESC: AI Cloud Architecture Toolkit: Kotlin/Android + Azure for Mid-Level. $127. Commercial license.

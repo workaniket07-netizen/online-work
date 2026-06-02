@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Prompting: Chain-of-Thought for Audio & Voice using Mistral (Advanced)
+PRICE: $147
+TAGS: chain-of-thought, audio & voice, prompt engineering
+SHORT DESC: AI Prompting: Chain-of-Thought for Audio & Voice using Mistral (Advanced). $147. Commercial license.

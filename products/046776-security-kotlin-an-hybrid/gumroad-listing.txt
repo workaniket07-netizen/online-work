@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Security Toolkit: Kotlin/Android + Hybrid for Architect
+PRICE: $177
+TAGS: security, kotlin/android, hybrid
+SHORT DESC: AI Security Toolkit: Kotlin/Android + Hybrid for Architect. $177. Commercial license.

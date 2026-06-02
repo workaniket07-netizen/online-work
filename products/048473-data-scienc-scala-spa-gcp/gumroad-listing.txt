@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Data Science Toolkit: Scala/Spark + GCP for Senior
+PRICE: $127
+TAGS: data science, scala/spark, gcp
+SHORT DESC: AI Data Science Toolkit: Scala/Spark + GCP for Senior. $127. Commercial license.

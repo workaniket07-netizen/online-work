@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Security Toolkit: TypeScript + Azure for Mid-Level
+PRICE: $127
+TAGS: security, typescript, azure
+SHORT DESC: AI Security Toolkit: TypeScript + Azure for Mid-Level. $127. Commercial license.

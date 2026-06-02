@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI DevOps Toolkit: Golang + Terraform for CTO
+PRICE: $177
+TAGS: devops, golang, terraform
+SHORT DESC: AI DevOps Toolkit: Golang + Terraform for CTO. $177. Commercial license.

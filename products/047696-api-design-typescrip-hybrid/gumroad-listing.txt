@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI API Design Toolkit: TypeScript + Hybrid for Architect
+PRICE: $177
+TAGS: api design, typescript, hybrid
+SHORT DESC: AI API Design Toolkit: TypeScript + Hybrid for Architect. $177. Commercial license.

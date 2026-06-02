@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Cloud Architecture Toolkit: Swift/iOS + Kubernetes for Director of Engineering
+PRICE: $127
+TAGS: cloud architecture, swift/ios, kubernetes
+SHORT DESC: AI Cloud Architecture Toolkit: Swift/iOS + Kubernetes for Director of Engineering. $127. Commercial license.

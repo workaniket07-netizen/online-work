@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI DevOps Toolkit: Golang + Docker for VP Engineering
+PRICE: $127
+TAGS: devops, golang, docker
+SHORT DESC: AI DevOps Toolkit: Golang + Docker for VP Engineering. $127. Commercial license.

@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Machine Learning Toolkit: TypeScript + GCP for Senior
+PRICE: $127
+TAGS: machine learning, typescript, gcp
+SHORT DESC: AI Machine Learning Toolkit: TypeScript + GCP for Senior. $127. Commercial license.

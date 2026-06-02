@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Cloud Architecture Toolkit: Python/Django + Azure for Mid-Level
+PRICE: $127
+TAGS: cloud architecture, python/django, azure
+SHORT DESC: AI Cloud Architecture Toolkit: Python/Django + Azure for Mid-Level. $127. Commercial license.

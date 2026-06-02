@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Business Intelligence Toolkit: Swift/iOS + Kubernetes for Director of Engineering
+PRICE: $127
+TAGS: business intelligenc, swift/ios, kubernetes
+SHORT DESC: AI Business Intelligence Toolkit: Swift/iOS + Kubernetes for Director of Engineering. $127. Commercial license.

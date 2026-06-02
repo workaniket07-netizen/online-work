@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Technical Writing Toolkit: Scala/Spark + Docker for VP Engineering
+PRICE: $127
+TAGS: technical writing, scala/spark, docker
+SHORT DESC: AI Technical Writing Toolkit: Scala/Spark + Docker for VP Engineering. $127. Commercial license.

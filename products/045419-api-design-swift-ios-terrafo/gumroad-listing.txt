@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI API Design Toolkit: Swift/iOS + Terraform for CTO
+PRICE: $177
+TAGS: api design, swift/ios, terraform
+SHORT DESC: AI API Design Toolkit: Swift/iOS + Terraform for CTO. $177. Commercial license.

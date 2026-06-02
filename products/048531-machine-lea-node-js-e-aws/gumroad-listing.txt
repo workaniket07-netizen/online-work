@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Machine Learning Toolkit: Node.js/Express + AWS for Junior
+PRICE: $127
+TAGS: machine learning, node.js/express, aws
+SHORT DESC: AI Machine Learning Toolkit: Node.js/Express + AWS for Junior. $127. Commercial license.

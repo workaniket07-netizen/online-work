@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Software Engineering Toolkit: C++/Systems + Terraform for CTO
+PRICE: $177
+TAGS: software engineering, c++/systems, terraform
+SHORT DESC: AI Software Engineering Toolkit: C++/Systems + Terraform for CTO. $177. Commercial license.

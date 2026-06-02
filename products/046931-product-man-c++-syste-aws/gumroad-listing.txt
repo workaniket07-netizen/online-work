@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Product Management Toolkit: C++/Systems + AWS for Junior
+PRICE: $127
+TAGS: product management, c++/systems, aws
+SHORT DESC: AI Product Management Toolkit: C++/Systems + AWS for Junior. $127. Commercial license.

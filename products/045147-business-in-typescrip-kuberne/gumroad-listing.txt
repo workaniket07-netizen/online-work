@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Business Intelligence Toolkit: TypeScript + Kubernetes for Director of Engineering
+PRICE: $127
+TAGS: business intelligenc, typescript, kubernetes
+SHORT DESC: AI Business Intelligence Toolkit: TypeScript + Kubernetes for Director of Engineering. $127. Commercial license.

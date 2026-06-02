@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Data Science Toolkit: MATLAB/Data + Terraform for CTO
+PRICE: $177
+TAGS: data science, matlab/data, terraform
+SHORT DESC: AI Data Science Toolkit: MATLAB/Data + Terraform for CTO. $177. Commercial license.

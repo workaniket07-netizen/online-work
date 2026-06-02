@@ -1,0 +1,1104 @@
+╔══════════════════════════════════════════════════════════════════════╗
+║         THE AI BUSINESS OPERATOR VAULT — 500 POWER PROMPTS          ║
+║              For ChatGPT, Claude, Gemini — Any LLM                  ║
+║                    By AniketG AI  |  gumroad.com                    ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+HOW TO USE:
+• Copy any prompt below
+• Paste into ChatGPT / Claude / Gemini
+• Replace [BRACKETS] with your info
+• Get professional output in seconds
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SECTION 1: MARKETING COPY (100 Prompts)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[M01] Write a Facebook ad for [PRODUCT] targeting [AUDIENCE]. Use the AIDA formula. Pain point: [PAIN]. Desired outcome: [OUTCOME]. Max 150 words. Include a strong CTA.
+
+[M02] Create 5 headline variations for [PRODUCT/SERVICE] that use curiosity, urgency, or social proof. Each headline max 10 words. Target audience: [AUDIENCE].
+
+[M03] Write a Google Ads description for [BUSINESS TYPE] with keywords [KW1], [KW2], [KW3]. Max 90 characters. Focus on: [UNIQUE VALUE PROP].
+
+[M04] Create a product launch email sequence (3 emails) for [PRODUCT]. Email 1: Teaser. Email 2: Launch. Email 3: Last chance. Tone: [FORMAL/CASUAL/EXCITED].
+
+[M05] Write 10 Instagram caption hooks for [NICHE] content that stop the scroll. Use pattern interrupts, bold claims, or controversial statements.
+
+[M06] Create a landing page headline + subheadline + 3 bullet benefits for [PRODUCT]. Target: [CUSTOMER AVATAR]. Main benefit: [BENEFIT].
+
+[M07] Write a YouTube video script intro (60 seconds) for a video about [TOPIC]. Hook: grab attention in first 5 seconds. Promise: what viewer will learn/get.
+
+[M08] Generate 10 A/B test variations for this CTA button: [ORIGINAL CTA]. Make them more action-oriented, benefit-driven, and urgent.
+
+[M09] Write a Pinterest pin description for [PRODUCT/SERVICE] with keywords [KW1] [KW2] [KW3]. Max 500 characters. Include a call to action.
+
+[M10] Create a brand story for [BUSINESS NAME] in 200 words. Founder: [NAME]. Problem solved: [PROBLEM]. Mission: [MISSION]. Tone: authentic and human.
+
+[M11] Write 5 different USP (Unique Selling Proposition) statements for [BUSINESS]. Each max 15 words. Focus on: speed, quality, price, guarantee, or uniqueness.
+
+[M12] Create a retargeting ad script for people who visited [WEBSITE/PRODUCT PAGE] but didn't buy. Address objections: [OBJECTION 1], [OBJECTION 2].
+
+[M13] Write a TikTok video hook + script for [PRODUCT] targeting [AGE GROUP]. Duration: 30-45 seconds. Style: educational/entertaining/storytelling.
+
+[M14] Generate 20 blog post title ideas for [NICHE] that are SEO-optimized and get clicks. Include numbers, "how to," and question formats.
+
+[M15] Write a LinkedIn sponsored post for [B2B SERVICE] targeting [JOB TITLE] at [COMPANY SIZE] companies. Pain: [BUSINESS PROBLEM]. Solution: [YOUR SERVICE].
+
+[M16] Create a product description for [PRODUCT] in 3 formats: (1) Short 50-word, (2) Medium 150-word, (3) Long 300-word with full features and benefits.
+
+[M17] Write 5 email subject lines for a promotional campaign for [PRODUCT]. Use: curiosity, urgency, personalization, benefit, and social proof — one each.
+
+[M18] Create a "before and after" story for [PRODUCT/SERVICE]. Before: [CUSTOMER STRUGGLE]. After: [TRANSFORMATION]. Make it emotional and specific.
+
+[M19] Write a cold outreach LinkedIn message for [SERVICE] targeting [PROSPECT TYPE]. Max 300 characters. Personalized opener, value prop, soft CTA.
+
+[M20] Generate a content calendar for [BRAND] for one week across Instagram, LinkedIn, and Twitter. Theme: [MONTHLY THEME]. Mix educational, promotional, and engaging content.
+
+[M21] Write a product comparison page copy: [YOUR PRODUCT] vs [COMPETITOR]. Highlight 5 areas where you win. Tone: confident, not aggressive.
+
+[M22] Create 10 customer testimonial request messages to send via email/WhatsApp. Different styles: formal, casual, urgent, incentivized.
+
+[M23] Write a "Why Us" section for [COMPANY WEBSITE]. List 6 reasons with icons/headlines. Each reason max 2 sentences. Focus on proof and differentiation.
+
+[M24] Generate a Black Friday campaign strategy for [PRODUCT/STORE] including: offer structure, countdown copy, email sequence (4 emails), and social posts.
+
+[M25] Write an influencer outreach email for [BRAND] targeting micro-influencers in [NICHE]. Include: intro, brand values, collaboration idea, compensation.
+
+[M26] Create 5 video ad scripts (15-second) for [PRODUCT] for Instagram Reels/YouTube Shorts. Each uses different emotional triggers: fear, desire, curiosity, pride, belonging.
+
+[M27] Write a referral program announcement email for [BUSINESS]. Include: what they get, how it works, referral link placeholder, and urgency element.
+
+[M28] Generate 15 power words for [INDUSTRY] marketing copy that trigger emotion and action. Explain why each word works for that specific audience.
+
+[M29] Write a webinar promotional email sequence (4 emails) for [TOPIC] webinar. Emails: 7 days before, 3 days before, day before, day of. Each with different angle.
+
+[M30] Create an SMS marketing campaign (5 messages) for [PRODUCT LAUNCH]. Each max 160 characters. Include offer, urgency, and link placeholder.
+
+[M31] Write 10 retargeting ad copy variations for cart abandoners of [PRODUCT]. Address: price objection, trust objection, timing objection, competitor comparison, FOMO.
+
+[M32] Create a brand voice guide for [COMPANY]. Define: tone (3 words), vocabulary to use/avoid, example sentences, and how to handle complaints.
+
+[M33] Write a podcast episode description for [SHOW NAME] episode about [TOPIC]. Include: hook, what listeners learn, guest name [GUEST], and 5 keywords.
+
+[M34] Generate 10 swipe file subject lines for [PRODUCT TYPE] promotional emails that have historically high open rates. Explain the psychological trigger in each.
+
+[M35] Write a case study for [CLIENT/BUSINESS TYPE] who used [PRODUCT/SERVICE]. Structure: challenge, solution, implementation, results (with specific numbers placeholder).
+
+[M36] Create a seasonal marketing campaign for [BUSINESS] for [FESTIVAL/SEASON]. Include: theme, offer, tagline, 3 social posts, and email subject line.
+
+[M37] Write 5 abandoned cart email variations for [ECOMMERCE STORE]. Each uses different recovery angle: reminder, urgency, social proof, discount offer, help offer.
+
+[M38] Generate a complete brand hashtag strategy for [BRAND] on Instagram. Include: 1 brand hashtag, 5 niche hashtags, 10 community hashtags, 4 trending hashtags.
+
+[M39] Write a "myth busting" content series (5 posts) for [INDUSTRY]. Each post: bust one common myth with facts. Format for Instagram carousel.
+
+[M40] Create a 30-day social media content plan for [BUSINESS] with post topics, content types, and best posting times. Audience: [TARGET AUDIENCE].
+
+[M41] Write a press release for [PRODUCT LAUNCH/BUSINESS MILESTONE]. Include: headline, dateline, lead paragraph, body, boilerplate, contact info placeholder.
+
+[M42] Generate 10 creative campaign concepts for [BRAND] around the theme of [THEME]. Each concept: name, tagline, main execution idea, and one example post.
+
+[M43] Write a customer re-engagement email for [BUSINESS] targeting customers inactive for 90+ days. Offer: [INCENTIVE]. Tone: warm and personal.
+
+[M44] Create 5 "social proof" ad variations for [PRODUCT] using: star ratings, testimonial snippet, user count, media feature, or award. Each max 100 words.
+
+[M45] Write a complete Etsy shop announcement for [PRODUCT TYPE] store. Include: what you sell, who it's for, why you started, and what makes you special.
+
+[M46] Generate a monthly newsletter template for [BUSINESS TYPE] with sections: intro, featured content, product spotlight, tips, and CTA. Tone: [BRAND TONE].
+
+[M47] Write 10 "pain point" Instagram captions for [NICHE] that make [TARGET AUDIENCE] feel deeply understood before introducing a solution.
+
+[M48] Create a product seeding outreach message for sending free samples to [INFLUENCER TYPE]. Include: why you chose them, product description, no-obligation offer.
+
+[M49] Write a "social media bio" for [PLATFORM] for [BUSINESS TYPE]. Include: what you do, who you help, proof/credibility element, and CTA with link.
+
+[M50] Generate a complete marketing funnel copy for [PRODUCT]: awareness ad → landing page → email opt-in → welcome email → sales email.
+
+[M51] Write 5 different angle hooks for a [NICHE] blog post about [TOPIC]. Angles: controversial, how-to, listicle, story, and question.
+
+[M52] Create an affiliate program pitch email for [PRODUCT] to send to potential affiliates. Commission: [%]. Cookie: [DAYS]. Include: earnings calculator example.
+
+[M53] Write a "founder's story" Instagram post for [BRAND]. Template: struggle → turning point → mission → invitation. Max 300 words. Personal and vulnerable tone.
+
+[M54] Generate 20 FAQ questions and answers for [PRODUCT/SERVICE] website. Include: pricing, delivery, quality, guarantee, comparison, and usage questions.
+
+[M55] Write a product bundle pitch for [PRODUCT 1] + [PRODUCT 2] + [PRODUCT 3]. Bundle name, combined value vs bundle price, each item's benefit, and urgency.
+
+[M56] Create a competitor analysis post template for [INDUSTRY]. Format: neutral comparison table with 7 criteria. Position [YOUR BRAND] favorably but honestly.
+
+[M57] Write 10 Instagram story poll/quiz ideas for [BRAND] that increase engagement and gather customer insight about [PRODUCT/SERVICE].
+
+[M58] Generate a "behind the scenes" content series plan (5 posts) for [BUSINESS TYPE]. Show: process, team, mistakes, wins, and customer stories.
+
+[M59] Write a post-purchase email sequence (3 emails) for [PRODUCT]. Email 1: Thank you + how to use. Email 2: Tips for best results. Email 3: Review request + upsell.
+
+[M60] Create 5 different value proposition statements for [PRODUCT] targeting these 5 audiences: [AUDIENCE 1-5]. Each statement unique to that audience's core need.
+
+[M61] Write a "Top 10" listicle blog post about [TOPIC IN NICHE]. Each item: 2-3 sentences. SEO optimized. Target keyword: [KEYWORD]. Include intro and conclusion.
+
+[M62] Generate a contest/giveaway campaign for [BRAND] on Instagram. Include: prize, entry rules, announcement post, reminder post, and winner announcement post.
+
+[M63] Write 5 different price anchoring scripts for a sales call/presentation for [PRODUCT] priced at [PRICE]. Make the price feel like obvious value.
+
+[M64] Create a "this or that" content series (10 posts) for [NICHE] that sparks debate and shares. Format for Instagram Stories and LinkedIn polls.
+
+[M65] Write a LinkedIn thought leadership post for [PROFESSIONAL] in [INDUSTRY] about [INSIGHT/LESSON]. Style: personal story → insight → actionable takeaway. Max 600 words.
+
+[M66] Generate 10 headline formulas with fill-in-the-blank templates for [INDUSTRY] that work across ads, emails, and landing pages.
+
+[M67] Write a "results in advance" post for [PRODUCT/SERVICE]. Show a transformation. Before: [STRUGGLE]. After: [RESULT]. Proof: [METRIC]. CTA: [ACTION].
+
+[M68] Create a seasonal product bundle for [BUSINESS] for [SEASON]. Bundle: 3-5 products, bundle name, discount structure, promotional copy, and urgency deadline.
+
+[M69] Write 10 "micro-commitment" CTAs for [WEBSITE/APP] that get small yeses before asking for purchase. Progression: awareness → interest → desire → action.
+
+[M70] Generate a "Customer Avatar" for [BUSINESS]. Include: demographics, psychographics, pain points (5), desires (5), objections (5), where they hang out online.
+
+[M71] Write a promotional video script (2 minutes) for [PRODUCT]. Structure: hook (15s), problem (20s), solution intro (20s), features (30s), testimonials (15s), offer (20s).
+
+[M72] Create a flash sale email campaign (3 emails in 24 hours) for [PRODUCT]. Email 1: Sale launch. Email 2: Midday reminder. Email 3: Last 2 hours.
+
+[M73] Write 10 "open loop" email subject lines for [PRODUCT CATEGORY] that create extreme curiosity and must be opened.
+
+[M74] Generate a complete Gumroad product page for [DIGITAL PRODUCT]. Include: title, short description, long description, 5 bullet benefits, FAQ (5 Qs), and price recommendation.
+
+[M75] Write a "lessons learned" post for [ENTREPRENEUR/BRAND] about [CHALLENGE/FAILURE]. Style: vulnerable, specific, 3-5 lessons, each with actionable takeaway.
+
+[M76] Create a launch week social media plan for [PRODUCT] across Instagram + LinkedIn + Twitter. 7 days × 3 platforms = 21 posts. Include post content outlines.
+
+[M77] Write 5 storytelling frameworks for [BRAND] content: hero's journey, problem-solution, before-after-bridge, curious case study, and the "what if" scenario.
+
+[M78] Generate a "social proof wall" copy for [WEBSITE]. 10 testimonials template with placeholders for name, result, specific outcome, and star rating.
+
+[M79] Write a SaaS trial-to-paid conversion email sequence (5 emails) for [SOFTWARE]. Day 1, 3, 7, 12, 14. Each email focuses on different value driver.
+
+[M80] Create a complete Black Friday + Cyber Monday promotional calendar for [BUSINESS]. Include: offer, creative angle, email, social, and SMS for each day Nov 25-28.
+
+[M81] Write 10 "educational" Instagram carousel post outlines for [NICHE]. Each: title, 8 slides content outline, last slide CTA. Topic suggestions included.
+
+[M82] Generate a cross-sell email for [MAIN PRODUCT] buyers recommending [RELATED PRODUCT]. Timing: 7 days after purchase. Frame as natural next step.
+
+[M83] Write a "Top mistakes" post for [TARGET AUDIENCE] in [NICHE]. 5-7 mistakes. Each: mistake headline, why it happens, simple fix. Format: carousel or blog.
+
+[M84] Create a product photography brief for [PRODUCT] for AI image generation or human photographer. Mood, colors, props, angles, lighting, lifestyle scenario.
+
+[M85] Write 5 different ways to announce a price increase for [PRODUCT/SERVICE] that minimize churn and maintain customer goodwill. Tones: grateful, confident, apologetic, value-focused, honest.
+
+[M86] Generate a "sneak peek" campaign for [UPCOMING PRODUCT LAUNCH]. 5 teaser posts over 2 weeks. Reveal a little more each time. Build anticipation.
+
+[M87] Write a sponsored newsletter section for [BRAND] targeting [NEWSLETTER AUDIENCE]. Max 200 words. Single focus, clear offer, trackable CTA.
+
+[M88] Create a "best of" compilation post for [BRAND'S] top content from [MONTH/YEAR]. Format for LinkedIn article, Instagram carousel, or email newsletter.
+
+[M89] Write 10 "power hour" prompts for a ChatGPT marketing session focused on [PRODUCT]. Each prompt builds on previous output to create full campaign in 60 minutes.
+
+[M90] Generate a word-of-mouth marketing script for [BUSINESS] to teach customers exactly how to refer friends. Simple, specific, shareable.
+
+[M91] Write a "how we built [PRODUCT/BRAND]" long-form post for LinkedIn/Medium. Milestones, struggles, lessons, key decisions, and where you're headed.
+
+[M92] Create 10 carousel post concepts for [NICHE] on Instagram that are highly shareable because they teach something actionable in under 10 slides.
+
+[M93] Write a "Thank you" page copy for after [FREE DOWNLOAD/PURCHASE]. Include: confirmation, what happens next, bonus surprise offer, social sharing nudge.
+
+[M94] Generate an email newsletter welcome sequence (5 emails) for [BRAND]. Day 1, 3, 7, 14, 21. Each email deepens relationship and moves toward first purchase.
+
+[M95] Write a community welcome post for new members of [FACEBOOK GROUP/DISCORD/SLACK] for [BRAND]. Include: rules, resources, introduce yourself prompt, CTA.
+
+[M96] Create a quarterly marketing OKR template for [BUSINESS TYPE] with objectives, key results, initiatives, and tracking metrics. One page format.
+
+[M97] Write 5 "transformation" ad scripts for [PRODUCT] showing before/after. Each 30-60 seconds for Instagram/TikTok. Different emotional angle each.
+
+[M98] Generate a viral "hot take" post for [NICHE] that challenges conventional wisdom. Bold claim, supporting logic, invitation to debate. LinkedIn or Twitter format.
+
+[M99] Write a Mother's Day / Father's Day / Valentine's Day gift guide for [STORE] featuring [PRODUCT TYPES]. Intro, 5-10 products, each with emotional description and price.
+
+[M100] Create a complete 90-day marketing plan for a new [BUSINESS TYPE] with zero budget. Month 1: build. Month 2: grow. Month 3: scale. Tactics, channels, and milestones.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SECTION 2: SALES & CONVERSION (100 Prompts)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[S01] Write a sales script for [PRODUCT/SERVICE] priced at [PRICE]. Opening: build rapport. Middle: uncover pain, present solution. Close: handle top 3 objections + ask for the sale.
+
+[S02] Create a high-converting sales page for [PRODUCT]. Structure: headline → subheadline → pain agitation → solution → features & benefits → social proof → offer → guarantee → FAQ → CTA.
+
+[S03] Write 5 different ways to handle the objection "It's too expensive" for [PRODUCT] priced [PRICE]. Each response reframes value differently.
+
+[S04] Generate a discovery call script for [SERVICE BUSINESS]. Questions to ask prospect: 5 problem questions, 3 implication questions, 2 need-payoff questions (SPIN method).
+
+[S05] Write a proposal email for [SERVICE] for [CLIENT TYPE]. Include: understanding of their problem, your solution, timeline, deliverables, price, and next step.
+
+[S06] Create a "value ladder" strategy for [BUSINESS]. Products/services from free → low-ticket → mid-ticket → high-ticket → premium. Each with description and price range.
+
+[S07] Write a product demo script for [SOFTWARE/PRODUCT]. Duration: 20 minutes. Cover: core problem, product overview, 3 key features, live demo scenario, Q&A setup.
+
+[S08] Generate 5 ways to create urgency ethically for [PRODUCT] without fake countdown timers. Real scarcity, real deadlines, real bonuses.
+
+[S09] Write a "diagnostic" questionnaire for [SERVICE] prospects. 10 questions that help them self-identify they need you. Last question leads naturally to booking a call.
+
+[S10] Create a sales email for [PRODUCT] using the PAS formula (Problem, Agitation, Solution). Target: [AUDIENCE]. Pain: [SPECIFIC PAIN]. Price: [PRICE]. CTA: [CTA].
+
+[S11] Write a pitch deck outline for [BUSINESS] seeking [INVESTMENT/PARTNERSHIP]. 10 slides: problem, solution, market, product, traction, team, financials, ask.
+
+[S12] Generate 10 "closing lines" for sales conversations that feel natural, not pushy. Situations: hesitant buyer, budget concern, needs to think, comparing options.
+
+[S13] Write a DM sales script for Instagram/LinkedIn to convert [TARGET AUDIENCE] to [SERVICE/PRODUCT]. Cold → warm → offer → close. Max 5 message exchange.
+
+[S14] Create an upsell offer for someone who just purchased [PRODUCT]. New offer: [UPSELL PRODUCT] at [PRICE]. Frame as logical next step. Urgency: one-time offer.
+
+[S15] Write a "free strategy session" landing page for [SERVICE BUSINESS]. Who it's for, what they'll get, what happens on the call, and calendar booking section.
+
+[S16] Generate 5 reactivation scripts for dormant leads who expressed interest in [PRODUCT/SERVICE] 3-6 months ago. Different angles: new offer, case study, re-engagement.
+
+[S17] Write a "ROI justification" email for [B2B SERVICE]. Help prospect show their boss/CFO why [PRICE] makes business sense. Include ROI calculation template.
+
+[S18] Create a testimonial request message (post-sale) for [PRODUCT]. Ask for: specific result achieved, problem it solved, who they'd recommend it to.
+
+[S19] Write 5 follow-up email variations for a sales proposal sent 3 days ago with no response. Each with different angle: value add, new insight, case study, soft urgency, direct ask.
+
+[S20] Generate an objection handling cheat sheet for [PRODUCT/SERVICE]. Top 10 objections with 2 responses each. Include: price, timing, competitors, "not sure," "need approval."
+
+[S21] Write a "show and tell" sales presentation outline for [PRODUCT]. Format: 15-minute presentation + 15-minute Q&A. Lead with outcome, not features.
+
+[S22] Create a checkout page copy for [DIGITAL PRODUCT] priced at [PRICE]. Include: what they're getting, value stack summary, guarantee, security badges copy, final CTA.
+
+[S23] Write a "warm intro" email to [PROSPECT] from a mutual connection. Connection: [NAME]. Service: [YOUR SERVICE]. 3 sentences max. End with calendar link.
+
+[S24] Generate a sales funnel email sequence for [LEAD MAGNET] → [PRODUCT] conversion. 7 emails over 14 days. Progressive value, building to sale.
+
+[S25] Write an order confirmation email for [PRODUCT] purchase. Include: what they bought, access instructions, quick win tip, referral incentive, and support info.
+
+[S26] Create a "scarcity" campaign for [LIMITED PRODUCT/OFFER]. Real reasons for scarcity: [REASON]. Copy for: email, social, SMS, checkout page.
+
+[S27] Write a "bundle or single" decision page copy for [PRODUCT]. Help buyer self-select the right option. Single: [PRICE]. Bundle: [PRICE]. Feature comparison table.
+
+[S28] Generate a WhatsApp broadcast script for [PRODUCT LAUNCH] to existing customers. Max 200 characters. Personalized opener, offer, link. Follow-up message for non-openers.
+
+[S29] Write a sales page headline split test. Create 10 headline variations for [PRODUCT] covering: benefit, curiosity, social proof, number, question, bold claim, story, fear, and identity.
+
+[S30] Create a "case study" style sales email for [SERVICE]. Client: [TYPE]. Before: [STRUGGLE]. Solution: [YOUR SERVICE]. Result: [OUTCOME]. Offer reader same result.
+
+[S31] Write a podcast guest pitch for [PODCAST NAME] by [YOUR NAME]. Include: your expertise, episode idea, why it serves their audience, and social proof.
+
+[S32] Generate a "social selling" content strategy for LinkedIn for [B2B SERVICE]. Weekly content cadence: educational, personal, promotional, case study, engagement.
+
+[S33] Write a video sales letter (VSL) script for [PRODUCT] priced [PRICE]. Duration: 10-15 minutes. Hook, pain, story, solution, offer, guarantee, close.
+
+[S34] Create a "product box" unboxing script for a customer's first experience with [PHYSICAL/DIGITAL PRODUCT]. Make it magical. Sequence, copy, surprise element.
+
+[S35] Write 5 different subject lines for a "cart abandoned" email for [PRODUCT]. Each uses different psychological trigger: curiosity, FOMO, humor, straight benefit, empathy.
+
+[S36] Generate a high-ticket offer ($1000+) description for [SERVICE/PROGRAM]. Who it's for, what's included, transformation promised, why the price is justified, application process.
+
+[S37] Write a sales objection response for "I can find this for free online." [PRODUCT]. Address: curation value, time saved, quality difference, your unique angle.
+
+[S38] Create a referral request script for existing happy customers of [BUSINESS]. Ask naturally without feeling pushy. Incentive: [REWARD]. Template they can send.
+
+[S39] Write a "try before you buy" offer copy for [PRODUCT/SERVICE]. Trial terms: [DAYS]. What happens after trial. How to convert. Risk reversal language.
+
+[S40] Generate a B2B cold email for [SERVICE] targeting [COMPANY TYPE] and [DECISION MAKER TITLE]. Subject line, opening line, 2-sentence value prop, soft CTA.
+
+[S41] Write a one-page sales sheet for [PRODUCT/SERVICE] for PDF download or print. Headline, problem, solution, 3 key benefits, social proof, pricing, CTA.
+
+[S42] Create a "closing the year" sales campaign for December targeting existing customers of [BUSINESS]. Offer: [DEAL]. Frame: gift to themselves, new year ready.
+
+[S43] Write 10 Instagram DM scripts for [SERVICE PROVIDER] to respond to story viewers who engage with content. Convert conversation to booking within 3-4 messages.
+
+[S44] Generate a discovery questionnaire for new [FREELANCER TYPE] clients. 8-10 questions covering: project goals, timeline, budget, decision makers, past experience.
+
+[S45] Write a "no-brainer" offer structure for [PRODUCT] using Alex Hormozi's $100M offer framework. Dream outcome, likelihood of achievement, time delay, effort/sacrifice.
+
+[S46] Create a "fast action bonus" campaign for [PRODUCT LAUNCH]. 3 bonuses for first [NUMBER] buyers. Each bonus: name, value, why it accelerates their success.
+
+[S47] Write a product guarantee copy for [PRODUCT]. Options: money-back, results-based, satisfaction. Make risk reversal feel complete and confident.
+
+[S48] Generate a "reasons to buy now" list for [PRODUCT]. 10 compelling, honest reasons why waiting costs more than buying today.
+
+[S49] Write a re-engagement sales sequence for email list subscribers who haven't opened in 60 days. 3 emails: re-introduce, value, last chance (clean list).
+
+[S50] Create a service package menu for [FREELANCER/AGENCY] with 3 tiers: Starter, Growth, and Premium. Each tier: deliverables, timeline, price, best for who.
+
+[S51] Write a "special offer" for first-time buyers of [BUSINESS]. Limited time. Bundle value vs price. Why now. What they miss if they don't act.
+
+[S52] Generate a DM conversation starter for [NICHE] creators to naturally lead to [YOUR SERVICE]. Not salesy. Genuine conversation → value → soft offer.
+
+[S53] Write a payment plan pitch for [HIGH-TICKET PRODUCT] priced at [PRICE]. Monthly option: [MONTHLY PRICE]. Frame affordability without devaluing.
+
+[S54] Create a "results in advance" mini-challenge for [BUSINESS]. Free 3-day challenge. Each day gives quick win. Day 3: introduce paid offer as next step.
+
+[S55] Write an application funnel page for [PREMIUM SERVICE/PROGRAM]. Position high-ticket. "Not for everyone." Qualify before applying. Application questions.
+
+[S56] Generate a product FAQ page for [PRODUCT] on [MARKETPLACE/WEBSITE]. 15 questions covering: what is it, who needs it, how to use, results, guarantee, comparison.
+
+[S57] Write a "sell the transformation, not the product" copy for [PRODUCT]. Lead with outcome. Describe life after purchase. Then reveal the vehicle.
+
+[S58] Create a sales script for a [WEBINAR] ending with offer for [PRODUCT]. Duration: last 15 minutes of webinar. Transition from content to offer smoothly.
+
+[S59] Write 5 different price reveal scripts for [PRODUCT] at [PRICE POINT]. Each reveals price with different anchoring or reframing technique.
+
+[S60] Generate a "hot offer" landing page copy for a 48-hour flash sale of [PRODUCT]. Urgency real: [REASON]. Discount: [%]. Outcome: [BENEFIT]. CTA: [ACTION].
+
+[S61] Write a pitch for getting stocked in [RETAIL STORE TYPE]. [YOUR PRODUCT]. Wholesale price. Margin for retailer. Why it moves. Social proof. Sample offer.
+
+[S62] Create a "free plus shipping" offer copy for [PHYSICAL PRODUCT]. What they get free, what they pay ($X shipping), why free, upsell at checkout.
+
+[S63] Write 10 closing questions for a sales call that move hesitant prospects toward a yes without pressure. Open-ended, values-based, future-paced questions.
+
+[S64] Generate a profit calculator for [SERVICE]. Help prospects calculate their ROI from hiring you. Input: current revenue/cost. Output: projected improvement. Simple math.
+
+[S65] Write a "lost deal" follow-up email for a prospect who chose a competitor 6 months ago. Re-engage with: new offer, fresh result, changed circumstances angle.
+
+[S66] Create a "daily deal" email for an ecommerce brand featuring [PRODUCT TYPE]. Punchy subject line, one product, one deal, one CTA. Max 200 words.
+
+[S67] Write a webinar registration confirmation email for [WEBINAR NAME]. Confirm details, add to calendar link, 3 things to prepare, reminder to show up live.
+
+[S68] Generate a sales email for [PRODUCT] using story format. Story: [CHARACTER] had [PROBLEM]. Tried everything. Found [PRODUCT]. Result: [OUTCOME]. You can have same.
+
+[S69] Write a "lifetime deal" pitch for [SOFTWARE/PRODUCT]. One-time price vs monthly cost comparison. Urgency: why it's available now. Future value of product.
+
+[S70] Create an NDA/scope-of-work template intro paragraph for [FREELANCER TYPE] that sounds professional and sets clear expectations from day one.
+
+[S71] Write a "surprise and delight" post-purchase experience for [ECOMMERCE BRAND]. Unexpected gift, handwritten note copy, loyalty invite, early access offer.
+
+[S72] Generate a "not now" auto-reply sequence for leads who say "maybe later." 3 follow-ups: 30 days, 60 days, 90 days. Each offers fresh angle or incentive.
+
+[S73] Write a joint venture proposal for [YOUR BUSINESS] to [PARTNER BUSINESS]. Combined audience opportunity. Revenue share model. Co-branded offer structure. Win-win framing.
+
+[S74] Create a "social proof" landing page section using different proof types: testimonials, numbers, media logos, case studies, star ratings, social counts.
+
+[S75] Write a Calendly/booking page description for [YOUR SERVICE]. Tell visitor: what the call is, who it's for, what they'll learn/get, and what happens after.
+
+[S76] Generate 5 ways to increase average order value for [ECOMMERCE/DIGITAL PRODUCT STORE]. Bundles, upsells, cross-sells, quantity discounts, subscription options.
+
+[S77] Write a "personal brand pitch" for [YOUR NAME] in [NICHE]. 1-minute read. Who you are, who you help, how you help them, proof of results, what to do next.
+
+[S78] Create a "momentum" email for mid-launch of [PRODUCT LAUNCH]. Day 3 of 5-day launch. Testimonials from early buyers. Address top objection. Reinforce value.
+
+[S79] Write a strategic partnership email for [BRAND A] to [BRAND B] with complementary audiences. Collaboration idea, mutual benefit, proposed next step.
+
+[S80] Generate an evergreen webinar follow-up sequence for [WEBINAR + PRODUCT]. Attendee didn't buy live. 5 emails over 7 days. Different angle each email.
+
+[S81] Write a "starter offer" for a new service business building first clients. Low price, high value, easy yes. Goal: testimonials + cash flow + relationship.
+
+[S82] Create a "last chance" email for an offer expiring today at midnight for [PRODUCT]. Urgency is real. Remind what they're losing. Make it personal. One clear CTA.
+
+[S83] Write an invoice follow-up email for overdue payment from [CLIENT TYPE]. Professional. Firm. Non-confrontational. Clear next steps.
+
+[S84] Generate a "sold out" or "waitlist" page for [PRODUCT]. Thank you for interest. What it means (validate). What to expect. Join waitlist CTA.
+
+[S85] Write a "challenge" sales copy for [PRODUCT] structured as a bet. "I bet that in [DAYS] you'll [RESULT] or your money back." High confidence close.
+
+[S86] Create a B2B LinkedIn InMail template for [SERVICE] targeting [TITLE] at [COMPANY SIZE]. Max 300 words. Personalized opener, 2-sentence value, soft ask.
+
+[S87] Write a "year in review" email for [BUSINESS] showing progress, wins, and community impact. End with: upcoming offer or opportunity for [NEXT YEAR].
+
+[S88] Generate a "comparison shopping" email for prospects evaluating [YOUR PRODUCT] vs alternatives. Honest comparison. Your unique angle wins on [CRITERIA].
+
+[S89] Write a "how it works" section for [SERVICE/PRODUCT] website. 3-4 simple steps. Each step: icon idea, headline, 1 sentence description. Remove friction.
+
+[S90] Create a founding member offer for [NEW PRODUCT/COMMUNITY]. Early access, locked-in price, beta feedback role. Who they are and why you want them.
+
+[S91] Write a "success story spotlight" email featuring one customer of [BUSINESS]. Their story, their result, quote from them, how others can get same result.
+
+[S92] Generate a "day in the life" post for [CUSTOMER AVATAR] before and after using [PRODUCT/SERVICE]. Morning to evening. Make the after vivid and desirable.
+
+[S93] Write a negotiation email response for [CLIENT] asking for discount on [SERVICE]. Counter without discounting: add value, adjust scope, offer payment plan.
+
+[S94] Create a "what's included" section for [COURSE/PROGRAM]. Each module/bonus with: title, what they learn, format, time to complete, transformation per module.
+
+[S95] Write a social media "launch announcement" post for [PRODUCT]. Platform: Instagram. Hook: [RESULT]. Story: why you made it. Offer: [WHAT IT IS]. CTA.
+
+[S96] Generate an email to past clients offering a new service or upgraded offer. Reconnect warmly. Reference past work. Introduce new value. Soft proposal.
+
+[S97] Write a "buyer's remorse prevention" email for [PRODUCT]. Sent 1 hour post-purchase. Reaffirm decision, set expectations, first action to take, support promise.
+
+[S98] Create a "gift card" campaign copy for [BUSINESS] for holiday gifting. Who it's perfect for, how to purchase, how to send, custom message option.
+
+[S99] Write a "student success story" for [COURSE/PROGRAM]. Template: who they were before, what they struggled with, what changed in the program, result after.
+
+[S100] Generate a complete "launch sequence" email calendar for [PRODUCT] — 14-day launch. Pre-launch (days 1-7), launch week (days 8-12), close (days 13-14). One sentence per email.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SECTION 3: SOCIAL MEDIA CONTENT (100 Prompts)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[C01] Write 30 Instagram caption hooks for [NICHE] content. One per day for a month. Mix: questions, bold statements, stories, statistics, and pattern interrupts.
+
+[C02] Generate a viral Twitter/X thread outline for [TOPIC]. 15 tweets. Tweet 1: bold hook. Tweets 2-13: expanding ideas. Tweet 14: summary. Tweet 15: CTA.
+
+[C03] Create a 7-day Instagram Reels content plan for [BUSINESS]. Each reel: hook text, visual concept, audio style, caption outline. Format: entertainment + education.
+
+[C04] Write 20 LinkedIn post hooks for [PROFESSIONAL NICHE] that drive high engagement. Types: controversial, insight, story opener, question, and data point.
+
+[C05] Generate a Pinterest board strategy for [BRAND] with 10 board names, pin types for each, and description for each board. SEO keywords included.
+
+[C06] Create 15 TikTok video concepts for [PRODUCT/SERVICE]. Each: hook (first 3 seconds), content outline, trending sound type, hashtag set.
+
+[C07] Write a YouTube Shorts script series (10 videos) about [TOPIC]. Each 60 seconds max. Hook, 3 key points, CTA. Series builds on each other.
+
+[C08] Generate 10 Instagram carousel concepts for [NICHE]. Each: title slide, 7-slide content outline, last slide CTA. Topic: educational, inspirational, or practical.
+
+[C09] Create a 30-day LinkedIn content calendar for [PROFESSIONAL] posting 5x per week. Mix of: personal wins, industry insights, how-tos, stories, and engagement posts.
+
+[C10] Write 20 Instagram Story content ideas for [BRAND]. Include: polls, quizzes, countdowns, behind-the-scenes, Q&As, product features, and personal touches.
+
+[C11] Generate a Facebook Group content strategy for [COMMUNITY] in [NICHE]. Weekly post types: welcome, challenge, tip, win share, Q&A, promotion. Post templates.
+
+[C12] Create 10 "educational" Reels concepts for [PRODUCT/SERVICE] that teach something in 30-60 seconds. Each one leaves viewer wanting to know more.
+
+[C13] Write 5 viral-worthy tweet formats for [EXPERT IN NICHE] that get reshared. Formats: unpopular opinion, life advice, industry hot take, comparison, and counter-intuitive tip.
+
+[C14] Generate an Instagram bio rewrite for [BRAND] in 3 versions. Version 1: benefit-focused. Version 2: identity-focused. Version 3: story-focused. Each max 150 characters.
+
+[C15] Create a hashtag research strategy for [NICHE] on Instagram. Categories: mega (1M+), large (100k-1M), medium (10k-100k), small (1k-10k), brand hashtag. 5 each.
+
+[C16] Write 10 "comment pod" starter questions for [NICHE] Instagram posts that generate 50+ comments. Questions that demand personal answers, not just yes/no.
+
+[C17] Generate a content repurposing strategy for [ONE PIECE OF CONTENT]: long blog → 5 Instagram posts, 1 Twitter thread, 3 short videos, 2 email newsletters.
+
+[C18] Create a YouTube channel content strategy for [NICHE] with 12 video ideas for the first 3 months. Mix: trending topics, evergreen content, personal story, tutorial.
+
+[C19] Write 20 "swipe-worthy" Instagram tips posts for [TOPIC]. Each tip: 1 headline, 2-3 sentence explanation. Format for carousel or static post.
+
+[C20] Generate a social media crisis response template for [BRAND] facing negative feedback on [PLATFORM]. Acknowledge, apologize (if warranted), action plan.
+
+[C21] Create a "collab" content strategy for [CREATOR] to partner with 3 similar-sized creators in [NICHE]. Format: IG Live, Reel duet, or cross-post strategy.
+
+[C22] Write 5 YouTube video description templates for [CHANNEL TYPE] that are fully SEO-optimized. Keyword placement, timestamps, links, CTA, subscribe prompt.
+
+[C23] Generate a Discord community launch strategy for [BRAND]. Channels to create, welcome message, first week events, engagement mechanics.
+
+[C24] Create a "day in the life" Vlog/Reel script for [CREATOR IN NICHE]. Morning to evening. Shows work, personality, product use naturally. 60-90 seconds.
+
+[C25] Write a Substack newsletter strategy for [EXPERT/BRAND] in [NICHE]. Content pillars (3), posting frequency, free vs paid content split, growth tactics.
+
+[C26] Generate a "Challenge" campaign for [BRAND] on TikTok. Challenge name, how to participate, branded hashtag, prize/incentive, seed post by brand.
+
+[C27] Create 10 Instagram Reel ideas for [LOCAL BUSINESS] that showcase expertise and attract local customers. Ideas for: restaurant, salon, fitness studio, retail.
+
+[C28] Write a "product reveal" Reel/TikTok script for [NEW PRODUCT]. Duration: 30 seconds. Tease → reveal → key benefit → where to get it. Hook + music choice.
+
+[C29] Generate 15 "fill in the blank" engagement posts for [NICHE] Instagram. Example: "My biggest [NICHE] mistake was ____." Drives comment volume.
+
+[C30] Create a social media "audit" checklist for [BRAND]. 20 items to check across profile, content quality, engagement, posting frequency, analytics, and CTAs.
+
+[C31] Write a "content series" plan for [BRAND] for 3 months. 3 series × 8 posts each. Each series has a theme, format, and goal. Posting schedule.
+
+[C32] Generate 10 "behind the brand" content ideas for [BUSINESS]. Show: founding story, process, team, values, mistakes, customer stories, supplier visits.
+
+[C33] Create a LinkedIn company page strategy for [BUSINESS]. Content mix, posting schedule, employee advocacy plan, LinkedIn newsletter, and lead gen CTA.
+
+[C34] Write a "controversial opinion" post for [NICHE EXPERT] on [TOPIC]. Structure: bold claim, 3 supporting arguments, acknowledge counterpoint, invite debate.
+
+[C35] Generate a "seasonal content calendar" for [BRAND] for [MONTH]. Every day has a content hook based on: national days, trending topics, brand themes.
+
+[C36] Create a UGC (user-generated content) campaign for [PRODUCT]. Ask customers to post [ACTION]. Hashtag: [HASHTAG]. Incentive: [REWARD]. Repost strategy.
+
+[C37] Write 10 Instagram caption templates for product posts for [PRODUCT TYPE]. Mix: storytelling, benefit-led, social proof, question, lifestyle, and educational.
+
+[C38] Generate a Reels growth strategy for [NEW ACCOUNT] in [NICHE]. First 30 days. Content types, posting frequency, collaboration tactics, trending audio strategy.
+
+[C39] Create a "quote card" content series for [BRAND]. 20 original quotes related to [BRAND VALUES]. Format: who said it, why it matters to your audience.
+
+[C40] Write a "this week on [BRAND]" weekly recap social post. Highlight: top content, product feature, community win, and what's coming next week.
+
+[C41] Generate 10 "pain point" social posts for [TARGET AUDIENCE] in [NICHE]. Each post: identify pain → validate → tease solution. Format: Instagram or LinkedIn.
+
+[C42] Create a Twitter/X growth strategy for [PERSONAL BRAND] in [NICHE]. Content types, posting cadence, engagement tactics, reply strategy, thread frequency.
+
+[C43] Write 5 "reaction" video concepts for [NICHE CREATOR] reacting to [TRENDING TOPIC/VIRAL CONTENT]. Each: hook, reaction angle, your unique take, CTA.
+
+[C44] Generate a social media "FAQ" series for [BUSINESS]. 10 posts, each answers one customer question in engaging format. Format: Reel, carousel, or story.
+
+[C45] Create a "product demo" social media series for [PRODUCT LINE]. 5 posts showing different use cases. Each: setup shot, process, result, one-line benefit.
+
+[C46] Write a Notion content planning template for a [CREATOR/BRAND] managing 3 platforms. Columns: platform, topic, format, status, publish date, performance notes.
+
+[C47] Generate 10 "milestone celebration" post templates for [BUSINESS]. 100 sales, 1k followers, 1 year, etc. Each: announce achievement, thank audience, tease what's next.
+
+[C48] Create a "trend hijacking" content strategy for [BRAND]. How to ethically jump on 3 current trends in [MONTH] while staying on brand. Post format and script.
+
+[C49] Write 5 Instagram Live show formats for [EXPERT IN NICHE]. Each: show name, format, duration, recurring topics, how to promote, and convert viewers to buyers.
+
+[C50] Generate a cross-platform content strategy for [BRAND] on Instagram + Pinterest + YouTube. How same content is adapted for each platform's unique audience.
+
+[C51] Create a "motivational monday" content series for [NICHE]. 8 posts. Each: story, lesson, actionable tip, call to comment. Format: carousel or Reel.
+
+[C52] Write a podcast promotional social series for [PODCAST] for new episode about [TOPIC]. Audiogram, quote card, behind-the-scenes, key takeaway posts.
+
+[C53] Generate a "team intro" social media series for [BUSINESS]. Feature each team member: role, fun fact, their contribution, and what they love about the company.
+
+[C54] Create a product "comparison" Reel/TikTok for [PRODUCT] vs [ALTERNATIVE]. Neutral tone. Show actual difference. Let product speak. Not bashing competitor.
+
+[C55] Write 20 short caption hooks specifically for Pinterest pins in [NICHE]. Format: curiosity + benefit. Under 100 characters each. SEO keywords included.
+
+[C56] Generate a "monthly wrap-up" social post template for [CREATOR/BRAND]. What happened, top content, top product, lesson learned, goal for next month.
+
+[C57] Create a "customer of the month" social media feature template for [BUSINESS]. Story, result, quote, photo placeholder, tag/shoutout structure.
+
+[C58] Write a social proof "numbers" post for [BRAND]. Milestone: [NUMBER] customers/sales/followers. Format: creative visual script + caption. Make the number feel huge.
+
+[C59] Generate 10 "thought leadership" post concepts for [EXECUTIVE/FOUNDER] in [INDUSTRY]. Mix: prediction, opinion, lesson, trend analysis, and industry challenge.
+
+[C60] Create a content strategy for building "Know, Like, Trust" for [PERSONAL BRAND] over 90 days. Month 1: know. Month 2: like. Month 3: trust + conversion.
+
+[C61] Write 5 "myth vs reality" Instagram carousel concepts for [NICHE]. Each: bust 3-5 myths per carousel. Position [BRAND] as truth-teller and authority.
+
+[C62] Generate a "product tutorial" video script for [PRODUCT]. Platform: YouTube (5 min) or Reel (60 sec). Step-by-step. Clear. Show result at the start.
+
+[C63] Create a social media strategy for an [OFFLINE BUSINESS] moving online. First 90 days. Platform choice, content mix, first 10 posts, engagement tactics.
+
+[C64] Write 10 Instagram post concepts specifically designed to drive traffic to a [WEBSITE/GUMROAD STORE]. Each clearly leads to one action.
+
+[C65] Generate a "seasonal transformation" campaign for [PRODUCT/SERVICE] around [SEASON]. Visual theme, caption series, and promotional offer tied to season.
+
+[C66] Create a "shop the look" or "shop this post" social strategy for [PRODUCT TYPE] business. How to tag products, optimal image styles, caption formats, story swipe-ups.
+
+[C67] Write 5 "educational thread" concepts for [TOPIC] on LinkedIn or Twitter. Each thread: topic, 10-tweet outline, key visual data, and shareable takeaway.
+
+[C68] Generate 10 "authentic" BTS (behind the scenes) content ideas for [CREATOR]. Show real process, struggles, wins. No filters. Build deeper connection.
+
+[C69] Create a "content bucket" strategy for [BRAND]. Define 5 content buckets, content examples per bucket, percentage of content calendar for each, purpose of each.
+
+[C70] Write a social media "comeback" strategy for [BRAND] returning after [X MONTHS] of no posting. Acknowledge absence, reintroduce, re-engage audience, new direction.
+
+[C71] Generate a "product drop" hype campaign for [LIMITED PRODUCT]. Pre-drop: 5 teaser posts. Drop day: 3 posts. Post-drop: sold out/thank you content.
+
+[C72] Create a YouTube end screen script for [CHANNEL]. "If you liked this video..." CTA options: subscribe, watch next video, get free resource. 20 seconds.
+
+[C73] Write 10 "question" posts for [NICHE] that drive maximum comment engagement. Questions that: reveal dreams, expose struggles, spark debate, invite stories.
+
+[C74] Generate a newsletter to social content pipeline for [BRAND]. How to take weekly email content and repurpose into 7+ social posts across platforms.
+
+[C75] Create a "value bomb" post for [EXPERT] in [NICHE] that provides so much free value people save, share, and follow. Format: list, carousel, or thread.
+
+[C76] Write a "holiday countdown" social series for [BUSINESS] (Christmas, Diwali, etc). 12 days of content: deals, gifts, stories, gratitude, behind-scenes.
+
+[C77] Generate a social listening strategy for [BRAND] to monitor mentions, competitors, and trending topics. Tools to use, keywords to track, response templates.
+
+[C78] Create a "first post" strategy for [NEW BRAND/CREATOR] launching on [PLATFORM]. What to post first, how to introduce yourself, how to get first 100 followers.
+
+[C79] Write a "response to viral moment" post for [BRAND] reacting to a trending topic in [INDUSTRY]. Timely, on-brand, adds unique perspective.
+
+[C80] Generate 5 "educational series" concepts for [NICHE] with 10-post plans each. Each series teaches something valuable and builds over time.
+
+[C81] Create a "monthly challenge" for [COMMUNITY/AUDIENCE]. 30-day challenge name, rules, daily prompts, tracking method, prize, and launch announcement.
+
+[C82] Write a "social media sabbatical" comeback plan for [CREATOR] returning after a break. Acknowledge, reset expectations, new content format, re-engagement campaign.
+
+[C83] Generate a "product photography" caption strategy for [PRODUCT TYPE]. 10 different caption angles for same product photo: story, spec, benefit, mood, question.
+
+[C84] Create an influencer brief for a paid collaboration with [CREATOR NAME] for [BRAND]. Deliverables, key messages, do's and don'ts, creative freedom scope.
+
+[C85] Write a "fan appreciation" content plan for [BRAND] milestone. Thank you post, feature 5 loyal customers, giveaway, exclusive discount, community celebration.
+
+[C86] Generate a "daily motivational" content series for [NICHE] for one month. 30 posts. Each: quote, 1-sentence context, 1-sentence action. Platform: Instagram or LinkedIn.
+
+[C87] Create a "mini-documentary" script for [BRAND STORY] for social media. Duration: 3-5 minutes. Founder interview, process shots, customer impact. Narrative arc.
+
+[C88] Write 10 "open-ended story" Instagram caption starters for [NICHE] that feel so authentic readers finish reading and immediately want to engage.
+
+[C89] Generate a Threads / Mastodon content strategy for [BRAND] exploring new platforms in 2025. How to repurpose, what to test, how to measure if it's worth staying.
+
+[C90] Create a "collab post" template for [BRAND] co-creating content with [PARTNER BRAND]. Joint announcement, value for both audiences, cross-tagging strategy.
+
+[C91] Write a "transformation Tuesday" series plan for [NICHE]. 8 posts showing before/after. Each: short story of transformation, lesson, invitation for followers to share theirs.
+
+[C92] Generate a "seasonal refresh" content strategy for [BRAND] updating profiles, bios, and content style for [NEW SEASON]. Changes to make, new content angles.
+
+[C93] Create a micro-content strategy for [LONG-FORM CREATOR]. Take 1 long video/podcast/blog per week → chop into 15 micro-content pieces for different platforms.
+
+[C94] Write 5 Instagram caption formulas for product posts that combine storytelling + selling naturally. Each formula uses different emotional opening.
+
+[C95] Generate a "weekly wins" accountability post series for [COMMUNITY] in [NICHE]. Template: this week I... I'm grateful for... next week I will... Who's with me?
+
+[C96] Create a "comparison" content series for [BRAND]. Compare: 2 approaches, 2 tools, 2 strategies. Neutral, educational. Position brand expertise without selling.
+
+[C97] Write a "brand collab" announcement post for [BRAND A] + [BRAND B] collaboration. Introduce both brands, the collaboration, what audience gets, CTA.
+
+[C98] Generate 10 "quick tip" Reel scripts for [NICHE]. Each under 30 seconds. Tip, why it works, one-line CTA. Format: talking head, text overlay, or demo.
+
+[C99] Create a social media post for [BUSINESS] announcing new product, new feature, or new service. Platform: Instagram. Hook: solve specific problem. CTA: specific.
+
+[C100] Write a complete social media style guide for [BRAND]. Voice, tone examples, approved words, banned words, emoji usage policy, hashtag rules, visual guidelines.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SECTION 4: EMAIL MARKETING (100 Prompts)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[E01] Write a welcome email for new subscribers to [BRAND] newsletter. Warmth, what to expect, best resources, quick win tip, and personal sign-off.
+
+[E02] Create a 5-email nurture sequence for [LEAD MAGNET] subscribers who haven't purchased. Day 1, 3, 7, 14, 21. Each builds trust before selling.
+
+[E03] Write a "newsletter" template for [BUSINESS TYPE] — weekly edition. Sections: personal note, feature article (short), product spotlight, tip of the week, CTA.
+
+[E04] Generate a re-engagement campaign for cold subscribers (inactive 90+ days). 3 emails: we miss you, your last chance, cleaning the list. Each unique and personal.
+
+[E05] Write a Black Friday email for [PRODUCT/STORE]. Subject line options (5). Pre-header text. Announcement, deal details, expiry, urgency, and CTA.
+
+[E06] Create a post-purchase "thank you + onboard" email for [DIGITAL PRODUCT]. Confirm purchase, deliver access, set expectations, quick start guide, support info.
+
+[E07] Write a weekly digest email template for [CONTENT CREATOR]. Sections: what I published, what I'm reading/watching, one tool, and one quote. Under 400 words.
+
+[E08] Generate an email campaign for [PRODUCT] targeting [SEGMENT OF LIST]. Segment: [e.g., buyers of Product A]. Offer: relevant upsell. Personalization tokens included.
+
+[E09] Write 10 subject line + preview text combinations for a [NICHE] promotional email. Each pair works together for maximum open rate.
+
+[E10] Create a "course launch" email sequence for [ONLINE COURSE]. Emails: Pre-launch value (2), launch announcement, testimonial, objection handling, last chance, doors closed.
+
+[E11] Write a "customer survey" email for [BUSINESS]. Ask: satisfaction, top need, product feedback. Incentive for completing. 3-5 questions max. Friendly tone.
+
+[E12] Generate a "free gift" email for [SUBSCRIBER MILESTONE — e.g., 1000 subscribers]. Celebrate together, reveal the gift, why you're giving it, how to access.
+
+[E13] Write a product recommendation email for [AUDIENCE SEGMENT] based on their past behavior: [WHAT THEY BOUGHT/VIEWED]. Personalized intro + 3 recommendations.
+
+[E14] Create a "daily email" strategy for [BRAND] sending 5 emails per week. Content themes for each day of the week. How to maintain quality and avoid unsubscribes.
+
+[E15] Write a B2B cold email for [SERVICE] sent from [SENDER NAME] at [COMPANY]. Prospect: [ROLE] at [COMPANY TYPE]. Subject: [SUBJECT]. Max 150 words. High relevance.
+
+[E16] Generate an "exclusive members" email for [LOYALTY PROGRAM/VIP LIST]. Benefits, how to join, special offer for first 48 hours, FOMO element.
+
+[E17] Write a cross-sell email for buyers of [PRODUCT A] recommending [PRODUCT B]. 7 days after purchase. Natural bridge from Product A → benefit of Product B.
+
+[E18] Create a "story-based" email for [BRAND] about [CUSTOMER SUCCESS STORY]. Story arc: struggle, discovery, transformation, result. Call to action at end.
+
+[E19] Write 5 "plain text" email templates that feel personal and 1:1. No images, no design. Just copy. For: welcome, follow-up, check-in, offer, feedback request.
+
+[E20] Generate a countdown email for [OFFER EXPIRING]. 72-hour, 24-hour, 1-hour before emails. Each shorter and more urgent than the last.
+
+[E21] Write a "new blog post" announcement email for [BRAND]. Blog post: [TITLE]. Preview 3 key points. Direct link. Why they should read it now.
+
+[E22] Create a "year in review" email for [BUSINESS] to send in December. Milestones, community highlights, top products, thank you, and preview of next year.
+
+[E23] Write a "controversial" email for [EXPERT/BRAND] sharing a bold opinion about [TOPIC IN NICHE]. Make people think. Invite replies. Short, punchy, memorable.
+
+[E24] Generate a "deal of the week" email template for [STORE/CREATOR]. One product, one deal, clear expiry, why this product, and social proof.
+
+[E25] Write a "personal update" email for [CREATOR/ENTREPRENEUR]. Share something personal, connect it to business lesson, make subscriber feel included, soft CTA.
+
+[E26] Create a "content vault" promotional email for [DIGITAL PRODUCT BUNDLE]. What's inside (list), total value vs price, who it's for, bonuses, guarantee.
+
+[E27] Write a "broadcast" announcement email for [BUSINESS EVENT/MILESTONE]. Launch day, funding, partnership, move, rebrand, or product expansion news.
+
+[E28] Generate 10 email opening line variations for [NICHE] that immediately engage the reader and make them want to keep reading. Types: story, stat, question, bold, humor.
+
+[E29] Write a "free masterclass" promotional email for [TOPIC] teaching by [NAME]. Date, time, what they'll learn, who it's for, link to register. Urgency element.
+
+[E30] Create a post-event follow-up email for [WEBINAR/CONFERENCE/WORKSHOP] attendees. Thank, replay link, key takeaways, next step CTA.
+
+[E31] Write a "testimonial collection" email sequence for [BUSINESS]. Email 1: request (day 7 post-purchase). Email 2: reminder (day 14). Email 3: last chance with incentive.
+
+[E32] Generate a "product update" email for [SOFTWARE/SUBSCRIPTION]. New feature announcement. What's new, why it matters, how to use, screenshot placeholder.
+
+[E33] Write an "apology" email for [BUSINESS] after a mistake. Acknowledge error, take responsibility, what you're doing to fix it, compensation offer if applicable.
+
+[E34] Create a "seasonal sale" email campaign for [FESTIVAL] for [ECOMMERCE/DIGITAL STORE]. Sale details, featured products, coupon code, expiry, urgency.
+
+[E35] Write a "long-form value" email for [NICHE EXPERT] sharing a complete tutorial/guide by email. Reads like a mini blog post. No direct selling. Builds authority.
+
+[E36] Generate a "referral ask" email from [BUSINESS] to happy customers. Who to refer, what they get, what their friend gets, referral link/code placeholder.
+
+[E37] Write a "new podcast episode" email announcement for [PODCAST]. Episode: [TITLE]. Guest: [NAME]. 3 key takeaways. Why they should listen. Link.
+
+[E38] Create a "waitlist" email for [UPCOMING PRODUCT]. Confirm on waitlist, what to expect, when doors open, exclusive waitlist benefit, keep them warm tip.
+
+[E39] Write 5 "re-engagement" email subject lines for a list that hasn't opened in 60 days. Must be compelling enough to break through inbox fatigue.
+
+[E40] Generate a "content upgrade" email for [AUDIENCE SEGMENT] who downloaded [FREE RESOURCE]. Deliver more value. Bridge to [PAID OFFER].
+
+[E41] Write a "Monday motivation" weekly email template for [NICHE] audience. Opening mindset shift, week's goal, one action step, relevant product mention. Under 300 words.
+
+[E42] Create an "early bird" offer email for [PRODUCT LAUNCHING SOON]. Early bird price, deadline, what they get, why act now, waitlist to cart conversion.
+
+[E43] Write a "customer interview" email featuring [CUSTOMER NAME] for [BUSINESS]. Q&A format. 5 questions. Their story builds social proof and creates connection.
+
+[E44] Generate a "new course module" email for active [COURSE] students. What's new, how to access, what they'll learn, motivational note, community thread link.
+
+[E45] Write a "soft pitch" email for [AUDIENCE] who are warm but haven't bought. No hard sell. Value first. Mention product as natural solution once at the end.
+
+[E46] Create a "birthday email" campaign for subscribers. Triggered on their signup anniversary. Surprise gift, personal note, product discount code.
+
+[E47] Write a "product bundle announcement" email for [BUSINESS]. New bundle: [PRODUCTS]. Bundle name, total value, bundle price, savings amount, limited time.
+
+[E48] Generate an "ask me anything" email inviting subscribers to reply with questions. Why you're doing it. What happens with answers. Builds engagement and list health.
+
+[E49] Write a "freebie delivery" email for [LEAD MAGNET]. Subject line, access link/attachment, how to use it, next step to get more value, soft brand intro.
+
+[E50] Create a "social proof roundup" email for [BRAND]. 5-7 customer wins from this month. Each: name, result, 1-sentence story. End: how to get same result.
+
+[E51] Write a "product feature spotlight" email for [PRODUCT]. One feature per email. Explain what it does, why it matters, real-life use case, how to access it.
+
+[E52] Generate a "new arrival" email for [STORE] featuring [NEW PRODUCT]. What's new, why you'll love it, first look pricing, link to buy. Fresh and exciting tone.
+
+[E53] Write a "how to get the most out of [PRODUCT]" email for recent buyers. 5 tips. Each actionable. Makes them more successful → better reviews → more loyalty.
+
+[E54] Create a "winter/summer/spring" seasonal email for [NICHE] audience. Connect season to their goals or challenges. Relevant tip + seasonal product recommendation.
+
+[E55] Write a "plain text" breakup email for non-engaged subscribers. "I'll delete your email if you don't click." High open rates. Include: I-miss-you, unsubscribe-or-stay, simple CTA.
+
+[E56] Generate an email for [BUSINESS] announcing a price increase effective [DATE]. Existing customers: lock in current price before. New customers: why price is going up.
+
+[E57] Write a "community highlight" email for [BRAND] featuring wins from [COMMUNITY/GROUP]. Real stories, real names (with permission), invitation to join community.
+
+[E58] Create a "limited time bonus" email for [PRODUCT] — bonus expires in 48 hours. Bonus: [WHAT IT IS]. Value: [PRICE]. Why now. Clear expiry + CTA.
+
+[E59] Write a "free training" email series for [NICHE] audience. 5 emails, one training per email. Each teaches one skill. Builds to offer on email 5.
+
+[E60] Generate a "happy customers" testimonial email for [PRODUCT]. 3 testimonials. Each: name, result, one-liner. Intro: others are getting results, join them.
+
+[E61] Write a "just checking in" email for [SERVICE BUSINESS] to past clients (6+ months no contact). Genuine, no pitch. Ask how they're doing. Rekindle relationship.
+
+[E62] Create a "3 mistakes" email for [NICHE] audience. 3 mistakes your [TARGET AUDIENCE] makes. Each: mistake, why it happens, quick fix. Soft mention of product at end.
+
+[E63] Write a "giveaway" announcement email for [BRAND]. Prize: [WHAT]. How to enter. Duration. Why you're doing it. Link to entry page.
+
+[E64] Generate a "digest" email for [B2B BRAND] compiling top industry news/resources for the week. Curated links, 1-sentence commentary each, brand's unique take.
+
+[E65] Write a "membership renewal" email for [SUBSCRIPTION SERVICE]. Benefits recap, renewal date, what they'll lose, renewal link, and loyalty discount.
+
+[E66] Create a "workshop replay" email for attendees of [EVENT] who registered but couldn't attend live. Replay link, timestamps, key moments, and CTA.
+
+[E67] Write a "gratitude" email for [BUSINESS] during Thanksgiving/Diwali/end of year. What you're grateful for, community wins, thank readers personally, small gift.
+
+[E68] Generate an "exclusive preview" email for VIP list members getting early access to [NEW PRODUCT]. What they're getting, exclusive price, hours of access, simple CTA.
+
+[E69] Write a "how we do [THING]" email for [BRAND]. Transparent process reveal. Behind the scenes. Makes subscribers feel like insiders. Builds trust.
+
+[E70] Create a "daily deal" email structure for ecommerce or digital product [BRAND]. Each email: one product, one deal, expiry time, 3 bullet benefits, buy button.
+
+[E71] Write a "proof of concept" email for [NEW SERVICE/PRODUCT] about to launch. Show early results/beta feedback. Build credibility before official launch.
+
+[E72] Generate a "segmented campaign" for [BUSINESS] targeting 3 different buyer segments. Segment A: [WHO]. Segment B: [WHO]. Segment C: [WHO]. Different email for each.
+
+[E73] Write an "onboarding" email sequence for new users of [APP/SOFTWARE]. 5 emails: welcome, feature 1, feature 2, use case example, check-in + support.
+
+[E74] Create a "collaboration announcement" email for [BRAND A + BRAND B] to both lists. Explain partnership, combined value, new offer, excitement, and CTA.
+
+[E75] Write a "summer / winter slowdown" email for [SERVICE BUSINESS] addressing reduced activity. What you're working on, what's coming, still here for them.
+
+[E76] Generate a "product demo video" email for [PRODUCT]. Subject: watch me do [RESULT]. Short intro. Embed/link to video. What to notice. CTA after watching.
+
+[E77] Write a "reader question answered" email for [EXPERT]. Feature one subscriber question, give thorough answer, invite more questions, related product mention.
+
+[E78] Create a "pre-sell" email for [PRODUCT NOT YET BUILT]. Gauge interest. What you're building, who it's for, waitlist link, founding member perk.
+
+[E79] Write a "free audit" offer email for [SERVICE BUSINESS] targeting [BUSINESS TYPE]. What the audit includes, how to apply, why it's free, what comes after.
+
+[E80] Generate a "challenge completion" email for challenge participants of [BRAND]. Congratulate, showcase wins, graduation bonus offer, invite to next challenge.
+
+[E81] Write a "here's what I'm building" email for [ENTREPRENEUR/CREATOR]. Transparent, exciting, build-in-public approach. Monthly update format.
+
+[E82] Create an "annual subscription" pitch email for monthly subscribers. Savings amount, perks, why lock in now, how to upgrade, deadline.
+
+[E83] Write a "throwback" email for [BRAND]. Feature old content, product, or story. Then: how far you've come, what's changed, what stayed same, gratitude.
+
+[E84] Generate a "product-of-the-week" email series for [STORE]. Week 1-4 emails, each featuring one product. Story behind product, how to use, customer review, CTA.
+
+[E85] Write an "I'm raising my prices" email for [FREELANCER/SERVICE BUSINESS]. When, why, current clients locked in, new clients' new price, transition plan.
+
+[E86] Create a "challenge invitation" email for [BRAND'S FREE CHALLENGE]. What it is, who it's for, what they'll get, dates, how to sign up, what to do before it starts.
+
+[E87] Write a "reader milestone" email for [NEWSLETTER] hitting [NUMBER] subscribers. Celebration, how far we've come, thank you note, sneak peek of what's next.
+
+[E88] Generate a "holiday gift guide" email for [STORE]. Gifts under [PRICE] section, for different recipients (him, her, kids, home), featured products, shop link.
+
+[E89] Write a "here's your [FREEBIE]" email for lead magnet delivery. Warm welcome, deliver the good, quick win instruction, what's coming next, follow us CTA.
+
+[E90] Create a "comeback offer" email for lapsed members of [SUBSCRIPTION/PROGRAM]. How long they've been away, what's new since they left, come back offer, deadline.
+
+[E91] Write a "team behind the brand" email introducing [BUSINESS] team members. One email per person. Role, fun fact, one thing they love about the brand.
+
+[E92] Generate a "real talk" email for [CREATOR] sharing honest challenges of [NICHE/BUSINESS]. Builds deep trust. Invites community support. Shows human side.
+
+[E93] Write a "before the weekend" Friday email for [BRAND]. Short, light, 3 quick things: recommend something, share something, remind of something. Under 200 words.
+
+[E94] Create a "new partnership" announcement email for [BRAND]. Introduce the partner, what you built together, exclusive offer for subscribers, access link.
+
+[E95] Write a "subscriber exclusive" email for [BRAND]. Something non-subscribers don't get. Makes them feel special. Discount, early access, bonus content, or inside info.
+
+[E96] Generate a "content drop" email for [CREATOR] releasing new content on [PLATFORM]. What it is, why they should watch/read it, what they'll learn, link.
+
+[E97] Write a "free resource" library email for [BRAND]. List all free resources available. Link to each. New subscribers especially love this. Shows generosity.
+
+[E98] Create a "case study breakdown" email for [SERVICE BUSINESS]. Client: [TYPE]. Problem. Solution. Process. Result with numbers. Offer same to reader.
+
+[E99] Write a "next chapter" email for [BRAND] announcing a pivot, rebrand, or new direction. Why the change, what stays same, what's new, reader benefit, excitement.
+
+[E100] Generate a "12-month email marketing plan" outline for [BUSINESS]. One email type per month. Mix of: promotions, nurture, celebration, feedback, seasonal, launch.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SECTION 5: BUSINESS OPERATIONS (100 Prompts)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[B01] Create a business plan one-pager for [BUSINESS NAME] in [NICHE]. Problem, solution, market size, revenue model, key metrics, 6-month milestones.
+
+[B02] Write a standard operating procedure (SOP) for [TASK/PROCESS] at [BUSINESS TYPE]. Step-by-step. Assign roles. Include: inputs, process, outputs, quality check.
+
+[B03] Generate a 90-day onboarding plan for a new [EMPLOYEE ROLE] at [COMPANY TYPE]. Week 1: orientation. Month 1: learning. Month 2: doing. Month 3: owning.
+
+[B04] Create a "competitive landscape" analysis template for [INDUSTRY]. 5 competitors. Criteria: price, product, audience, channels, strengths, weaknesses.
+
+[B05] Write a job description for [JOB TITLE] at [COMPANY TYPE]. Responsibilities (5), qualifications (5), nice-to-haves (3), compensation range, culture description.
+
+[B06] Generate a meeting agenda template for a weekly team sync at [COMPANY TYPE]. Sections: wins, blockers, priorities, actions, and announcements. 30 min format.
+
+[B07] Create a KPI dashboard template for [BUSINESS TYPE]. 10 key metrics with: description, how to measure, frequency, target, owner.
+
+[B08] Write a freelancer contract template for [SERVICE TYPE]. Scope, deliverables, timeline, payment terms, revision policy, IP ownership, termination clause.
+
+[B09] Generate a customer service script for [BUSINESS] handling [COMPLAINT TYPE]. Acknowledge, apologize, solve, follow up. Friendly but professional tone.
+
+[B10] Create a brand guideline document outline for [BRAND]. Sections: logo usage, color palette, typography, voice & tone, do's & don'ts, imagery style.
+
+[B11] Write an investor update email template for [STARTUP] to send monthly. Metrics, wins, challenges, asks, and forward-looking statement. Max 300 words.
+
+[B12] Generate a productivity system for a [SOLOPRENEUR/SMALL TEAM]. Tools, routines, weekly planning template, energy management, and weekly review.
+
+[B13] Create a "pricing strategy" for [SERVICE BUSINESS]. 3 tiers. What's included, price, positioning, and who it's for. Why each tier exists.
+
+[B14] Write a refund policy for [DIGITAL PRODUCT/ECOMMERCE STORE]. What qualifies, how to request, timeline, exceptions, and customer-first tone.
+
+[B15] Generate a launch checklist for [NEW PRODUCT/BUSINESS]. Pre-launch (30 days), launch week (7 days), and post-launch (30 days) tasks. 50+ items.
+
+[B16] Create a "hiring process" document for [COMPANY] for [ROLE]. Job post, screening questions, interview stages, decision criteria, offer template.
+
+[B17] Write a partnership agreement outline for [BUSINESS A] + [BUSINESS B]. Revenue split, roles, IP, duration, termination, and dispute resolution.
+
+[B18] Generate a customer journey map for [BUSINESS]. Stages: aware, consider, purchase, use, advocate. Touchpoints, emotions, and optimizations per stage.
+
+[B19] Create a monthly business review template for [SOLOPRENEUR/TEAM]. Revenue, expenses, key wins, lessons, next month focus, and one thing to stop/start/continue.
+
+[B20] Write a "systems audit" for [ONLINE BUSINESS]. Areas: marketing, sales, fulfillment, customer service, finance. Current state, gaps, improvement priority.
+
+[B21] Generate a "delegation guide" for a [FOUNDER] ready to hire. Which tasks to delegate first, how to document them, how to find help, how to manage outcomes.
+
+[B22] Create a crisis communication plan for [BRAND]. Scenarios: product failure, negative press, social media backlash, data breach. Response templates per scenario.
+
+[B23] Write a "supplier outreach" email for [PRODUCT BUSINESS] looking to source [PRODUCT TYPE]. Professional inquiry, quantity estimates, quality requirements, and terms request.
+
+[B24] Generate a "content audit" template for [BRAND]. Inventory of all content, performance scores, keep/update/remove decision, gaps to fill, quick wins.
+
+[B25] Create a "strategic plan" for [BUSINESS] for the next 12 months. Vision, mission, 3 strategic pillars, quarterly goals, metrics, resource needs.
+
+[B26] Write a "client offboarding" process for [SERVICE BUSINESS]. Final deliverables checklist, feedback survey, case study request, referral ask, stay in touch note.
+
+[B27] Generate a "cash flow forecast" template for [SMALL BUSINESS/STARTUP]. Monthly income, expenses, and net cash. 6-month projection. Simple spreadsheet format.
+
+[B28] Create a "brand audit" questionnaire for [COMPANY]. 20 questions covering: positioning, audience clarity, messaging consistency, visual identity, market perception.
+
+[B29] Write a "customer onboarding" SOP for [SERVICE BUSINESS] new clients. Welcome call, kickoff agenda, tool access, expectation document, first week tasks.
+
+[B30] Generate a "content creation" workflow for a [CREATOR/BRAND] team. Roles: strategist, writer, designer, editor, publisher. Stage gates and approval process.
+
+[B31] Create a "subscription business" model outline for [PRODUCT/SERVICE]. Tiers, pricing, billing, churn prevention, upsell opportunities, and LTV calculation.
+
+[B32] Write a "remote work" policy for [COMPANY]. Hours, communication tools, meeting norms, performance metrics, equipment, and culture expectations.
+
+[B33] Generate an "annual goals" planning template for [ENTREPRENEUR]. Personal + business. 3-5 goals per area. SMART format. Quarterly milestones. Weekly habits.
+
+[B34] Create a "product roadmap" template for [DIGITAL PRODUCT/SOFTWARE]. Quarters 1-4. Features, priorities, owner, status, release date. One-page format.
+
+[B35] Write a "brand pitch deck" for [COMPANY] targeting [TYPE OF PARTNER/INVESTOR]. Problem, solution, traction, team, market, and ask. 8-10 slides.
+
+[B36] Generate a "performance review" template for [TEAM MEMBER] at [COMPANY]. Achievements, skills, collaboration, growth areas, goals for next period.
+
+[B37] Create a "day rate" calculation guide for [FREELANCER TYPE]. Expenses, desired income, billable days, overhead, profit margin → recommended day rate.
+
+[B38] Write a "client proposal" template for [SERVICE TYPE]. Problem, solution, approach, timeline, deliverables, team, pricing, and next steps.
+
+[B39] Generate a "community guidelines" document for [ONLINE COMMUNITY] in [NICHE]. Welcome message, rules (10), consequences, moderator role, reporting process.
+
+[B40] Create a "product validation" survey for [NEW PRODUCT IDEA]. 10 questions to gauge demand, pricing tolerance, features wanted, and buying intent.
+
+[B41] Write a "content brief" template for a blog post or video about [TOPIC] for [BRAND]. Title, goal, audience, outline, keywords, tone, and length.
+
+[B42] Generate a "quarterly OKR" template for [TEAM/COMPANY]. 3 objectives. Each with 3 key results. Initiative ideas. Owner. Tracking method.
+
+[B43] Create a "customer segmentation" framework for [BUSINESS]. 4-5 segments based on: behavior, value, lifecycle stage, or demographics. What to offer each.
+
+[B44] Write a "social proof collection" system for [BUSINESS]. How to ask, when to ask, where to store, how to use in marketing. Templates included.
+
+[B45] Generate a "monthly retainer" pitch for [SERVICE BUSINESS]. What's included, why retainer > project work, pricing, engagement process, exit terms.
+
+[B46] Create a "growth hacking" experiment log for [STARTUP]. Hypothesis, channel, tactic, cost, timeline, success metric, result, verdict. 10 experiment template.
+
+[B47] Write a "onboarding email" for a [FREELANCER/CONSULTANT] joining [COMPANY] as contractor. Tools, processes, key contacts, communication norms, first task.
+
+[B48] Generate a "trademark and IP" checklist for [NEW BUSINESS]. What to register, where, timeline, DIY vs lawyer, costs, and renewal reminders.
+
+[B49] Create a "team handbook" outline for [SMALL BUSINESS]. Sections: mission/values, roles, tools, communication, policies, performance, and culture norms.
+
+[B50] Write a "pitch to speak" application for [CONFERENCE/PODCAST] by [SPEAKER NAME] on [TOPIC]. Bio, talk title, abstract, audience benefit, and unique angle.
+
+[B51] Generate a "pricing audit" for [BUSINESS]. Compare to competitors. Calculate true cost. Identify underpriced services. Recommend new pricing with rationale.
+
+[B52] Create a "launch day" checklist for [PRODUCT/BRAND]. Technical, marketing, customer service, analytics, and backup plan. Hour-by-hour schedule.
+
+[B53] Write a "year-end tax prep" checklist for [FREELANCER/SOLOPRENEUR]. Income sources, deductible expenses, documents needed, deadlines, and professional help threshold.
+
+[B54] Generate a "market entry" strategy for [PRODUCT/BRAND] entering [NEW MARKET/COUNTRY]. Research needed, localization, channels, partnerships, timeline.
+
+[B55] Create a "process improvement" proposal for [SPECIFIC PROCESS AT COMPANY]. Current state, pain points, proposed solution, expected outcome, implementation plan.
+
+[B56] Write a "terms and conditions" outline for [DIGITAL PRODUCT STORE]. Sections: acceptance, products, payment, refunds, IP, liability, privacy, governing law.
+
+[B57] Generate a "vendor evaluation" scorecard for [PRODUCT BUSINESS] assessing [TYPE OF VENDOR]. Criteria: quality, price, reliability, communication, scalability.
+
+[B58] Create a "client red flags" guide for [SERVICE BUSINESS]. 10 warning signs of a bad client. How to screen better. Scripts to decline or set expectations.
+
+[B59] Write a "minimum viable product" spec for [APP IDEA/PRODUCT IDEA]. Core feature set, user story, tech requirements, success metrics, launch timeline.
+
+[B60] Generate a "day-1 new employee" experience plan for [COMPANY]. First hour, first day, first week activities. Goal: feel welcomed, informed, and ready.
+
+[B61] Create a "social media policy" for [COMPANY] employees. What they can/can't share about the company. Personal vs brand accounts. Crisis procedure.
+
+[B62] Write a "digital product delivery" system SOP for [CREATOR BUSINESS]. After purchase: email, access, onboarding, support, follow-up. Automated vs manual.
+
+[B63] Generate a "brand manifesto" for [COMPANY]. What you believe, what you stand against, who you serve, why you exist. 300-500 words. Poetic but clear.
+
+[B64] Create a "client success" framework for [SERVICE BUSINESS]. Onboarding → milestones → check-ins → results review → renewal/referral. Templates per stage.
+
+[B65] Write a "revenue diversification" plan for [BUSINESS]. Current revenue source, 3 new revenue streams, how to build each, timeline, and risk level.
+
+[B66] Generate a "sales training" script for a new [SALES ROLE] at [COMPANY]. Product knowledge, ideal customer, objections, scripts, and practice scenarios.
+
+[B67] Create a "business exit" strategy outline for [SMALL BUSINESS OWNER]. Options: sell, close, pass on. What to build for each. Timeline and valuation factors.
+
+[B68] Write a "hiring ad" for [FREELANCER MARKETPLACE] for a [ROLE]. Job title, description, requirements, pay rate, how to apply, and one test task.
+
+[B69] Generate a "profit margin" analysis for [PRODUCT-BASED BUSINESS]. COGS, pricing, gross margin, operating expenses, net margin. Where to improve.
+
+[B70] Create a "new market validation" checklist for [BUSINESS] before launching in [NEW NICHE/GEOGRAPHY]. 15-item list covering demand, competition, channels, and risks.
+
+[B71] Write a "brand positioning statement" for [COMPANY]. Template: For [TARGET], [BRAND] is the [CATEGORY] that [DIFFERENTIATOR] because [PROOF].
+
+[B72] Generate a "webinar tech setup" guide for [CREATOR/BUSINESS]. Platform, equipment, slides, backup plan, pre-webinar checklist, during, and post.
+
+[B73] Create a "social media audit" for [BRAND]. Platforms, follower count, engagement rate, top content, gaps, and 3 recommendations per platform.
+
+[B74] Write a "service agreement" template for [FREELANCER TYPE]. Scope, payment, timeline, IP rights, confidentiality, liability, and termination.
+
+[B75] Generate a "project kickoff" meeting agenda for [AGENCY/FREELANCER] with new client. Introductions, project goals, timeline, deliverables, communication plan, next steps.
+
+[B76] Create a "buyer persona" for [BUSINESS]. Name, age, job, income, goals (3), frustrations (3), where they spend time online, what they read, buy, and avoid.
+
+[B77] Write a "feedback loop" system for [PRODUCT BUSINESS]. How to collect, analyze, categorize, and act on customer feedback. Tools, cadence, and owner.
+
+[B78] Generate a "affiliate program" setup guide for [DIGITAL PRODUCT CREATOR]. Commission structure, tracking, creative assets, rules, payout process, top affiliate perks.
+
+[B79] Create a "quarterly business review" (QBR) template for [AGENCY] presenting to [CLIENT]. Metrics, wins, learnings, next quarter plan, and budget discussion.
+
+[B80] Write a "onboarding sequence" for new users of a [FREE TOOL/APP]. 7-day email sequence to drive activation, key feature adoption, and upgrade prompt.
+
+[B81] Generate a "cold outreach" system for [B2B SERVICE BUSINESS]. Lead source, research step, personalization angle, message template, follow-up cadence.
+
+[B82] Create a "delegation audit" for [OVERWHELMED FOUNDER]. Tasks to delegate now, tasks to automate, tasks to eliminate, tasks to keep. Decision matrix.
+
+[B83] Write a "testimonial showcase" landing page section for [BUSINESS]. 6-8 testimonials. Mix: text, star ratings, result-specific, video placeholder, industry variety.
+
+[B84] Generate a "business model canvas" for [STARTUP/BUSINESS IDEA]. All 9 blocks completed with examples relevant to [INDUSTRY/PRODUCT TYPE].
+
+[B85] Create a "product line extension" strategy for [BRAND]. Current products, market gaps, 3 extension ideas, pricing, audience, and 90-day launch plan.
+
+[B86] Write an "executive summary" for [BUSINESS PLAN] for [STARTUP]. Problem, solution, market, traction, team, revenue model, ask. Max 2 pages.
+
+[B87] Generate a "return on ad spend" (ROAS) calculator for [ECOMMERCE/DIGITAL PRODUCT]. Ad spend, conversion rate, AOV → ROAS, break-even, target ROAS.
+
+[B88] Create a "knowledge base" structure for [SAAS/SERVICE BUSINESS]. Main categories, sub-categories, article types, search optimization, and update cadence.
+
+[B89] Write a "going independent" announcement email for [PROFESSIONAL] leaving a job to freelance. Who they're serving, what they offer, how to work together, referral ask.
+
+[B90] Generate a "product naming" brainstorm for [NEW PRODUCT] in [CATEGORY]. 20 name ideas. Criteria: memorable, relevant, available, searchable, and scalable.
+
+[B91] Create a "launch budget" template for [DIGITAL PRODUCT LAUNCH]. Line items: ads, design, tech tools, copywriting, influencer outreach, email platform. Projected ROI.
+
+[B92] Write a "competitive differentiation" guide for [BUSINESS]. Who you compete with, what they're known for, your unique angle, and how to communicate it clearly.
+
+[B93] Generate a "digital transformation" roadmap for [TRADITIONAL BUSINESS]. Current state, ideal state, tech tools needed, 12-month phased implementation.
+
+[B94] Create a "customer win-back" campaign for [SUBSCRIPTION BUSINESS]. Churned customers. 3 emails: we noticed, special offer, final attempt. Templates.
+
+[B95] Write a "strategic partnership" proposal for [BRAND] targeting [POTENTIAL PARTNER]. Why them, why now, the idea, mutual benefit, next step.
+
+[B96] Generate a "conversion rate optimization" (CRO) checklist for [LANDING PAGE]. 20 elements to test: headline, CTA, social proof, load speed, mobile, trust signals.
+
+[B97] Create a "board meeting" agenda for [STARTUP]. Financial update, product update, marketing, people, and strategic topics. Pre-read materials. 90 minutes.
+
+[B98] Write a "contractor vs employee" decision guide for [BUSINESS OWNER] in [COUNTRY]. Legal criteria, tax implications, practical considerations, recommendation.
+
+[B99] Generate a "side project" to business transition plan for [CREATOR/FREELANCER]. Validation, first client, pricing, systems, quitting day job, scaling.
+
+[B100] Create a "business health check" for [ENTREPRENEUR]. 50-question self-assessment across: vision, finances, marketing, product, team, personal wellbeing. Score + next steps.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+╔══════════════════════════════════════════════════════════════════════╗
+║                    BONUS SECTION: QUICK WINS                         ║
+║              50 One-Line Power Prompts for Any AI                    ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+[QW01] "Rewrite this as if [FAMOUS WRITER/BRAND VOICE] wrote it: [YOUR TEXT]"
+[QW02] "Give me 10 ways to make this offer sound more irresistible: [OFFER]"
+[QW03] "What are the top 5 objections someone would have to [PRODUCT] and how do I overcome each?"
+[QW04] "Turn this feature into a benefit: [FEATURE]"
+[QW05] "Write the same message in 5 different tones: professional, casual, urgent, empathetic, and bold"
+[QW06] "What would a [NICHE] expert say about [TOPIC]? Write in their voice."
+[QW07] "Give me 3 contrarian takes on [COMMON BELIEF IN NICHE]"
+[QW08] "Compress this 500-word email into 150 words without losing the key message: [EMAIL]"
+[QW09] "What is the biggest mistake [TARGET AUDIENCE] makes with [TOPIC] and how do I address it?"
+[QW10] "Create a risk-reversal guarantee statement for [PRODUCT] that removes all buying hesitation"
+[QW11] "List 20 pain points [TARGET AUDIENCE] feel at 2am"
+[QW12] "Write 5 ways to open a sales email that don't start with 'I' or 'Hi My name is'"
+[QW13] "What would [COMPETITOR] say about [TOPIC]? Now, how do I say it better?"
+[QW14] "Turn these bullet points into a compelling paragraph: [BULLETS]"
+[QW15] "Give me 10 metaphors or analogies to explain [COMPLEX CONCEPT] simply"
+[QW16] "What questions do [TARGET AUDIENCE] Google at 3am? List 20."
+[QW17] "Rewrite this headline to be more curiosity-driven: [HEADLINE]"
+[QW18] "Give me 5 ways to add social proof to this copy without sounding fake: [COPY]"
+[QW19] "What emotion should this ad make the viewer feel? Rewrite to maximize that emotion: [AD]"
+[QW20] "Create a 'before and after' matrix for [PRODUCT] across 5 dimensions of change"
+[QW21] "List 10 micro-commitments I can use to warm up cold visitors on [LANDING PAGE]"
+[QW22] "Write 5 different ways to say the same thing — each for a different buyer psychology type"
+[QW23] "What does [TARGET AUDIENCE] secretly want but never says out loud? List 10."
+[QW24] "How can I make [PRODUCT/SERVICE] seem less like a cost and more like an investment?"
+[QW25] "Give me 3 hooks that would make [TARGET AUDIENCE] stop scrolling on Instagram/TikTok"
+[QW26] "Identify and remove all weasel words and fluff from this copy: [COPY]"
+[QW27] "What would David Ogilvy change about this ad? [YOUR AD]"
+[QW28] "Write a two-sentence product description for [PRODUCT] that makes you want to buy it immediately"
+[QW29] "Give me 10 creative ways to describe [PRODUCT] without using the word [OVERUSED WORD]"
+[QW30] "What's the one sentence that, if a customer understood it deeply, would make them buy [PRODUCT] instantly?"
+[QW31] "List 5 stories I could tell about [PRODUCT] that would make the audience cry, laugh, feel inspired, feel smart, and feel FOMO"
+[QW32] "Write the worst possible headline for [PRODUCT] and then fix every element to make it the best"
+[QW33] "What are 10 non-obvious benefits of [PRODUCT] that I'm not talking about yet?"
+[QW34] "Create a 'power phrase' bank — 20 phrases that instantly boost any copy's conversion rate"
+[QW35] "Translate this ad from English to [LANGUAGE] and adapt it culturally, not just linguistically: [AD]"
+[QW36] "How do I write about [PRODUCT] for someone who has never heard of [NICHE]?"
+[QW37] "Give me 10 urgency triggers I can use ethically for [PRODUCT] without fake scarcity"
+[QW38] "Rewrite this to start with a story instead of a statement: [COPY]"
+[QW39] "What are 5 ways to make [PRICE] feel cheap relative to the value of [PRODUCT]?"
+[QW40] "Create a 'what you'll regret' framework for [PRODUCT] — what they miss if they don't buy"
+[QW41] "Write a testimonial for [PRODUCT] the way a real customer would write it — imperfect, specific, and believable"
+[QW42] "What 3 things make [PRODUCT] undeniably different from everything else in [CATEGORY]?"
+[QW43] "Give me 5 ways to end a sales email that create curiosity about what's in the next email"
+[QW44] "What would a 5-star review of [PRODUCT] say? Write 3 different 5-star reviews."
+[QW45] "Create a 'desire map' for [PRODUCT] — ultimate dream → intermediate goal → immediate desire → trigger to buy now"
+[QW46] "Write 10 'what if' scenarios that show [TARGET AUDIENCE] what's possible with [PRODUCT]"
+[QW47] "Give me the simplest way to explain [PRODUCT] to a 10-year-old and to a CEO — both in one sentence"
+[QW48] "What is the first domino I can push that leads [CUSTOMER] to see why they need [PRODUCT]?"
+[QW49] "Create a 'reason why' list for [PRICE POINT] — 10 specific reasons why [PRODUCT] is worth every rupee/dollar"
+[QW50] "Write the perfect P.S. line for a sales email about [PRODUCT] that reinforce the offer in one compelling sentence"
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+TOTAL: 550 PROMPTS
+Sections: Marketing (100) + Sales (100) + Social Media (100) + Email (100) + Business Ops (100) + Quick Wins (50)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+© AniketG AI — For personal and commercial use by buyer only.
+Not for resale, redistribution, or re-packaging without permission.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

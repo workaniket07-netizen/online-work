@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Security Toolkit: PHP/Laravel + AWS for Junior
+PRICE: $127
+TAGS: security, php/laravel, aws
+SHORT DESC: AI Security Toolkit: PHP/Laravel + AWS for Junior. $127. Commercial license.

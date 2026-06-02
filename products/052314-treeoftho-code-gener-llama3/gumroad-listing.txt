@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Prompting: Tree-of-Thought for Code Generation using Llama 3 (Intermediate)
+PRICE: $127
+TAGS: tree-of-thought, code generation, prompt engineering
+SHORT DESC: AI Prompting: Tree-of-Thought for Code Generation using Llama 3 (Intermediate). $127. Commercial license.

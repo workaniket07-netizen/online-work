@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Business Intelligence Toolkit: TypeScript + GCP for Senior
+PRICE: $127
+TAGS: business intelligenc, typescript, gcp
+SHORT DESC: AI Business Intelligence Toolkit: TypeScript + GCP for Senior. $127. Commercial license.

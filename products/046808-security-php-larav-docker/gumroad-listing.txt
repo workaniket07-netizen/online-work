@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Security Toolkit: PHP/Laravel + Docker for VP Engineering
+PRICE: $127
+TAGS: security, php/laravel, docker
+SHORT DESC: AI Security Toolkit: PHP/Laravel + Docker for VP Engineering. $127. Commercial license.

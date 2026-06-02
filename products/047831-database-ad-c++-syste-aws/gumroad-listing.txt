@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Database Administration Toolkit: C++/Systems + AWS for Junior
+PRICE: $127
+TAGS: database administrat, c++/systems, aws
+SHORT DESC: AI Database Administration Toolkit: C++/Systems + AWS for Junior. $127. Commercial license.

@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Software Engineering Toolkit: Golang + Serverless for Founding Engineer
+PRICE: $127
+TAGS: software engineering, golang, serverless
+SHORT DESC: AI Software Engineering Toolkit: Golang + Serverless for Founding Engineer. $127. Commercial license.

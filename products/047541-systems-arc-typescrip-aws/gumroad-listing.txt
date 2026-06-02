@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Systems Architecture Toolkit: TypeScript + AWS for Junior
+PRICE: $127
+TAGS: systems architecture, typescript, aws
+SHORT DESC: AI Systems Architecture Toolkit: TypeScript + AWS for Junior. $127. Commercial license.

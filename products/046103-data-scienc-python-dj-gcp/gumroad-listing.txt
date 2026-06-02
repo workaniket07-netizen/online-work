@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Data Science Toolkit: Python/Django + GCP for Senior
+PRICE: $127
+TAGS: data science, python/django, gcp
+SHORT DESC: AI Data Science Toolkit: Python/Django + GCP for Senior. $127. Commercial license.

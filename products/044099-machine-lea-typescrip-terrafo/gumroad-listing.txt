@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Machine Learning Toolkit: TypeScript + Terraform for CTO
+PRICE: $177
+TAGS: machine learning, typescript, terraform
+SHORT DESC: AI Machine Learning Toolkit: TypeScript + Terraform for CTO. $177. Commercial license.

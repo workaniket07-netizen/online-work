@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI DevOps Toolkit: Swift/iOS + Serverless for Founding Engineer
+PRICE: $127
+TAGS: devops, swift/ios, serverless
+SHORT DESC: AI DevOps Toolkit: Swift/iOS + Serverless for Founding Engineer. $127. Commercial license.

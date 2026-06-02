@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Security Toolkit: Java/Spring + AWS for Junior
+PRICE: $127
+TAGS: security, java/spring, aws
+SHORT DESC: AI Security Toolkit: Java/Spring + AWS for Junior. $127. Commercial license.

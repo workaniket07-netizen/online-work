@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Database Administration Toolkit: PHP/Laravel + Terraform for CTO
+PRICE: $177
+TAGS: database administrat, php/laravel, terraform
+SHORT DESC: AI Database Administration Toolkit: PHP/Laravel + Terraform for CTO. $177. Commercial license.

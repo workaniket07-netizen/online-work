@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Machine Learning Toolkit: JavaScript/React + Azure for Mid-Level
+PRICE: $127
+TAGS: machine learning, javascript/react, azure
+SHORT DESC: AI Machine Learning Toolkit: JavaScript/React + Azure for Mid-Level. $127. Commercial license.

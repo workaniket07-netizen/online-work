@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Prompting: Function Calling for Code Generation using Claude Sonnet (Intermediate)
+PRICE: $127
+TAGS: function calling, code generation, prompt engineering
+SHORT DESC: AI Prompting: Function Calling for Code Generation using Claude Sonnet (Intermediate). $127. Commercial license.

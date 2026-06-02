@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI DevOps Toolkit: Node.js/Express + Azure for Mid-Level
+PRICE: $127
+TAGS: devops, node.js/express, azure
+SHORT DESC: AI DevOps Toolkit: Node.js/Express + Azure for Mid-Level. $127. Commercial license.

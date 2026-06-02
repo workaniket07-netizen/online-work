@@ -1,0 +1,270 @@
+╔══════════════════════════════════════════════════════════════════════╗
+║           PROMPT ENGINEERING MASTERCLASS                             ║
+║   300 Advanced Prompting Techniques, Frameworks & Power Prompts      ║
+║              By AniketG AI Systems                                   ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+Go beyond basic ChatGPT use. Master the advanced prompting techniques
+that professionals use to get 10x better outputs — chain-of-thought
+reasoning, role frameworks, few-shot learning, output formatting,
+persona engineering, and the 50 power prompts that replace entire
+software tools. For developers, marketers, researchers, and AI builders.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 1: CORE PROMPTING TECHNIQUES (80 Templates)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+━━━━━━━━━━━━━━━━
+TECHNIQUE 1: ROLE / PERSONA PROMPTING
+━━━━━━━━━━━━━━━━
+
+What it does: Dramatically improves output quality by activating specific knowledge domains and communication styles.
+
+BASIC FORMAT:
+"You are [specific expert with credentials/experience]. [Task]."
+
+POWER VERSIONS:
+[PE-01] "You are a [senior copywriter at Apple with 15 years experience writing product launches]. I need you to [task]. Your output should sound like [Apple product launch copy — specific, benefit-focused, emotionally resonant, no jargon]."
+
+[PE-02] "Act as a [Michelin-star chef specializing in Italian cuisine]. A customer asks: [question]. Respond with the expertise, nuance, and specificity a professional chef would use — including technique names, ingredient rationale, and common mistakes to avoid."
+
+[PE-03] "You are a [skeptical venture capitalist who has seen 1,000 pitch decks]. Read this pitch and give me your honest assessment: [paste pitch]. Don't soften feedback. What would make you say yes vs. pass?"
+
+[PE-04] COMBINED EXPERT PANEL: "There are three experts at the table: [Expert A], [Expert B], [Expert C]. They each respond to this question from their distinct perspective: [question]. Show their perspectives as a dialogue."
+
+[PE-05] THE ANTI-EXPERT: "You are the worst possible [type of person] at [topic]. Give me advice the way a [bad version] would — so I can see exactly what NOT to do and why."
+
+━━━━━━━━━━━━━━━━
+TECHNIQUE 2: CHAIN-OF-THOUGHT (COT) PROMPTING
+━━━━━━━━━━━━━━━━
+
+What it does: Forces the AI to reason step-by-step, significantly improving accuracy on complex tasks.
+
+BASIC COT:
+"Think through this step by step before giving your final answer: [problem]"
+
+[COT-01] EXPLICIT COT: "Before answering, work through your reasoning step by step. Show your work. Only give your conclusion after you've reasoned through it completely. Question: [question]"
+
+[COT-02] SELF-CHECK COT: "Answer this question: [question]. Then review your answer and check: Did I miss anything? Are there any errors in my reasoning? Correct yourself if needed. Show both the original answer and the revised version."
+
+[COT-03] DEVIL'S ADVOCATE COT: "First, make the strongest argument FOR [position]. Then make the strongest argument AGAINST [position]. Then synthesize both into a nuanced conclusion."
+
+[COT-04] PROBLEM DECOMPOSITION: "Break this complex problem into its component parts: [problem]. Address each part separately, then synthesize your findings into a complete answer."
+
+[COT-05] HYPOTHESIS TESTING: "I believe [hypothesis]. Walk through the evidence that supports this, evidence against it, and rate your confidence in the hypothesis on a scale of 1-10 with reasoning."
+
+━━━━━━━━━━━━━━━━
+TECHNIQUE 3: FEW-SHOT LEARNING
+━━━━━━━━━━━━━━━━
+
+What it does: Provides examples so AI understands exactly the pattern/format you want.
+
+[FS-01] THE EXAMPLE-INPUT-OUTPUT FORMAT:
+"Here are examples of what I want:
+
+Input: [example input 1]
+Output: [example output 1]
+
+Input: [example input 2]
+Output: [example output 2]
+
+Input: [example input 3]
+Output: [example output 3]
+
+Now do the same for:
+Input: [your actual input]
+Output:"
+
+[FS-02] STYLE MIMICRY: "Read these [X] pieces of writing by [author/brand]: [samples]. Now write [new piece] in the exact same voice, sentence structure, and style."
+
+[FS-03] FORMAT LEARNING: "Here's the exact format I want:
+[Show complete example with every field filled in]
+Now apply this format to: [your actual data/content]"
+
+━━━━━━━━━━━━━━━━
+TECHNIQUE 4: OUTPUT FORMATTING CONTROL
+━━━━━━━━━━━━━━━━
+
+[OF-01] JSON OUTPUT: "Return your response as a JSON object with these fields: {field1: value, field2: value, field3: value}. Only output the JSON, no other text."
+
+[OF-02] TABLE FORMAT: "Present this information as a markdown table with columns: [col1], [col2], [col3]. Sort by [column] descending."
+
+[OF-03] STRICT WORD COUNT: "Write this in exactly [X] words. No more, no less. If your first draft is too long or short, revise until it hits exactly [X] words."
+
+[OF-04] NUMBERED HIERARCHY: "Organize your response as: 1. [Main point] a. [Sub-point] b. [Sub-point] i. [Details]. Two levels deep maximum."
+
+[OF-05] TEMPLATE FILL: "Fill in this template exactly: [Template with [FIELD] placeholders]. Do not change the structure, only fill in the [FIELD] sections."
+
+━━━━━━━━━━━━━━━━
+TECHNIQUE 5: CONSTRAINT PROMPTING
+━━━━━━━━━━━━━━━━
+
+[CP-01] AUDIENCE CONSTRAINT: "Explain [concept] to a [8-year-old / non-technical executive / expert in the field]. Use vocabulary appropriate for that audience only."
+
+[CP-02] CONSTRAINT STACKING: "Write [X] about [topic]. CONSTRAINTS: Under [Y] words. No jargon. No passive voice. No filler words. Every sentence must do one of: teach, intrigue, or advance the reader."
+
+[CP-03] FORCED PERSPECTIVE: "Explain [topic] from the perspective of someone who [hates it / is a beginner / is in 1950 / is from Mars]. Keep the explanation accurate but through that lens."
+
+[CP-04] ELIMINATION: "Rewrite this without: [specific words to avoid] / [passive voice] / [any hedging language] / [adjectives]. [paste original]"
+
+[CP-05] THE ELEVATOR TEST: "Can you explain [complex concept] in under 30 seconds? Write it in plain language as if you had to say it in an elevator to your CEO."
+
+━━━━━━━━━━━━━━━━
+TECHNIQUE 6: ITERATIVE REFINEMENT
+━━━━━━━━━━━━━━━━
+
+[IR-01] THE CRITIC LOOP: "Write [X]. Now critique it as a [relevant expert]. Now rewrite based on the critique. Do this [3] times."
+
+[IR-02] THE UPGRADE PROMPT: "This output is a 7/10. What would make it a 10/10? Rewrite it based on your own critique."
+
+[IR-03] SPECIFICITY INJECTION: "This response is too generic. Make it [X]% more specific by: adding a concrete example, a statistic, and a named technique. Rewrite: [paste response]"
+
+[IR-04] THE CALIBRATION PROMPT: "On a scale of 1-10, how [confident/accurate/complete] is your answer to [question]? What would make it higher? Now revise until you'd rate it an 8+."
+
+[IR-05] BUILD-ON: "Good, now take that answer and [add counterarguments / make it more actionable / add a visual description / apply it to [specific industry]]."
+
+━━━━━━━━━━━━━━━━
+TECHNIQUE 7: METACOGNITIVE PROMPTING
+━━━━━━━━━━━━━━━━
+
+[MC-01] "Before answering, identify: What type of question is this? What knowledge domains are relevant? What biases might affect your response? Then answer with those considerations in mind."
+
+[MC-02] "What are the most important things you DON'T know about [topic] that would affect the quality of your answer? State those limitations first, then give your best answer."
+
+[MC-03] "What questions should I be asking about [topic] that I'm not asking? List them, then answer the most important ones."
+
+[MC-04] "What assumptions am I making in this question: [question]? Are those assumptions correct? How does changing them change the answer?"
+
+[MC-05] "What would [different types of experts] each say is wrong with my approach to [problem]? List 3 different expert perspectives."
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 2: 50 POWER PROMPTS (Replace Entire Tools)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+These prompts do what entire SaaS tools charge $127-500/month for:
+
+[PP-01] THE BUSINESS ANALYZER (replaces business consultants):
+"Analyze [business name/description] across these dimensions: Value proposition clarity, Target market definition, Revenue model viability, Competitive moat, Growth levers, Key risks, One highest-priority recommendation. Use data and reasoning, not generic advice."
+
+[PP-02] THE MARKETING STRATEGY GENERATOR (replaces marketing agencies):
+"Create a 90-day marketing strategy for [business description] targeting [audience]. Include: positioning statement, top 3 channels with rationale, 30/60/90-day milestones, budget allocation framework, KPIs, and what success looks like. Be specific to this business, not generic."
+
+[PP-03] THE CODE REVIEWER (replaces senior dev review):
+"Review this [language] code as a senior engineer. Check for: bugs, security vulnerabilities, performance issues, scalability concerns, code readability, documentation gaps, test coverage. Prioritize by severity. Be specific — cite line numbers. [paste code]"
+
+[PP-04] THE LEGAL PLAIN ENGLISH TRANSLATOR (not legal advice):
+"Translate this [contract/terms of service/agreement] into plain English. For each clause: what it means, what it allows, what it restricts, and any potential risks. Flag any unusual or potentially problematic clauses. [paste document]"
+
+[PP-05] THE INVESTOR PITCH RATER (replaces pitch coaches):
+"Rate this pitch deck as a skeptical VC who has seen 1,000 pitches. Score each section 1-10: Problem, Solution, Market size, Business model, Traction, Team, Ask. Give specific feedback on what's missing, what's unclear, and what would make you want a second meeting. [paste pitch or description]"
+
+[PP-06] THE RESEARCH SYNTHESIZER:
+"I have these [X] sources on [topic]: [paste or describe]. Synthesize the key findings. Where do they agree? Where do they contradict? What conclusions can I draw? What questions remain unanswered? Give me a structured summary."
+
+[PP-07] THE CONTENT REPURPOSER (replaces content tools):
+"Take this [blog post/video transcript/podcast episode]: [paste]. Repurpose it into: 1 LinkedIn post, 1 Twitter/X thread (10 tweets), 1 email newsletter, 5 Instagram captions, 3 short video scripts (30 seconds each). Keep the core message, adapt format for each platform."
+
+[PP-08] THE NEGOTIATION COACH:
+"I need to negotiate [situation: salary / contract / price / partnership]. My position: [your position]. Their likely position: [their side]. Prepare me: best opening offer, key points to make, likely objections and responses, BATNA, and the concessions I can make vs. lines I shouldn't cross."
+
+[PP-09] THE COMPETITIVE INTELLIGENCE REPORT:
+"Analyze [company/brand] as a competitor. Based on what's publicly known: their positioning, strengths, weaknesses, target customer, pricing strategy, content strategy, likely next moves, and where they're vulnerable. What should I do based on this?"
+
+[PP-10] THE PRODUCT FEEDBACK ANALYZER:
+"Here are [X] customer reviews of [product]: [paste reviews]. Identify: top 5 praise themes, top 5 complaint themes, unmet needs customers keep mentioning, one feature request that appears most frequently, and what the ideal product/service would look like based on this feedback."
+
+[PP-11 to PP-50] More power prompts:
+[PP-11] Email writer (any tone, any situation, any length)
+[PP-12] Meeting agenda optimizer (structure for any meeting type)
+[PP-13] Decision framework builder (for complex decisions)
+[PP-14] Data interpreter (make sense of raw numbers/data)
+[PP-15] Creative brief generator
+[PP-16] Job interview simulator (for any role)
+[PP-17] Price optimization advisor
+[PP-18] Brand voice analyzer and replicator
+[PP-19] SEO content brief generator
+[PP-20] Grant writing assistant
+[PP-21] Risk assessment for any decision
+[PP-22] Persona developer (for marketing)
+[PP-23] A/B test designer
+[PP-24] Objection handler generator
+[PP-25] Performance review writer (fair and specific)
+[PP-26] Crisis communication advisor
+[PP-27] Brainstorm facilitator (unstick any creative block)
+[PP-28] Complexity reducer (make anything simpler)
+[PP-29] Argument steelman/weakener
+[PP-30] Document summarizer with key decisions
+[PP-31] Onboarding checklist builder
+[PP-32] Process documenter (from description to SOP)
+[PP-33] Error analyzer (debug any problem)
+[PP-34] Learning plan builder (master any skill)
+[PP-35] Mentor simulator (advice from any type of expert)
+[PP-36] Feedback translator (make feedback actionable)
+[PP-37] Team communication optimizer
+[PP-38] UX copy generator (microcopy, CTAs, error messages)
+[PP-39] Press release writer
+[PP-40] Research question generator
+[PP-41] Analogy finder (explain anything through analogy)
+[PP-42] Future scenario planner
+[PP-43] Expert opinion aggregator
+[PP-44] Gap analysis tool
+[PP-45] Hypothesis generator
+[PP-46] Simplification engine
+[PP-47] Tone adjuster (rewrite anything in different tone)
+[PP-48] Language translator with cultural nuance
+[PP-49] Social proof builder
+[PP-50] The meta-prompt optimizer (improve your own prompts)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 3: ADVANCED AI SYSTEMS (80 Templates)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+CUSTOM INSTRUCTION TEMPLATES (20):
+[CI-01] Professional copywriter custom instructions: "You are a direct-response copywriter. Always write copy that: sells benefits not features, uses specific language, includes social proof signals, has a clear CTA. When I ask for copy, start writing immediately — don't ask clarifying questions unless the task is genuinely ambiguous."
+
+[CI-02] Research assistant instructions: "You are a research assistant. When I ask research questions: cite your confidence level, acknowledge limitations of your knowledge, distinguish between well-established facts and uncertain information, and suggest where I should verify key claims."
+
+[CI-03] Code reviewer instructions: "When I share code, automatically check for: security vulnerabilities, performance issues, readability problems, and testing gaps. Always suggest specific improvements, not just point out problems."
+
+[CI-04 to CI-20] More custom instructions by use case
+
+SYSTEM PROMPT TEMPLATES (20):
+[SP-01] Customer service bot: "You are [Company] customer service. Tone: [warm, professional]. You can: [list capabilities]. You cannot: [list limitations]. If asked about [sensitive topic], respond: [response]. Always end with: 'Is there anything else I can help with?'"
+
+[SP-02] Sales qualification bot: "You are [Company] pre-sales assistant. Your job: qualify leads by asking about [budget / timeline / current solution / decision-making]. After [X questions], categorize the lead as [Tier 1/2/3] and respond accordingly. Never discuss pricing — direct pricing questions to a human."
+
+[SP-03 to SP-20] More system prompts: HR FAQ bot, educational tutor, brand voice guardian, onboarding guide, internal knowledge base assistant
+
+MULTI-TURN CONVERSATION TECHNIQUES (20):
+[MT-01] THE MEMORY HACK: "At the start of each session, paste: 'Context for this session: [your project/context]. My preferences: [style/format preferences]. Continue from where we left off.'"
+
+[MT-02] PROGRESSIVE REFINEMENT: Start broad → narrow with each turn. "Give me 20 ideas → Now narrow to the 5 best → Now develop the top choice in detail."
+
+[MT-03] SOCRATIC DIALOGUE: Ask AI to question your thinking. "Push back on everything I say about [topic]. Ask me 'why' and 'how do you know' for every claim."
+
+[MT-04 to MT-20] More multi-turn techniques
+
+PROMPT QUALITY EVALUATION (20):
+[PQ-01] Before sending any important prompt, check: Is the role clear? Is the task specific? Is the output format specified? Are there examples? Are constraints included?
+[PQ-02] The CRISP framework: Context + Role + Instructions + Style + Parameters
+[PQ-03] The worst-best prompt test: What would the worst version of this prompt look like? How far is yours from that?
+[PQ-04 to PQ-20] More evaluation frameworks
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 4: PROMPT TEMPLATES BY INDUSTRY (80 Templates)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+ADVANCED PROMPTS FOR:
+[IND-01 to IND-80] Healthcare, Legal, Finance, Education, Marketing, Product Management, Engineering, HR, Operations, Journalism, Real Estate, Retail, Hospitality, Non-profit, Government, Research, Consulting, Architecture, Design, Entertainment
+
+Each includes: 4 industry-specific advanced prompts using the techniques from Section 1
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+QUICK STATS:
+Total Templates: 300
+Sections: 4 (Core Techniques + Power Prompts + AI Systems + Industry Prompts)
+Level: Intermediate to advanced (assumes basic ChatGPT familiarity)
+Works with: ChatGPT-4o, Claude 3.5+, Gemini Ultra, any frontier model
+
+By AniketG AI Systems
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

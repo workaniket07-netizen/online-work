@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI QA Testing Toolkit: Swift/iOS + Terraform for CTO
+PRICE: $177
+TAGS: qa testing, swift/ios, terraform
+SHORT DESC: AI QA Testing Toolkit: Swift/iOS + Terraform for CTO. $177. Commercial license.

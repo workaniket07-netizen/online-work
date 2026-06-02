@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI DevOps Toolkit: Python/Django + Azure for Mid-Level
+PRICE: $127
+TAGS: devops, python/django, azure
+SHORT DESC: AI DevOps Toolkit: Python/Django + Azure for Mid-Level. $127. Commercial license.

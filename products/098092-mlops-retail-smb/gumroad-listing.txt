@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Toolkit: MLOps for Manager at SMB Retail Company
+PRICE: $147
+TAGS: mlops, retail, manager
+SHORT DESC: AI Toolkit: MLOps for Manager at SMB Retail Company. $147. Commercial license.

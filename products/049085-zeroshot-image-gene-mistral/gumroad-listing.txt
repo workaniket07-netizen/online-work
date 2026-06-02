@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Prompting: Zero-Shot for Image Generation using Mistral (Beginner)
+PRICE: $127
+TAGS: zero-shot, image generation, prompt engineering
+SHORT DESC: AI Prompting: Zero-Shot for Image Generation using Mistral (Beginner). $127. Commercial license.

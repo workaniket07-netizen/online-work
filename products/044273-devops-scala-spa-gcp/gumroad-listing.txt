@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI DevOps Toolkit: Scala/Spark + GCP for Senior
+PRICE: $127
+TAGS: devops, scala/spark, gcp
+SHORT DESC: AI DevOps Toolkit: Scala/Spark + GCP for Senior. $127. Commercial license.

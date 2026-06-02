@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Prompting: Function Calling for Writing & Content using Llama 3 (Intermediate)
+PRICE: $127
+TAGS: function calling, writing & content, prompt engineering
+SHORT DESC: AI Prompting: Function Calling for Writing & Content using Llama 3 (Intermediate). $127. Commercial license.

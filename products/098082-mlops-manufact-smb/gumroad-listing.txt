@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Toolkit: MLOps for Manager at SMB Manufacturing Company
+PRICE: $147
+TAGS: mlops, manufacturing, manager
+SHORT DESC: AI Toolkit: MLOps for Manager at SMB Manufacturing Company. $147. Commercial license.

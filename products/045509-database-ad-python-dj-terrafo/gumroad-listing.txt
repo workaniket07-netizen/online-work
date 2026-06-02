@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Database Administration Toolkit: Python/Django + Terraform for CTO
+PRICE: $177
+TAGS: database administrat, python/django, terraform
+SHORT DESC: AI Database Administration Toolkit: Python/Django + Terraform for CTO. $177. Commercial license.

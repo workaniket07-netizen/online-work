@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Business Intelligence Toolkit: Rust + Docker for VP Engineering
+PRICE: $127
+TAGS: business intelligenc, rust, docker
+SHORT DESC: AI Business Intelligence Toolkit: Rust + Docker for VP Engineering. $127. Commercial license.

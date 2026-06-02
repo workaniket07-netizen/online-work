@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI QA Testing Toolkit: PHP/Laravel + Hybrid for Architect
+PRICE: $177
+TAGS: qa testing, php/laravel, hybrid
+SHORT DESC: AI QA Testing Toolkit: PHP/Laravel + Hybrid for Architect. $177. Commercial license.

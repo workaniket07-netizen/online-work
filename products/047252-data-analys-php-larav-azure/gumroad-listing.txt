@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Data Analysis Toolkit: PHP/Laravel + Azure for Mid-Level
+PRICE: $127
+TAGS: data analysis, php/laravel, azure
+SHORT DESC: AI Data Analysis Toolkit: PHP/Laravel + Azure for Mid-Level. $127. Commercial license.

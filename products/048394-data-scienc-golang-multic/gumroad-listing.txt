@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Data Science Toolkit: Golang + Multi-Cloud for Staff
+PRICE: $177
+TAGS: data science, golang, multi-cloud
+SHORT DESC: AI Data Science Toolkit: Golang + Multi-Cloud for Staff. $177. Commercial license.

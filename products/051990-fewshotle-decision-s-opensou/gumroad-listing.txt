@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Prompting: Few-Shot Learning for Decision Support using Open Source Models (Intermediate)
+PRICE: $127
+TAGS: few-shot learning, decision support, prompt engineering
+SHORT DESC: AI Prompting: Few-Shot Learning for Decision Support using Open Source Models (Intermediate). $127. Commercial license.

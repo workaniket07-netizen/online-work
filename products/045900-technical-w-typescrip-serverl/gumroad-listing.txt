@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Technical Writing Toolkit: TypeScript + Serverless for Founding Engineer
+PRICE: $127
+TAGS: technical writing, typescript, serverless
+SHORT DESC: AI Technical Writing Toolkit: TypeScript + Serverless for Founding Engineer. $127. Commercial license.

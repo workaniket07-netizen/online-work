@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Data Analysis Toolkit: Rust + Docker for VP Engineering
+PRICE: $127
+TAGS: data analysis, rust, docker
+SHORT DESC: AI Data Analysis Toolkit: Rust + Docker for VP Engineering. $127. Commercial license.

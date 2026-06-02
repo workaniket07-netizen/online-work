@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Prompting: Chain-of-Thought for Data Analysis using Claude Sonnet (Intermediate)
+PRICE: $127
+TAGS: chain-of-thought, data analysis, prompt engineering
+SHORT DESC: AI Prompting: Chain-of-Thought for Data Analysis using Claude Sonnet (Intermediate). $127. Commercial license.

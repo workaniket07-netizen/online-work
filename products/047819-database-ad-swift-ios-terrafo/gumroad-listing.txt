@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Database Administration Toolkit: Swift/iOS + Terraform for CTO
+PRICE: $177
+TAGS: database administrat, swift/ios, terraform
+SHORT DESC: AI Database Administration Toolkit: Swift/iOS + Terraform for CTO. $177. Commercial license.

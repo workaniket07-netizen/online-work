@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Technical Writing Toolkit: Python/Django + GCP for Senior
+PRICE: $127
+TAGS: technical writing, python/django, gcp
+SHORT DESC: AI Technical Writing Toolkit: Python/Django + GCP for Senior. $127. Commercial license.

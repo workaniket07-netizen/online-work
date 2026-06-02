@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Prompting: Few-Shot Learning for Technical Documentation using Llama 3 (Intermediate)
+PRICE: $127
+TAGS: few-shot learning, technical documentat, prompt engineering
+SHORT DESC: AI Prompting: Few-Shot Learning for Technical Documentation using Llama 3 (Intermediate). $127. Commercial license.

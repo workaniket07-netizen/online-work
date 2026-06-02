@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Technical Writing Toolkit: PHP/Laravel + Serverless for Founding Engineer
+PRICE: $127
+TAGS: technical writing, php/laravel, serverless
+SHORT DESC: AI Technical Writing Toolkit: PHP/Laravel + Serverless for Founding Engineer. $127. Commercial license.

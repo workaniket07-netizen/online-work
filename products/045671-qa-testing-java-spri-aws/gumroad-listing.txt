@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI QA Testing Toolkit: Java/Spring + AWS for Junior
+PRICE: $127
+TAGS: qa testing, java/spring, aws
+SHORT DESC: AI QA Testing Toolkit: Java/Spring + AWS for Junior. $127. Commercial license.

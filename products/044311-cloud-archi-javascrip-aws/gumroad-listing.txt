@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Cloud Architecture Toolkit: JavaScript/React + AWS for Junior
+PRICE: $127
+TAGS: cloud architecture, javascript/react, aws
+SHORT DESC: AI Cloud Architecture Toolkit: JavaScript/React + AWS for Junior. $127. Commercial license.

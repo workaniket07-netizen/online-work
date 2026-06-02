@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Data Science Toolkit: PHP/Laravel + Terraform for CTO
+PRICE: $177
+TAGS: data science, php/laravel, terraform
+SHORT DESC: AI Data Science Toolkit: PHP/Laravel + Terraform for CTO. $177. Commercial license.

@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI DevOps Toolkit: C++/Systems + Azure for Mid-Level
+PRICE: $127
+TAGS: devops, c++/systems, azure
+SHORT DESC: AI DevOps Toolkit: C++/Systems + Azure for Mid-Level. $127. Commercial license.

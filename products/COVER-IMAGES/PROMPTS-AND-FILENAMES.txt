@@ -1,0 +1,678 @@
+╔══════════════════════════════════════════════════════════════════════╗
+║         GUMROAD COVER IMAGES — PROMPTS + FILENAMES                   ║
+║         Save folder: /products/COVER-IMAGES/                         ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+HOW TO USE:
+1. Copy PROMPT → paste in ChatGPT (DALL-E 3) or Canva AI
+2. Generate image
+3. Download
+4. Save to: /Users/aniket/Desktop/online-work-site/products/COVER-IMAGES/
+5. Name file exactly as shown in FILENAME line
+6. Done — ready for Gumroad upload
+
+SIZE: 1280 × 720 pixels (16:9 landscape)
+FORMAT: PNG or JPG
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+PRODUCT 01 — AI BUSINESS OPERATOR VAULT
+FILENAME: 01-ai-business-vault-cover.png
+
+PROMPT (copy this):
+─────────────────────────────────────────
+Dark navy blue background, floating glowing holographic AI chat interface and business icons (charts, lightning bolt, dollar sign), minimalist flat design style, professional corporate aesthetic, clean typography space at top, subtle gold accent lines, digital product thumbnail style, no text in image, 16:9 ratio, 1280x720
+─────────────────────────────────────────
+
+TEXT TO ADD IN CANVA AFTER:
+Title: AI BUSINESS OPERATOR VAULT
+Sub: 550 Prompts for Marketing, Sales & Growth
+Price: $47
+
+━━━━━━━━━━━━━━━━
+
+PRODUCT 02 — MIDJOURNEY CINEMATIC MASTER PACK
+FILENAME: 02-midjourney-cinematic-cover.png
+
+PROMPT:
+─────────────────────────────────────────
+Dark cinematic background, multiple small glowing film frames showing dramatic portraits and landscapes floating in 3D space, purple and deep blue gradient, lens flare effects, professional photography aesthetic, empty space for text at top, no text in image, 16:9 ratio, 1280x720
+─────────────────────────────────────────
+
+TEXT: MIDJOURNEY CINEMATIC MASTER PACK | 500 AI Image Prompts | $27
+
+━━━━━━━━━━━━━━━━
+
+PRODUCT 03 — INSTAGRAM CONTENT MACHINE
+FILENAME: 03-instagram-content-cover.png
+
+PROMPT:
+─────────────────────────────────────────
+Vibrant gradient background coral to deep purple, floating Instagram phone screen mockups showing beautiful content, social media icons, engagement metrics floating around, modern influencer aesthetic, clean space for text overlay at top, energetic and modern style, no text, 16:9 ratio, 1280x720
+─────────────────────────────────────────
+
+TEXT: INSTAGRAM CONTENT MACHINE | 365 Done-For-You Posts | $19
+
+━━━━━━━━━━━━━━━━
+
+PRODUCT 04 — AI PHOTOGRAPHY PROMPT BIBLE
+FILENAME: 04-photography-prompts-cover.png
+
+PROMPT:
+─────────────────────────────────────────
+Deep black background, floating camera lens with golden light rings, scattered photography Polaroid frames showing different lighting setups, professional photography studio atmosphere, subtle warm lighting, cinematic mood, space for title text at top, no text in image, 16:9 ratio, 1280x720
+─────────────────────────────────────────
+
+TEXT: AI PHOTOGRAPHY PROMPT BIBLE | 400 Studio & Film Prompts | $22
+
+━━━━━━━━━━━━━━━━
+
+PRODUCT 05 — CHATGPT COPYWRITING VAULT
+FILENAME: 05-copywriting-vault-cover.png
+
+PROMPT:
+─────────────────────────────────────────
+Dark charcoal background, glowing pen nib with golden ink flowing into upward conversion graphs, copywriting symbols floating like quotation marks and CTA buttons, professional marketing aesthetic, warm gold accent lighting, space for text at top, no text, 16:9 ratio, 1280x720
+─────────────────────────────────────────
+
+TEXT: CHATGPT COPYWRITING VAULT | 400 Copy Templates | $37
+
+━━━━━━━━━━━━━━━━
+
+PRODUCT 06 — FREELANCER CLIENT ACQUISITION VAULT
+FILENAME: 06-freelancer-vault-cover.png
+
+PROMPT:
+─────────────────────────────────────────
+Dark navy background, professional handshake silhouette with glowing digital connection lines, floating contract and proposal document icons, upward trending revenue graph, modern business aesthetic, gold and white accents, space for title at top, no text, 16:9 ratio, 1280x720
+─────────────────────────────────────────
+
+TEXT: FREELANCER CLIENT ACQUISITION VAULT | 500 Scripts | $47
+
+━━━━━━━━━━━━━━━━
+
+PRODUCT 07 — YOUTUBE SCRIPT MACHINE
+FILENAME: 07-youtube-scripts-cover.png
+
+PROMPT:
+─────────────────────────────────────────
+Deep red and charcoal background, YouTube play button glowing with rays of light, floating script pages and video thumbnails, subscriber count going up, creator content aesthetic, energetic and dynamic, space for title at top, no text, 16:9 ratio, 1280x720
+─────────────────────────────────────────
+
+TEXT: YOUTUBE SCRIPT MACHINE | 300 Hooks, Scripts & CTAs | $37
+
+━━━━━━━━━━━━━━━━
+
+PRODUCT 08 — LINKEDIN DOMINATION VAULT
+FILENAME: 08-linkedin-vault-cover.png
+
+PROMPT:
+─────────────────────────────────────────
+Professional dark blue background, LinkedIn-style profile cards floating with connection lines between them, upward trending follower graph, B2B professional aesthetic, subtle blue glow lighting, corporate but modern feel, space for title at top, no text, 16:9 ratio, 1280x720
+─────────────────────────────────────────
+
+TEXT: LINKEDIN DOMINATION VAULT | 400 Posts & Scripts | $37
+
+━━━━━━━━━━━━━━━━
+
+PRODUCT 09 — SEO & BLOG CONTENT MACHINE
+FILENAME: 09-seo-content-cover.png
+
+PROMPT:
+─────────────────────────────────────────
+Dark background with glowing search bar showing number 1 ranking, floating blog post cards and keyword research data, Google search results floating upward, green growth indicators, clean tech aesthetic, space for title at top, no text, 16:9 ratio, 1280x720
+─────────────────────────────────────────
+
+TEXT: SEO & BLOG CONTENT MACHINE | 350 Templates | $37
+
+━━━━━━━━━━━━━━━━
+
+PRODUCT 10 — EMAIL MARKETING FUNNEL KIT
+FILENAME: 10-email-funnel-cover.png
+
+PROMPT:
+─────────────────────────────────────────
+Dark background, opened email envelope with golden light streaming out, email sequence funnel visualization with conversion arrows, inbox icons, open rate percentages floating up, professional email marketing aesthetic, space for title at top, no text, 16:9 ratio, 1280x720
+─────────────────────────────────────────
+
+TEXT: EMAIL MARKETING FUNNEL KIT | 450 Templates & Sequences | $47
+
+━━━━━━━━━━━━━━━━
+
+PRODUCT 11 — CREATOR ECONOMY MONETIZATION PACK
+FILENAME: 11-creator-monetization-cover.png
+
+PROMPT:
+─────────────────────────────────────────
+Dark purple to black gradient, creator silhouette with multiple income stream icons floating around like YouTube Instagram products sponsorships, dollar signs and growth charts, modern influencer business aesthetic, space for title at top, no text, 16:9 ratio, 1280x720
+─────────────────────────────────────────
+
+TEXT: CREATOR ECONOMY MONETIZATION PACK | 350 Templates | $37
+
+━━━━━━━━━━━━━━━━
+
+PRODUCT 12 — NOTION PRODUCTIVITY OS
+FILENAME: 12-notion-os-cover.png
+
+PROMPT:
+─────────────────────────────────────────
+Clean minimal dark background, floating Notion-style dashboard with organized blocks, productivity icons like calendar tasks goals, satisfying organized aesthetic, dark mode UI feel, soft purple accent lighting, space for title at top, no text, 16:9 ratio, 1280x720
+─────────────────────────────────────────
+
+TEXT: NOTION PRODUCTIVITY OS | 300 Templates | $37
+
+━━━━━━━━━━━━━━━━
+
+PRODUCT 13 — AI PROMPTS FOR EVERY PROFESSION
+FILENAME: 13-profession-prompts-cover.png
+
+PROMPT:
+─────────────────────────────────────────
+Dark background, 20 small profession icons arranged in a circle like teacher doctor developer designer all connecting to a central glowing AI brain, neural network lines, diverse professional aesthetic, modern AI visualization, space for title at top, no text, 16:9 ratio, 1280x720
+─────────────────────────────────────────
+
+TEXT: AI PROMPTS FOR EVERY PROFESSION | 1,000 Prompts | $47
+
+━━━━━━━━━━━━━━━━
+
+PRODUCT 14 — BUSINESS SOP & OPERATIONS VAULT
+FILENAME: 14-business-sop-cover.png
+
+PROMPT:
+─────────────────────────────────────────
+Dark corporate background, organized workflow diagram with glowing nodes and arrows, team hierarchy icons, process documentation aesthetic, professional operations feel, gold and blue accents, clean systematic visual, space for title at top, no text, 16:9 ratio, 1280x720
+─────────────────────────────────────────
+
+TEXT: BUSINESS SOP & OPERATIONS VAULT | 400 Procedures | $47
+
+━━━━━━━━━━━━━━━━
+
+PRODUCT 15 — RESUME & CAREER DOMINATION KIT
+FILENAME: 15-resume-career-cover.png
+
+PROMPT:
+─────────────────────────────────────────
+Dark background, professional resume document glowing with gold highlights, career growth arrow pointing up, job offer envelope, achievement badges floating, corporate professional aesthetic, confidence and success mood, space for title at top, no text, 16:9 ratio, 1280x720
+─────────────────────────────────────────
+
+TEXT: RESUME & CAREER DOMINATION KIT | 250 Templates | $27
+
+━━━━━━━━━━━━━━━━
+
+PRODUCT 16 — E-COMMERCE LAUNCH & GROWTH KIT
+FILENAME: 16-ecommerce-kit-cover.png
+
+PROMPT:
+─────────────────────────────────────────
+Dark background, floating Shopify-style storefront with products, shopping bag icons, conversion rate meter going up, product photos flying into a shopping cart, ecommerce success aesthetic, gold and green accents, space for title at top, no text, 16:9 ratio, 1280x720
+─────────────────────────────────────────
+
+TEXT: E-COMMERCE LAUNCH & GROWTH KIT | 400 Templates | $37
+
+━━━━━━━━━━━━━━━━
+
+PRODUCT 17 — AI SIDE HUSTLE & INCOME VAULT
+FILENAME: 17-ai-side-hustle-cover.png
+
+PROMPT:
+─────────────────────────────────────────
+Dark background, laptop showing dollar signs and income graphs, multiple income stream icons floating like YouTube Etsy Fiverr digital products, AI brain central element, gold coins and upward arrows, motivational wealth aesthetic, space for title at top, no text, 16:9 ratio, 1280x720
+─────────────────────────────────────────
+
+TEXT: AI SIDE HUSTLE & INCOME VAULT | 200+ Ideas | $47
+
+━━━━━━━━━━━━━━━━
+
+PRODUCT 18 — TIKTOK VIRAL VAULT
+FILENAME: 18-tiktok-viral-cover.png
+
+PROMPT:
+─────────────────────────────────────────
+Dark vibrant background, TikTok-style phone screen with viral content indicators, view counter going up dramatically, fire emoji and trending arrows, energetic creator aesthetic, pink and purple gradient accents, dynamic exciting mood, space for title at top, no text, 16:9 ratio, 1280x720
+─────────────────────────────────────────
+
+TEXT: TIKTOK & SHORT-FORM VIDEO VIRAL VAULT | 500 Scripts | $37
+
+━━━━━━━━━━━━━━━━
+
+PRODUCT 19 — STUDENT AI VAULT
+FILENAME: 19-student-ai-cover.png
+
+PROMPT:
+─────────────────────────────────────────
+Dark academic background, graduation cap with AI brain symbol, floating grade papers and books, study notes in background, academic excellence aesthetic, blue and gold colors, hopeful student success mood, space for title at top, no text, 16:9 ratio, 1280x720
+─────────────────────────────────────────
+
+TEXT: STUDENT AI VAULT | 400 ChatGPT Study Prompts | $27
+
+━━━━━━━━━━━━━━━━
+
+PRODUCT 20 — PERSONAL FINANCE PLAYBOOK
+FILENAME: 20-personal-finance-cover.png
+
+PROMPT:
+─────────────────────────────────────────
+Dark background, upward trending wealth graph with dollar signs transforming into house car freedom icons, piggy bank with coins floating up, financial freedom aesthetic, green and gold accents, professional but accessible feel, space for title at top, no text, 16:9 ratio, 1280x720
+─────────────────────────────────────────
+
+TEXT: PERSONAL FINANCE & WEALTH BUILDING PLAYBOOK | 350 Templates | $37
+
+━━━━━━━━━━━━━━━━
+
+PRODUCT 21 — PINTEREST MARKETING MACHINE
+FILENAME: 21-pinterest-marketing-cover.png
+
+PROMPT:
+─────────────────────────────────────────
+Light cream white background, Pinterest-style pin grid with beautiful images, red Pinterest logo accent, traffic arrows pointing up, save and click icons, feminine but professional aesthetic, blush pink and cream colors, space for title at top, no text, 16:9 ratio, 1280x720
+─────────────────────────────────────────
+
+TEXT: PINTEREST MARKETING MACHINE | 300 Pin Templates | $27
+
+━━━━━━━━━━━━━━━━
+
+PRODUCT 22 — WEDDING PLANNING MASTERPACK
+FILENAME: 22-wedding-planning-cover.png
+
+PROMPT:
+─────────────────────────────────────────
+Romantic dark floral background, floating wedding elements like rings flowers invitation card venue, elegant gold script aesthetic, soft candlelight glow, luxury wedding mood, gold and ivory colors, romantic and sophisticated, space for title at top, no text, 16:9 ratio, 1280x720
+─────────────────────────────────────────
+
+TEXT: ULTIMATE WEDDING PLANNING MASTERPACK | 400 Templates | $37
+
+━━━━━━━━━━━━━━━━
+
+PRODUCT 23 — MINDSET & MANIFESTATION JOURNAL
+FILENAME: 23-mindset-journal-cover.png
+
+PROMPT:
+─────────────────────────────────────────
+Deep purple to black gradient, floating golden journal pages, moon and stars, manifestation symbols, affirmation words in soft light, spiritual wellness aesthetic, soft purple and gold glow, peaceful aspirational mood, space for title at top, no text, 16:9 ratio, 1280x720
+─────────────────────────────────────────
+
+TEXT: MINDSET & MANIFESTATION JOURNAL SYSTEM | 365 Prompts | $19
+
+━━━━━━━━━━━━━━━━
+
+PRODUCT 24 — PODCAST LAUNCH KIT
+FILENAME: 24-podcast-launch-cover.png
+
+PROMPT:
+─────────────────────────────────────────
+Dark studio background, professional podcast microphone glowing with sound waves, headphones and waveform visualization, subscriber count rising, creator professional aesthetic, orange and charcoal color scheme, broadcasting confidence mood, space for title at top, no text, 16:9 ratio, 1280x720
+─────────────────────────────────────────
+
+TEXT: PODCAST LAUNCH & GROWTH KIT | 350 Scripts & Templates | $37
+
+━━━━━━━━━━━━━━━━
+
+PRODUCT 25 — AIRBNB SUPERHOST KIT
+FILENAME: 25-airbnb-superhost-cover.png
+
+PROMPT:
+─────────────────────────────────────────
+Warm hospitality aesthetic on dark background, cozy home interior elements floating like door keys star rating bed plants, Airbnb-style 5-star rating badges, welcoming professional host aesthetic, warm amber and white lighting, space for title at top, no text, 16:9 ratio, 1280x720
+─────────────────────────────────────────
+
+TEXT: AIRBNB SUPERHOST KIT | 350 Listing & Message Templates | $37
+
+━━━━━━━━━━━━━━━━
+
+PRODUCT 26 — AMAZON KDP KIT
+FILENAME: 26-amazon-kdp-cover.png
+
+PROMPT:
+─────────────────────────────────────────
+Dark background, floating open book pages with golden light, Kindle device glowing, dollar signs and passive income graphs, journal and planner cover designs floating, self-publishing success aesthetic, warm gold and amber accents, space for title at top, no text, 16:9 ratio, 1280x720
+─────────────────────────────────────────
+
+TEXT: AMAZON KDP & SELF-PUBLISHING KIT | 350 Templates | $37
+
+━━━━━━━━━━━━━━━━
+
+PRODUCT 27 — FITNESS COACHING TEMPLATES
+FILENAME: 27-fitness-coaching-cover.png
+
+PROMPT:
+─────────────────────────────────────────
+Dark gym aesthetic, glowing dumbbell and protein shake, transformation arrows, client progress chart going up, coach clipboard with workout plan, energetic athletic aesthetic, orange and black color scheme, motivational mood, space for title at top, no text, 16:9 ratio, 1280x720
+─────────────────────────────────────────
+
+TEXT: FITNESS COACHING TEMPLATE VAULT | 400 Client Templates | $37
+
+━━━━━━━━━━━━━━━━
+
+PRODUCT 28 — CANVA CREATOR KIT
+FILENAME: 28-canva-creator-cover.png
+
+PROMPT:
+─────────────────────────────────────────
+Colorful dark background, floating Canva-style design elements like color palettes fonts layout grids, passive income dollar signs, Etsy shop mockup floating, creative colorful but dark base, purple and pink accents, space for title at top, no text, 16:9 ratio, 1280x720
+─────────────────────────────────────────
+
+TEXT: CANVA CREATOR & SELLER KIT | 300 Templates | $27
+
+━━━━━━━━━━━━━━━━
+
+PRODUCT 29 — REAL ESTATE INVESTOR PLAYBOOK
+FILENAME: 29-real-estate-investor-cover.png
+
+PROMPT:
+─────────────────────────────────────────
+Dark background, glowing house silhouette with rising value graph, cash flow calculator, property keys and blueprints floating, investment portfolio icons, wealth-building real estate aesthetic, gold and dark green accents, sophisticated investor mood, space for title at top, no text, 16:9 ratio, 1280x720
+─────────────────────────────────────────
+
+TEXT: REAL ESTATE INVESTOR PLAYBOOK | 350 Templates | $47
+
+━━━━━━━━━━━━━━━━
+
+PRODUCT 30 — SOCIAL MEDIA AGENCY KIT
+FILENAME: 30-social-media-agency-cover.png
+
+PROMPT:
+─────────────────────────────────────────
+Dark professional background, multiple brand logos being managed from one dashboard, content calendar grid glowing, client success metrics floating up, multiple platform icons orbiting a central hub, corporate creative vibe, space for title at top, no text, 16:9 ratio, 1280x720
+─────────────────────────────────────────
+
+TEXT: SOCIAL MEDIA AGENCY OPERATIONS KIT | 400 Templates | $47
+
+━━━━━━━━━━━━━━━━
+
+PRODUCT 31 — PROMPT ENGINEERING MASTERCLASS
+FILENAME: 31-prompt-engineering-cover.png
+
+PROMPT:
+─────────────────────────────────────────
+Deep black background, glowing neural network pattern, AI brain with radiating prompt chains, code-like text streams, advanced technology aesthetic, electric blue and white neon accents, sophisticated AI power aesthetic, space for title at top, no text, 16:9 ratio, 1280x720
+─────────────────────────────────────────
+
+TEXT: PROMPT ENGINEERING MASTERCLASS | 300 Advanced Techniques | $47
+
+━━━━━━━━━━━━━━━━
+
+PRODUCT 32 — TEACHER CLASSROOM PACK
+FILENAME: 32-teacher-classroom-cover.png
+
+PROMPT:
+─────────────────────────────────────────
+Warm school aesthetic on dark background, floating apple pencil notebook graduation cap, gold star rating badges, caring teacher energy, warm amber and cream accents, organized professional classroom feel, space for title at top, no text, 16:9 ratio, 1280x720
+─────────────────────────────────────────
+
+TEXT: TEACHER CLASSROOM RESOURCE PACK | 400 Templates | $19
+
+━━━━━━━━━━━━━━━━
+
+PRODUCT 33 — DATING PROFILE KIT
+FILENAME: 33-dating-profile-cover.png
+
+PROMPT:
+─────────────────────────────────────────
+Dark romantic background, floating phone screens showing dating app profiles, heart connections between matches, confident person silhouette, modern dating aesthetic, red and dark pink accents, hopeful and fun vibe, space for title at top, no text, 16:9 ratio, 1280x720
+─────────────────────────────────────────
+
+TEXT: DATING PROFILE & CONVERSATION MASTERY KIT | 300 Templates | $19
+
+━━━━━━━━━━━━━━━━
+
+PRODUCT 34 — PARENTING RESOURCE PACK
+FILENAME: 34-parenting-resource-cover.png
+
+PROMPT:
+─────────────────────────────────────────
+Warm dark background, floating colorful children's elements like blocks crayons stars, parent and child silhouette connecting, family warmth aesthetic, soft orange and cream accents, loving organized family vibe, space for title at top, no text, 16:9 ratio, 1280x720
+─────────────────────────────────────────
+
+TEXT: PARENTING RESOURCE & ACTIVITY PACK | 400 Templates | $19
+
+━━━━━━━━━━━━━━━━
+
+PRODUCT 35 — MENTAL HEALTH WORKBOOK
+FILENAME: 35-mental-health-cover.png
+
+PROMPT:
+─────────────────────────────────────────
+Calming dark background, soft glowing brain with healing light, gentle waves representing calm, mindfulness symbols like lotus and breathing waves, therapeutic warmth, lavender and soft blue accents, peaceful healing aesthetic, space for title at top, no text, 16:9 ratio, 1280x720
+─────────────────────────────────────────
+
+TEXT: MENTAL HEALTH & ANXIETY RELIEF WORKBOOK | 300 Exercises | $27
+
+━━━━━━━━━━━━━━━━
+
+PRODUCT 36 — STARTUP FOUNDER TOOLKIT
+FILENAME: 36-startup-founder-cover.png
+
+PROMPT:
+─────────────────────────────────────────
+Dark startup aesthetic, glowing rocket launching upward, pitch deck slides floating, funding bar filling up, team and strategy icons, modern tech startup vibe, electric blue and white on dark background, ambitious founder energy, space for title at top, no text, 16:9 ratio, 1280x720
+─────────────────────────────────────────
+
+TEXT: STARTUP FOUNDER TOOLKIT | 400 Pitch & Operations Templates | $47
+
+━━━━━━━━━━━━━━━━
+
+PRODUCT 37 — ETSY BUSINESS KIT
+FILENAME: 37-etsy-business-cover.png
+
+PROMPT:
+─────────────────────────────────────────
+Warm Etsy aesthetic, floating product listing cards, star ratings, heart saves, passive income graph rising, small business creator vibe, warm terracotta and cream on dark background, space for title at top, no text, 16:9 ratio, 1280x720
+─────────────────────────────────────────
+
+TEXT: ETSY BUSINESS COMPLETE TOOLKIT | 400 Templates | $37
+
+━━━━━━━━━━━━━━━━
+
+PRODUCT 38 — DROPSHIPPING KIT
+FILENAME: 38-dropshipping-kit-cover.png
+
+PROMPT:
+─────────────────────────────────────────
+Dark ecommerce background, product floating from supplier to customer with profit highlighted, Facebook and TikTok ad screens, ROAS going up, winning product research aesthetic, blue and orange accents, business opportunity mood, space for title at top, no text, 16:9 ratio, 1280x720
+─────────────────────────────────────────
+
+TEXT: DROPSHIPPING LAUNCH & SCALE KIT | 400 Templates | $37
+
+━━━━━━━━━━━━━━━━
+
+PRODUCT 39 — PHOTOGRAPHY BUSINESS
+FILENAME: 39-photography-business-cover.png
+
+PROMPT:
+─────────────────────────────────────────
+Dark studio background, camera lens with golden bokeh light, portrait shoot setup, client booking calendar, revenue graph for photography business, professional photographer aesthetic, warm golden light on dark, artistic yet business focused, space for title at top, no text, 16:9 ratio, 1280x720
+─────────────────────────────────────────
+
+TEXT: PHOTOGRAPHY BUSINESS COMPLETE KIT | 400 Templates | $37
+
+━━━━━━━━━━━━━━━━
+
+PRODUCT 40 — VIRTUAL ASSISTANT KIT
+FILENAME: 40-virtual-assistant-cover.png
+
+PROMPT:
+─────────────────────────────────────────
+Dark work from home aesthetic, multiple laptop screens being managed remotely, task completion checkmarks, client satisfaction icons, remote work setup floating, VA success aesthetic, teal and charcoal color scheme, professional digital nomad vibe, space for title at top, no text, 16:9 ratio, 1280x720
+─────────────────────────────────────────
+
+TEXT: VIRTUAL ASSISTANT BUSINESS LAUNCH KIT | 400 Templates | $47
+
+━━━━━━━━━━━━━━━━
+
+PRODUCT 41 — NUTRITION COACHING
+FILENAME: 41-nutrition-coaching-cover.png
+
+PROMPT:
+─────────────────────────────────────────
+Dark wellness background, glowing meal plate with nutritious food icons, transformation silhouette, health metrics improving, food diary and macros floating, clean nutrition aesthetic, green and gold accents, healthy living aspirational mood, space for title at top, no text, 16:9 ratio, 1280x720
+─────────────────────────────────────────
+
+TEXT: NUTRITION COACHING TEMPLATE VAULT | 350 Templates | $37
+
+━━━━━━━━━━━━━━━━
+
+PRODUCT 42 — LANGUAGE LEARNING AI
+FILENAME: 42-language-learning-cover.png
+
+PROMPT:
+─────────────────────────────────────────
+Dark background with floating language characters Spanish French Japanese Arabic script, AI brain translating between languages, conversation bubbles in multiple languages, globe with language connections, cultural intellectual aesthetic, space for title at top, no text, 16:9 ratio, 1280x720
+─────────────────────────────────────────
+
+TEXT: LANGUAGE LEARNING AI VAULT | 300 ChatGPT Prompts | $27
+
+━━━━━━━━━━━━━━━━
+
+PRODUCT 43 — HOME ORGANIZATION
+FILENAME: 43-home-organization-cover.png
+
+PROMPT:
+─────────────────────────────────────────
+Clean dark minimalist background, perfectly organized shelf silhouette with soft glow, decluttered home aesthetic, floating checkboxes being completed, calm and satisfying visual, white and soft blue accents on dark, KonMari zen feeling, space for title at top, no text, 16:9 ratio, 1280x720
+─────────────────────────────────────────
+
+TEXT: HOME ORGANIZATION & CLEANING SYSTEM | 300 Checklists | $19
+
+━━━━━━━━━━━━━━━━
+
+PRODUCT 44 — CONSULTING SOW KIT
+FILENAME: 44-consulting-sow-cover.png
+
+PROMPT:
+─────────────────────────────────────────
+Dark professional background, contract document with gold seal glowing, project timeline chart, consultant briefcase, client presentation slides, B2B professional aesthetic, navy and gold color scheme, authoritative consulting vibe, space for title at top, no text, 16:9 ratio, 1280x720
+─────────────────────────────────────────
+
+TEXT: CONSULTING & FREELANCE SOW KIT | 400 Templates | $47
+
+━━━━━━━━━━━━━━━━
+
+PRODUCT 45 — GRANT WRITING VAULT
+FILENAME: 45-grant-writing-cover.png
+
+PROMPT:
+─────────────────────────────────────────
+Dark nonprofit aesthetic, glowing grant check being awarded, mission impact icons floating, community helping hands silhouette, funding bar filling up, purple and gold accents, impact-driven hopeful aesthetic, space for title at top, no text, 16:9 ratio, 1280x720
+─────────────────────────────────────────
+
+TEXT: GRANT WRITING VAULT | 350 Nonprofit Templates | $47
+
+━━━━━━━━━━━━━━━━
+
+PRODUCT 46 — YOUTUBE CHANNEL GROWTH
+FILENAME: 46-youtube-growth-cover.png
+
+PROMPT:
+─────────────────────────────────────────
+Dark YouTube creator aesthetic, subscriber counter dramatically increasing, viral video thumbnails floating, monetization dashboard glowing, creator setup silhouette, red and dark background, creator success energy, space for title at top, no text, 16:9 ratio, 1280x720
+─────────────────────────────────────────
+
+TEXT: YOUTUBE CHANNEL GROWTH & MONETIZATION VAULT | 350 Templates | $37
+
+━━━━━━━━━━━━━━━━
+
+PRODUCT 47 — INVESTMENT TRACKING
+FILENAME: 47-investment-tracking-cover.png
+
+PROMPT:
+─────────────────────────────────────────
+Dark financial aesthetic, glowing stock chart going up dramatically, investment portfolio pie chart, compound interest visualization, bull market energy, green and gold on dark background, wealth building aesthetic, space for title at top, no text, 16:9 ratio, 1280x720
+─────────────────────────────────────────
+
+TEXT: INVESTMENT PORTFOLIO TRACKING KIT | 300 Templates | $37
+
+━━━━━━━━━━━━━━━━
+
+PRODUCT 48 — ADULTING LIFE SKILLS
+FILENAME: 48-adulting-skills-cover.png
+
+PROMPT:
+─────────────────────────────────────────
+Dark background, floating adulting icons like keys tax form car keys first aid kit budget spreadsheet lease document, young adult discovering competence aesthetic, organized and empowered feel, blue and orange accents, relatable yet serious, space for title at top, no text, 16:9 ratio, 1280x720
+─────────────────────────────────────────
+
+TEXT: ADULTING LIFE SKILLS MASTERGUIDE | 350 Templates | $19
+
+━━━━━━━━━━━━━━━━
+
+PRODUCT 49 — BOOK WRITING KIT
+FILENAME: 49-book-writing-cover.png
+
+PROMPT:
+─────────────────────────────────────────
+Dark literary aesthetic, open glowing book with golden pages, typewriter keys floating, bestseller list in background, author silhouette writing, published book covers floating, ambitious author energy, deep blue and gold accents, space for title at top, no text, 16:9 ratio, 1280x720
+─────────────────────────────────────────
+
+TEXT: BOOK WRITING & PUBLISHING KIT | 350 Templates | $37
+
+━━━━━━━━━━━━━━━━
+
+PRODUCT 50 — NONPROFIT FUNDRAISING
+FILENAME: 50-nonprofit-fundraising-cover.png
+
+PROMPT:
+─────────────────────────────────────────
+Dark background with warm heart-glow at center, fundraising thermometer filling up, donor hands contributing, nonprofit mission icons floating, community impact visualization, purple and warm amber accents, hopeful impactful nonprofit aesthetic, space for title at top, no text, 16:9 ratio, 1280x720
+─────────────────────────────────────────
+
+TEXT: NONPROFIT FUNDRAISING & DONOR RELATIONS KIT | 400 Templates | $47
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+FINAL FILENAMES LIST (copy this when naming images):
+
+01-ai-business-vault-cover.png
+02-midjourney-cinematic-cover.png
+03-instagram-content-cover.png
+04-photography-prompts-cover.png
+05-copywriting-vault-cover.png
+06-freelancer-vault-cover.png
+07-youtube-scripts-cover.png
+08-linkedin-vault-cover.png
+09-seo-content-cover.png
+10-email-funnel-cover.png
+11-creator-monetization-cover.png
+12-notion-os-cover.png
+13-profession-prompts-cover.png
+14-business-sop-cover.png
+15-resume-career-cover.png
+16-ecommerce-kit-cover.png
+17-ai-side-hustle-cover.png
+18-tiktok-viral-cover.png
+19-student-ai-cover.png
+20-personal-finance-cover.png
+21-pinterest-marketing-cover.png
+22-wedding-planning-cover.png
+23-mindset-journal-cover.png
+24-podcast-launch-cover.png
+25-airbnb-superhost-cover.png
+26-amazon-kdp-cover.png
+27-fitness-coaching-cover.png
+28-canva-creator-cover.png
+29-real-estate-investor-cover.png
+30-social-media-agency-cover.png
+31-prompt-engineering-cover.png
+32-teacher-classroom-cover.png
+33-dating-profile-cover.png
+34-parenting-resource-cover.png
+35-mental-health-cover.png
+36-startup-founder-cover.png
+37-etsy-business-cover.png
+38-dropshipping-kit-cover.png
+39-photography-business-cover.png
+40-virtual-assistant-cover.png
+41-nutrition-coaching-cover.png
+42-language-learning-cover.png
+43-home-organization-cover.png
+44-consulting-sow-cover.png
+45-grant-writing-cover.png
+46-youtube-growth-cover.png
+47-investment-tracking-cover.png
+48-adulting-skills-cover.png
+49-book-writing-cover.png
+50-nonprofit-fundraising-cover.png
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SAVE ALL IMAGES TO:
+/Users/aniket/Desktop/online-work-site/products/COVER-IMAGES/
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

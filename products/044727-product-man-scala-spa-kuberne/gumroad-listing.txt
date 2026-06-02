@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Product Management Toolkit: Scala/Spark + Kubernetes for Director of Engineering
+PRICE: $127
+TAGS: product management, scala/spark, kubernetes
+SHORT DESC: AI Product Management Toolkit: Scala/Spark + Kubernetes for Director of Engineering. $127. Commercial license.

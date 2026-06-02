@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Product Management Toolkit: Node.js/Express + Azure for Mid-Level
+PRICE: $127
+TAGS: product management, node.js/express, azure
+SHORT DESC: AI Product Management Toolkit: Node.js/Express + Azure for Mid-Level. $127. Commercial license.

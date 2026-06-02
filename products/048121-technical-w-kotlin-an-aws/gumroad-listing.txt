@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Technical Writing Toolkit: Kotlin/Android + AWS for Junior
+PRICE: $127
+TAGS: technical writing, kotlin/android, aws
+SHORT DESC: AI Technical Writing Toolkit: Kotlin/Android + AWS for Junior. $127. Commercial license.

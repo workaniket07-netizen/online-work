@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI API Design Toolkit: R/Statistical + Terraform for CTO
+PRICE: $177
+TAGS: api design, r/statistical, terraform
+SHORT DESC: AI API Design Toolkit: R/Statistical + Terraform for CTO. $177. Commercial license.

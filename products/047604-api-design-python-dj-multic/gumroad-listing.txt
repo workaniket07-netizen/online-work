@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI API Design Toolkit: Python/Django + Multi-Cloud for Staff
+PRICE: $177
+TAGS: api design, python/django, multi-cloud
+SHORT DESC: AI API Design Toolkit: Python/Django + Multi-Cloud for Staff. $177. Commercial license.

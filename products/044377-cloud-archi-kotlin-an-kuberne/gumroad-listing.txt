@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Cloud Architecture Toolkit: Kotlin/Android + Kubernetes for Director of Engineering
+PRICE: $127
+TAGS: cloud architecture, kotlin/android, kubernetes
+SHORT DESC: AI Cloud Architecture Toolkit: Kotlin/Android + Kubernetes for Director of Engineering. $127. Commercial license.

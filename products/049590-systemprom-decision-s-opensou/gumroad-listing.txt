@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Prompting: System Prompts for Decision Support using Open Source Models (Intermediate)
+PRICE: $127
+TAGS: system prompts, decision support, prompt engineering
+SHORT DESC: AI Prompting: System Prompts for Decision Support using Open Source Models (Intermediate). $127. Commercial license.

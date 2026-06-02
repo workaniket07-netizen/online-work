@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Business Intelligence Toolkit: Golang + Serverless for Founding Engineer
+PRICE: $127
+TAGS: business intelligenc, golang, serverless
+SHORT DESC: AI Business Intelligence Toolkit: Golang + Serverless for Founding Engineer. $127. Commercial license.

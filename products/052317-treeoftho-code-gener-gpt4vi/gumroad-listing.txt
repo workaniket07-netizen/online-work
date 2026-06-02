@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Prompting: Tree-of-Thought for Code Generation using GPT-4 Vision (Beginner)
+PRICE: $127
+TAGS: tree-of-thought, code generation, prompt engineering
+SHORT DESC: AI Prompting: Tree-of-Thought for Code Generation using GPT-4 Vision (Beginner). $127. Commercial license.

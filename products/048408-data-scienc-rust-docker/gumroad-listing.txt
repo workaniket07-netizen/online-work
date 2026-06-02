@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Data Science Toolkit: Rust + Docker for VP Engineering
+PRICE: $127
+TAGS: data science, rust, docker
+SHORT DESC: AI Data Science Toolkit: Rust + Docker for VP Engineering. $127. Commercial license.

@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI API Design Toolkit: Ruby/Rails + Serverless for Founding Engineer
+PRICE: $127
+TAGS: api design, ruby/rails, serverless
+SHORT DESC: AI API Design Toolkit: Ruby/Rails + Serverless for Founding Engineer. $127. Commercial license.

@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI DevOps Toolkit: C++/Systems + GCP for Senior
+PRICE: $127
+TAGS: devops, c++/systems, gcp
+SHORT DESC: AI DevOps Toolkit: C++/Systems + GCP for Senior. $127. Commercial license.

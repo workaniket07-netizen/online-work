@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI API Design Toolkit: Python/Django + Docker for VP Engineering
+PRICE: $127
+TAGS: api design, python/django, docker
+SHORT DESC: AI API Design Toolkit: Python/Django + Docker for VP Engineering. $127. Commercial license.

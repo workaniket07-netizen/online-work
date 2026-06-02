@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Prompting: Function Calling for Data Analysis using Llama 3 (Intermediate)
+PRICE: $127
+TAGS: function calling, data analysis, prompt engineering
+SHORT DESC: AI Prompting: Function Calling for Data Analysis using Llama 3 (Intermediate). $127. Commercial license.

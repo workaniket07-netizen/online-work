@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Prompting: Chain-of-Thought for Customer Service using Llama 3 (Expert)
+PRICE: $147
+TAGS: chain-of-thought, customer service, prompt engineering
+SHORT DESC: AI Prompting: Chain-of-Thought for Customer Service using Llama 3 (Expert). $147. Commercial license.

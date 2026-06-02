@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Product Management Toolkit: Python/Django + AWS for Junior
+PRICE: $127
+TAGS: product management, python/django, aws
+SHORT DESC: AI Product Management Toolkit: Python/Django + AWS for Junior. $127. Commercial license.

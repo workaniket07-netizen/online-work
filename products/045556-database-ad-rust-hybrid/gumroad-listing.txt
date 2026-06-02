@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Database Administration Toolkit: Rust + Hybrid for Architect
+PRICE: $177
+TAGS: database administrat, rust, hybrid
+SHORT DESC: AI Database Administration Toolkit: Rust + Hybrid for Architect. $177. Commercial license.

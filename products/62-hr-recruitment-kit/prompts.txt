@@ -1,0 +1,126 @@
+╔══════════════════════════════════════════════════════════════════════╗
+║           HR & RECRUITMENT PROFESSIONAL KIT                          ║
+║   400 Templates for Talent Acquisition & People Operations           ║
+║              By AniketG AI Systems                                   ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 1: JOB DESCRIPTIONS (80 Templates)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+JOB DESCRIPTION FORMULA:
+[JD-01] Section 1: Company/team intro (2-3 sentences — culture and mission, not just description)
+[JD-02] Section 2: The role in 2 sentences (what they'll own, who they'll impact)
+[JD-03] Section 3: What you'll do (5-8 bullets, outcomes not tasks)
+[JD-04] Section 4: What we're looking for (must-have vs nice-to-have — separate clearly)
+[JD-05] Section 5: What we offer (compensation range, benefits, growth, culture)
+[JD-06] Section 6: Application process (what to expect, timeline)
+
+BIAS-FREE LANGUAGE GUIDE:
+Replace → With:
+"Rockstar/Ninja/Guru" → "Experienced [Role]"
+"Must have X years" → "Proven experience in X"
+"Strong communicator" → Describe specific communication needed
+"Culture fit" → "Aligned with our values of [specific values]"
+"Must be available nights/weekends" → Specify actual schedule requirements
+
+JD TEMPLATES BY ROLE (30):
+[JD-10] Software Engineer
+[JD-11] Product Manager
+[JD-12] Marketing Manager
+[JD-13] Sales Representative
+[JD-14] Customer Success Manager
+[JD-15] Data Analyst
+[JD-16] UX/UI Designer
+[JD-17] Content Writer/Strategist
+[JD-18] Operations Manager
+[JD-19] HR Business Partner
+[JD-20] Finance/Accounting
+[JD-21] DevOps/SRE
+[JD-22] Business Development
+[JD-23] Social Media Manager
+[JD-24] Project Manager
+[JD-25] Office Manager/Executive Assistant
+[JD-26] Recruiter
+[JD-27] Legal/Compliance
+[JD-28] Graphic Designer
+[JD-29] Data Engineer
+[JD-30 to JD-40] More role templates
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 2: RECRUITING PROCESS (80 Templates)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+FULL RECRUITING CYCLE TEMPLATES:
+
+SOURCING:
+[RS-01] LinkedIn outreach (cold): "Hi [Name], I came across your profile while looking for [role] candidates. Your background in [specific detail] caught my attention. [Company] is hiring a [Role] — would you be open to a quick conversation?"
+[RS-02] LinkedIn outreach (warm): "[Mutual connection] suggested I reach out. We're hiring for [role] and your background seems like a great fit."
+[RS-03] Referral request to employees: "We're hiring [Role]! Know anyone? Here's the JD: [link]. We offer [referral bonus]."
+[RS-04 to RS-10] More sourcing templates
+
+SCREENING:
+[SC-01] Phone screen questions (10 per role type)
+[SC-02] Application screening rubric
+[SC-03] Skills assessment cover email
+[SC-04] Video interview instructions
+
+INTERVIEWING:
+[IV-01] Interview confirmation email (what to bring, who they'll meet, timing)
+[IV-02] Interview guide per competency (behavioral + situational questions)
+[IV-03] Scoring rubric template (1-5 scale, standardized across interviewers)
+[IV-04] Debrief agenda template
+
+OFFERS:
+[OF-01] Verbal offer script ("Before I send the written offer, I want to share the details...")
+[OF-02] Written offer letter template (key components)
+[OF-03] Offer negotiation responses (3 scenarios)
+[OF-04] Offer decline response (graceful + relationship preserving)
+
+REJECTIONS:
+[RJ-01] After resume review: "Thank you for applying to [Role]..."
+[RJ-02] After phone screen: "We appreciated our conversation..."
+[RJ-03] After final round: "This was a genuinely difficult decision..."
+[RJ-04] Feedback policy (when/how to give interview feedback)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 3: CANDIDATE EXPERIENCE (80 Templates)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+CANDIDATE COMMUNICATION TIMELINE:
+Within 48 hours: Application acknowledgment
+Within 5 days: Screen decision
+Within 7 days: Interview scheduled
+Within 24 hours post-interview: Thank you + next steps
+Within 5 days: Decision communicated
+
+EMAIL TEMPLATES (20):
+[CE-01] Application received: "Thank you for applying to [Role] at [Company]. We'll review your application within [X] business days."
+[CE-02] Moving to phone screen: "We'd love to learn more about your background. Could you schedule a 30-minute call?"
+[CE-03] Moving to interview: "Congratulations on advancing to the next round!"
+[CE-04] Scheduling options (Calendly link or manual options)
+[CE-05] Day-before reminder
+[CE-06] Post-interview follow-up from company side
+[CE-07 to CE-20] More candidate communication templates
+
+CHATGPT PROMPTS FOR RECRUITERS (30):
+[CP-01] "Write a job description for [Role] at a [company type/size] in [industry]. Culture: [describe]. Must-haves: [list]. Nice-to-haves: [list]. Salary range: [range]. Remove bias and include DEI-friendly language."
+[CP-02] "Create 10 behavioral interview questions for [Role] focused on [competency: leadership/communication/problem-solving]. Include what a strong answer demonstrates."
+[CP-03] "Draft a rejection email for a candidate who interviewed for [Role] and reached the final round. We chose someone else based on [reason]. Tone: warm, specific, leaves door open."
+[CP-04 to CP-30] More HR AI prompts
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 4: PEOPLE OPS & RETENTION (80 Templates)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[PO-01 to PO-80] Templates for:
+Onboarding checklist, 30/60/90 day plans, performance review cycle,
+1:1 meeting agendas, team health surveys, promotion criteria,
+compensation review process, exit interview questions,
+employee engagement survey, recognition programs,
+DEI initiatives, manager training, succession planning
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+STATS: 400 templates | JDs + Recruiting Process + Candidate Experience + People Ops
+By AniketG AI Systems
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

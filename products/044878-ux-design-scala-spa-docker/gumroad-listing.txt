@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI UX Design Toolkit: Scala/Spark + Docker for VP Engineering
+PRICE: $127
+TAGS: ux design, scala/spark, docker
+SHORT DESC: AI UX Design Toolkit: Scala/Spark + Docker for VP Engineering. $127. Commercial license.

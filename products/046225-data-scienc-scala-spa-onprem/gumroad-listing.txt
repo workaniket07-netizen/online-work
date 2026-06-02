@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Data Science Toolkit: Scala/Spark + On-Premise for Principal
+PRICE: $177
+TAGS: data science, scala/spark, on-premise
+SHORT DESC: AI Data Science Toolkit: Scala/Spark + On-Premise for Principal. $177. Commercial license.

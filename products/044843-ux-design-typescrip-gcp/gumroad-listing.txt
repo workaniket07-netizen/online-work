@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI UX Design Toolkit: TypeScript + GCP for Senior
+PRICE: $127
+TAGS: ux design, typescript, gcp
+SHORT DESC: AI UX Design Toolkit: TypeScript + GCP for Senior. $127. Commercial license.

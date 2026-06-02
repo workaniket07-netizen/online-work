@@ -1,0 +1,5 @@
+PRODUCT TITLE: AI for Database Users — MySQL PostgreSQL MongoDB
+PRICE: $127
+TAGS: MySQL AI, PostgreSQL AI, database AI, SQL AI
+SHORT DESC: AI for Database Users — MySQL PostgreSQL MongoDB. Commercial license. Instant download.
+LONG DESC: AI for Database Users — MySQL PostgreSQL MongoDB. 7-day guarantee.

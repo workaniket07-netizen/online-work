@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI QA Testing Toolkit: Scala/Spark + Kubernetes for Director of Engineering
+PRICE: $127
+TAGS: qa testing, scala/spark, kubernetes
+SHORT DESC: AI QA Testing Toolkit: Scala/Spark + Kubernetes for Director of Engineering. $127. Commercial license.

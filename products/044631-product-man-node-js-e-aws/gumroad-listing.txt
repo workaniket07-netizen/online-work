@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Product Management Toolkit: Node.js/Express + AWS for Junior
+PRICE: $127
+TAGS: product management, node.js/express, aws
+SHORT DESC: AI Product Management Toolkit: Node.js/Express + AWS for Junior. $127. Commercial license.

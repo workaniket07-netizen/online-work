@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Prompting: Few-Shot Learning for Video Scripts using Gemini Pro (Beginner)
+PRICE: $127
+TAGS: few-shot learning, video scripts, prompt engineering
+SHORT DESC: AI Prompting: Few-Shot Learning for Video Scripts using Gemini Pro (Beginner). $127. Commercial license.

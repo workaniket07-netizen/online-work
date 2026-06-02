@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Cloud Architecture Toolkit: Swift/iOS + Terraform for CTO
+PRICE: $177
+TAGS: cloud architecture, swift/ios, terraform
+SHORT DESC: AI Cloud Architecture Toolkit: Swift/iOS + Terraform for CTO. $177. Commercial license.

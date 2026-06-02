@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Data Science Toolkit: Ruby/Rails + Terraform for CTO
+PRICE: $177
+TAGS: data science, ruby/rails, terraform
+SHORT DESC: AI Data Science Toolkit: Ruby/Rails + Terraform for CTO. $177. Commercial license.

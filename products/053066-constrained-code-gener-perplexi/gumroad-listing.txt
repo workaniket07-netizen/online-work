@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Prompting: Constrained Generation for Code Generation using Perplexity (Intermediate)
+PRICE: $127
+TAGS: constrained generati, code generation, prompt engineering
+SHORT DESC: AI Prompting: Constrained Generation for Code Generation using Perplexity (Intermediate). $127. Commercial license.

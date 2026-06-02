@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Software Engineering Toolkit: Ruby/Rails + Terraform for CTO
+PRICE: $177
+TAGS: software engineering, ruby/rails, terraform
+SHORT DESC: AI Software Engineering Toolkit: Ruby/Rails + Terraform for CTO. $177. Commercial license.

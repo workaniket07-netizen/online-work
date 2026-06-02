@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Systems Architecture Toolkit: Kotlin/Android + Serverless for Founding Engineer
+PRICE: $127
+TAGS: systems architecture, kotlin/android, serverless
+SHORT DESC: AI Systems Architecture Toolkit: Kotlin/Android + Serverless for Founding Engineer. $127. Commercial license.

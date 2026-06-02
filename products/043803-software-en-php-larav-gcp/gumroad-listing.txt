@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Software Engineering Toolkit: PHP/Laravel + GCP for Senior
+PRICE: $127
+TAGS: software engineering, php/laravel, gcp
+SHORT DESC: AI Software Engineering Toolkit: PHP/Laravel + GCP for Senior. $127. Commercial license.

@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI DevOps Toolkit: MATLAB/Data + Serverless for Founding Engineer
+PRICE: $127
+TAGS: devops, matlab/data, serverless
+SHORT DESC: AI DevOps Toolkit: MATLAB/Data + Serverless for Founding Engineer. $127. Commercial license.

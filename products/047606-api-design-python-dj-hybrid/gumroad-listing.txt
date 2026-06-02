@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI API Design Toolkit: Python/Django + Hybrid for Architect
+PRICE: $177
+TAGS: api design, python/django, hybrid
+SHORT DESC: AI API Design Toolkit: Python/Django + Hybrid for Architect. $177. Commercial license.

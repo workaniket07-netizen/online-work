@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Machine Learning Toolkit: Golang + Terraform for CTO
+PRICE: $177
+TAGS: machine learning, golang, terraform
+SHORT DESC: AI Machine Learning Toolkit: Golang + Terraform for CTO. $177. Commercial license.

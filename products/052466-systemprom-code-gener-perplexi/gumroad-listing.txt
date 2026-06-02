@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Prompting: System Prompts for Code Generation using Perplexity (Intermediate)
+PRICE: $127
+TAGS: system prompts, code generation, prompt engineering
+SHORT DESC: AI Prompting: System Prompts for Code Generation using Perplexity (Intermediate). $127. Commercial license.

@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Software Engineering Toolkit: PHP/Laravel + Kubernetes for Director of Engineering
+PRICE: $127
+TAGS: software engineering, php/laravel, kubernetes
+SHORT DESC: AI Software Engineering Toolkit: PHP/Laravel + Kubernetes for Director of Engineering. $127. Commercial license.

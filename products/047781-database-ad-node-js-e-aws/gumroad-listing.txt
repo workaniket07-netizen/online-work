@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Database Administration Toolkit: Node.js/Express + AWS for Junior
+PRICE: $127
+TAGS: database administrat, node.js/express, aws
+SHORT DESC: AI Database Administration Toolkit: Node.js/Express + AWS for Junior. $127. Commercial license.

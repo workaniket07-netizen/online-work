@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Prompting: Prompt Chaining for Code Generation using Claude Sonnet (Expert)
+PRICE: $147
+TAGS: prompt chaining, code generation, prompt engineering
+SHORT DESC: AI Prompting: Prompt Chaining for Code Generation using Claude Sonnet (Expert). $147. Commercial license.

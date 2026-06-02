@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Security Toolkit: C++/Systems + AWS for Junior
+PRICE: $127
+TAGS: security, c++/systems, aws
+SHORT DESC: AI Security Toolkit: C++/Systems + AWS for Junior. $127. Commercial license.

@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI UX Design Toolkit: Python/Django + AWS for Junior
+PRICE: $127
+TAGS: ux design, python/django, aws
+SHORT DESC: AI UX Design Toolkit: Python/Django + AWS for Junior. $127. Commercial license.

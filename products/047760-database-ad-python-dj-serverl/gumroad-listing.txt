@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Database Administration Toolkit: Python/Django + Serverless for Founding Engineer
+PRICE: $127
+TAGS: database administrat, python/django, serverless
+SHORT DESC: AI Database Administration Toolkit: Python/Django + Serverless for Founding Engineer. $127. Commercial license.

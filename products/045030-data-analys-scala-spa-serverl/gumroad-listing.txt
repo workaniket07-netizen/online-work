@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Data Analysis Toolkit: Scala/Spark + Serverless for Founding Engineer
+PRICE: $127
+TAGS: data analysis, scala/spark, serverless
+SHORT DESC: AI Data Analysis Toolkit: Scala/Spark + Serverless for Founding Engineer. $127. Commercial license.

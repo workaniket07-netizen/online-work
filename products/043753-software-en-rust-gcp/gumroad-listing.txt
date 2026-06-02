@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Software Engineering Toolkit: Rust + GCP for Senior
+PRICE: $127
+TAGS: software engineering, rust, gcp
+SHORT DESC: AI Software Engineering Toolkit: Rust + GCP for Senior. $127. Commercial license.

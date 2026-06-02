@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Technical Writing Toolkit: Python/Django + Kubernetes for Director of Engineering
+PRICE: $127
+TAGS: technical writing, python/django, kubernetes
+SHORT DESC: AI Technical Writing Toolkit: Python/Django + Kubernetes for Director of Engineering. $127. Commercial license.

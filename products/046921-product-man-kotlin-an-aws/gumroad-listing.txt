@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Product Management Toolkit: Kotlin/Android + AWS for Junior
+PRICE: $127
+TAGS: product management, kotlin/android, aws
+SHORT DESC: AI Product Management Toolkit: Kotlin/Android + AWS for Junior. $127. Commercial license.

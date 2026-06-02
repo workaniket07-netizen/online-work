@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI QA Testing Toolkit: Swift/iOS + Kubernetes for Director of Engineering
+PRICE: $127
+TAGS: qa testing, swift/ios, kubernetes
+SHORT DESC: AI QA Testing Toolkit: Swift/iOS + Kubernetes for Director of Engineering. $127. Commercial license.

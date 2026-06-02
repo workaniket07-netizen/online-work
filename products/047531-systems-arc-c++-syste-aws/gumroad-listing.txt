@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Systems Architecture Toolkit: C++/Systems + AWS for Junior
+PRICE: $127
+TAGS: systems architecture, c++/systems, aws
+SHORT DESC: AI Systems Architecture Toolkit: C++/Systems + AWS for Junior. $127. Commercial license.

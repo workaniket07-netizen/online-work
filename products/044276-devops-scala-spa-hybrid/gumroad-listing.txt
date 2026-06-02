@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI DevOps Toolkit: Scala/Spark + Hybrid for Architect
+PRICE: $177
+TAGS: devops, scala/spark, hybrid
+SHORT DESC: AI DevOps Toolkit: Scala/Spark + Hybrid for Architect. $177. Commercial license.

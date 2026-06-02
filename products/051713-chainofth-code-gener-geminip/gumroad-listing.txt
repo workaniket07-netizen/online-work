@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Prompting: Chain-of-Thought for Code Generation using Gemini Pro (Beginner)
+PRICE: $127
+TAGS: chain-of-thought, code generation, prompt engineering
+SHORT DESC: AI Prompting: Chain-of-Thought for Code Generation using Gemini Pro (Beginner). $127. Commercial license.

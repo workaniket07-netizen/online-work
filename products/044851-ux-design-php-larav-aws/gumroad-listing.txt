@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI UX Design Toolkit: PHP/Laravel + AWS for Junior
+PRICE: $127
+TAGS: ux design, php/laravel, aws
+SHORT DESC: AI UX Design Toolkit: PHP/Laravel + AWS for Junior. $127. Commercial license.

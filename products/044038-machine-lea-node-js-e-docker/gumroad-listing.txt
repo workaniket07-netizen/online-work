@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Machine Learning Toolkit: Node.js/Express + Docker for VP Engineering
+PRICE: $127
+TAGS: machine learning, node.js/express, docker
+SHORT DESC: AI Machine Learning Toolkit: Node.js/Express + Docker for VP Engineering. $127. Commercial license.

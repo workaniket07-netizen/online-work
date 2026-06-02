@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Business Intelligence Toolkit: Scala/Spark + AWS for Junior
+PRICE: $127
+TAGS: business intelligenc, scala/spark, aws
+SHORT DESC: AI Business Intelligence Toolkit: Scala/Spark + AWS for Junior. $127. Commercial license.

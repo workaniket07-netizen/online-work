@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Software Engineering Toolkit: Golang + AWS for Junior
+PRICE: $127
+TAGS: software engineering, golang, aws
+SHORT DESC: AI Software Engineering Toolkit: Golang + AWS for Junior. $127. Commercial license.

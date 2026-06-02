@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI DevOps Toolkit: R/Statistical + AWS for Junior
+PRICE: $127
+TAGS: devops, r/statistical, aws
+SHORT DESC: AI DevOps Toolkit: R/Statistical + AWS for Junior. $127. Commercial license.

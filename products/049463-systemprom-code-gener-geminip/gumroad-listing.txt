@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Prompting: System Prompts for Code Generation using Gemini Pro (Advanced)
+PRICE: $147
+TAGS: system prompts, code generation, prompt engineering
+SHORT DESC: AI Prompting: System Prompts for Code Generation using Gemini Pro (Advanced). $147. Commercial license.

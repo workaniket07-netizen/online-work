@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Product Management Toolkit: Ruby/Rails + Serverless for Founding Engineer
+PRICE: $127
+TAGS: product management, ruby/rails, serverless
+SHORT DESC: AI Product Management Toolkit: Ruby/Rails + Serverless for Founding Engineer. $127. Commercial license.

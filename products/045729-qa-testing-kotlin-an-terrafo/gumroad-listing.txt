@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI QA Testing Toolkit: Kotlin/Android + Terraform for CTO
+PRICE: $177
+TAGS: qa testing, kotlin/android, terraform
+SHORT DESC: AI QA Testing Toolkit: Kotlin/Android + Terraform for CTO. $177. Commercial license.

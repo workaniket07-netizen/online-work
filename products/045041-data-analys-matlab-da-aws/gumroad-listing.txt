@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Data Analysis Toolkit: MATLAB/Data + AWS for Junior
+PRICE: $127
+TAGS: data analysis, matlab/data, aws
+SHORT DESC: AI Data Analysis Toolkit: MATLAB/Data + AWS for Junior. $127. Commercial license.

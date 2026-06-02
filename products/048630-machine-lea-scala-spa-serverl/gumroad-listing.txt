@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Machine Learning Toolkit: Scala/Spark + Serverless for Founding Engineer
+PRICE: $127
+TAGS: machine learning, scala/spark, serverless
+SHORT DESC: AI Machine Learning Toolkit: Scala/Spark + Serverless for Founding Engineer. $127. Commercial license.

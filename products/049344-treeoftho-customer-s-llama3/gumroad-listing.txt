@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Prompting: Tree-of-Thought for Customer Service using Llama 3 (Expert)
+PRICE: $147
+TAGS: tree-of-thought, customer service, prompt engineering
+SHORT DESC: AI Prompting: Tree-of-Thought for Customer Service using Llama 3 (Expert). $147. Commercial license.

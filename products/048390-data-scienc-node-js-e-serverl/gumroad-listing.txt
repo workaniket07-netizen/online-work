@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Data Science Toolkit: Node.js/Express + Serverless for Founding Engineer
+PRICE: $127
+TAGS: data science, node.js/express, serverless
+SHORT DESC: AI Data Science Toolkit: Node.js/Express + Serverless for Founding Engineer. $127. Commercial license.

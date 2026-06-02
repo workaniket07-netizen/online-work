@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Prompting: RAG Integration for Code Generation using Perplexity (Expert)
+PRICE: $147
+TAGS: rag integration, code generation, prompt engineering
+SHORT DESC: AI Prompting: RAG Integration for Code Generation using Perplexity (Expert). $147. Commercial license.

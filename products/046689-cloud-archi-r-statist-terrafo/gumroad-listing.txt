@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Cloud Architecture Toolkit: R/Statistical + Terraform for CTO
+PRICE: $177
+TAGS: cloud architecture, r/statistical, terraform
+SHORT DESC: AI Cloud Architecture Toolkit: R/Statistical + Terraform for CTO. $177. Commercial license.

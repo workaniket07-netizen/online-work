@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Security Toolkit: R/Statistical + AWS for Junior
+PRICE: $127
+TAGS: security, r/statistical, aws
+SHORT DESC: AI Security Toolkit: R/Statistical + AWS for Junior. $127. Commercial license.

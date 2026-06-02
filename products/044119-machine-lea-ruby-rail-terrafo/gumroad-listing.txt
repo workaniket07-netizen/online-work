@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Machine Learning Toolkit: Ruby/Rails + Terraform for CTO
+PRICE: $177
+TAGS: machine learning, ruby/rails, terraform
+SHORT DESC: AI Machine Learning Toolkit: Ruby/Rails + Terraform for CTO. $177. Commercial license.

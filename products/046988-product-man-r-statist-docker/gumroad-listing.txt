@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Product Management Toolkit: R/Statistical + Docker for VP Engineering
+PRICE: $127
+TAGS: product management, r/statistical, docker
+SHORT DESC: AI Product Management Toolkit: R/Statistical + Docker for VP Engineering. $127. Commercial license.

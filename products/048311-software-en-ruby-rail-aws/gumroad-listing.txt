@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Software Engineering Toolkit: Ruby/Rails + AWS for Junior
+PRICE: $127
+TAGS: software engineering, ruby/rails, aws
+SHORT DESC: AI Software Engineering Toolkit: Ruby/Rails + AWS for Junior. $127. Commercial license.

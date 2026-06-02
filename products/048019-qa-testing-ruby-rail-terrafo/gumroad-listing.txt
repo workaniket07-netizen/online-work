@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI QA Testing Toolkit: Ruby/Rails + Terraform for CTO
+PRICE: $177
+TAGS: qa testing, ruby/rails, terraform
+SHORT DESC: AI QA Testing Toolkit: Ruby/Rails + Terraform for CTO. $177. Commercial license.

@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI API Design Toolkit: JavaScript/React + Kubernetes for Director of Engineering
+PRICE: $127
+TAGS: api design, javascript/react, kubernetes
+SHORT DESC: AI API Design Toolkit: JavaScript/React + Kubernetes for Director of Engineering. $127. Commercial license.

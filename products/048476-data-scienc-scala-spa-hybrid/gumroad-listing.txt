@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Data Science Toolkit: Scala/Spark + Hybrid for Architect
+PRICE: $177
+TAGS: data science, scala/spark, hybrid
+SHORT DESC: AI Data Science Toolkit: Scala/Spark + Hybrid for Architect. $177. Commercial license.

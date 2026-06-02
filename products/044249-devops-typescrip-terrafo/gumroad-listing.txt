@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI DevOps Toolkit: TypeScript + Terraform for CTO
+PRICE: $177
+TAGS: devops, typescript, terraform
+SHORT DESC: AI DevOps Toolkit: TypeScript + Terraform for CTO. $177. Commercial license.

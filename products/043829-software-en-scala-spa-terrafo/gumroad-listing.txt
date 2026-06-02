@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Software Engineering Toolkit: Scala/Spark + Terraform for CTO
+PRICE: $177
+TAGS: software engineering, scala/spark, terraform
+SHORT DESC: AI Software Engineering Toolkit: Scala/Spark + Terraform for CTO. $177. Commercial license.

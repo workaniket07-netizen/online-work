@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI DevOps Toolkit: C++/Systems + Docker for VP Engineering
+PRICE: $127
+TAGS: devops, c++/systems, docker
+SHORT DESC: AI DevOps Toolkit: C++/Systems + Docker for VP Engineering. $127. Commercial license.

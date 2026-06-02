@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Product Management Toolkit: TypeScript + Azure for Mid-Level
+PRICE: $127
+TAGS: product management, typescript, azure
+SHORT DESC: AI Product Management Toolkit: TypeScript + Azure for Mid-Level. $127. Commercial license.

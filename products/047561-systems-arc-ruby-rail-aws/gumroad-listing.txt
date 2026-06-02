@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Systems Architecture Toolkit: Ruby/Rails + AWS for Junior
+PRICE: $127
+TAGS: systems architecture, ruby/rails, aws
+SHORT DESC: AI Systems Architecture Toolkit: Ruby/Rails + AWS for Junior. $127. Commercial license.

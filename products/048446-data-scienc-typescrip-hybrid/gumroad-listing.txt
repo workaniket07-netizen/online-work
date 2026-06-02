@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Data Science Toolkit: TypeScript + Hybrid for Architect
+PRICE: $177
+TAGS: data science, typescript, hybrid
+SHORT DESC: AI Data Science Toolkit: TypeScript + Hybrid for Architect. $177. Commercial license.

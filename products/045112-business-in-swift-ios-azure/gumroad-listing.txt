@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Business Intelligence Toolkit: Swift/iOS + Azure for Mid-Level
+PRICE: $127
+TAGS: business intelligenc, swift/ios, azure
+SHORT DESC: AI Business Intelligence Toolkit: Swift/iOS + Azure for Mid-Level. $127. Commercial license.

@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI DevOps Toolkit: Rust + Docker for VP Engineering
+PRICE: $127
+TAGS: devops, rust, docker
+SHORT DESC: AI DevOps Toolkit: Rust + Docker for VP Engineering. $127. Commercial license.

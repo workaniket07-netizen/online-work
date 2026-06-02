@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI QA Testing Toolkit: Scala/Spark + Docker for VP Engineering
+PRICE: $127
+TAGS: qa testing, scala/spark, docker
+SHORT DESC: AI QA Testing Toolkit: Scala/Spark + Docker for VP Engineering. $127. Commercial license.

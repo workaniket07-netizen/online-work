@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Prompting: RAG Integration for Code Generation using Gemini Ultra (Advanced)
+PRICE: $147
+TAGS: rag integration, code generation, prompt engineering
+SHORT DESC: AI Prompting: RAG Integration for Code Generation using Gemini Ultra (Advanced). $147. Commercial license.

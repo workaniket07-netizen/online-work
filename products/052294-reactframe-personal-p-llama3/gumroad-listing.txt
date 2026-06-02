@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Prompting: ReAct Framework for Personal Productivity using Llama 3 (Intermediate)
+PRICE: $127
+TAGS: react framework, personal productivit, prompt engineering
+SHORT DESC: AI Prompting: ReAct Framework for Personal Productivity using Llama 3 (Intermediate). $127. Commercial license.

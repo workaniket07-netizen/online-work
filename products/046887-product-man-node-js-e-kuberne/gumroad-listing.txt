@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Product Management Toolkit: Node.js/Express + Kubernetes for Director of Engineering
+PRICE: $127
+TAGS: product management, node.js/express, kubernetes
+SHORT DESC: AI Product Management Toolkit: Node.js/Express + Kubernetes for Director of Engineering. $127. Commercial license.

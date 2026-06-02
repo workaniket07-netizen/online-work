@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Cloud Architecture Toolkit: TypeScript + AWS for Junior
+PRICE: $127
+TAGS: cloud architecture, typescript, aws
+SHORT DESC: AI Cloud Architecture Toolkit: TypeScript + AWS for Junior. $127. Commercial license.

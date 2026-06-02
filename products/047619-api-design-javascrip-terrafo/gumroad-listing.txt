@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI API Design Toolkit: JavaScript/React + Terraform for CTO
+PRICE: $177
+TAGS: api design, javascript/react, terraform
+SHORT DESC: AI API Design Toolkit: JavaScript/React + Terraform for CTO. $177. Commercial license.

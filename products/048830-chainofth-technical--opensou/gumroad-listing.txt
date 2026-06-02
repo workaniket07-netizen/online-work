@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Prompting: Chain-of-Thought for Technical Documentation using Open Source Models (Intermediate)
+PRICE: $127
+TAGS: chain-of-thought, technical documentat, prompt engineering
+SHORT DESC: AI Prompting: Chain-of-Thought for Technical Documentation using Open Source Models (Intermediate). $127. Commercial license.

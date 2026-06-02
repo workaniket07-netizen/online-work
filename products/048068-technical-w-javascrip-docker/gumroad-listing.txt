@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Technical Writing Toolkit: JavaScript/React + Docker for VP Engineering
+PRICE: $127
+TAGS: technical writing, javascript/react, docker
+SHORT DESC: AI Technical Writing Toolkit: JavaScript/React + Docker for VP Engineering. $127. Commercial license.

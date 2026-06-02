@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI DevOps Toolkit: Ruby/Rails + GCP for Senior
+PRICE: $127
+TAGS: devops, ruby/rails, gcp
+SHORT DESC: AI DevOps Toolkit: Ruby/Rails + GCP for Senior. $127. Commercial license.

@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Business Intelligence Toolkit: Kotlin/Android + Terraform for CTO
+PRICE: $177
+TAGS: business intelligenc, kotlin/android, terraform
+SHORT DESC: AI Business Intelligence Toolkit: Kotlin/Android + Terraform for CTO. $177. Commercial license.

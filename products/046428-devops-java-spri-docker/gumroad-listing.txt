@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI DevOps Toolkit: Java/Spring + Docker for VP Engineering
+PRICE: $127
+TAGS: devops, java/spring, docker
+SHORT DESC: AI DevOps Toolkit: Java/Spring + Docker for VP Engineering. $127. Commercial license.

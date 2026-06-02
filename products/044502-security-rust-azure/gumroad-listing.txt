@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Security Toolkit: Rust + Azure for Mid-Level
+PRICE: $127
+TAGS: security, rust, azure
+SHORT DESC: AI Security Toolkit: Rust + Azure for Mid-Level. $127. Commercial license.

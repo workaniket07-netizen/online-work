@@ -1,0 +1,293 @@
+╔══════════════════════════════════════════════════════════════════════╗
+║           STUDENT AI VAULT — ACADEMIC SUCCESS WITH AI               ║
+║   400 ChatGPT Prompts & Templates for Students at Every Level        ║
+║              By AniketG AI Systems                                   ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+Every ChatGPT prompt a student needs — from high school to PhD.
+Essay writing, exam prep, research, note-taking, study plans,
+presentation scripts, scholarship applications, and productivity
+systems. Use AI as your smartest study partner, not a shortcut.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 1: ESSAY & WRITING PROMPTS (80 Templates)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+━━━━━━━━━━━━━━━━
+ESSAY PLANNING (20 Prompts)
+━━━━━━━━━━━━━━━━
+
+[EW-01] Essay outline generator:
+"I need to write a [word count] word [essay type: argumentative/analytical/persuasive/expository] essay on the topic: '[topic]'. My thesis is: '[thesis statement or leave blank for suggestions]. Create a detailed outline with: introduction structure, [3-5] body paragraphs each with a topic sentence and 2-3 supporting points, and conclusion approach. My class is [subject], level: [high school/undergrad/postgrad]."
+
+[EW-02] Thesis statement builder:
+"I'm writing an essay on [topic] for [class/level]. Here are my initial thoughts: [your ideas]. Help me craft 3 different thesis statements ranging from: safe/straightforward → more argumentative → most analytical/complex. For each thesis, briefly explain the essay structure it implies."
+
+[EW-03] Argument strengthener:
+"I'm arguing that [your position] in my essay about [topic]. Generate the 5 strongest counterarguments someone could make against my position. Then for each counterargument, show me how to rebut it or incorporate it into my argument to make it stronger."
+
+[EW-04] Evidence finder prompt:
+"I'm writing about [topic] and need evidence to support this claim: '[your claim]'. Suggest 5 types of evidence I should look for: statistics, academic studies, historical examples, expert quotes, and real-world case studies. Tell me what to search for specifically."
+
+[EW-05] Introduction writer:
+"Write 3 different introductions for an essay about [topic] with thesis: '[thesis]'. Style 1: start with a surprising statistic. Style 2: start with a relevant anecdote or scenario. Style 3: start with a provocative question. Each intro: 100-150 words, ending with my thesis."
+
+[EW-06] Body paragraph structure:
+"Write a model body paragraph for my essay about [topic] that argues: '[point]. Include: topic sentence, 2 pieces of evidence with analysis, a quote placeholder, and a transition sentence. Length: 150-200 words. Academic writing style."
+
+[EW-07] Conclusion writer:
+"Write a strong conclusion for my essay on [topic] with thesis: '[thesis]'. My main arguments were: [1], [2], [3]. The conclusion should: restate thesis in new words, synthesize (not summarize) my arguments, end with a broader implication or call to thought. 150-200 words."
+
+[EW-08] Essay feedback prompt:
+"Review this essay draft for: argument strength, evidence quality, structure clarity, transitions, and academic voice. Be specific — cite exact quotes from my writing. Prioritize: [what I want feedback on most]. Here's my essay: [paste essay]"
+
+[EW-09] Paraphrase without plagiarism:
+"Help me understand this quote/passage: '[paste text]'. First, explain what it means in simple terms. Then show me 3 ways to incorporate this idea into my own writing using paraphrase — changing structure and vocabulary while keeping the meaning. Avoid plagiarism."
+
+[EW-10] Academic voice improver:
+"Rewrite these sentences in appropriate academic language without losing the meaning. Make them: more formal, more precise, and better supported. Original: [paste your informal sentences]. Keep them my sentences — just improve the register."
+
+[EW-11] Citation help (format fixer): "I need to cite these sources in [MLA/APA/Chicago/Harvard] format: [source details]. Create properly formatted in-text citations AND bibliography/reference list entries for each."
+
+[EW-12] Topic sentence generator: "I'm writing body paragraphs about: [list your body paragraph topics]. Write a strong topic sentence for each that: states the argument clearly, connects to my thesis '[thesis]', and sets up the evidence I'll present."
+
+[EW-13] Transition sentence bank: "My essay transitions from [paragraph A topic] to [paragraph B topic]. Write 5 different transition sentences I could use. Vary: connective words, structure, and tone."
+
+[EW-14] Word count expander: "My paragraph is [X words] but needs to be [Y words]. Here is the paragraph: [paste]. Expand it by: adding more specific evidence, deepening the analysis, and addressing a counterargument. Don't add fluff — add substance."
+
+[EW-15] Word count reducer: "My essay is [X words] over limit. Here is the essay: [paste]. Cut [X words] while keeping all key arguments. Prioritize: removing redundancy, tightening language, and cutting weakest evidence."
+
+[EW-16] Compare/contrast essay framework: "I'm writing a compare/contrast essay on [Topic A] vs [Topic B] for [class]. Should I use block structure or point-by-point? Create an outline for whichever is stronger for this specific comparison. Include: [number] comparison criteria with specific points for each."
+
+[EW-17] Persuasive essay techniques: "My persuasive essay topic is [topic]. Show me how to use these 5 rhetorical techniques in my essay: ethos, pathos, logos, anaphora, and rhetorical questions. Give me one specific sentence example of each I can adapt."
+
+[EW-18] Research paper introduction: "Write an introduction for my research paper on [topic]. Include: hook (surprising fact about the topic), background context (3-4 sentences), gap in current research (what hasn't been studied), and research question/thesis. Length: 200-250 words. Academic register."
+
+[EW-19] Abstract writer: "Write an abstract for my research paper. My research question: [question]. My methodology: [brief description]. My main findings: [findings]. My conclusion: [conclusion]. Abstract should be 150-250 words, past tense, no citations, all key elements included."
+
+[EW-20] Literature review structure: "I'm writing a literature review on [topic] for [academic level]. I have [X] sources. Show me how to organize them thematically (not just source by source). Suggested themes to group around: [themes if known, or ask AI to suggest]."
+
+━━━━━━━━━━━━━━━━
+EDITING & PROOFREADING (20 Prompts)
+━━━━━━━━━━━━━━━━
+
+[EW-21] Grammar check: "Proofread this text for grammar errors, spelling mistakes, and punctuation issues. List each error, explain why it's wrong, and provide the correction: [paste text]"
+[EW-22] Clarity checker: "Which sentences in this paragraph are unclear or confusing? Rewrite them for clarity: [paste paragraph]"
+[EW-23] Passive voice finder: "Identify all passive voice constructions in this text and rewrite them in active voice where appropriate: [paste text]"
+[EW-24] Repetition finder: "Find overused words and repetitive phrases in this text. Suggest alternatives: [paste text]"
+[EW-25] Flow checker: "Does this essay flow logically from paragraph to paragraph? Where are the transitions weak? What's missing or abrupt? [paste essay]"
+[EW-26] Consistency checker: "Check this essay for: consistent tense, consistent point of view, consistent citation style, consistent argument throughout: [paste essay]"
+[EW-27] Argument checker: "Does my argument in this essay hold together logically? Are there any logical fallacies, unsupported claims, or contradictions? [paste essay]"
+[EW-28] Academic tone checker: "Is the language in this essay appropriate for [academic level]? Flag any informal language, colloquialisms, or vague terms: [paste text]"
+[EW-29] Plagiarism awareness: "I paraphrased this source passage. Is my paraphrase different enough to avoid plagiarism? Source: [original]. My version: [your version]."
+[EW-30 to EW-40] Structure analysis, conclusion strength checker, intro hook evaluator, thesis clarity test, paragraph balance check
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 2: EXAM PREPARATION (80 Prompts)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+━━━━━━━━━━━━━━━━
+STUDY & REVISION PROMPTS (30)
+━━━━━━━━━━━━━━━━
+
+[EP-01] Topic summary generator:
+"Summarize [topic] for a [grade/level] student who has [X days] until the exam. Include: key concepts, important definitions (5-10), the most commonly tested points, and 3 things that are easy to mix up. Use simple language — I need to understand this, not just memorize it."
+
+[EP-02] Concept explainer:
+"Explain [concept] in the simplest possible way. Use: one real-world analogy, one worked example, and a 3-sentence summary I could use as a definition. I'm a [level] student in [subject]."
+
+[EP-03] Flashcard generator:
+"Create [number] flashcards for [topic] in [subject]. Format: FRONT: [question or term] | BACK: [answer or definition]. Include: key terms, important dates/numbers, cause-effect relationships, and commonly confused concepts."
+
+[EP-04] Practice test creator:
+"Create a [number]-question practice test for [topic] in [subject]. Include: [X] multiple choice, [X] short answer, [X] long answer. Similar to what I'd see on [exam type: SAT/AP/university midterm/GCSE]. Include answer key with explanations."
+
+[EP-05] Spaced repetition schedule:
+"I have [X weeks] until my exam on [subject]. Topics to cover: [list]. Create a day-by-day spaced repetition study schedule that: covers each topic multiple times, increases difficulty over time, includes active recall sessions. [X hours] available per day."
+
+[EP-06] Mnemonics creator:
+"Create memorable mnemonics or memory tricks for: [list of things to memorize — dates, formulas, sequences, etc.]. Make them: catchy, logical, or funny (whatever works better for memory). Test: would a stressed student remember these during an exam?"
+
+[EP-07] "Explain like I'm 5" then escalate:
+"First explain [concept] in the simplest possible terms (like I'm 10). Then explain it at [my level]. Then tell me the one nuance that separates an A answer from a B answer on this topic."
+
+[EP-08] Common mistakes guide:
+"What are the 5 most common mistakes students make on exams about [topic]? For each: what the mistake is, why students make it, and how to avoid it."
+
+[EP-09] Past paper question patterns:
+"I'm preparing for [exam name/type] on [subject]. Based on typical exam patterns, what types of questions appear most often on [topic]? What makes an answer score full marks vs. partial marks?"
+
+[EP-10] Mind map prompt:
+"Create a text-based mind map of [topic] showing: the main concept at center, 4-6 major branches, sub-branches under each, and how concepts connect to each other. I'll use this as a revision overview."
+
+[EP-11] Quick revision sheet: "Create a 1-page revision cheat sheet for [topic]. Maximum information in minimum space: key facts, formulas, definitions, dates, important quotes."
+[EP-12] Essay plan under timed conditions: "Give me a 10-minute timed essay plan for the question: '[exam question]'. Structure: thesis (1 min), evidence per paragraph (6 min), conclusion (3 min). Go."
+[EP-13] Examiner's perspective: "How would an examiner at [level] mark this response to the question '[question]': [my answer]. What marks would it get and why?"
+[EP-14] Difficult concept breakdown: "I can't understand [concept]. I've tried [what you've tried]. Explain it from a completely different angle — use [metaphor/diagram description/story]."
+[EP-15] Prediction questions: "Based on [topic] in [subject], generate 10 likely exam questions for [exam type]. Include mark allocations and what a full-mark answer must include."
+
+━━━━━━━━━━━━━━━━
+SUBJECT-SPECIFIC STUDY PROMPTS (50)
+━━━━━━━━━━━━━━━━
+
+MATHEMATICS:
+[SM-01] "Explain step-by-step how to solve this type of problem: [problem type]. Show all working. Then give me 3 practice problems of increasing difficulty."
+[SM-02] "I keep making mistakes on [type of calculation]. Show me the most common errors and how to avoid each one."
+[SM-03] "Create a formula sheet for [math topic] with: formula name, the formula, when to use it, worked example."
+
+SCIENCES:
+[SS-01] "Explain the mechanism behind [biological/chemical/physical process] using the analogy of [everyday thing]. Then explain it at exam level."
+[SS-02] "Create a comparison table for [2-3 similar concepts in science]: [concept 1], [concept 2]. Include: definition, key features, examples, common exam questions."
+[SS-03] "What experiment would I design to test [hypothesis]? Include: variables, controls, method, expected results, error sources."
+
+HISTORY/SOCIAL SCIENCES:
+[SH-01] "Analyze [historical event] using [PEEL/OREO/argument framework]. What are the strongest arguments for and against [historical interpretation]?"
+[SH-02] "Create a timeline of key events for [period/topic] with: date, event, significance (1-2 sentences each), connection to [broader theme]."
+[SH-03] "What are the [causes/consequences] of [historical event]? Rank them by importance and explain how a historian would evaluate each."
+
+LITERATURE/ENGLISH:
+[SL-01] "Analyze the use of [literary device] in [text/poem/passage]. Quote 3 examples, explain each one, and connect to [theme/author's purpose]."
+[SL-02] "Compare [Character A] and [Character B] in [text] in terms of: motivation, development, relationship to theme. Structured as exam paragraph format."
+[SL-03] "What are the key themes in [text] and how does the author develop each? Include specific quotes I can use in my essay."
+
+BUSINESS/ECONOMICS:
+[SB-01] "Explain [economic concept] using a real-world example from [industry/country/scenario]. Include: definition, diagram description, analysis, evaluation."
+[SB-02] "Apply [business model/framework] to [company]. What are the implications for [business decision/strategy]?"
+[SB-03] "Evaluate [economic policy] — what are the benefits, costs, and who are the stakeholders affected? Exam-style evaluative conclusion."
+
+COMPUTER SCIENCE:
+[SC-01] "Explain [algorithm] with: pseudocode, trace table example, time complexity, and when to use vs. not use it."
+[SC-02] "Debug this code and explain what was wrong: [paste code]. What would the output be after fixing?"
+[SC-03] "Explain [programming concept] using a real-world analogy, then show a code example."
+
+[Continue with: Law, Psychology, Languages, Geography, Music, Art, Philosophy, Politics...]
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 3: RESEARCH & PROJECTS (60 Templates)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[RP-01] Research question generator: "My broad topic is [topic] for [class/level]. Help me narrow it to a specific, researchable question. It should be: not too broad, not too narrow, original enough to be interesting, achievable with [X weeks] and [resource availability]."
+
+[RP-02] Source evaluation: "Evaluate this source for academic credibility: [author/publication/URL]. Assess: authority (who wrote it?), accuracy (is it evidence-based?), purpose (why was it published?), currency (when?), relevance (to my topic). Should I cite it?"
+
+[RP-03] Research plan: "Create a research plan for my project on [topic]. Timeline: [X weeks]. Include: research questions (primary and secondary), source types to find, data collection method, analysis approach, writing schedule."
+
+[RP-04] Primary vs secondary sources: "My research topic is [topic]. Suggest: 3 types of primary sources I could find or collect, 5 reliable secondary source types to search. Include specific databases, journals, or search terms to use."
+
+[RP-05] Survey/questionnaire creator: "I'm doing primary research on [topic] for [class/level]. Create a [number]-question survey that: measures [what you're trying to find out], uses appropriate question types (Likert/multiple choice/open), avoids bias, and can be completed in under [X minutes]."
+
+[RP-06] Data analysis guide: "I've collected this data: [describe or paste data]. Help me: identify patterns, suggest appropriate analysis methods, explain what the findings might mean for my research question."
+
+[RP-07] Group project coordinator: "I'm in a group project on [topic] with [X people] and [Y weeks]. Create: task breakdown by person, timeline with milestones, communication plan, quality checkpoints. How should we divide this specific project?"
+
+[RP-08] Presentation script: "Create a [X minute] presentation script on [topic] for [audience: class/professor/competition]. Include: opening hook, key points with transitions, speaker notes, Q&A prep questions. Slides structure: [number of slides]."
+
+[RP-09] Science lab report: "Write a model lab report structure for an experiment on [topic]. Include: title, abstract format, introduction requirements, method format, results presentation, discussion framework, conclusion checklist."
+
+[RP-10] Case study analysis: "Analyze this case study: [paste or describe]. Apply [framework: SWOT/Porter's/PEST/other] to identify: key issues, stakeholder impacts, possible solutions, recommended action with justification."
+
+[RP-11 to RP-60] More research prompts:
+[RP-11] Annotated bibliography creator
+[RP-12] Poster design structure for academic project
+[RP-13] Statistical test selector (which test for which data type)
+[RP-14] Interview question designer for qualitative research
+[RP-15] Focus group facilitation guide
+[RP-16] Academic journal search strategy
+[RP-17] Literature gap identifier
+[RP-18] Research ethics checklist
+[RP-19] Methodology chapter structure
+[RP-20] Findings chapter structure
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 4: UNIVERSITY / COLLEGE APPLICATIONS (40 Templates)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[UA-01] Personal statement brainstorm: "I'm applying to [type of university/program] to study [subject]. My background: [brief summary of experiences, interests, achievements]. Help me brainstorm: 5 possible angles for my personal statement, each with a different opening scenario or story. I'll choose one to develop."
+
+[UA-02] Common App essay: "Help me write my Common App essay responding to prompt [#1-7]: '[prompt text]'. My story: [brief description of story/experience]. Approach: genuine, specific, not trying to impress — just be myself. First draft, approximately [650 words]."
+
+[UA-03] Scholarship essay: "I'm applying for [scholarship name]. The prompt is: '[essay prompt]'. My background: [relevant background]. What they're looking for: [scholarship criteria]. Write an essay that's: genuine, specific, addresses their criteria directly, and stands out from generic responses."
+
+[UA-04] Letter of recommendation guidance: "I need to ask [teacher/supervisor] for a letter of recommendation for [program]. Help me write: a polite request email, a one-page summary of my achievements and goals to give them, and specific examples they could include about my work in [their class/our work together]."
+
+[UA-05] Interview prep: "I have an interview for [university/program]. Prepare me with: 10 likely questions, how to structure each answer, specific things to research about [institution], questions I should ask them. My background: [brief summary]."
+
+[UA-06 to UA-40] More application prompts:
+[UA-06] Gap year explanation letter
+[UA-07] Explaining a low grade/difficult semester
+[UA-08] Why this school/program essay
+[UA-09] Diversity statement
+[UA-10] Statement of purpose for graduate school
+[UA-11] Research proposal for graduate applications
+[UA-12] Portfolio description for creative programs
+[UA-13] Extracurricular activities description
+[UA-14] Transfer student essay
+[UA-15] International student statement
+[UA-16] UCAS personal statement (UK)
+[UA-17] Medicine/Law/Business school specific essays
+[UA-18] Internship application cover letter
+[UA-19] Part-time job application (first job)
+[UA-20] LinkedIn profile for student
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 5: STUDENT PRODUCTIVITY & LIFE SYSTEM (80 Templates)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+STUDY SCHEDULE TEMPLATES (10):
+[SP-01] Semester planner: All deadlines → weekly blocks → daily tasks
+[SP-02] Exam week planner: Intensive revision schedule with breaks
+[SP-03] Procrastination buster: Start-small system for overwhelming assignments
+[SP-04] Pomodoro study system: 25/5 minute blocks with task assignments
+[SP-05] Subject balance tracker: Make sure no subject gets neglected
+[SP-06] Reading/article tracker: Papers read → key points → still need to read
+[SP-07] Assignment tracker: Due date, status, resources needed, completed
+[SP-08] Group project tracker: Task, owner, deadline, status
+[SP-09] Weekly review framework: What I accomplished, what I'm behind on, this week's priorities
+[SP-10] Night-before-exam checklist: Last minute prep without panic
+
+NOTE-TAKING TEMPLATES (20):
+[SN-01] Cornell notes format (for lectures): Cues / Notes / Summary
+[SN-02] Mind map structure for complex topics
+[SN-03] Comparison table format (for multiple concepts)
+[SN-04] Timeline format (for history/processes)
+[SN-05] PEEL/PEAL paragraph format card
+[SN-06] Science experiment notes format
+[SN-07] Book/article annotation system
+[SN-08] Lecture quick-capture format
+[SN-09] "Teach it back" notes format (feynman technique)
+[SN-10] Visual summary / sketch note prompts
+
+STUDENT WELLNESS PROMPTS (20):
+[SW-01] Burnout prevention check-in: Energy, stress, sleep, social connection weekly rating
+[SW-02] Study-life balance assessment: Am I spending time according to my values?
+[SW-03] Exam anxiety management: Breathing script, perspective reframe, preparation action
+[SW-04] Imposter syndrome reframe: Evidence of competence vs fear narrative
+[SW-05] Motivation recovery: Why I'm doing this, what completion looks like
+[SW-06] Productive procrastination fix: Break task into 5-minute first step
+[SW-07] Social academic support: How to ask for help from professors/peers
+[SW-08] Financial stress management: Student budget template
+[SW-09] Time between study and life balance: Schedule template
+[SW-10] Post-exam reflection: What I'd do differently vs what worked
+
+CHATGPT STUDY PROMPTS (30):
+[SG-01] "Be my socratic teacher for [topic]. Ask me questions to reveal gaps in my understanding. Don't give answers — just ask better questions until I figure it out."
+[SG-02] "Quiz me on [topic]. Ask one question at a time. After each answer: tell me if I'm right, why, and ask the next question. Do this for [X questions]."
+[SG-03] "I understand [concept A] well. Use it as an analogy to explain [concept B] which I'm struggling with."
+[SG-04] "I just read [article/chapter]. Ask me 5 comprehension questions to test if I actually understood it."
+[SG-05] "Play devil's advocate to my argument: '[your argument]'. Push back on every point."
+[SG-06] "I have [X hours] to study [subject] for an exam tomorrow. What are the highest-priority topics to focus on and in what order?"
+[SG-07] "Explain [concept] using only a metaphor about [everyday thing I understand well]."
+[SG-08] "What questions should I be able to answer about [topic] to know I understand it deeply?"
+[SG-09] "I know [related thing] well. How is [new topic] similar and different?"
+[SG-10] "I'm stuck on this problem: [paste problem]. Don't give me the answer — give me a hint toward the next step."
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+QUICK STATS:
+Total Templates: 400
+Sections: 5 (Essays + Exam Prep + Research + Applications + Productivity)
+Works for: High school students, undergrads, postgrads, adult learners
+Works with: ChatGPT, Claude, Gemini — any AI assistant
+Note: These prompts help students LEARN — not cheat. Every prompt teaches a skill.
+
+By AniketG AI Systems | Commercial License Included
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

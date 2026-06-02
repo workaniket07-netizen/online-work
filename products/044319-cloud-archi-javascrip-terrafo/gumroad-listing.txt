@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Cloud Architecture Toolkit: JavaScript/React + Terraform for CTO
+PRICE: $177
+TAGS: cloud architecture, javascript/react, terraform
+SHORT DESC: AI Cloud Architecture Toolkit: JavaScript/React + Terraform for CTO. $177. Commercial license.

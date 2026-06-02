@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Prompting: Function Calling for Data Analysis using GPT-4 Vision (Beginner)
+PRICE: $127
+TAGS: function calling, data analysis, prompt engineering
+SHORT DESC: AI Prompting: Function Calling for Data Analysis using GPT-4 Vision (Beginner). $127. Commercial license.

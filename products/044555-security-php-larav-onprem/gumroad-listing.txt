@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Security Toolkit: PHP/Laravel + On-Premise for Principal
+PRICE: $177
+TAGS: security, php/laravel, on-premise
+SHORT DESC: AI Security Toolkit: PHP/Laravel + On-Premise for Principal. $177. Commercial license.

@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI DevOps Toolkit: Node.js/Express + Kubernetes for Director of Engineering
+PRICE: $127
+TAGS: devops, node.js/express, kubernetes
+SHORT DESC: AI DevOps Toolkit: Node.js/Express + Kubernetes for Director of Engineering. $127. Commercial license.

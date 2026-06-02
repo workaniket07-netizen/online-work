@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI UX Design Toolkit: Ruby/Rails + Serverless for Founding Engineer
+PRICE: $127
+TAGS: ux design, ruby/rails, serverless
+SHORT DESC: AI UX Design Toolkit: Ruby/Rails + Serverless for Founding Engineer. $127. Commercial license.

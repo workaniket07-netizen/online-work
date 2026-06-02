@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Software Engineering Toolkit: Rust + Hybrid for Architect
+PRICE: $177
+TAGS: software engineering, rust, hybrid
+SHORT DESC: AI Software Engineering Toolkit: Rust + Hybrid for Architect. $177. Commercial license.

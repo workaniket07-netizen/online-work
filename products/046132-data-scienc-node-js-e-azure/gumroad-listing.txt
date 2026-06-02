@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Data Science Toolkit: Node.js/Express + Azure for Mid-Level
+PRICE: $127
+TAGS: data science, node.js/express, azure
+SHORT DESC: AI Data Science Toolkit: Node.js/Express + Azure for Mid-Level. $127. Commercial license.

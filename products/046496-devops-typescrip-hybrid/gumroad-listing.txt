@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI DevOps Toolkit: TypeScript + Hybrid for Architect
+PRICE: $177
+TAGS: devops, typescript, hybrid
+SHORT DESC: AI DevOps Toolkit: TypeScript + Hybrid for Architect. $177. Commercial license.

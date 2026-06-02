@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Prompting: RAG Integration for Code Generation using Gemini Pro (Beginner)
+PRICE: $127
+TAGS: rag integration, code generation, prompt engineering
+SHORT DESC: AI Prompting: RAG Integration for Code Generation using Gemini Pro (Beginner). $127. Commercial license.

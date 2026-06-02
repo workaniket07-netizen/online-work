@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI API Design Toolkit: Node.js/Express + Docker for VP Engineering
+PRICE: $127
+TAGS: api design, node.js/express, docker
+SHORT DESC: AI API Design Toolkit: Node.js/Express + Docker for VP Engineering. $127. Commercial license.

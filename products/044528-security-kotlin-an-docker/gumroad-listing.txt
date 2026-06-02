@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Security Toolkit: Kotlin/Android + Docker for VP Engineering
+PRICE: $127
+TAGS: security, kotlin/android, docker
+SHORT DESC: AI Security Toolkit: Kotlin/Android + Docker for VP Engineering. $127. Commercial license.

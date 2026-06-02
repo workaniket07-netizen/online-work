@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI API Design Toolkit: Ruby/Rails + Terraform for CTO
+PRICE: $177
+TAGS: api design, ruby/rails, terraform
+SHORT DESC: AI API Design Toolkit: Ruby/Rails + Terraform for CTO. $177. Commercial license.

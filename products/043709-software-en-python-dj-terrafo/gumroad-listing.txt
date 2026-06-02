@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Software Engineering Toolkit: Python/Django + Terraform for CTO
+PRICE: $177
+TAGS: software engineering, python/django, terraform
+SHORT DESC: AI Software Engineering Toolkit: Python/Django + Terraform for CTO. $177. Commercial license.

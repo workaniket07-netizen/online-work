@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Database Administration Toolkit: Java/Spring + AWS for Junior
+PRICE: $127
+TAGS: database administrat, java/spring, aws
+SHORT DESC: AI Database Administration Toolkit: Java/Spring + AWS for Junior. $127. Commercial license.

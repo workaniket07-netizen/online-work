@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Machine Learning Toolkit: Kotlin/Android + Kubernetes for Director of Engineering
+PRICE: $127
+TAGS: machine learning, kotlin/android, kubernetes
+SHORT DESC: AI Machine Learning Toolkit: Kotlin/Android + Kubernetes for Director of Engineering. $127. Commercial license.

@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Prompting: Tree-of-Thought for Data Analysis using Open Source Models (Intermediate)
+PRICE: $127
+TAGS: tree-of-thought, data analysis, prompt engineering
+SHORT DESC: AI Prompting: Tree-of-Thought for Data Analysis using Open Source Models (Intermediate). $127. Commercial license.

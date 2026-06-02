@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI DevOps Toolkit: MATLAB/Data + AWS for Junior
+PRICE: $127
+TAGS: devops, matlab/data, aws
+SHORT DESC: AI DevOps Toolkit: MATLAB/Data + AWS for Junior. $127. Commercial license.

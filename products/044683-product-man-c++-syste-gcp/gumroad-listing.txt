@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Product Management Toolkit: C++/Systems + GCP for Senior
+PRICE: $127
+TAGS: product management, c++/systems, gcp
+SHORT DESC: AI Product Management Toolkit: C++/Systems + GCP for Senior. $127. Commercial license.

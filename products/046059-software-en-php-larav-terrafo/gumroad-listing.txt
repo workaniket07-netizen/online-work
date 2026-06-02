@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Software Engineering Toolkit: PHP/Laravel + Terraform for CTO
+PRICE: $177
+TAGS: software engineering, php/laravel, terraform
+SHORT DESC: AI Software Engineering Toolkit: PHP/Laravel + Terraform for CTO. $177. Commercial license.

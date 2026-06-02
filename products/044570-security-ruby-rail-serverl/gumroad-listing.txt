@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Security Toolkit: Ruby/Rails + Serverless for Founding Engineer
+PRICE: $127
+TAGS: security, ruby/rails, serverless
+SHORT DESC: AI Security Toolkit: Ruby/Rails + Serverless for Founding Engineer. $127. Commercial license.

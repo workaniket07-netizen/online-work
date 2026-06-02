@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Software Engineering Toolkit: Python/Django + Docker for VP Engineering
+PRICE: $127
+TAGS: software engineering, python/django, docker
+SHORT DESC: AI Software Engineering Toolkit: Python/Django + Docker for VP Engineering. $127. Commercial license.

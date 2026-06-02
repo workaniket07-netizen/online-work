@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Prompting: Function Calling for Decision Support using Llama 3 (Expert)
+PRICE: $147
+TAGS: function calling, decision support, prompt engineering
+SHORT DESC: AI Prompting: Function Calling for Decision Support using Llama 3 (Expert). $147. Commercial license.

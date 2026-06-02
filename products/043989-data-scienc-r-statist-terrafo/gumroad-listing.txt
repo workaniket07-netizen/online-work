@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Data Science Toolkit: R/Statistical + Terraform for CTO
+PRICE: $177
+TAGS: data science, r/statistical, terraform
+SHORT DESC: AI Data Science Toolkit: R/Statistical + Terraform for CTO. $177. Commercial license.

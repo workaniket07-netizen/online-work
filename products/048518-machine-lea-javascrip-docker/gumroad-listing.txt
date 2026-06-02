@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Machine Learning Toolkit: JavaScript/React + Docker for VP Engineering
+PRICE: $127
+TAGS: machine learning, javascript/react, docker
+SHORT DESC: AI Machine Learning Toolkit: JavaScript/React + Docker for VP Engineering. $127. Commercial license.

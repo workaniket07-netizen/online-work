@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Prompting: RAG Integration for Image Generation using ChatGPT-4o (Beginner)
+PRICE: $127
+TAGS: rag integration, image generation, prompt engineering
+SHORT DESC: AI Prompting: RAG Integration for Image Generation using ChatGPT-4o (Beginner). $127. Commercial license.

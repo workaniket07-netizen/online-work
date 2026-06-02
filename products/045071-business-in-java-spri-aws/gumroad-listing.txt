@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Business Intelligence Toolkit: Java/Spring + AWS for Junior
+PRICE: $127
+TAGS: business intelligenc, java/spring, aws
+SHORT DESC: AI Business Intelligence Toolkit: Java/Spring + AWS for Junior. $127. Commercial license.

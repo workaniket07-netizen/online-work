@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI API Design Toolkit: Java/Spring + GCP for Senior
+PRICE: $127
+TAGS: api design, java/spring, gcp
+SHORT DESC: AI API Design Toolkit: Java/Spring + GCP for Senior. $127. Commercial license.

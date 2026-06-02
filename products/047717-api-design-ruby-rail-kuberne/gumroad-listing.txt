@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI API Design Toolkit: Ruby/Rails + Kubernetes for Director of Engineering
+PRICE: $127
+TAGS: api design, ruby/rails, kubernetes
+SHORT DESC: AI API Design Toolkit: Ruby/Rails + Kubernetes for Director of Engineering. $127. Commercial license.

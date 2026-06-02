@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Prompting: RAG Integration for Audio & Voice using Gemini Pro (Beginner)
+PRICE: $127
+TAGS: rag integration, audio & voice, prompt engineering
+SHORT DESC: AI Prompting: RAG Integration for Audio & Voice using Gemini Pro (Beginner). $127. Commercial license.

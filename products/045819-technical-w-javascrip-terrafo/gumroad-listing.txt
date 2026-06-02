@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Technical Writing Toolkit: JavaScript/React + Terraform for CTO
+PRICE: $177
+TAGS: technical writing, javascript/react, terraform
+SHORT DESC: AI Technical Writing Toolkit: JavaScript/React + Terraform for CTO. $177. Commercial license.

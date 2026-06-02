@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Machine Learning Toolkit: Scala/Spark + GCP for Senior
+PRICE: $127
+TAGS: machine learning, scala/spark, gcp
+SHORT DESC: AI Machine Learning Toolkit: Scala/Spark + GCP for Senior. $127. Commercial license.

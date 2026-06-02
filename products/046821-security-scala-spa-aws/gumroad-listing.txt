@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Security Toolkit: Scala/Spark + AWS for Junior
+PRICE: $127
+TAGS: security, scala/spark, aws
+SHORT DESC: AI Security Toolkit: Scala/Spark + AWS for Junior. $127. Commercial license.

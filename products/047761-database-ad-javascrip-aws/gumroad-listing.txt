@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Database Administration Toolkit: JavaScript/React + AWS for Junior
+PRICE: $127
+TAGS: database administrat, javascript/react, aws
+SHORT DESC: AI Database Administration Toolkit: JavaScript/React + AWS for Junior. $127. Commercial license.

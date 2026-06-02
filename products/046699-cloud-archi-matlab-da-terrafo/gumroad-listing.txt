@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Cloud Architecture Toolkit: MATLAB/Data + Terraform for CTO
+PRICE: $177
+TAGS: cloud architecture, matlab/data, terraform
+SHORT DESC: AI Cloud Architecture Toolkit: MATLAB/Data + Terraform for CTO. $177. Commercial license.

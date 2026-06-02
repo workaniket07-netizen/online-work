@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI API Design Toolkit: Ruby/Rails + AWS for Junior
+PRICE: $127
+TAGS: api design, ruby/rails, aws
+SHORT DESC: AI API Design Toolkit: Ruby/Rails + AWS for Junior. $127. Commercial license.

@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Security Toolkit: MATLAB/Data + AWS for Junior
+PRICE: $127
+TAGS: security, matlab/data, aws
+SHORT DESC: AI Security Toolkit: MATLAB/Data + AWS for Junior. $127. Commercial license.

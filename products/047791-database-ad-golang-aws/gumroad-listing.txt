@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Database Administration Toolkit: Golang + AWS for Junior
+PRICE: $127
+TAGS: database administrat, golang, aws
+SHORT DESC: AI Database Administration Toolkit: Golang + AWS for Junior. $127. Commercial license.

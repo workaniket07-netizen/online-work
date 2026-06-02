@@ -1,0 +1,125 @@
+╔══════════════════════════════════════════════════════════════════════╗
+║           THERAPIST & COUNSELOR BUSINESS TEMPLATES                   ║
+║   350 Practice Management, Marketing & Client Templates             ║
+║   NOTE: NOT clinical tools. Business/admin/marketing only.          ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 1: PRIVATE PRACTICE SETUP (80 Templates)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+CLIENT INTAKE PROCESS (20):
+[CI-01] Initial inquiry response email: Acknowledging interest, providing scheduling link, what to expect
+[CI-02] Intake paperwork cover letter: What forms to complete, why, how to return
+[CI-03] New client onboarding email: First appointment prep, location/platform info, what to bring
+[CI-04] Waiting list management email: Adding to waitlist + what to expect for timing
+[CI-05] Referral response email: Thank you to referral source + reaching out to referred client
+[CI-06 to CI-20] More intake templates
+
+SCHEDULING & ADMIN (20):
+[SA-01] Appointment reminder (24-hour): Date, time, format, what to prepare
+[SA-02] Cancellation policy reminder
+[SA-03] Late cancellation fee notice
+[SA-04] Billing/insurance question response
+[SA-05] Session note reminder (for group practices)
+[SA-06 to SA-20] More admin templates
+
+FEE & INSURANCE TEMPLATES (20):
+[FI-01] Fee schedule explanation: Clear, compassionate explanation of rates
+[FI-02] Sliding scale application process
+[FI-03] Insurance verification process
+[FI-04] Superbill explanation (for out-of-network)
+[FI-05] Overdue balance letter (sensitive framing)
+[FI-06 to FI-20] More billing templates
+
+CASE COORDINATION (20):
+[CC-01] Release of information request
+[CC-02] Referral letter to specialist (template)
+[CC-03] Coordination with prescriber
+[CC-04] School coordination letter (with parent consent)
+[CC-05] Letter verifying treatment (insurance/legal)
+[CC-06 to CC-20] More coordination templates
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 2: MARKETING & CLIENT GROWTH (100 Templates)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+PSYCHOLOGY TODAY / THERAPIST PROFILE COPY (5):
+[TP-01] Profile headline formula: "[Specialty] Therapist | Helping [Client Type] with [Issue] | [Approach]"
+[TP-02] Profile intro: Warm, specific, speaks to ideal client's experience
+[TP-03] Specialty section: How to describe your approach without jargon
+[TP-04] Ideal client section: Make the right people feel seen
+[TP-05] Photo guidance: What communicates warmth and professionalism
+
+THERAPIST WEBSITE COPY (10):
+[WC-01] Homepage hero: "Are you [relatable struggle]? You don't have to [negative consequence]."
+[WC-02] About page: Personal story + why this work + credentials + who you help best
+[WC-03] Services page: Each modality explained for clients (not professionals)
+[WC-04] FAQ page: 10 most common questions with warm, clear answers
+[WC-05 to WC-10] More website copy templates
+
+PSYCHOLOGY OF MARKETING FOR THERAPISTS:
+The ethical marketing principle: You're not selling — you're making yourself visible to people who need you.
+[MK-01] Speak to the emotion, not the diagnosis
+[MK-02] Use the language your clients use
+[MK-03] Describe what life looks like after therapy
+[MK-04] Share your humanity appropriately
+
+INSTAGRAM FOR MENTAL HEALTH PROFESSIONALS (20):
+[IG-01] Psychoeducation post: "[Mental health concept] explained simply. [Description]. This matters because [why]."
+[IG-02] Normalization post: "More people than you think [relatable experience]. You're not broken."
+[IG-03] Coping skill share: "One thing to try when [trigger]: [brief skill]. Not a cure — a tool."
+[IG-04] Destigmatization: "Going to therapy is [reframe of common myth]."
+[IG-05 to IG-20] More Instagram content templates
+
+REFERRAL NETWORK BUILDING (20):
+[RN-01] Intro letter to PCPs/psychiatrists in your area
+[RN-02] Introduction to school counselors
+[RN-03] Letter to EAP (employee assistance programs)
+[RN-04] Professional reciprocal referral agreement
+[RN-05 to RN-20] More referral source templates
+
+CHATGPT PROMPTS FOR THERAPISTS (20):
+[CP-01] "Write a psychoeducation Instagram caption about [mental health topic] for the general public. Tone: warm, non-clinical, accessible, non-shaming. Include: what it is, why it matters, one small action. Under 150 words."
+[CP-02] "Write a FAQ answer for my therapy website about [common question like 'How long will therapy take?']. Answer in warm, realistic, honest language. Avoid jargon."
+[CP-03 to CP-20] More AI prompts for therapist marketing and admin
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 3: GROUP PRACTICE MANAGEMENT (80 Templates)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[GP-01 to GP-80] Templates for:
+Clinician onboarding, supervision notes framework, peer consultation,
+caseload management, clinician performance review, compensation structure,
+group practice marketing, hiring clinical staff, credentialing process,
+practice metrics tracking, crisis protocol communication,
+compliance checklist, HIPAA training documentation
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 4: THERAPIST SELF-CARE SYSTEM (90 Templates)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+COMPASSION FATIGUE PREVENTION:
+[CF-01] Weekly self-check-in questions (10 reflection prompts)
+[CF-02] Caseload balance assessment
+[CF-03] Supervision request for difficult cases
+[CF-04] Personal therapy reminder / advocacy
+
+WORK-LIFE INTEGRATION:
+[WL-01] End-of-day ritual: transition from therapist to personal self
+[WL-02] Setting schedule limits and communicating them
+[WL-03] Emergency contact boundaries with clients
+[WL-04] Out-of-office policy template
+
+PROFESSIONAL DEVELOPMENT:
+[PD-01] CEU tracking spreadsheet
+[PD-02] Consultation group structure
+[PD-03] Conference learning reflection template
+[PD-04] Supervision goals template (for supervisees)
+[PD-05] Ethics consultation request format
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+DISCLAIMER: Business/marketing templates only. NOT clinical tools.
+Does not replace clinical training, supervision, or professional judgment.
+By AniketG AI Systems
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

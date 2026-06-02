@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Prompting: Few-Shot Learning for Code Generation using Open Source Models (Intermediate)
+PRICE: $127
+TAGS: few-shot learning, code generation, prompt engineering
+SHORT DESC: AI Prompting: Few-Shot Learning for Code Generation using Open Source Models (Intermediate). $127. Commercial license.

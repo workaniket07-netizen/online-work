@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Business Intelligence Toolkit: PHP/Laravel + GCP for Senior
+PRICE: $127
+TAGS: business intelligenc, php/laravel, gcp
+SHORT DESC: AI Business Intelligence Toolkit: PHP/Laravel + GCP for Senior. $127. Commercial license.

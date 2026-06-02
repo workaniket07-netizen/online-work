@@ -1,0 +1,4 @@
+PRODUCT TITLE: AI Security Toolkit: Python/Django + GCP for Senior
+PRICE: $127
+TAGS: security, python/django, gcp
+SHORT DESC: AI Security Toolkit: Python/Django + GCP for Senior. $127. Commercial license.
