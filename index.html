@@ -1275,6 +1275,25 @@
 </head>
 <body>
 
+<!-- ─── INQUIRY MODAL ─── -->
+<div id="inquiryModal" style="display:none;position:fixed;inset:0;z-index:9999;background:rgba(0,0,0,0.85);backdrop-filter:blur(12px);align-items:center;justify-content:center;">
+  <div style="background:#0e0f1a;border:1px solid rgba(0,212,255,0.2);border-radius:24px;padding:40px;max-width:480px;width:90%;position:relative;">
+    <button onclick="document.getElementById('inquiryModal').style.display='none'" style="position:absolute;top:16px;right:20px;background:none;border:none;color:rgba(255,255,255,0.4);font-size:22px;cursor:pointer;">✕</button>
+    <p style="font-size:11px;letter-spacing:2px;color:var(--cyan);text-transform:uppercase;margin-bottom:8px;">Get Pricing</p>
+    <h3 id="modalTitle" style="font-size:22px;font-weight:700;margin-bottom:8px;">AI Agency in a Box</h3>
+    <p style="font-size:14px;color:rgba(255,255,255,0.5);margin-bottom:24px;">Share your email. We'll send full pricing & details within 2 hours.</p>
+    <form id="inquiryForm" onsubmit="submitInquiry(event)">
+      <input type="email" id="inqEmail" placeholder="Your Email" required style="width:100%;padding:14px 16px;background:rgba(255,255,255,0.05);border:1px solid rgba(255,255,255,0.1);border-radius:10px;color:#fff;font-size:15px;margin-bottom:20px;box-sizing:border-box;">
+      <button type="submit" style="width:100%;padding:14px;background:rgba(255,255,255,0.1);color:#fff;font-weight:600;border:1px solid rgba(255,255,255,0.2);border-radius:12px;font-size:15px;cursor:pointer;">Send Inquiry →</button>
+    </form>
+    <div id="inquirySuccess" style="display:none;text-align:center;padding:20px;">
+      <div style="font-size:40px;margin-bottom:12px;">✅</div>
+      <p style="font-size:16px;font-weight:600;">Inquiry Received!</p>
+      <p style="font-size:13px;color:rgba(255,255,255,0.5);margin-top:8px;">We'll email you within 2 hours with full details.</p>
+    </div>
+  </div>
+</div>
+
 <div id="cg"></div>
 
 <!-- Lightbox -->
@@ -1361,8 +1380,8 @@
         </svg>
       </a>
       <div class="hero-inline-stats">
-        <div><strong>100+</strong><span>Projects</span></div>
-        <div><strong>50+</strong><span>Clients</span></div>
+        <div><strong>130+</strong><span>Projects</span></div>
+        <div><strong>7</strong><span>Clients</span></div>
         <div><strong>2+</strong><span>Years</span></div>
       </div>
     </div>
@@ -1473,6 +1492,60 @@
         </div>
       </div>
 
+      <div class="work-card" data-img="projects/pizza-shop-advertisement/thumb.webp" data-images="projects/pizza-shop-advertisement/Pizza Shop Advertisement_01.png,projects/pizza-shop-advertisement/Pizza Shop Advertisement_02.png,projects/pizza-shop-advertisement/Pizza Shop Advertisement_03.png,projects/pizza-shop-advertisement/Pizza Shop Advertisement_04.png">
+        <img class="work-card-img" src="projects/pizza-shop-advertisement/thumb.webp" alt="Pizza Ads" loading="lazy" />
+        <div class="work-overlay">
+          <p class="work-card-tag">Food</p>
+          <h3 class="work-card-title">Pizza Shop Ad</h3>
+          <span class="work-card-count">4 Projects</span>
+        </div>
+      </div>
+
+      <div class="work-card" data-img="projects/cafe-advertisement/thumb.webp" data-images="projects/cafe-advertisement/Cafe Advertisement_01.png,projects/cafe-advertisement/Cafe Advertisement_02.png,projects/cafe-advertisement/Cafe Advertisement_03.png,projects/cafe-advertisement/Cafe Advertisement_04.png">
+        <img class="work-card-img" src="projects/cafe-advertisement/thumb.webp" alt="Cafe Ads" loading="lazy" />
+        <div class="work-overlay">
+          <p class="work-card-tag">Food</p>
+          <h3 class="work-card-title">Cafe Advertisement</h3>
+          <span class="work-card-count">4 Projects</span>
+        </div>
+      </div>
+
+      <div class="work-card" data-img="projects/restaurant-advertisement/thumb.webp" data-images="projects/restaurant-advertisement/Restaurant Advertisement_01.png,projects/restaurant-advertisement/Restaurant Advertisement_02.png,projects/restaurant-advertisement/Restaurant Advertisement_03.png,projects/restaurant-advertisement/Restaurant Advertisement_04.png">
+        <img class="work-card-img" src="projects/restaurant-advertisement/thumb.webp" alt="Restaurant Ads" loading="lazy" />
+        <div class="work-overlay">
+          <p class="work-card-tag">Food</p>
+          <h3 class="work-card-title">Restaurant Ad</h3>
+          <span class="work-card-count">4 Projects</span>
+        </div>
+      </div>
+
+      <div class="work-card" data-img="projects/ice-cream-brands-ad/thumb.webp" data-images="projects/ice-cream-brands-ad/Ice Cream Brands_01.png,projects/ice-cream-brands-ad/Ice Cream Brands_02.png,projects/ice-cream-brands-ad/Ice Cream Brands_03.png">
+        <img class="work-card-img" src="projects/ice-cream-brands-ad/thumb.webp" alt="Ice Cream Ads" loading="lazy" />
+        <div class="work-overlay">
+          <p class="work-card-tag">Food</p>
+          <h3 class="work-card-title">Ice Cream Brands</h3>
+          <span class="work-card-count">3 Projects</span>
+        </div>
+      </div>
+
+      <div class="work-card" data-img="projects/premium-burger-brands-ad/thumb.webp" data-images="projects/premium-burger-brands-ad/Premium Burger Brands Ad_01.png,projects/premium-burger-brands-ad/Premium Burger Brands Ad_02.png,projects/premium-burger-brands-ad/Premium Burger Brands Ad_03.png,projects/premium-burger-brands-ad/Premium Burger Brands Ad_04.png">
+        <img class="work-card-img" src="projects/premium-burger-brands-ad/thumb.webp" alt="Burger Brands" loading="lazy" />
+        <div class="work-overlay">
+          <p class="work-card-tag">Food</p>
+          <h3 class="work-card-title">Premium Burger Brands</h3>
+          <span class="work-card-count">4 Projects</span>
+        </div>
+      </div>
+
+      <div class="work-card" data-img="projects/ice-cream-brands-advertisement/thumb.webp" data-images="projects/ice-cream-brands-advertisement/Ice Cream Brands Advertisement_01.png,projects/ice-cream-brands-advertisement/Ice Cream Brands Advertisement_02.png,projects/ice-cream-brands-advertisement/Ice Cream Brands Advertisement_03.png,projects/ice-cream-brands-advertisement/Ice Cream Brands Advertisement_04.png">
+        <img class="work-card-img" src="projects/ice-cream-brands-advertisement/thumb.webp" alt="Ice Cream Campaign" loading="lazy" />
+        <div class="work-overlay">
+          <p class="work-card-tag">Food</p>
+          <h3 class="work-card-title">Ice Cream Campaign</h3>
+          <span class="work-card-count">4 Projects</span>
+        </div>
+      </div>
+
     </div>
     <button class="scroll-btn right" id="scrollRight">›</button>
   </div>
@@ -1483,7 +1556,11 @@
   <div class="reveal">
     <p class="sec-label">Motion Reels</p>
     <h2 class="sec-title">Content That Moves.</h2>
-    <p class="sec-sub">Cinematic AI-generated visuals built for social media reels and campaigns. · Video reels coming soon.</p>
+    <p class="sec-sub">Cinematic AI-generated visuals built for social media reels and campaigns.</p>
+    <div style="display:inline-flex;align-items:center;gap:10px;margin-top:16px;padding:10px 22px;background:rgba(0,212,255,0.06);border:1px solid rgba(0,212,255,0.25);border-radius:50px;animation:pulse 2s infinite;">
+      <span style="width:8px;height:8px;border-radius:50%;background:#00d4ff;display:inline-block;box-shadow:0 0 8px #00d4ff;"></span>
+      <span style="font-size:13px;color:var(--cyan);letter-spacing:2px;font-weight:600;text-transform:uppercase;">Video Reels — Coming Soon</span>
+    </div>
   </div>
 
   <div class="reels-row" style="margin-top:48px">
@@ -1557,143 +1634,255 @@
 
 <!-- ─── PACKAGES ─── -->
 <section id="packages" class="section">
-  <div class="pkg-head">
-    <div class="reveal">
-      <p class="sec-label">Social Media Packages</p>
-      <h2 class="sec-title">Monthly Social Media Packages</h2>
-      <p class="sec-sub">Single Product Focused Packages</p>
-    </div>
-    <div class="pkg-tabs reveal">
-      <button class="pkg-tab active" data-m="1">1 Month</button>
-      <button class="pkg-tab" data-m="3">3 Months</button>
-      <button class="pkg-tab" data-m="6">6 Months</button>
-      <button class="pkg-tab" data-m="12">12 Months</button>
-    </div>
+  <div class="reveal" style="text-align:center;margin-bottom:48px;">
+    <p class="sec-label" style="justify-content:center">Packages</p>
+    <h2 class="sec-title">Monthly Creative Packages</h2>
+    <p class="sec-sub">Drag the slider to pick your plan. More months = bigger savings.</p>
+    <p class="reveal" style="text-align:center;font-size:13px;color:rgba(255,255,255,0.35);margin-top:8px;">📌 Creation only — posting & scheduling charged separately.</p>
   </div>
 
-  <div class="pkg-grid reveal">
+  <style>
+  .pkg-builder { max-width:720px; margin:0 auto; padding:0 5%; }
 
-    <div class="pkg-card">
-      <div class="pkg-icon">01</div>
-      <div class="pkg-num">15</div>
-      <div class="pkg-per">Creatives / Month</div>
-      <div style="font-size:14px;color:rgba(255,255,255,0.45);margin:8px 0;letter-spacing:1px;">STARTER · Custom Pricing</div>
-      <ul class="pkg-features">
-        <li>AI-Generated Premium Ads</li>
-        <li>All Formats (IG, FB, Twitter)</li>
-        <li>48-hr Delivery</li>
-        <li>Logo Watermarked</li>
-      </ul>
-      <a href="mailto:workaniket07@gmail.com" class="pkg-btn">
+  /* Snap slider */
+  .snap-wrap   { position:relative; margin-bottom:32px; }
+  /* Track spans from center-of-label-1 to center-of-label-4 = 12.5% padding each side */
+  .snap-track  { position:relative; height:6px; background:rgba(255,255,255,0.08); border-radius:6px; cursor:pointer; margin:0 12.5%; }
+  .snap-fill   { position:absolute; top:0; left:0; height:100%; background:linear-gradient(90deg,var(--cyan),var(--purple)); border-radius:6px; transition:width .25s; }
+  .snap-handle { position:absolute; top:50%; width:22px; height:22px; border-radius:50%; background:#fff; border:3px solid var(--cyan); transform:translate(-50%,-50%); cursor:grab; transition:left .25s cubic-bezier(.4,0,.2,1); box-shadow:0 0 14px rgba(0,212,255,0.6); z-index:2; }
+  .snap-handle:active { cursor:grabbing; }
+  .snap-labels { display:flex; margin-bottom:10px; }
+  .snap-label  { font-size:12px; color:rgba(255,255,255,0.4); text-align:center; flex:1; cursor:pointer; transition:color .2s; padding-bottom:4px; }
+  .snap-label.active { color:var(--cyan); font-weight:600; }
+  /* Dots aligned to label centers = same margin as track */
+  .snap-dots { display:flex; margin-top:10px; pointer-events:none; }
+  .snap-dot  { flex:1; display:flex; justify-content:center; }
+  .snap-dot::after { content:''; width:8px; height:8px; border-radius:50%; background:rgba(255,255,255,0.15); display:block; }
+
+  /* Duration tabs */
+  .dur-tabs { display:flex; gap:8px; justify-content:center; margin-bottom:36px; }
+  .dur-tab  { padding:8px 18px; border-radius:100px; font-size:13px; border:1px solid rgba(255,255,255,0.1); background:transparent; color:rgba(255,255,255,0.5); cursor:pointer; transition:all .25s; }
+  .dur-tab.active { background:rgba(0,212,255,0.12); border-color:var(--cyan); color:var(--cyan); }
+
+  /* Result card */
+  .pkg-result { background:rgba(255,255,255,0.03); border:1px solid rgba(0,212,255,0.15); border-radius:24px; padding:36px; position:relative; overflow:hidden; }
+  .pkg-result::before { content:''; position:absolute; top:0; left:0; right:0; height:2px; background:linear-gradient(90deg,var(--cyan),var(--purple)); }
+  .pkg-badge { display:inline-block; font-size:10px; letter-spacing:2px; text-transform:uppercase; padding:4px 12px; border-radius:100px; background:rgba(0,212,255,0.1); color:var(--cyan); margin-bottom:16px; }
+  .pkg-creatives { font-size:72px; font-weight:900; color:#fff; line-height:1; }
+  .pkg-unit { font-size:16px; color:rgba(255,255,255,0.4); margin-bottom:24px; }
+  .pkg-price-big { font-size:48px; font-weight:800; color:var(--cyan); }
+  .pkg-saving { font-size:13px; color:#00ff88; margin:4px 0 24px; min-height:20px; }
+  .pkg-features-row { display:flex; flex-wrap:wrap; gap:10px; margin-bottom:28px; }
+  .pkg-feat { font-size:12px; padding:6px 12px; background:rgba(255,255,255,0.05); border-radius:100px; color:rgba(255,255,255,0.7); }
+  </style>
+
+  <div class="pkg-builder reveal">
+
+    <!-- Creatives Slider -->
+    <div class="snap-labels" id="snapLabels">
+      <span class="snap-label active" data-idx="0">15<br>Creatives</span>
+      <span class="snap-label" data-idx="1">30<br>Creatives</span>
+      <span class="snap-label" data-idx="2">90<br>Creatives</span>
+      <span class="snap-label" data-idx="3">120+<br>Creatives</span>
+    </div>
+    <div class="snap-wrap">
+      <div class="snap-track" id="snapTrack">
+        <div class="snap-fill" id="snapFill" style="width:0%"></div>
+        <div class="snap-handle" id="snapHandle" style="left:0%"></div>
+      </div>
+      <div class="snap-dots">
+        <div class="snap-dot"></div>
+        <div class="snap-dot"></div>
+        <div class="snap-dot"></div>
+        <div class="snap-dot"></div>
+      </div>
+    </div>
+
+    <!-- Duration Tabs -->
+    <div class="dur-tabs" id="durTabs">
+      <button class="dur-tab active" data-m="1">1 Month</button>
+      <button class="dur-tab" data-m="3">3 Months  <span style="color:#00ff88;font-size:10px;">-10%</span></button>
+      <button class="dur-tab" data-m="6">6 Months  <span style="color:#00ff88;font-size:10px;">-20%</span></button>
+      <button class="dur-tab" data-m="12">12 Months <span style="color:#ffd700;font-size:10px;">-30%</span></button>
+    </div>
+
+    <!-- Result card -->
+    <div class="pkg-result">
+      <div class="pkg-badge" id="pkgBadge">STARTER</div>
+      <div class="pkg-creatives" id="pkgCreatives">15</div>
+      <div class="pkg-unit">Creatives / Month</div>
+      <div class="pkg-price-big" id="pkgPrice">₹5,000<span style="font-size:20px;color:rgba(255,255,255,0.4)">/mo</span></div>
+      <div class="pkg-saving" id="pkgSaving"></div>
+      <div class="pkg-features-row" id="pkgFeats"></div>
+      <a href="#" id="pkgCta" onclick="" class="pkg-btn" style="display:inline-block;padding:14px 32px;font-size:15px;">
         Get Started <span>→</span>
       </a>
     </div>
-
-    <div class="pkg-card" style="border-color:rgba(0,212,255,0.3);background:rgba(0,212,255,0.04);">
-      <div style="font-size:10px;letter-spacing:2px;color:var(--cyan);text-transform:uppercase;margin-bottom:4px;">Most Popular</div>
-      <div class="pkg-icon">02</div>
-      <div class="pkg-num">30</div>
-      <div class="pkg-per">Creatives / Month</div>
-      <div style="font-size:14px;color:var(--cyan);margin:8px 0;letter-spacing:1px;">GROWTH · DM for Pricing</div>
-      <ul class="pkg-features">
-        <li>AI Premium Ad Creatives</li>
-        <li>All 5 Platforms</li>
-        <li>24-hr Delivery</li>
-        <li>Strategy Call Included</li>
-        <li>Unlimited Revisions</li>
-      </ul>
-      <a href="mailto:workaniket07@gmail.com" class="pkg-btn" style="background:rgba(0,212,255,0.15);border-color:rgba(0,212,255,0.4);">
-        Get Started <span>→</span>
-      </a>
-    </div>
-
-    <div class="pkg-card">
-      <div class="pkg-icon">03</div>
-      <div class="pkg-num">60</div>
-      <div class="pkg-per">Creatives / Month</div>
-      <div style="font-size:14px;color:rgba(255,255,255,0.45);margin:8px 0;letter-spacing:1px;">SCALE · DM for Pricing</div>
-      <ul class="pkg-features">
-        <li>Full Creative Suite</li>
-        <li>All Platforms + Stories</li>
-        <li>Same-Day Delivery</li>
-        <li>Weekly Strategy Call</li>
-        <li>Performance Report</li>
-      </ul>
-      <a href="mailto:workaniket07@gmail.com" class="pkg-btn">
-        Get Started <span>→</span>
-      </a>
-    </div>
-
-    <div class="pkg-card">
-      <div class="pkg-icon">04</div>
-      <div class="pkg-num">90</div>
-      <div class="pkg-per">Creatives / Month</div>
-      <div style="font-size:14px;color:rgba(255,255,255,0.45);margin:8px 0;letter-spacing:1px;">ENTERPRISE · DM for Pricing</div>
-      <ul class="pkg-features">
-        <li>Enterprise Creative Suite</li>
-        <li>All Platforms + Reels</li>
-        <li>Priority Delivery</li>
-        <li>Dedicated WhatsApp Support</li>
-        <li>Monthly Video Ads (3)</li>
-      </ul>
-      <a href="mailto:workaniket07@gmail.com" class="pkg-btn">
-        Get Started <span>→</span>
-      </a>
-    </div>
-
-    <div class="pkg-card">
-      <div class="pkg-icon">05</div>
-      <div class="pkg-num">120+</div>
-      <div class="pkg-per">Creatives / Month</div>
-      <div style="font-size:14px;color:rgba(255,255,255,0.45);margin:8px 0;letter-spacing:1px;">UNLIMITED · DM for Pricing</div>
-      <ul class="pkg-features">
-        <li>Unlimited AI Creatives</li>
-        <li>Custom AI Brand Training</li>
-        <li>Fast Delivery</li>
-      </ul>
-      <a href="mailto:workaniket07@gmail.com" class="pkg-btn">
-        Start Project <span>→</span>
-      </a>
-    </div>
-
+    <p style="text-align:center;margin-top:16px;color:rgba(255,255,255,0.3);font-size:12px;">All prices in INR · GST extra · Cancel anytime</p>
   </div>
 </section>
+
+<script>
+// ── Package data ──────────────────────────────────────────────────────────────
+const PKGS = [
+  { idx:0, creatives:'15',  label:'Starter',    base:2500,  badge:'STARTER',
+    feats:['AI-Generated Graphics','IG · FB · Twitter sizes','3-5 Day Delivery','Logo Watermarked'] },
+  { idx:1, creatives:'30',  label:'Growth',     base:4000,  badge:'MOST POPULAR',
+    feats:['AI-Generated Graphics','5 Platform sizes','48-hr Delivery','Strategy Call','Unlimited Revisions'] },
+  { idx:2, creatives:'90',  label:'Enterprise', base:10000, badge:'ENTERPRISE',
+    feats:['AI Graphics + Reels','All Platform sizes','Priority Delivery','WhatsApp Support','3 Short Videos'] },
+  { idx:3, creatives:'120+',label:'Unlimited',  base:12000, badge:'UNLIMITED',
+    feats:['Unlimited Creatives','Custom AI Training','Daily Delivery','Account Manager'] },
+];
+const DISC  = {1:1, 3:0.90, 6:0.80, 12:0.70};
+const SAVES = {1:'', 3:'You save 10% vs monthly', 6:'You save 20% vs monthly', 12:'You save 30% vs monthly 🎉'};
+
+let curPkg = 0, curMo = 1;
+
+function fmtINR(n) { return '₹' + n.toLocaleString('en-IN'); }
+
+function renderPkg() {
+  const p   = PKGS[curPkg];
+  const mo  = Math.round(p.base * DISC[curMo]);
+  const tot = mo * curMo;
+
+  document.getElementById('pkgBadge').textContent      = p.badge;
+  document.getElementById('pkgCreatives').textContent  = p.creatives;
+  document.getElementById('pkgPrice').innerHTML        =
+    fmtINR(mo) + '<span style="font-size:20px;color:rgba(255,255,255,0.4)">/mo</span>';
+  document.getElementById('pkgSaving').textContent     =
+    curMo > 1 ? `${SAVES[curMo]} · Total ${fmtINR(tot)}` : '';
+  document.getElementById('pkgFeats').innerHTML        =
+    p.feats.map(f => `<span class="pkg-feat">✓ ${f}</span>`).join('');
+  document.getElementById('pkgCta').setAttribute('onclick',
+    `openInquiry('${p.label} – ${p.creatives} Creatives (${curMo} month)')`);
+
+  // slider
+  const pct = [0,33.33,66.67,100][curPkg];
+  document.getElementById('snapFill').style.width  = pct + '%';
+  document.getElementById('snapHandle').style.left = pct + '%';
+
+  // labels
+  document.querySelectorAll('.snap-label').forEach((l,i) =>
+    l.classList.toggle('active', i === curPkg));
+}
+
+// Snap slider drag
+(function() {
+  const track = document.getElementById('snapTrack');
+  const handle= document.getElementById('snapHandle');
+  let dragging = false;
+
+  function posToIdx(x) {
+    const rect = track.getBoundingClientRect();
+    const pct  = Math.max(0, Math.min(1, (x - rect.left) / rect.width));
+    // Snap to nearest of 4 positions: 0, 0.333, 0.667, 1
+    const positions = [0, 0.3333, 0.6667, 1];
+    let nearest = 0;
+    let minDist = Infinity;
+    positions.forEach((p, i) => {
+      const d = Math.abs(pct - p);
+      if (d < minDist) { minDist = d; nearest = i; }
+    });
+    return nearest;
+  }
+
+  function onMove(e) {
+    if (!dragging) return;
+    const x = e.touches ? e.touches[0].clientX : e.clientX;
+    curPkg = posToIdx(x);
+    renderPkg();
+  }
+
+  handle.addEventListener('mousedown', () => { dragging = true; });
+  track.addEventListener('click',     e => { curPkg = posToIdx(e.clientX); renderPkg(); });
+  document.addEventListener('mousemove', onMove);
+  document.addEventListener('mouseup', () => { dragging = false; });
+  handle.addEventListener('touchstart', () => { dragging = true; }, {passive:true});
+  track.addEventListener('touchmove', onMove, {passive:true});
+  document.addEventListener('touchend', () => { dragging = false; });
+
+  // Label click
+  document.querySelectorAll('.snap-label').forEach(l =>
+    l.addEventListener('click', () => { curPkg = parseInt(l.dataset.idx); renderPkg(); }));
+})();
+
+// Duration tabs
+document.getElementById('durTabs').addEventListener('click', e => {
+  const btn = e.target.closest('.dur-tab');
+  if (!btn) return;
+  document.querySelectorAll('.dur-tab').forEach(b => b.classList.remove('active'));
+  btn.classList.add('active');
+  curMo = parseInt(btn.dataset.m);
+  renderPkg();
+});
+
+renderPkg(); // init
+</script>
 
 <!-- ─── BUNDLES ─── -->
 <section id="bundles" class="section">
   <div class="reveal">
     <p class="sec-label">Campaign Bundles</p>
-    <h2 class="sec-title">Ready-to-Deploy Packs</h2>
-    <p class="sec-sub">Complete campaign sets. Every format. Every platform. Delivered in 48 hours.</p>
+    <h2 class="sec-title">Custom Campaign Packs</h2>
+    <p class="sec-sub">Made for your brand. Your brief. Your style. Delivered within timeline.</p>
   </div>
 
   <div class="bundles-grid">
 
     <div class="bundle-card reveal">
-      <div class="bundle-icon">—</div>
-      <div class="bundle-name">Starter Pack</div>
-      <div class="bundle-sub">Perfect for Small Brands</div>
+      <div class="bundle-icon">💍</div>
+      <div class="bundle-name">Jewelry Pack</div>
+      <div class="bundle-sub">Rings · Necklaces · Bracelets · Earrings</div>
       <div class="bundle-arrow">→</div>
     </div>
 
     <div class="bundle-card reveal" style="transition-delay:.05s">
-      <div class="bundle-icon">—</div>
-      <div class="bundle-name">Growth Pack</div>
-      <div class="bundle-sub">For Growing Businesses</div>
+      <div class="bundle-icon">🌸</div>
+      <div class="bundle-name">Beauty Pack</div>
+      <div class="bundle-sub">Skincare · Cosmetics · Perfume · Wellness</div>
+      <div class="bundle-arrow">→</div>
+    </div>
+
+    <div class="bundle-card reveal" style="transition-delay:.08s">
+      <div class="bundle-icon">🍔</div>
+      <div class="bundle-name">Food & Beverage</div>
+      <div class="bundle-sub">Restaurant · Cafe · FMCG · Bakery</div>
       <div class="bundle-arrow">→</div>
     </div>
 
     <div class="bundle-card reveal" style="transition-delay:.1s">
-      <div class="bundle-icon">—</div>
-      <div class="bundle-name">Brand Pack</div>
-      <div class="bundle-sub">For Serious Brands</div>
+      <div class="bundle-icon">👗</div>
+      <div class="bundle-name">Fashion Pack</div>
+      <div class="bundle-sub">Clothing · Footwear · Accessories · D2C</div>
+      <div class="bundle-arrow">→</div>
+    </div>
+
+    <div class="bundle-card reveal" style="transition-delay:.13s">
+      <div class="bundle-icon">🏛️</div>
+      <div class="bundle-name">Real Estate</div>
+      <div class="bundle-sub">Luxury Homes · Commercial · Architecture</div>
       <div class="bundle-arrow">→</div>
     </div>
 
     <div class="bundle-card reveal" style="transition-delay:.15s">
-      <div class="bundle-icon">—</div>
-      <div class="bundle-name">Agency Pack</div>
-      <div class="bundle-sub">For Agencies &amp; Teams</div>
+      <div class="bundle-icon">💻</div>
+      <div class="bundle-name">Tech & SaaS</div>
+      <div class="bundle-sub">Apps · Software · Startups · AI Tools</div>
+      <div class="bundle-arrow">→</div>
+    </div>
+
+    <div class="bundle-card reveal" style="transition-delay:.18s">
+      <div class="bundle-icon">🏋️</div>
+      <div class="bundle-name">Health & Fitness</div>
+      <div class="bundle-sub">Gym · Nutrition · Yoga · Supplements</div>
+      <div class="bundle-arrow">→</div>
+    </div>
+
+    <div class="bundle-card reveal" style="transition-delay:.2s">
+      <div class="bundle-icon">⭐</div>
+      <div class="bundle-name">Custom Pack</div>
+      <div class="bundle-sub">Any industry · Any style · Any brand</div>
       <div class="bundle-arrow">→</div>
     </div>
 
@@ -1707,15 +1896,45 @@
     <h2 class="sec-title">Creative Services</h2>
   </div>
 
-  <ul class="svc-list">
-    <li class="svc-item reveal"><span class="svc-num">01</span><span class="svc-item-name">AI Ads</span><span class="svc-item-tag">Advertisement</span><span class="svc-arrow">→</span></li>
-    <li class="svc-item reveal" style="transition-delay:.04s"><span class="svc-num">02</span><span class="svc-item-name">Poster Design</span><span class="svc-item-tag">Print & Digital</span><span class="svc-arrow">→</span></li>
-    <li class="svc-item reveal" style="transition-delay:.08s"><span class="svc-num">03</span><span class="svc-item-name">Instagram Campaigns</span><span class="svc-item-tag">Social Media</span><span class="svc-arrow">→</span></li>
-    <li class="svc-item reveal" style="transition-delay:.12s"><span class="svc-num">04</span><span class="svc-item-name">Motion Reels</span><span class="svc-item-tag">Video</span><span class="svc-arrow">→</span></li>
-    <li class="svc-item reveal" style="transition-delay:.16s"><span class="svc-num">05</span><span class="svc-item-name">Brand Identity</span><span class="svc-item-tag">Branding</span><span class="svc-arrow">→</span></li>
-    <li class="svc-item reveal" style="transition-delay:.20s"><span class="svc-num">06</span><span class="svc-item-name">Pitch Decks</span><span class="svc-item-tag">Presentation</span><span class="svc-arrow">→</span></li>
-    <li class="svc-item reveal" style="transition-delay:.24s"><span class="svc-num">07</span><span class="svc-item-name">Product Commercials</span><span class="svc-item-tag">Commercial</span><span class="svc-arrow">→</span></li>
-  </ul>
+  <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:14px;margin-top:32px;" class="reveal">
+
+    <div onclick="document.getElementById('packages').scrollIntoView({behavior:'smooth'})" style="padding:22px 20px;background:rgba(255,255,255,0.02);border:1px solid rgba(255,255,255,0.07);border-radius:18px;cursor:pointer;transition:all .3s;" onmouseover="this.style.background='rgba(255,255,255,0.05)';this.style.borderColor='rgba(0,212,255,0.25)';this.style.transform='translateY(-4px)'" onmouseout="this.style.background='rgba(255,255,255,0.02)';this.style.borderColor='rgba(255,255,255,0.07)';this.style.transform='none'">
+      <div style="font-size:24px;margin-bottom:10px;">🎨</div>
+      <div style="font-size:15px;font-weight:600;margin-bottom:4px;">AI Ad Graphics</div>
+      <div style="font-size:12px;color:rgba(255,255,255,0.4);">We create · You post</div>
+    </div>
+
+    <div onclick="document.getElementById('packages').scrollIntoView({behavior:'smooth'})" style="padding:22px 20px;background:rgba(255,255,255,0.02);border:1px solid rgba(255,255,255,0.07);border-radius:18px;cursor:pointer;transition:all .3s;" onmouseover="this.style.background='rgba(255,255,255,0.05)';this.style.borderColor='rgba(0,212,255,0.25)';this.style.transform='translateY(-4px)'" onmouseout="this.style.background='rgba(255,255,255,0.02)';this.style.borderColor='rgba(255,255,255,0.07)';this.style.transform='none'">
+      <div style="font-size:24px;margin-bottom:10px;">📱</div>
+      <div style="font-size:15px;font-weight:600;margin-bottom:4px;">Social Media Creatives</div>
+      <div style="font-size:12px;color:rgba(255,255,255,0.4);">IG · FB · LinkedIn · Twitter</div>
+    </div>
+
+    <div onclick="document.getElementById('packages').scrollIntoView({behavior:'smooth'})" style="padding:22px 20px;background:rgba(255,255,255,0.02);border:1px solid rgba(255,255,255,0.07);border-radius:18px;cursor:pointer;transition:all .3s;" onmouseover="this.style.background='rgba(255,255,255,0.05)';this.style.borderColor='rgba(0,212,255,0.25)';this.style.transform='translateY(-4px)'" onmouseout="this.style.background='rgba(255,255,255,0.02)';this.style.borderColor='rgba(255,255,255,0.07)';this.style.transform='none'">
+      <div style="font-size:24px;margin-bottom:10px;">🎯</div>
+      <div style="font-size:15px;font-weight:600;margin-bottom:4px;">Campaign Visual Sets</div>
+      <div style="font-size:12px;color:rgba(255,255,255,0.4);">Festival · Launch · Brand</div>
+    </div>
+
+    <div onclick="document.getElementById('packages').scrollIntoView({behavior:'smooth'})" style="padding:22px 20px;background:rgba(255,255,255,0.02);border:1px solid rgba(255,255,255,0.07);border-radius:18px;cursor:pointer;transition:all .3s;" onmouseover="this.style.background='rgba(255,255,255,0.05)';this.style.borderColor='rgba(0,212,255,0.25)';this.style.transform='translateY(-4px)'" onmouseout="this.style.background='rgba(255,255,255,0.02)';this.style.borderColor='rgba(255,255,255,0.07)';this.style.transform='none'">
+      <div style="font-size:24px;margin-bottom:10px;">📸</div>
+      <div style="font-size:15px;font-weight:600;margin-bottom:4px;">AI Product Photography</div>
+      <div style="font-size:12px;color:rgba(255,255,255,0.4);">No shoot needed</div>
+    </div>
+
+    <div onclick="document.getElementById('contact').scrollIntoView({behavior:'smooth'})" style="padding:22px 20px;background:rgba(255,255,255,0.02);border:1px solid rgba(255,255,255,0.07);border-radius:18px;cursor:pointer;transition:all .3s;" onmouseover="this.style.background='rgba(255,255,255,0.05)';this.style.borderColor='rgba(0,212,255,0.25)';this.style.transform='translateY(-4px)'" onmouseout="this.style.background='rgba(255,255,255,0.02)';this.style.borderColor='rgba(255,255,255,0.07)';this.style.transform='none'">
+      <div style="font-size:24px;margin-bottom:10px;">📅</div>
+      <div style="font-size:15px;font-weight:600;margin-bottom:4px;">Posting & Scheduling</div>
+      <div style="font-size:12px;color:rgba(255,160,0,0.7);">Add-on · Priced separately</div>
+    </div>
+
+    <div onclick="document.getElementById('contact').scrollIntoView({behavior:'smooth'})" style="padding:22px 20px;background:rgba(0,212,255,0.03);border:1px solid rgba(0,212,255,0.12);border-radius:18px;cursor:pointer;transition:all .3s;" onmouseover="this.style.background='rgba(0,212,255,0.07)';this.style.borderColor='rgba(0,212,255,0.3)';this.style.transform='translateY(-4px)'" onmouseout="this.style.background='rgba(0,212,255,0.03)';this.style.borderColor='rgba(0,212,255,0.12)';this.style.transform='none'">
+      <div style="font-size:24px;margin-bottom:10px;">⚡</div>
+      <div style="font-size:15px;font-weight:600;margin-bottom:4px;color:var(--cyan);">Custom Projects</div>
+      <div style="font-size:12px;color:rgba(0,212,255,0.6);">DM to discuss →</div>
+    </div>
+
+  </div>
 
   <div style="text-align:center">
     <span class="svc-highlight reveal">✦ Bulk Monthly Social Media Packages Available</span>
@@ -1846,6 +2065,152 @@
   </div>
 </section>
 
+<!-- ─── SECTORS ─── -->
+<section class="section" style="background:#08090f;padding-top:40px;overflow:hidden;">
+  <div style="max-width:1200px;margin:0 auto;padding:0 5%;">
+    <p class="sec-label reveal" style="justify-content:center">Industries</p>
+    <h2 class="sec-title reveal" style="text-align:center;margin-bottom:12px;">We Create For Every Sector</h2>
+    <p class="sec-sub reveal" style="text-align:center;max-width:500px;margin:0 auto 48px;">100+ industries. Premium AI visuals crafted for your exact tone, audience, and platform.</p>
+  </div>
+
+  <style>
+  .sectors-track { display:flex; gap:12px; animation:scrollSectors 40s linear infinite; width:max-content; }
+  .sectors-track:hover { animation-play-state:paused; }
+  .sectors-row { overflow:hidden; margin-bottom:12px; mask-image:linear-gradient(to right,transparent,black 80px,black calc(100% - 80px),transparent); -webkit-mask-image:linear-gradient(to right,transparent,black 80px,black calc(100% - 80px),transparent); }
+  .sectors-row.reverse .sectors-track { animation-direction:reverse; animation-duration:50s; }
+  .sectors-row.slow .sectors-track { animation-duration:60s; }
+  @keyframes scrollSectors { from{transform:translateX(0)} to{transform:translateX(-50%)} }
+  .sector-pill { flex-shrink:0; display:flex; align-items:center; gap:8px; padding:10px 18px; background:rgba(255,255,255,0.03); border:1px solid rgba(255,255,255,0.07); border-radius:100px; font-size:13px; font-weight:500; white-space:nowrap; cursor:default; transition:all .3s; }
+  .sector-pill:hover { background:rgba(0,212,255,0.06); border-color:rgba(0,212,255,0.25); color:var(--cyan); }
+  .sector-pill span { font-size:18px; }
+  </style>
+
+  <!-- Row 1 -->
+  <div class="sectors-row reveal">
+    <div class="sectors-track">
+      <div class="sector-pill"><span>💍</span>Jewelry</div>
+      <div class="sector-pill"><span>🌸</span>Cosmetics</div>
+      <div class="sector-pill"><span>👗</span>Fashion</div>
+      <div class="sector-pill"><span>🍽️</span>Food & Beverage</div>
+      <div class="sector-pill"><span>🏛️</span>Real Estate</div>
+      <div class="sector-pill"><span>💻</span>Tech & SaaS</div>
+      <div class="sector-pill"><span>🏋️</span>Health & Fitness</div>
+      <div class="sector-pill"><span>🎓</span>Education</div>
+      <div class="sector-pill"><span>🎵</span>Music & Events</div>
+      <div class="sector-pill"><span>🚗</span>Automotive</div>
+      <div class="sector-pill"><span>🏨</span>Hospitality</div>
+      <div class="sector-pill"><span>✈️</span>Travel</div>
+      <div class="sector-pill"><span>🎮</span>Gaming</div>
+      <div class="sector-pill"><span>📱</span>Mobile Apps</div>
+      <div class="sector-pill"><span>🧴</span>Skincare</div>
+      <div class="sector-pill"><span>👶</span>Baby & Kids</div>
+      <div class="sector-pill"><span>🐾</span>Pet Care</div>
+      <!-- duplicate for seamless loop -->
+      <div class="sector-pill"><span>💍</span>Jewelry</div>
+      <div class="sector-pill"><span>🌸</span>Cosmetics</div>
+      <div class="sector-pill"><span>👗</span>Fashion</div>
+      <div class="sector-pill"><span>🍽️</span>Food & Beverage</div>
+      <div class="sector-pill"><span>🏛️</span>Real Estate</div>
+      <div class="sector-pill"><span>💻</span>Tech & SaaS</div>
+      <div class="sector-pill"><span>🏋️</span>Health & Fitness</div>
+      <div class="sector-pill"><span>🎓</span>Education</div>
+      <div class="sector-pill"><span>🎵</span>Music & Events</div>
+      <div class="sector-pill"><span>🚗</span>Automotive</div>
+      <div class="sector-pill"><span>🏨</span>Hospitality</div>
+      <div class="sector-pill"><span>✈️</span>Travel</div>
+      <div class="sector-pill"><span>🎮</span>Gaming</div>
+      <div class="sector-pill"><span>📱</span>Mobile Apps</div>
+      <div class="sector-pill"><span>🧴</span>Skincare</div>
+      <div class="sector-pill"><span>👶</span>Baby & Kids</div>
+      <div class="sector-pill"><span>🐾</span>Pet Care</div>
+    </div>
+  </div>
+
+  <!-- Row 2 (reverse) -->
+  <div class="sectors-row reverse reveal">
+    <div class="sectors-track">
+      <div class="sector-pill"><span>🏦</span>Finance & Banking</div>
+      <div class="sector-pill"><span>⚖️</span>Legal Services</div>
+      <div class="sector-pill"><span>🏥</span>Healthcare</div>
+      <div class="sector-pill"><span>🌿</span>Wellness & Yoga</div>
+      <div class="sector-pill"><span>🍕</span>Restaurant</div>
+      <div class="sector-pill"><span>☕</span>Cafe & Coffee</div>
+      <div class="sector-pill"><span>🍰</span>Bakery</div>
+      <div class="sector-pill"><span>🎨</span>Art & Design</div>
+      <div class="sector-pill"><span>📸</span>Photography</div>
+      <div class="sector-pill"><span>🎬</span>Film & Media</div>
+      <div class="sector-pill"><span>📚</span>Publishing</div>
+      <div class="sector-pill"><span>🏗️</span>Construction</div>
+      <div class="sector-pill"><span>🌱</span>Agriculture</div>
+      <div class="sector-pill"><span>♻️</span>Sustainability</div>
+      <div class="sector-pill"><span>🛍️</span>E-Commerce</div>
+      <div class="sector-pill"><span>💄</span>Beauty & Salon</div>
+      <div class="sector-pill"><span>👠</span>Footwear</div>
+      <!-- duplicate -->
+      <div class="sector-pill"><span>🏦</span>Finance & Banking</div>
+      <div class="sector-pill"><span>⚖️</span>Legal Services</div>
+      <div class="sector-pill"><span>🏥</span>Healthcare</div>
+      <div class="sector-pill"><span>🌿</span>Wellness & Yoga</div>
+      <div class="sector-pill"><span>🍕</span>Restaurant</div>
+      <div class="sector-pill"><span>☕</span>Cafe & Coffee</div>
+      <div class="sector-pill"><span>🍰</span>Bakery</div>
+      <div class="sector-pill"><span>🎨</span>Art & Design</div>
+      <div class="sector-pill"><span>📸</span>Photography</div>
+      <div class="sector-pill"><span>🎬</span>Film & Media</div>
+      <div class="sector-pill"><span>📚</span>Publishing</div>
+      <div class="sector-pill"><span>🏗️</span>Construction</div>
+      <div class="sector-pill"><span>🌱</span>Agriculture</div>
+      <div class="sector-pill"><span>♻️</span>Sustainability</div>
+      <div class="sector-pill"><span>🛍️</span>E-Commerce</div>
+      <div class="sector-pill"><span>💄</span>Beauty & Salon</div>
+      <div class="sector-pill"><span>👠</span>Footwear</div>
+    </div>
+  </div>
+
+  <!-- Row 3 (slow) -->
+  <div class="sectors-row slow reveal">
+    <div class="sectors-track">
+      <div class="sector-pill"><span>🎯</span>Digital Marketing</div>
+      <div class="sector-pill"><span>🤖</span>AI & Automation</div>
+      <div class="sector-pill"><span>🏫</span>EdTech</div>
+      <div class="sector-pill"><span>🚀</span>Startups</div>
+      <div class="sector-pill"><span>🧠</span>Consulting</div>
+      <div class="sector-pill"><span>💪</span>Sports & Fitness</div>
+      <div class="sector-pill"><span>🎭</span>Entertainment</div>
+      <div class="sector-pill"><span>🛒</span>Grocery & Retail</div>
+      <div class="sector-pill"><span>💊</span>Pharma</div>
+      <div class="sector-pill"><span>🌍</span>NGO & Social</div>
+      <div class="sector-pill"><span>🧵</span>Textiles</div>
+      <div class="sector-pill"><span>🏺</span>Handicrafts</div>
+      <div class="sector-pill"><span>💡</span>Lighting & Decor</div>
+      <div class="sector-pill"><span>🛋️</span>Furniture</div>
+      <div class="sector-pill"><span>🔧</span>Services & Repair</div>
+      <div class="sector-pill"><span>🌐</span>Web & Apps</div>
+      <div class="sector-pill"><span>🎁</span>Gifts & Lifestyle</div>
+      <!-- duplicate -->
+      <div class="sector-pill"><span>🎯</span>Digital Marketing</div>
+      <div class="sector-pill"><span>🤖</span>AI & Automation</div>
+      <div class="sector-pill"><span>🏫</span>EdTech</div>
+      <div class="sector-pill"><span>🚀</span>Startups</div>
+      <div class="sector-pill"><span>🧠</span>Consulting</div>
+      <div class="sector-pill"><span>💪</span>Sports & Fitness</div>
+      <div class="sector-pill"><span>🎭</span>Entertainment</div>
+      <div class="sector-pill"><span>🛒</span>Grocery & Retail</div>
+      <div class="sector-pill"><span>💊</span>Pharma</div>
+      <div class="sector-pill"><span>🌍</span>NGO & Social</div>
+      <div class="sector-pill"><span>🧵</span>Textiles</div>
+      <div class="sector-pill"><span>🏺</span>Handicrafts</div>
+      <div class="sector-pill"><span>💡</span>Lighting & Decor</div>
+      <div class="sector-pill"><span>🛋️</span>Furniture</div>
+      <div class="sector-pill"><span>🔧</span>Services & Repair</div>
+      <div class="sector-pill"><span>🌐</span>Web & Apps</div>
+      <div class="sector-pill"><span>🎁</span>Gifts & Lifestyle</div>
+    </div>
+  </div>
+
+  <p class="reveal" style="text-align:center;margin-top:32px;color:rgba(255,255,255,0.35);font-size:13px;">Don't see your industry? <a href="mailto:workaniket07@gmail.com" style="color:var(--cyan);text-decoration:none;">DM us — we cover everything →</a></p>
+</section>
+
 <!-- ─── AUTOMATION SYSTEMS ─── -->
 <section id="systems" class="section" style="background:#08090f;">
   <div style="max-width:1100px;margin:0 auto;padding:0 5%;">
@@ -1909,7 +2274,8 @@
         <div style="font-size:11px;letter-spacing:2px;color:var(--cyan);text-transform:uppercase;margin-bottom:12px;">Most Popular</div>
         <h3 style="font-size:22px;font-weight:700;margin-bottom:8px;">AI Agency in a Box</h3>
         <p style="color:rgba(255,255,255,0.5);font-size:14px;margin-bottom:20px;">Complete system to launch & run an AI creative agency. Templates, scripts, automation, prompts.</p>
-        <div style="font-size:36px;font-weight:900;color:var(--cyan);margin-bottom:24px;">₹4,15,000</div>
+        <div style="font-size:24px;font-weight:800;color:var(--cyan);margin-bottom:6px;">₹4,15,000 <span style="font-size:13px;color:rgba(255,255,255,0.4);font-weight:400">one-time</span></div>
+        <div style="font-size:12px;color:rgba(0,212,255,0.6);margin-bottom:18px;letter-spacing:1px;">($4,997 USD)</div>
         <ul style="list-style:none;margin-bottom:28px;">
           <li style="padding:8px 0;border-bottom:1px solid rgba(255,255,255,0.06);font-size:14px;">✓ Cold email system (50+ templates)</li>
           <li style="padding:8px 0;border-bottom:1px solid rgba(255,255,255,0.06);font-size:14px;">✓ 50 done-for-you ad creatives</li>
@@ -1917,14 +2283,15 @@
           <li style="padding:8px 0;border-bottom:1px solid rgba(255,255,255,0.06);font-size:14px;">✓ 30-min strategy call</li>
           <li style="padding:8px 0;font-size:14px;">✓ 30-day WhatsApp support</li>
         </ul>
-        <a href="mailto:workaniket07@gmail.com?subject=AI Agency Kit" style="display:block;text-align:center;padding:14px;background:var(--cyan);color:#000;font-weight:700;border-radius:12px;text-decoration:none;font-size:15px;">Get Instant Access →</a>
+        <a href="#" onclick="openInquiry('AI Agency in a Box')" style="display:block;text-align:center;padding:14px;background:rgba(255,255,255,0.08);color:#fff;font-weight:600;border-radius:12px;text-decoration:none;font-size:15px;border:1px solid rgba(255,255,255,0.15);transition:all .3s;" onmouseover="this.style.background='rgba(255,255,255,0.14)'" onmouseout="this.style.background='rgba(255,255,255,0.08)'">Get Instant Access →</a>
       </div>
 
       <div style="padding:32px;background:rgba(255,255,255,0.03);border:1px solid rgba(123,0,255,0.2);border-radius:24px;transition:all .4s;">
-        <div style="font-size:11px;letter-spacing:2px;color:#7b00ff;text-transform:uppercase;margin-bottom:12px;">White-Label</div>
+        <div style="font-size:11px;letter-spacing:2px;color:rgba(180,100,255,1);text-transform:uppercase;margin-bottom:12px;">White-Label</div>
         <h3 style="font-size:22px;font-weight:700;margin-bottom:8px;">Prompt Pack License</h3>
         <p style="color:rgba(255,255,255,0.5);font-size:14px;margin-bottom:20px;">10,000 AI prompts. Your brand. 100% resell rights. Sell immediately on Gumroad, Etsy, anywhere.</p>
-        <div style="font-size:36px;font-weight:900;color:#7b00ff;margin-bottom:24px;">₹2,49,000</div>
+        <div style="font-size:24px;font-weight:800;color:rgba(180,100,255,1);margin-bottom:6px;">₹2,49,000 <span style="font-size:13px;color:rgba(255,255,255,0.4);font-weight:400">one-time</span></div>
+        <div style="font-size:12px;color:rgba(180,100,255,0.7);margin-bottom:18px;letter-spacing:1px;">($2,997 USD)</div>
         <ul style="list-style:none;margin-bottom:28px;">
           <li style="padding:8px 0;border-bottom:1px solid rgba(255,255,255,0.06);font-size:14px;">✓ 10,000 prompts, white-label</li>
           <li style="padding:8px 0;border-bottom:1px solid rgba(255,255,255,0.06);font-size:14px;">✓ Remove our branding</li>
@@ -1932,14 +2299,15 @@
           <li style="padding:8px 0;border-bottom:1px solid rgba(255,255,255,0.06);font-size:14px;">✓ Ready store listings</li>
           <li style="padding:8px 0;font-size:14px;">✓ Keep 100% of sales</li>
         </ul>
-        <a href="mailto:workaniket07@gmail.com?subject=White Label License" style="display:block;text-align:center;padding:14px;background:rgba(123,0,255,0.2);color:#fff;font-weight:700;border-radius:12px;text-decoration:none;font-size:15px;border:1px solid rgba(123,0,255,0.4);">Get License →</a>
+        <a href="#" onclick="openInquiry('White-Label Prompt License')" style="display:block;text-align:center;padding:14px;background:rgba(255,255,255,0.08);color:#fff;font-weight:600;border-radius:12px;text-decoration:none;font-size:15px;border:1px solid rgba(255,255,255,0.15);transition:all .3s;" onmouseover="this.style.background='rgba(255,255,255,0.14)'" onmouseout="this.style.background='rgba(255,255,255,0.08)'">Get License →</a>
       </div>
 
       <div style="padding:32px;background:rgba(255,255,255,0.03);border:1px solid rgba(0,255,136,0.15);border-radius:24px;transition:all .4s;">
         <div style="font-size:11px;letter-spacing:2px;color:#00ff88;text-transform:uppercase;margin-bottom:12px;">Best Value</div>
         <h3 style="font-size:22px;font-weight:700;margin-bottom:8px;">Creator System</h3>
         <p style="color:rgba(255,255,255,0.5);font-size:14px;margin-bottom:20px;">90 days of content. Done. 500 captions, 100 Reel hooks, hashtag bank, posting schedule.</p>
-        <div style="font-size:36px;font-weight:900;color:#00ff88;margin-bottom:24px;">₹83,000</div>
+        <div style="font-size:24px;font-weight:800;color:#00ff88;margin-bottom:6px;">₹83,000 <span style="font-size:13px;color:rgba(255,255,255,0.4);font-weight:400">one-time</span></div>
+        <div style="font-size:12px;color:rgba(0,255,136,0.6);margin-bottom:18px;letter-spacing:1px;">($997 USD)</div>
         <ul style="list-style:none;margin-bottom:28px;">
           <li style="padding:8px 0;border-bottom:1px solid rgba(255,255,255,0.06);font-size:14px;">✓ 90-day content calendar</li>
           <li style="padding:8px 0;border-bottom:1px solid rgba(255,255,255,0.06);font-size:14px;">✓ 500 caption templates</li>
@@ -1947,12 +2315,146 @@
           <li style="padding:8px 0;border-bottom:1px solid rgba(255,255,255,0.06);font-size:14px;">✓ Hashtag bank (5 niches)</li>
           <li style="padding:8px 0;font-size:14px;">✓ Posting time strategy</li>
         </ul>
-        <a href="mailto:workaniket07@gmail.com?subject=Creator System" style="display:block;text-align:center;padding:14px;background:rgba(0,255,136,0.1);color:#00ff88;font-weight:700;border-radius:12px;text-decoration:none;font-size:15px;border:1px solid rgba(0,255,136,0.3);">Get System →</a>
+        <a href="#" onclick="openInquiry('Creator System')" style="display:block;text-align:center;padding:14px;background:rgba(255,255,255,0.08);color:#fff;font-weight:600;border-radius:12px;text-decoration:none;font-size:15px;border:1px solid rgba(255,255,255,0.15);transition:all .3s;" onmouseover="this.style.background='rgba(255,255,255,0.14)'" onmouseout="this.style.background='rgba(255,255,255,0.08)'">Get System →</a>
+      </div>
+
+      <div style="padding:32px;background:linear-gradient(135deg,rgba(201,168,76,0.06),rgba(255,255,255,0.02));border:1px solid rgba(201,168,76,0.25);border-radius:24px;transition:all .4s;position:relative;overflow:hidden;">
+        <div style="position:absolute;top:0;left:0;right:0;height:2px;background:linear-gradient(90deg,#C9A84C,#f5d78e);"></div>
+        <div style="font-size:11px;letter-spacing:2px;color:#C9A84C;text-transform:uppercase;margin-bottom:12px;">Enterprise</div>
+        <h3 style="font-size:22px;font-weight:700;margin-bottom:8px;">Done-For-You Agency</h3>
+        <p style="color:rgba(255,255,255,0.5);font-size:14px;margin-bottom:20px;">Complete AI creative agency setup. Built, automated, and running. You just approve the output.</p>
+        <div style="font-size:24px;font-weight:800;color:#C9A84C;margin-bottom:6px;">₹2,49,000 <span style="font-size:13px;color:rgba(255,255,255,0.4);font-weight:400">one-time</span></div>
+        <div style="font-size:12px;color:rgba(201,168,76,0.7);margin-bottom:18px;letter-spacing:1px;">($2,997 USD)</div>
+        <ul style="list-style:none;margin-bottom:28px;">
+          <li style="padding:8px 0;border-bottom:1px solid rgba(255,255,255,0.06);font-size:14px;">✓ Full automation setup (email + social)</li>
+          <li style="padding:8px 0;border-bottom:1px solid rgba(255,255,255,0.06);font-size:14px;">✓ 120+ creatives/month</li>
+          <li style="padding:8px 0;border-bottom:1px solid rgba(255,255,255,0.06);font-size:14px;">✓ Custom AI trained on your brand</li>
+          <li style="padding:8px 0;border-bottom:1px solid rgba(255,255,255,0.06);font-size:14px;">✓ Dedicated account manager</li>
+          <li style="padding:8px 0;font-size:14px;">✓ Monthly strategy + reporting</li>
+        </ul>
+        <a href="#" onclick="openInquiry('Done-For-You Agency Setup')" style="display:block;text-align:center;padding:14px;background:rgba(201,168,76,0.12);color:#C9A84C;font-weight:600;border-radius:12px;text-decoration:none;font-size:15px;border:1px solid rgba(201,168,76,0.3);transition:all .3s;" onmouseover="this.style.background='rgba(201,168,76,0.2)'" onmouseout="this.style.background='rgba(201,168,76,0.12)'">Get Started →</a>
       </div>
 
     </div>
 
-    <p class="reveal" style="text-align:center;margin-top:32px;color:rgba(255,255,255,0.4);font-size:13px;">30-day money back guarantee · Instant delivery · workaniket07@gmail.com</p>
+    </div>
+
+    <!-- NEW TRENDING PRODUCTS -->
+    <p class="sec-label reveal" style="justify-content:center;margin-top:64px">2026 Trending</p>
+    <h2 class="sec-title reveal" style="text-align:center">New AI Business Systems</h2>
+    <p class="sec-sub reveal" style="text-align:center;max-width:600px;margin:0 auto 48px;">Hottest selling digital products of 2026.</p>
+
+    <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:24px;" class="reveal">
+
+      <div style="padding:32px;background:rgba(255,255,255,0.03);border:1px solid rgba(255,100,0,0.2);border-radius:24px;transition:all .4s;">
+        <div style="font-size:11px;letter-spacing:2px;color:#ff6400;text-transform:uppercase;margin-bottom:12px;">🔥 Hot — 2026</div>
+        <h3 style="font-size:22px;font-weight:700;margin-bottom:8px;">AI Agent Builder Kit</h3>
+        <p style="color:rgba(255,255,255,0.5);font-size:14px;margin-bottom:20px;">Build & sell AI agents. 10 ready-to-deploy agent templates + freelance pricing guide. Charge ₹50,000–₹2,00,000 per project.</p>
+        <div style="font-size:20px;font-weight:800;color:#ff6400;margin-bottom:24px;">₹1,66,000 <span style="font-size:13px;color:rgba(255,255,255,0.4);font-weight:400">one-time</span></div>
+        <ul style="list-style:none;margin-bottom:28px;">
+          <li style="padding:8px 0;border-bottom:1px solid rgba(255,255,255,0.06);font-size:14px;">✓ 10 AI agent templates (Python)</li>
+          <li style="padding:8px 0;border-bottom:1px solid rgba(255,255,255,0.06);font-size:14px;">✓ Claude + Groq + n8n setup</li>
+          <li style="padding:8px 0;border-bottom:1px solid rgba(255,255,255,0.06);font-size:14px;">✓ Client proposal + pricing guide</li>
+          <li style="padding:8px 0;border-bottom:1px solid rgba(255,255,255,0.06);font-size:14px;">✓ Where to find clients</li>
+          <li style="padding:8px 0;font-size:14px;">✓ LinkedIn portfolio template</li>
+        </ul>
+        <a href="#" onclick="openInquiry('AI Agent Builder Kit')" style="display:block;text-align:center;padding:14px;background:rgba(255,100,0,0.1);color:#ff6400;font-weight:600;border-radius:12px;text-decoration:none;font-size:15px;border:1px solid rgba(255,100,0,0.3);transition:all .3s;" onmouseover="this.style.background='rgba(255,100,0,0.2)'" onmouseout="this.style.background='rgba(255,100,0,0.1)'">Get the Kit →</a>
+      </div>
+
+      <div style="padding:32px;background:rgba(255,255,255,0.03);border:1px solid rgba(255,50,100,0.2);border-radius:24px;transition:all .4s;">
+        <div style="font-size:11px;letter-spacing:2px;color:#ff3264;text-transform:uppercase;margin-bottom:12px;">📹 Passive Income</div>
+        <h3 style="font-size:22px;font-weight:700;margin-bottom:8px;">Faceless YouTube Kit</h3>
+        <p style="color:rgba(255,255,255,0.5);font-size:14px;margin-bottom:20px;">Build a faceless YouTube channel earning ₹50,000–₹3,00,000/month. No camera. Pure AI automation.</p>
+        <div style="font-size:20px;font-weight:800;color:#ff3264;margin-bottom:24px;">₹1,24,000 <span style="font-size:13px;color:rgba(255,255,255,0.4);font-weight:400">one-time</span></div>
+        <ul style="list-style:none;margin-bottom:28px;">
+          <li style="padding:8px 0;border-bottom:1px solid rgba(255,255,255,0.06);font-size:14px;">✓ 50 profitable niches + CPM data</li>
+          <li style="padding:8px 0;border-bottom:1px solid rgba(255,255,255,0.06);font-size:14px;">✓ 200 AI script templates</li>
+          <li style="padding:8px 0;border-bottom:1px solid rgba(255,255,255,0.06);font-size:14px;">✓ 100 thumbnail prompts</li>
+          <li style="padding:8px 0;border-bottom:1px solid rgba(255,255,255,0.06);font-size:14px;">✓ Auto-upload Python script</li>
+          <li style="padding:8px 0;font-size:14px;">✓ Monetization roadmap</li>
+        </ul>
+        <a href="#" onclick="openInquiry('Faceless YouTube Kit')" style="display:block;text-align:center;padding:14px;background:rgba(255,50,100,0.1);color:#ff3264;font-weight:600;border-radius:12px;text-decoration:none;font-size:15px;border:1px solid rgba(255,50,100,0.3);transition:all .3s;" onmouseover="this.style.background='rgba(255,50,100,0.2)'" onmouseout="this.style.background='rgba(255,50,100,0.1)'">Get the Kit →</a>
+      </div>
+
+      <div style="padding:32px;background:rgba(255,255,255,0.03);border:1px solid rgba(0,119,255,0.2);border-radius:24px;transition:all .4s;">
+        <div style="font-size:11px;letter-spacing:2px;color:#0077ff;text-transform:uppercase;margin-bottom:12px;">💼 LinkedIn Money</div>
+        <h3 style="font-size:22px;font-weight:700;margin-bottom:8px;">LinkedIn Ghostwriter Pack</h3>
+        <p style="color:rgba(255,255,255,0.5);font-size:14px;margin-bottom:20px;">500 viral LinkedIn posts + 200 AI prompts. Start a ghostwriting business charging ₹30,000–₹1,00,000/month per client.</p>
+        <div style="font-size:20px;font-weight:800;color:#0077ff;margin-bottom:24px;">₹41,500 <span style="font-size:13px;color:rgba(255,255,255,0.4);font-weight:400">one-time</span></div>
+        <ul style="list-style:none;margin-bottom:28px;">
+          <li style="padding:8px 0;border-bottom:1px solid rgba(255,255,255,0.06);font-size:14px;">✓ 500 LinkedIn post templates</li>
+          <li style="padding:8px 0;border-bottom:1px solid rgba(255,255,255,0.06);font-size:14px;">✓ 50 viral hook formulas</li>
+          <li style="padding:8px 0;border-bottom:1px solid rgba(255,255,255,0.06);font-size:14px;">✓ 200 AI writing prompts</li>
+          <li style="padding:8px 0;border-bottom:1px solid rgba(255,255,255,0.06);font-size:14px;">✓ Client workflow system</li>
+          <li style="padding:8px 0;font-size:14px;">✓ Pricing tiers + proposal</li>
+        </ul>
+        <a href="#" onclick="openInquiry('LinkedIn Ghostwriter Pack')" style="display:block;text-align:center;padding:14px;background:rgba(0,119,255,0.1);color:#0077ff;font-weight:600;border-radius:12px;text-decoration:none;font-size:15px;border:1px solid rgba(0,119,255,0.3);transition:all .3s;" onmouseover="this.style.background='rgba(0,119,255,0.2)'" onmouseout="this.style.background='rgba(0,119,255,0.1)'">Get the Pack →</a>
+      </div>
+
+    </div>
+
+    <p class="reveal" style="text-align:center;margin-top:32px;color:rgba(255,255,255,0.35);font-size:13px;">Custom-made for your brand · workaniket07@gmail.com</p>
+  </div>
+</section>
+
+<!-- ─── TERMS ─── -->
+<section class="section" style="background:#08090f;padding:60px 0;">
+  <div style="max-width:900px;margin:0 auto;padding:0 5%;">
+    <p class="sec-label reveal" style="justify-content:center">Terms</p>
+    <h2 class="sec-title reveal" style="text-align:center;margin-bottom:40px;">How We Work</h2>
+
+    <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:16px;" class="reveal">
+
+      <div style="padding:24px;background:rgba(255,255,255,0.02);border:1px solid rgba(255,255,255,0.06);border-radius:16px;transition:all .3s;cursor:default;" onmouseover="this.style.background='rgba(255,255,255,0.055)';this.style.border='1px solid rgba(255,255,255,0.14)';this.style.transform='translateY(-4px)';this.style.boxShadow='0 12px 32px rgba(0,0,0,0.3)'" onmouseout="this.style.background='rgba(255,255,255,0.02)';this.style.border='1px solid rgba(255,255,255,0.06)';this.style.transform='none';this.style.boxShadow='none'">
+        <div style="font-size:20px;margin-bottom:10px;">📦</div>
+        <h4 style="font-size:14px;font-weight:700;margin-bottom:8px;">One Brand Per Package</h4>
+        <p style="font-size:12px;color:rgba(255,255,255,0.45);line-height:1.6;">Each package is dedicated to a single brand or product. No mixing of multiple brands in one plan.</p>
+      </div>
+
+      <div style="padding:24px;background:rgba(255,255,255,0.02);border:1px solid rgba(255,255,255,0.06);border-radius:16px;transition:all .3s;cursor:default;" onmouseover="this.style.background='rgba(255,255,255,0.055)';this.style.border='1px solid rgba(255,255,255,0.14)';this.style.transform='translateY(-4px)';this.style.boxShadow='0 12px 32px rgba(0,0,0,0.3)'" onmouseout="this.style.background='rgba(255,255,255,0.02)';this.style.border='1px solid rgba(255,255,255,0.06)';this.style.transform='none';this.style.boxShadow='none'">
+        <div style="font-size:20px;margin-bottom:10px;">⏱️</div>
+        <h4 style="font-size:14px;font-weight:700;margin-bottom:8px;">Delivery Time</h4>
+        <p style="font-size:12px;color:rgba(255,255,255,0.45);line-height:1.6;">Starter: 3–5 days · Growth: 48 hrs · Enterprise: 24 hrs. Clock starts after brand brief is received.</p>
+      </div>
+
+      <div style="padding:24px;background:rgba(255,255,255,0.02);border:1px solid rgba(255,255,255,0.06);border-radius:16px;transition:all .3s;cursor:default;" onmouseover="this.style.background='rgba(255,255,255,0.055)';this.style.border='1px solid rgba(255,255,255,0.14)';this.style.transform='translateY(-4px)';this.style.boxShadow='0 12px 32px rgba(0,0,0,0.3)'" onmouseout="this.style.background='rgba(255,255,255,0.02)';this.style.border='1px solid rgba(255,255,255,0.06)';this.style.transform='none';this.style.boxShadow='none'">
+        <div style="font-size:20px;margin-bottom:10px;">🔁</div>
+        <h4 style="font-size:14px;font-weight:700;margin-bottom:8px;">Revisions</h4>
+        <p style="font-size:12px;color:rgba(255,255,255,0.45);line-height:1.6;">Starter: 1 revision round. Growth+: Unlimited revisions (minor edits). Complete rebriefs = new deliverable.</p>
+      </div>
+
+      <div style="padding:24px;background:rgba(255,255,255,0.02);border:1px solid rgba(255,255,255,0.06);border-radius:16px;transition:all .3s;cursor:default;" onmouseover="this.style.background='rgba(255,255,255,0.055)';this.style.border='1px solid rgba(255,255,255,0.14)';this.style.transform='translateY(-4px)';this.style.boxShadow='0 12px 32px rgba(0,0,0,0.3)'" onmouseout="this.style.background='rgba(255,255,255,0.02)';this.style.border='1px solid rgba(255,255,255,0.06)';this.style.transform='none';this.style.boxShadow='none'">
+        <div style="font-size:20px;margin-bottom:10px;">💳</div>
+        <h4 style="font-size:14px;font-weight:700;margin-bottom:8px;">Payment</h4>
+        <p style="font-size:12px;color:rgba(255,255,255,0.45);line-height:1.6;">1 month: 100% advance. Multi-month: 50% advance, balance on 1st delivery. UPI / Bank Transfer.</p>
+      </div>
+
+      <div style="padding:24px;background:rgba(255,255,255,0.02);border:1px solid rgba(255,255,255,0.06);border-radius:16px;transition:all .3s;cursor:default;" onmouseover="this.style.background='rgba(255,255,255,0.055)';this.style.border='1px solid rgba(255,255,255,0.14)';this.style.transform='translateY(-4px)';this.style.boxShadow='0 12px 32px rgba(0,0,0,0.3)'" onmouseout="this.style.background='rgba(255,255,255,0.02)';this.style.border='1px solid rgba(255,255,255,0.06)';this.style.transform='none';this.style.boxShadow='none'">
+        <div style="font-size:20px;margin-bottom:10px;">🎨</div>
+        <h4 style="font-size:14px;font-weight:700;margin-bottom:8px;">What We Deliver</h4>
+        <p style="font-size:12px;color:rgba(255,255,255,0.45);line-height:1.6;">Platform-ready image files (PNG/JPG/WebP). Branded, watermarked, correctly sized for each platform.</p>
+      </div>
+
+      <div style="padding:24px;background:rgba(255,255,255,0.02);border:1px solid rgba(255,255,255,0.06);border-radius:16px;transition:all .3s;cursor:default;" onmouseover="this.style.background='rgba(255,255,255,0.055)';this.style.border='1px solid rgba(255,255,255,0.14)';this.style.transform='translateY(-4px)';this.style.boxShadow='0 12px 32px rgba(0,0,0,0.3)'" onmouseout="this.style.background='rgba(255,255,255,0.02)';this.style.border='1px solid rgba(255,255,255,0.06)';this.style.transform='none';this.style.boxShadow='none'">
+        <div style="font-size:20px;margin-bottom:10px;">🚫</div>
+        <h4 style="font-size:14px;font-weight:700;margin-bottom:8px;">Not Included</h4>
+        <p style="font-size:12px;color:rgba(255,255,255,0.45);line-height:1.6;">Posting & scheduling charged separately. Copywriting, video editing, ad management are add-ons.</p>
+      </div>
+
+      <div style="padding:24px;background:rgba(255,255,255,0.02);border:1px solid rgba(255,255,255,0.06);border-radius:16px;transition:all .3s;cursor:default;" onmouseover="this.style.background='rgba(255,255,255,0.055)';this.style.border='1px solid rgba(255,255,255,0.14)';this.style.transform='translateY(-4px)';this.style.boxShadow='0 12px 32px rgba(0,0,0,0.3)'" onmouseout="this.style.background='rgba(255,255,255,0.02)';this.style.border='1px solid rgba(255,255,255,0.06)';this.style.transform='none';this.style.boxShadow='none'">
+        <div style="font-size:20px;margin-bottom:10px;">©️</div>
+        <h4 style="font-size:14px;font-weight:700;margin-bottom:8px;">Ownership</h4>
+        <p style="font-size:12px;color:rgba(255,255,255,0.45);line-height:1.6;">All creatives are client's property after full payment. Studio may use in portfolio (anonymized).</p>
+      </div>
+
+      <div style="padding:24px;background:rgba(255,255,255,0.02);border:1px solid rgba(255,255,255,0.06);border-radius:16px;transition:all .3s;cursor:default;" onmouseover="this.style.background='rgba(255,255,255,0.055)';this.style.border='1px solid rgba(255,255,255,0.14)';this.style.transform='translateY(-4px)';this.style.boxShadow='0 12px 32px rgba(0,0,0,0.3)'" onmouseout="this.style.background='rgba(255,255,255,0.02)';this.style.border='1px solid rgba(255,255,255,0.06)';this.style.transform='none';this.style.boxShadow='none'">
+        <div style="font-size:20px;margin-bottom:10px;">❌</div>
+        <h4 style="font-size:14px;font-weight:700;margin-bottom:8px;">Cancellation</h4>
+        <p style="font-size:12px;color:rgba(255,255,255,0.45);line-height:1.6;">1-month: Non-refundable after delivery starts. 3-month+: 1 month fee non-refundable post Month 1.</p>
+      </div>
+
+    </div>
+    <p class="reveal" style="text-align:center;margin-top:24px;color:rgba(255,255,255,0.25);font-size:12px;">By placing an order, you agree to these terms · Questions: workaniket07@gmail.com</p>
   </div>
 </section>
 
@@ -1964,37 +2466,58 @@
     <p class="contact-sub reveal">Instagram · Facebook · Email · WhatsApp</p>
 
     <div class="contact-cards reveal">
+
       <a href="https://www.instagram.com/aniketg_ai/" class="contact-card" target="_blank" rel="noopener">
-        <span class="cc-icon">📸</span>
+        <span class="cc-icon">
+          <svg width="28" height="28" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <defs><linearGradient id="ig" x1="0" y1="24" x2="24" y2="0" gradientUnits="userSpaceOnUse"><stop offset="0%" stop-color="#f09433"/><stop offset="25%" stop-color="#e6683c"/><stop offset="50%" stop-color="#dc2743"/><stop offset="75%" stop-color="#cc2366"/><stop offset="100%" stop-color="#bc1888"/></linearGradient></defs>
+            <rect x="2" y="2" width="20" height="20" rx="5" stroke="url(#ig)" stroke-width="2"/>
+            <circle cx="12" cy="12" r="4" stroke="url(#ig)" stroke-width="2"/>
+            <circle cx="17.5" cy="6.5" r="1.2" fill="url(#ig)"/>
+          </svg>
+        </span>
         <div>
           <p class="cc-label">Instagram</p>
-          <p class="cc-val">@aniketg_ai</p>
         </div>
       </a>
+
       <a href="https://www.facebook.com/profile.php?id=61590239767792" class="contact-card" target="_blank" rel="noopener">
-        <span class="cc-icon">📘</span>
+        <span class="cc-icon">
+          <svg width="28" height="28" viewBox="0 0 24 24" fill="#1877F2" xmlns="http://www.w3.org/2000/svg">
+            <path d="M24 12.073C24 5.405 18.627 0 12 0S0 5.405 0 12.073C0 18.1 4.388 23.094 10.125 24v-8.437H7.078v-3.49h3.047V9.41c0-3.025 1.792-4.697 4.532-4.697 1.312 0 2.686.236 2.686.236v2.97h-1.513c-1.491 0-1.956.93-1.956 1.886v2.267h3.328l-.532 3.49h-2.796V24C19.612 23.094 24 18.1 24 12.073z"/>
+          </svg>
+        </span>
         <div>
           <p class="cc-label">Facebook</p>
-          <p class="cc-val">AniketG AI</p>
         </div>
       </a>
-      <a href="mailto:workaniket07@gmail.com" class="contact-card">
-        <span class="cc-icon">✉️</span>
+
+      <a href="https://mail.google.com/mail/?view=cm&to=workaniket07@gmail.com&su=Inquiry+AniketG+AI" target="_blank" rel="noopener" class="contact-card">
+        <span class="cc-icon">
+          <svg width="28" height="28" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <rect x="2" y="4" width="20" height="16" rx="3" stroke="#00d4ff" stroke-width="2"/>
+            <path d="M2 7l10 7 10-7" stroke="#00d4ff" stroke-width="2" stroke-linecap="round"/>
+          </svg>
+        </span>
         <div>
           <p class="cc-label">Email</p>
-          <p class="cc-val">workaniket07@gmail.com</p>
         </div>
       </a>
-      <a href="https://wa.me/917796963672" class="contact-card" target="_blank" rel="noopener">
-        <span class="cc-icon">💬</span>
+
+      <a href="https://wa.me/917796943672?text=Hi%2C%20I%20am%20interested%20in%20your%20AI%20creative%20services" class="contact-card" target="_blank" rel="noopener">
+        <span class="cc-icon">
+          <svg width="28" height="28" viewBox="0 0 24 24" fill="#25D366" xmlns="http://www.w3.org/2000/svg">
+            <path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/>
+          </svg>
+        </span>
         <div>
           <p class="cc-label">WhatsApp</p>
-          <p class="cc-val">+91 77969 63672</p>
         </div>
       </a>
+
     </div>
 
-    <a href="mailto:workaniket07@gmail.com" class="btn-start reveal">
+    <a href="https://mail.google.com/mail/?view=cm&to=workaniket07@gmail.com&su=Inquiry+AniketG+AI" target="_blank" rel="noopener" class="btn-start reveal">
       Start a Project
       <svg width="18" height="18" viewBox="0 0 18 18" fill="none">
         <path d="M3 9h12M11 5l4 4-4 4" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
@@ -2161,10 +2684,56 @@
   document.querySelectorAll('.bundle-card').forEach(c => {
     c.addEventListener('click', () => document.getElementById('contact').scrollIntoView({ behavior: 'smooth' }));
   });
+
+  // ── Inquiry Modal ───────────────────────────────────────────────────────
+  function openInquiry(productName) {
+    document.getElementById('modalTitle').textContent = productName;
+    document.getElementById('inquiryForm').style.display = 'block';
+    document.getElementById('inquirySuccess').style.display = 'none';
+    document.getElementById('inquiryModal').style.display = 'flex';
+    return false;
+  }
+  window.openInquiry = openInquiry;
+
+  function submitInquiry(e) {
+    e.preventDefault();
+    const email   = document.getElementById('inqEmail').value;
+    const product = document.getElementById('modalTitle').textContent;
+
+    // WhatsApp message
+    const waMsg = encodeURIComponent(
+      `Hi AniketG AI! 👋\n\nI'm interested in: *${product}*\nMy email: ${email}\n\nPlease send me pricing details and how to get started.`
+    );
+    const waUrl = `https://wa.me/917796943672?text=${waMsg}`;
+
+    // Show success first
+    document.getElementById('inquiryForm').style.display = 'none';
+    document.getElementById('inquirySuccess').style.display = 'block';
+
+    // Open WhatsApp
+    window.open(waUrl, '_blank');
+
+    // Also try mailto as fallback
+    const subject = encodeURIComponent(`Inquiry: ${product}`);
+    const body    = encodeURIComponent(`Product: ${product}\nFrom: ${email}\n\nPlease send me pricing details.`);
+    setTimeout(() => {
+      window.location.href = `mailto:workaniket07@gmail.com?subject=${subject}&body=${body}`;
+    }, 500);
+
+    setTimeout(() => {
+      document.getElementById('inquiryModal').style.display = 'none';
+    }, 3000);
+  }
+  window.submitInquiry = submitInquiry;
+
+  // Close modal on background click
+  document.getElementById('inquiryModal').addEventListener('click', function(e) {
+    if (e.target === this) this.style.display = 'none';
+  });
 </script>
 
 <!-- WhatsApp floating button -->
-<a href="https://wa.me/917796963672" class="wa-btn" target="_blank" rel="noopener" aria-label="Chat on WhatsApp">
+<a href="https://wa.me/917796943672" class="wa-btn" target="_blank" rel="noopener" aria-label="Chat on WhatsApp">
   <span class="wa-tooltip">Chat on WhatsApp</span>
   <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
     <path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/>
