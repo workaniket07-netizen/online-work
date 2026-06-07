@@ -5,9 +5,12 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>AniketG — Ai Creative Studio</title>
   <link rel="icon" type="image/png" href="AniketG_Ai_logo.png" />
+  <meta name="description" content="AniketG AI Creative Studio — AI-powered ad creatives, reels, and brand campaigns." />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap" rel="stylesheet" />
+  <link rel="dns-prefetch" href="https://fonts.googleapis.com" />
   <style>
     *, *::before, *::after { margin:0; padding:0; box-sizing:border-box; }
 
@@ -2552,12 +2555,17 @@ renderPkg(); // init
     });
   });
 
-  // Cursor glow
+  // Cursor glow — throttled for performance
   const cg = document.getElementById('cg');
+  let cgRaf;
   document.addEventListener('mousemove', e => {
-    cg.style.left = e.clientX + 'px';
-    cg.style.top  = e.clientY + 'px';
-  });
+    if (cgRaf) return;
+    cgRaf = requestAnimationFrame(() => {
+      cg.style.left = e.clientX + 'px';
+      cg.style.top  = e.clientY + 'px';
+      cgRaf = null;
+    });
+  }, { passive: true });
 
   // Scroll reveal
   const ro = new IntersectionObserver(entries => {
